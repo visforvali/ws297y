@@ -3,7 +3,7 @@ layout: page
 title: Course Policies
 description: >-
     Course policies and information.
-nav_order: 2
+nav_order: 3
 ---
 
 # About
@@ -25,6 +25,20 @@ I want you to succeed! If something might affect your performance, please let me
 To get official university accommodations, you’ll need to register and request accommodations through the Office of Disability Services (FAQs here). Ms. Elisse Geberth, Coordinator of Disability Services, can be contacted at egeberth@pace.edu or 914-773-3710.
 COVID & ILLNESS
 The pandemic isn’t over. For information on how to affordably protect yourself, refer to the course policy on illness.
+
+
+
+UNGRADING
+You’re guaranteed at least a B+ as your final grade if you do everything that’s asked of you in the spirit you’re asked to do it. 
+Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and AI use. To counter this, I use an “ungrading” schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what we’re learning.
+Nothing in this class needs to be perfect or polished, but this doesn’t mean anything goes. I can’t measure how hard you feel you tried or give “effort points” for work that ignores the course material. I need measurable evidence of how you’re engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
+There’s a basic checklist of ungrading expectations at the end of this document. You can always check in with me if you’re unsure of how you’re doing!
+
+
+SCORING & LATE WORK
+I’ll emoji react to Discord posts to show how it was received (see #syllabus-rules for an emoji key). Low-stakes work that engages in the class or does an activity, even imperfectly, is usually accepted for credit. I accept both prewriting and essay drafts with no penalty or questions asked for 1 week after the initial deadline, but I can’t promptly review it. After 1 week, the work will not receive credit.
+
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.

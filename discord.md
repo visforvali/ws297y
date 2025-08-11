@@ -2,7 +2,8 @@
 layout: page
 title: Discord Quickstart Guide
 description: >-
-    Onboarding for 
+    Onboarding for Discord
+nav_order: 7
 ---
 
 # About This Guide
