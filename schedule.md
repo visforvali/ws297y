@@ -1,13 +1,11 @@
 ---
-layout: home
-title: 🏠 Home
+layout: page
+title: Weekly Schedule
 description: The weekly event schedule.
-nav_order: 5
+nav_order: 1
 ---
 
-# Creative Writing for Social Justice: Feminist, Queer, & Trans Perspectives
-
-## WS 297Y, Fall 2025 at Pace University 👋🏾
+# Schedule
 
 {% for schedule in site.schedules %}
 {{ schedule }}

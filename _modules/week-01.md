@@ -1,12 +1,18 @@
 ---
-title: Introduction to Java
+title: Week 1 - Welcome, Travelers
 ---
 
-Sep 28
-: [Java & Git](#)
+Tue, Sep 2
+: **LEC 1**{: .label .label-gray } Settling In
+[<small>test</small>](#)
+  : [1.1](#)
+: **LEC 2**{: .label .label-gray } Settling In
+: **DEMO**{: .label .label-yellow } Discord Onboarding
+  : [1.1](#)
+: **LEC 2**{: .label .label-gray } Settling In
   : [1.1](#)
 
-Sep 29
+Thu, Sep 4
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 

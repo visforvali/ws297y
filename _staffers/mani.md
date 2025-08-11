@@ -1,5 +1,6 @@
 ---
-name: Kevin Lin
+professor: Dr. Vyshali Manivannan
+please call me: Dr. Mani
 role: Instructor
 email: me@example.com
 website: https://kevinl.info
