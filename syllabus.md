@@ -2,14 +2,13 @@
 layout: home
 title: WS 297Y Creative Writing for Social Justice
 # nav_exclude: true
-nav_order: 1
 permalink: /:path/
 seo:
   type: Course
   name: WS 297Y
 ---
 
-# WS 297Y: Creative Writing for Social Justice - Feminist, Queer, and Trans Perspectives
+# Syllabus
 
 {:.no_toc}
 
@@ -19,7 +18,7 @@ seo:
 1. TOC
 {:toc}
 
-## Course Description
+# Course Description
 
 This course focuses on genres of resistance—particularly the lyric essay—and what it means to write for social justice. Part-webinar, part-roleplay, part-workshop, you'll be introduced to the elements of poetry, fiction, and creative nonfiction through reading, writing, and individual and cooperative play. Since social justice writing is writing that _does_ something to its audience, you'll regularly engage with, interpret (and create!) texts that model how content and form act together on readers. In doing so, you'll consider questions like: 
 
@@ -27,7 +26,7 @@ This course focuses on genres of resistance—particularly the lyric essay—and
 - How have systems of power and oppression shaped who and how we read; who and what we write about; how we compose and perceive our compositions; and which genres we consider "legitimate" genres?
 - What potential impact can we—through what we write—have on our communities and institutions? 
 
-## Course Objectives
+# Course Objectives
 
 The idea that anyone masters anything in a semester is a myth. But you'll leave the class with at least a sense of:
 
@@ -37,7 +36,7 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 - What might belong in a literary canon of resistance
 - How to write for social justice yourself
 
-## Course Delivery
+# Course Delivery
 
 This is an **online synchronous course that meets twice a week using Discord** for sync sessions and sync/async text chats. Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
 
