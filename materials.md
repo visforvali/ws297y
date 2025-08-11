@@ -1,0 +1,1 @@
+All required texts and materials, are on Classes > Content > Readings. The syllabus is posted in Content > Syllabus and Discord #syllabus-rules.

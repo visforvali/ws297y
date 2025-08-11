@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: Course Policies
 description: >-
     Course policies and information.
+nav_order: 2
 ---
 
 # About
@@ -17,6 +18,14 @@ description: >-
 ---
 
 ## About
+
+
+ACCESSIBILITY
+I want you to succeed! If something might affect your performance, please let me know ASAP so we can work together to meet your needs and the course reqs. You don’t need documentation to talk to me about issues impacting your learning, whether due to disability, mental health, work, family, stress, etc., and you don’t need to disclose personal info, either. 
+To get official university accommodations, you’ll need to register and request accommodations through the Office of Disability Services (FAQs here). Ms. Elisse Geberth, Coordinator of Disability Services, can be contacted at egeberth@pace.edu or 914-773-3710.
+COVID & ILLNESS
+The pandemic isn’t over. For information on how to affordably protect yourself, refer to the course policy on illness.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
 
