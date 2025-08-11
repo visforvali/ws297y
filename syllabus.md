@@ -1,7 +1,8 @@
 ---
 layout: home
-title: WS 297Y Creative Writing for Social Justice
+title: Syllabus
 # nav_exclude: true
+nav_order: 2
 permalink: /:path/
 seo:
   type: Course
