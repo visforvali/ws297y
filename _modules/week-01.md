@@ -2,6 +2,12 @@
 title: Week 1 - Welcome, Travelers
 ---
 
+## Week 1
+📘 Read Chapter 1, Pages 1-12
+📘 Read Chapter 2, Pages 1-7
+📘 Read The Spread Notes
+🍿 Watch Ahmed's Calc Review
+
 Tue, Sep 2
 : **LEC 1**{: .label .label-gray } Settling In
 [<small>test</small>](#)

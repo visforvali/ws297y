@@ -1,12 +1,11 @@
 ---
-professor: Dr. Vyshali Manivannan
+name: Dr. Vyshali Manivannan
 please call me: Dr. Mani
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: vmanivannan [at] pace [dot] edu
+photo: drmani.png
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Discord /:tea:/ Downtime
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://zcal.co/drmani){: .btn .btn-outline }
