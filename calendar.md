@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 🏠 Home
+title: 📅 Calendar
 description: Listing of course modules and topics.
 nav_order: 1
-permalink: /:path/
-seo:
-  type: Course
-  name: WS 297Y
+# permalink: /:path/
+# seo:
+#  type: Course
+#  name: WS 297Y
 ---
 
 # Creative Writing for Social Justice
