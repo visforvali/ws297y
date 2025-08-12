@@ -82,8 +82,8 @@ liquid:
   strict_filters: true
 
 callouts:
-  warning:
-    title: Warning
+  critical:
+    title: Critical
     color: red
   important:
     title: Important
