@@ -29,14 +29,6 @@ and boilerplate policies used in all Pace University courses.
 
 # WS 297Y Policies
 
-ACCESSIBILITY
-I want you to succeed! If something might affect your performance, please let me know ASAP so we can work together to meet your needs and the course reqs. You don’t need documentation to talk to me about issues impacting your learning, whether due to disability, mental health, work, family, stress, etc., and you don’t need to disclose personal info, either. 
-To get official university accommodations, you’ll need to register and request accommodations through the Office of Disability Services (FAQs here). Ms. Elisse Geberth, Coordinator of Disability Services, can be contacted at egeberth@pace.edu or 914-773-3710.
-COVID & ILLNESS
-The pandemic isn’t over. For information on how to affordably protect yourself, refer to the course policy on illness.
-
-
-
 UNGRADING
 You’re guaranteed at least a B+ as your final grade if you do everything that’s asked of you in the spirit you’re asked to do it. 
 Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and AI use. To counter this, I use an “ungrading” schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what we’re learning.
@@ -48,9 +40,25 @@ SCORING & LATE WORK
 I’ll emoji react to Discord posts to show how it was received (see #syllabus-rules for an emoji key). Low-stakes work that engages in the class or does an activity, even imperfectly, is usually accepted for credit. I accept both prewriting and essay drafts with no penalty or questions asked for 1 week after the initial deadline, but I can’t promptly review it. After 1 week, the work will not receive credit.
 
 
+## ACCESSIBILITY
+I want you to succeed! If something might affect your performance, please let me know ASAP so we can work together to meet your needs and the course reqs. You don’t need documentation to talk to me about issues impacting your learning, whether due to disability, mental health, work, family, stress, etc., and you don’t need to disclose personal info, either. 
+To get official university accommodations, you’ll need to register and request accommodations through the Office of Disability Services (FAQs here). Ms. Elisse Geberth, Coordinator of Disability Services, can be contacted at egeberth@pace.edu or 914-773-3710.
+
+## COVID & ILLNESS
+The pandemic isn’t over. For information on how to affordably protect yourself, refer to the course policy on illness.
+
+## "CHECK IN WEEKLY"
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+If you select the "Check in Weekly" role on Discord in #get-roles, I'll DM you every week with basic questions about how you're doing, reminders to participate, and if you'd like to chat sometime, to help you surmount any anxiety about having to contact me first.
+
+I expect to synchronously chat with you 3+ times, but 
+
+You can DM me for any reason at any time. 
+
+
+
+
 
 ## Lecture
 
@@ -66,10 +74,7 @@ Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobort
 
 
 
-COFFEE CHATS/DROP-INS & “CHECK IN WEEKLY”
-You can pop into 🔉Café Coppy on Discord during my drop-in hour or schedule a 20-minute appointment on Zcal to be held in 🔉Café Coppy or another modality of your choosing. We can discuss any aspect of your classwork, course procedures or requirements, the “hidden curriculum” of college and writing, etc. You can also DM me for alternate meeting times if you have scheduling conflicts (see Coffee Chats for my usual availability). 
-If you select the “Check in Weekly” role on Discord, I’ll DM you every Monday with basic questions about how you’re doing and if you’d like to chat sometime, to help you surmount any anxiety about having to contact me first.
-I expect to synchronously chat with you 3+ times, but you’re welcome to pop in as often as you like, and you can DM me for any reason at any time!
+
 
 A NOTE ON BEING HUMAN & ATTENDANCE POLICY
 Life is stressful: We’re dealing with changes in government and social policy—cuts to open education, equity initiatives that support women, BIPOC, disabled, and LGBTQIA+ folks, social welfare, FEMA, the VA; bans on public health and science communications; attacks on citizenship and ICE raids—and ongoing problems like the rising cost of living; weather extremes and environmental disasters; gun violence; AI deepfakes and misinformation; food recalls; medication shortages; and an uptick in anti-intellectualism and bigotry. 

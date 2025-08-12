@@ -35,8 +35,6 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 
 # Communication
 
-## Course Delivery
-
 This is an **online synchronous course that meets twice a week using Discord** for sync sessions and sync/async text chats. Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
 
 **The server invite link is on Classes > Content > Syllabus**. If you're new to Discord, check out our [Quickstart Guide](https://visforvali.github.io/discord/) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) to get started and reach out if you need help!
@@ -58,6 +56,14 @@ Some Thursdays (noted on the Calendar), you’ll post prewriting to the weekly c
 QUALITATIVE RESEARCH PROJECT ━━━	40% 
 This project is divided into 3 “phases”: Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Phase 1); Literature Review (Phase 2); Results (Phase 3); Conclusion (Phase 3). You’ll submit two drafts of each phase: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. Your final formatted project will contain these revised, updated versions.
 
+# Materials
 
+
+All required texts and materials are provided for free. They're uploaded to Classes\Content\Read All the Things! and
+
+A cheap used book of your choosing. You can own it but it needs to be something you're willing to destroy.
+
+
+, are on Classes > Content > Readings. The syllabus is posted in Content > Syllabus and Discord #syllabus-rules.
 
 

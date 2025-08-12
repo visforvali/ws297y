@@ -28,12 +28,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  🌐 Classes:
+  💯 Classes:
     - 'https://classes.pace.edu/'
   ✏️ Copy Desk:
-    - 'https://classes.pace.edu/'
+    - 'https://visforvali.github.io/tinygames/copydesk/play.html'
   💪🏾 Models:
-    - 'https://visforvali.github.io/practice/'
+    - 'https://visforvali.github.io/ws297y/practice/'
 footer_content:
   © 2025 Vyshali Manivannan. Released under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license
 
@@ -97,4 +97,3 @@ callouts:
   new: 
     title: Practice
     color: green
-  
