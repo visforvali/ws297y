@@ -2,10 +2,10 @@
 layout: page
 title: WS 297Y
 nav_exclude: true
-permalink: /:path/
-seo:
- type: Course
- name: WS 297Y
+# permalink: /:path/
+# seo:
+#  type: Course
+#  name: WS 297Y
 ---
 
 # WS 297Y
