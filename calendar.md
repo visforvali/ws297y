@@ -22,14 +22,14 @@ seo:
 {% endfor %}
 
 > {: .warning }
-> > I reserve 5 hrs/wk for by-appointment coffee chats on Discord. This semester, I'm available on Tuesdays from 2:00PM-5:00PM and Wednesdays from 12:00PM-2:00PM. You can book a 5, 10, or 20 min chat with me and choose to use voice-and-video or voice-only (ideal for commutes and workplace breaks). Book early and often! 
+> > I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 5, 10, or 20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks). We can talk  about any aspect of your classwork, course reqs, writing, college, life, etc. Book early and often! 
 > >
 > > If these times don't work for your schedule, DM me to arrange an alternate time. 
 
 > {: .important }
-> > I respond to async messages — messages in Discord's text channels, direct messages (DMs) on Discord, and Pace emails — within 24 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (you *might* catch me online over the weekend, but don't count on it). 
+> > I respond to async messages — messages in Discord's text channels, direct messages (DMs) on Discord, and Pace emails — within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
 > >
-> > For a quicker response to questions outside of class, please ask in #💻classroom or #🔢team (you can @ me) on Discord.
+> > For a quicker response to questions or project help, ask in #💻classroom or #🔢team (you can @ me) on Discord. Please note that I deprioritize questions about course material/logistics that are evident on this site or have already been asked and answered on Discord.
 
 {% for module in site.modules %}
 {{ module }}

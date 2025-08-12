@@ -16,10 +16,11 @@ red - HW
 blue - TEAM
 
 Sep 2, Tu
-**Welcome, Travelers**
-[videos](#) [slides](#)
+: **Welcome, Travelers**
+: <small>[videos](#) [slides](#)</small>
+: **HW**{: .label .label-red} Roll Call
 
-HW{: .label .label-red} 
+
 DEMO{: .label .label-yellow } Discord Onboarding
 PRACTICE{: .label .label-green } Discord Onboarding
 
