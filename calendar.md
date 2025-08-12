@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 🏠 Home
 description: Listing of course modules and topics.
 nav_order: 1
