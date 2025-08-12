@@ -19,9 +19,7 @@ nav_order: 3
 
 # Overview
 
-Here you'll find the policies for this specific course — alt-grading, access, attendance, 
-
-and boilerplate policies used in all Pace University courses.  
+Here you'll find the policies for this specific course — like alt-grading, access, attendance, etc. — along with the boilerplate policies used in all Pace University courses.  
 
 {: .important }
 > You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. Skim or skip that if you're short on time, but make sure to read the policies specific to this course!
@@ -60,21 +58,6 @@ You can DM me for any reason at any time.
 
 
 
-## Lecture
-
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
-
-## Resources
-
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
-
-## Assignments
-
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
-
-
-
-
 
 A NOTE ON BEING HUMAN & ATTENDANCE POLICY
 Life is stressful: We’re dealing with changes in government and social policy—cuts to open education, equity initiatives that support women, BIPOC, disabled, and LGBTQIA+ folks, social welfare, FEMA, the VA; bans on public health and science communications; attacks on citizenship and ICE raids—and ongoing problems like the rising cost of living; weather extremes and environmental disasters; gun violence; AI deepfakes and misinformation; food recalls; medication shortages; and an uptick in anti-intellectualism and bigotry. 
@@ -82,8 +65,8 @@ Naturally, all this can impact your class performance, gradually or suddenly. Yo
 A significant part of your course grade comes from consistent, informal weekly participation (i.e., the more you post, react, and chat with each other in #week, #team, #lounge, etc., the better!). If you need a ballpark number: aim for 2-3 oral, textual, meme-based, etc. voice and/or text chats during sync sessions, and/or 2-3 async text chats during the week if you were quiet during sync session, missed class, or are looking to boost your overall participation. 
 
 You’re responsible for reaching out to me in a timely fashion to arrange alternate deadlines and make sure you’re on the right track, and for submitting any written assignments, reviewing the week’s materials, and asking for notes or help in #week, #lounge, or #team. If you’re dealing with issues or a schedule that will affect your performance, please proactively talk to me. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. You don’t need to disclose any more details than you wish. You can just tell me you’re dealing with stuff, and then we can strategize ways for you to fulfill the course requirements while taking care of yourself. 
-FORMS OF PARTICIPATION
-Participation takes a lot of forms! It means talking out loud, posting in #week each week, in #team for peer review and other activities, and #lounge to crowdsource info and “buddy-work” with peers. It means organically replying and reacting to your classmates’ posts (no boring “discussion board”-style replies please!), coming to coffee chats, helping your peers, etc. It means DMing me for clarification, or before an absence or a class you know will be an “off day” to ask me to say something in class for you. These are all measurable, valid forms of participation! If there’s another form that works for you, or if you’re anxious about how you’re participating, please proactively reach out to me so we can talk about it! After 5 weeks of low participation, we’ll need to meet to discuss whether it makes sense for you to stay in the class or withdraw.
+
+
 WRITING SUPPORT SERVICES
 Writing support is available for all students at Pace University. Writing Support Services offers confidential one-to-one appointments (in person or online), group sessions, and drop-in sessions free of charge. Students can bring writing from all disciplines and at all stages of the writing process, from outlines to completed drafts. Students are encouraged to bring all types of writing, including resumes, internship and graduate school applications, and personal creative work. Writing Support Tutors are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff. For more information about writing services and current hours of operation, please visit the Learning Commons website. You can also schedule an appointment using TracCloud. Questions? Please email LC (PLV) or LC (NYC), or visit Mortola Library, 3rd floor (PLV) or 15 Beekman, 7th floor (NYC).
 TUTORING AT THE LEARNING COMMONS

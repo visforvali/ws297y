@@ -85,6 +85,8 @@ Low-Stakes Writing Completion | 10%
 
 You're expected to regularly, substantively participate through thoughtful, informal contributions in text channels and sync class sessions that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats.
 
+Participation takes a lot of forms! It means talking out loud, posting in #💻classroom and in #🔢team, submitting writing activities in a timely fashion, reading together and "buddy-working" with peers. It means organically replying and reacting to your classmates' posts (no boring "discussion board"-style replies, please!), coming to coffee chats, helping your peers, etc. It means DMing me for clarification, or before an absence or a class you know will be an "off day" to ask me to say something in class for you. These are all measurable, valid forms of participation! If there's another form that works for you, or if you're anxious about how you’re participating, please proactively reach out to me so we can talk about it! After 5 weeks of low participation, we'll need to meet to discuss whether it makes sense for you to stay in the class or withdraw.
+
 ## Writing Activities
 
 ### Low-Stakes (Ungraded) Writing
@@ -110,4 +112,4 @@ When you participate in voice chat during sync class sessions (whether what you 
 If you do better on an ungraded draft than you do on a final submission, I'll score that one instead. This lowers the stakes of drafting even further, allows you to take risks and "fail up" without penalty, and more closely resembles what out-of-classroom drafting is really like: often "one step forward, two steps back," recursive, nonlinear, never quite finished.
 
 {: .critical }
-> For course policies, such as a description of the ungrading system, general illness and attendance, accommodations, GenAI and academic integrity, and other information, check out [Course Policies](/policies.md).
+> For course policies, such as a description of the alt-grading system, general illness and attendance, accommodations, GenAI and academic integrity, and other information, check out [Course Policies](/policies.md).
