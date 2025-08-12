@@ -1,16 +1,18 @@
 ---
 layout: home
-title: :house: Home
+title: 🏠 Home
 description: Listing of course modules and topics.
 nav_order: 1
+permalink: /:path/
+seo:
+  type: Course
+  name: WS 297Y
 ---
 
 # Creative Writing for Social Justice
 ### WS 297Y at Pace University 👋🏾
 
 **Fall 2025**{: .label .label-lavender } **Tue, Thu 12:15PM - 1:40PM**{: .label .label-lavender } **Online Sync**{: .label .label-lavender }
-
-
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}

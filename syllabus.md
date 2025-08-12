@@ -3,10 +3,6 @@ layout: page
 title: 📖 Syllabus
 # nav_exclude: true
 nav_order: 2
-permalink: /:path/
-seo:
-  type: Course
-  name: WS 297Y
 ---
 
 # Syllabus
