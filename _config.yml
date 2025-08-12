@@ -82,7 +82,7 @@ liquid:
   strict_filters: true
 
 callouts:
-  critical:
+  warning:
     title: Critical
     color: red
   important:
@@ -94,7 +94,7 @@ callouts:
   note:
     title: Note
     color: purple
-  practice: 
+  new: 
     title: Practice
     color: green
   

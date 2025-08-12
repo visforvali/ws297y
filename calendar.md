@@ -20,7 +20,7 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-{: .critical }
+{: .warning }
 > I reserve 5 hrs/wk for by-appointment coffee chats on Discord on Tue 2:00PM-5:00PM and Wed 12:00PM-2:00PM. You can book a 5, 10, or 20 min chat by clicking the above button. Book early and often! 
 > If these times don't work for your schedule, DM me for other times!
 
