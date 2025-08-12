@@ -10,8 +10,7 @@ seo:
 ---
 
 # Creative Writing for Social Justice
-{: .fs-4} 
-> WS 297Y at Pace University 👋🏾
+WS 297Y at Pace University 👋🏾 {: .fs-7}
 
 **Fall 2025**{: .label .label-lavender } **Tue, Thu 12:15PM - 1:40PM**{: .label .label-lavender } **Online Sync**{: .label .label-lavender }
 
