@@ -9,7 +9,8 @@ seo:
   name: WS 297Y
 ---
 
-# Creative Writing for Social Justice: Feminist, Queer, & Trans Perspectives
+# Creative Writing for Social Justice
+## _Feminist, Queer, & Trans Perspectives_
 
 ## WS 297Y at Pace University 👋🏾
 
