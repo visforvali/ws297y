@@ -6,13 +6,11 @@ nav_order: 1
 ---
 
 # Creative Writing for Social Justice
-## _Feminist, Queer, & Trans Perspectives_
-
-## WS 297Y at Pace University 👋🏾
+### WS 297Y at Pace University 👋🏾
 
 **Fall 2025**{: .label .label-lavender } **Tue, Thu 12:15PM - 1:40PM**{: .label .label-lavender } **Online Sync**{: .label .label-lavender }
 
-## Instructor
+
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
