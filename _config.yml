@@ -83,10 +83,10 @@ liquid:
 
 callouts:
   warning:
-    title: Critical
+    title: Attention!
     color: red
   important:
-    title: Important
+    title: Important!
     color: blue
   highlight:
     title: Highlight
