@@ -2,11 +2,7 @@
 layout: home
 title: :house: Home
 description: Listing of course modules and topics.
-permalink: /:path/
 nav_order: 1
-seo:
-  type: Course
-  name: WS 297Y
 ---
 
 # Creative Writing for Social Justice
