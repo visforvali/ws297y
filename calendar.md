@@ -31,11 +31,6 @@ seo:
 >
 > For a quicker response to questions or project help, ask in #💻classroom or #🔢team (you can @ me) on Discord. Please note that I deprioritize questions about course material/logistics that are evident on this site or have already been asked and answered on Discord.
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
