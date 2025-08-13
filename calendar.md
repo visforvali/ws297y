@@ -22,14 +22,14 @@ seo:
 {% endfor %}
 
 {: .warning }
-> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐5, 🕐10, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks), to talk about any aspect of your classwork, college, life, etc. 
+> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐5, 🕐10, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks), to talk about any aspect of your classwork, college, life, etc. Book early and often! 
 >
-> Book early and often! If these times don't work for your schedule, DM me to arrange an alternate time. 
+> And don't worry if these times don't work for your schedule! Just DM me to arrange an alternate time. 
 
 {: .important }
-> I respond to async messages — messages in Discord's text channels, direct messages (DMs) on Discord, and Pace emails — within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
+> I respond to async messages (in in Discord's text channels and DMs, and Pace emails — within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
 >
-> For a quicker response to questions or project help, ask in #💻classroom or #🔢team (you can @ me) on Discord. Please note that I deprioritize questions about course material/logistics that are evident on this site or have already been asked and answered on Discord.
+> For a quicker response to questions or project help, ask in #classroom or #team on Discord. Please note that I deprioritize questions about course material/logistics that are explained in the course syllabus+ and/or this website, or have already been asked and answered on Discord and added to the [FAQs](/faqs.md) on this site.
 
 {% for module in site.modules %}
 {{ module }}
