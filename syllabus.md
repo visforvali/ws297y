@@ -15,10 +15,6 @@ nav_order: 2
 1. TOC
 {:toc}
 
-{: .note }
-> I respond to async messages &mdash; messages in Discord's text channels, direct messages (DMs) on Discord, and Pace emails &mdash; within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
-This syllabus is also posted to Classes\Content\Syllabus and #syllabus-rules.
-
 # Course Description 🧐
 
 This course focuses on genres of resistance &mdash; particularly the lyric essay &mdash; and what it means to write for social justice. Part-webinar, part-roleplay, part-workshop, you'll be introduced to the elements of poetry, fiction, and creative nonfiction through reading, writing, and individual and cooperative play. Since social justice writing is writing that _does_ something to its audience, you'll regularly engage with, interpret (and create!) texts that model how content and form act together on readers. In doing so, you'll consider questions like: 
