@@ -15,7 +15,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-\\
+\
 
 {: .important }
 > This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #syllabus-rules.
