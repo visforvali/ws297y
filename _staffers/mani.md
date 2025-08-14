@@ -1,10 +1,10 @@
 ---
-name: Dr. Vyshali Manivannan
+name: [Dr. Vyshali Manivannan (Dr. Mani)](https://www.pace.edu/profile/vyshali-manivannan){:target="_blank"}
 role: Instructor
 email: vmanivannan@pace.edu
 photo: drmani.png
 meta:
-  Please Call Me/Pronouns: Dr. Mani (like $) she/her
+  Pronouns: she/her
   Office Hrs: Tue 2:00PM-5:00PM, Wed 12:00PM-2:00PM
   Office Hrs Location: 🫖 Downtime on Discord
 ---

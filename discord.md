@@ -1,15 +1,30 @@
 ---
 layout: page
-title: Discord Quickstart Guide
+title: 🎮 Discord Quickstart Guide
 description: >-
     Onboarding for Discord
 nav_order: 7
 ---
 
-# About This Guide
-In this tech tutorial, you'll find only the "tl;dr (too long, didn't read)" basics: fundamental controls; channel directory; and useful built-in or third-party-enabled functions. This guide is regularly maintained and modified based on user input and is designed to be read linearly or nonlinearly, skimmed, intermittently referenced, and/or Ctrl+F'd as needed.
+# Discord Quickstart Guide 📖
 
-For more in-depth documentation, check out the official [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
+{:.no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+\\
+
+{: .important }
+> This "tl;dr (too long, didn't read)" tutorial goes over only the basics: fundamental controls; channel directory; and useful built-in or third-party-enabled functions. This guide is regularly updated based on user input and is designed to be read, referenced, and/or Ctrl+F'd as needed. For more in-depth documentation, check out the official [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"}.
+
+{ .warning }
+> If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊Voice channels on the left 1x to join voice-only and 2x to join voice-and-video.
+> 
+> Keep reading for more refined controls and our server's layout!
 
 # Getting Started
 
@@ -51,23 +66,23 @@ Under the Main Profile menu, enter your **preferred display name and pronouns**.
 
 Below that, you have the option of editing the **banner color** on your profile and entering text into the **About Me** section. If you're stuck on what to say, here are two placeholders you can copy-paste:
 
-Biosketch
- ✎┊ (Name)
-╭────────────╯
-│•(Reading)
-│•(Watching)
-│•(Playing)
-│•(Teaching)
-╰─────────── · · · · ✦
-
-Tetris Bio
-⬛🟪🟪🟪⬛⬛🟩⬛⬛
-⬛⬛🟪⬛⬛⬛🟩🟩⬛
-⬛⬛⬛⬛🟨🟧🟧🟩🟦
-⬛⬛🟨🟨🟨🟧🟧🟥🟦
-⬛⬛🟩🟩🟪⬛🟥🟥🟦
-⬛🟩🟩🟪🟪🟪🟥⬛🟦
-
+*Biosketch* \\
+ ✎┊ (Name) \\
+╭────────────╯ \\
+│•(Reading) \\
+│•(Watching) \\
+│•(Playing) \\
+│•(Teaching) \\
+╰─────────── · · · · ✦ \\
+\\
+*Tetris Bio*
+⬛🟪🟪🟪⬛⬛🟩⬛⬛ \\
+⬛⬛🟪⬛⬛⬛🟩🟩⬛ \\
+⬛⬛⬛⬛🟨🟧🟧🟩🟦 \\
+⬛⬛🟨🟨🟨🟧🟧🟥🟦 \\
+⬛⬛🟩🟩🟪⬛🟥🟥🟦 \\
+⬛🟩🟩🟪🟪🟪🟥⬛🟦 \\
+\\
 Finally, you can add or change your status by hovering over the thought bubble next to your avatar and clicking the ✏️ icon; choose an emoji, enter text, and select when you want the status to be cleared in the dropdown menu. (You can add or change your online status by exiting this menu, clicking your username, then hovering over your status and selecting 🟢Online, 🌘Idle, ⛔Do Not Disturb, or 🟣Invisible.)
 
 ### Per-Server Profile

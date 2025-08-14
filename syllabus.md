@@ -5,7 +5,7 @@ title: 📖 Syllabus
 nav_order: 2
 ---
 
-# Syllabus
+# Syllabus 📖
 
 {:.no_toc}
 
@@ -15,8 +15,14 @@ nav_order: 2
 1. TOC
 {:toc}
 
+\\
+
 {: .important }
+> This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #syllabus-rules.
+> 
 > The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in the announcements thread in #classroom.
+
+---
 
 # Course Description 🧐
 
@@ -42,11 +48,12 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 
 # Required Materials 💰
 
-All required readings are provided for free. They're uploaded to Classes\Content\Read All the Things! and are linked in the [Calendar](/calendar.md) on this website for your convenience.
+{ .note }
+> All required readings are provided for free. They're uploaded to Classes\Content and are linked in the [Calendar](/calendar.md) on this website for your convenience.
 
 In addition, you'll need: 
 
-- A notebook/paper for journaling by hand (if you're disabled and require assistive , )
+- A marble composition notebook for journaling by hand (if you're disabled and require assistive technology to write, please contact me).
 - A short prose book of your choosing that you wouldn't mind parting with. It can be fiction, nonfiction, a book you already own, or a book bought for this purpose, but it has to be a book you're willing to destroy.
 
 ---
@@ -55,7 +62,7 @@ In addition, you'll need:
 
 This is an **online synchronous course that meets twice a week using Discord** for sync sessions and sync/async text chats. Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
 
-**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Quickstart Guide](https://visforvali.github.io/discord/) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) to get started and reach out if you need help!
+**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Quickstart Guide](/discord.md) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) to get started and reach out if you need help!
 
 ## Technology 🌐
 
@@ -80,7 +87,7 @@ Low-Stakes Writing | 10%
 
 You're expected to regularly, substantively participate through thoughtful, informal contributions in text channels and sync class sessions that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats.
 
-Participation takes a lot of forms! It means talking out loud, posting in #💻classroom and in #🔢team, submitting writing activities in a timely fashion, reading together and "buddy-working" with peers. It means organically replying and reacting to your classmates' posts (no boring "discussion board"-style replies, please!), coming to coffee chats, helping your peers, etc. It means DMing me for clarification, or before an absence or a class you know will be an "off day" to ask me to say something in class for you. These are all measurable, valid forms of participation! If there's another form that works for you, or if you're anxious about how you’re participating, please proactively reach out to me so we can talk about it! After 5 weeks of low participation, we'll need to meet to discuss whether it makes sense for you to stay in the class or withdraw.
+Participation takes a lot of forms! It means talking out loud, posting in #classroom and in #team, submitting writing activities in a timely fashion, reading together and "buddy-working" with peers. It means organically replying and reacting to your classmates' posts (no boring "discussion board"-style replies, please!), coming to coffee chats, helping your peers, etc. It means DMing me for clarification, or before an absence or a class you know will be an "off day" to ask me to say something in class for you. These are all measurable, valid forms of participation! If there's another form that works for you, or if you're anxious about how you’re participating, please proactively reach out to me so we can talk about it! After 5 weeks of low participation, we'll need to meet to discuss whether it makes sense for you to stay in the class or withdraw.
 
 # Writing Assignments 📚
 
