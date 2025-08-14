@@ -1,5 +1,5 @@
 ---
-name: Dr. Vyshali Manivannan (Dr. Mani)
+name: Dr. Vyshali Manivannan aka Dr. Mani
 role: Instructor
 email: vmanivannan@pace.edu
 photo: drmani.png
