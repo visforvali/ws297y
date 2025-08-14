@@ -47,7 +47,7 @@ Any changes you make to your Main Profile are visible on all servers you belong 
 
 ### Main Profile 
 
-Under the Main Profile menu, enter your **preferred display name and pronouns**. Click Change Avatar and upload the image—a photograph, image, or icon (you can use Picrew to create non-AI-generated avatars for personal, noncommercial use)—you’d like to use. 
+Under the Main Profile menu, enter your **preferred display name and pronouns**. Click Change Avatar and upload the image &mdash; a photograph, image, or icon (you can use Picrew to create non-AI-generated avatars for personal, noncommercial use) &mdash; you’d like to use. 
 
 Below that, you have the option of editing the **banner color** on your profile and entering text into the **About Me** section. If you're stuck on what to say, here are two placeholders you can copy-paste:
 
@@ -93,7 +93,7 @@ Under User Settings, you may want to do the following:
 
 Under App Settings and Activity Settings (below the Billing section), you may want to do the following:
 
-- **Appearance**: Change the app's color mode; user interface density (the spacing between server, channel, and member lists—Spacious recommended); and Message Spacing (adjust chat message display, spacing between message groups, font and interface scaling)
+- **Appearance**: Change the app's color mode; user interface density (the spacing between server, channel, and member lists &mdash; Spacious recommended); and Message Spacing (adjust chat message display, spacing between message groups, font and interface scaling)
 - **Accessibility**: Adjust color saturation; link underlining; how role colors should be displayed; enable/disable reduced motion (including animated GIF preferences); and adjust sticker animation preferences
 - **Voice and Video**: Adjust settings as needed based on your hardware and preferences
 - **Chat**: Change how images, videos, and links are displayed; enable/disable embeds and link previews; enable image descriptions for screenreaders; make sure that emoji reactions are shown on messages; preview emoji, mentions, and markdown syntax while typing; change how spoiler content is shown; and adjust threads view
@@ -109,7 +109,7 @@ Under App Settings and Activity Settings (below the Billing section), you may wa
 For precise control over each channel's notifications, regardless of server-wide settings, you may want to do the following:
 
 - **Notification Override**: Right-click the channel you want to customize and choose your notification preferences: All (for every message); Mentions (only when you're @); Nothing (disable all notifications); Mute (silence everything, including @mentions).
-- **Channel/Thread/DM Muting**: To mute channels and threads—i.e., silence notifications for them—right-click the name of the channel or thread, hover over Mute, then select the appropriate option. To mute DMs with a specific user, open your DM history by clicking the upper-left Discord icon, right-click the user's display name, hover over Mute, then select the appropriate option.
+- **Channel/Thread/DM Muting**: To mute channels and threads &mdash; i.e., silence notifications for them &mdash; right-click the name of the channel or thread, hover over Mute, then select the appropriate option. To mute DMs with a specific user, open your DM history by clicking the upper-left Discord icon, right-click the user's display name, hover over Mute, then select the appropriate option.
 
 # What's Where
 
@@ -187,7 +187,7 @@ Threads (of 3+ messages) organize conversations into dedicated spaces within a s
 
 - **Discover Threads**: To view or discover threads in a channel, you can click the Threads Discovery 🧵 icon at the top of the channel, which will open a submenu containing a directory of threads for that channel. 
 - **Creating Threads**: Hover over an existing post you'd like to turn into a thread. Click the More ⋯ icon, then Create Thread. Title the Thread. Once you send your message, the thread will be created. 
-- **Closing/Opening Threads**: Threads will close—become hidden from view—after about 3-7 days to declutter the channel sidebar. Closing a thread doesn't delete it. You can manually close a thread by clicking the More ⋯ icon at the top of the thread, then Close Thread. To reopen a closed thread, you can send a message in the thread, or click the More ⋯ icon and then Open Thread. This will make the thread reappear in the threads tab in the channel sidebar.
+- **Closing/Opening Threads**: Threads will close &mdash; become hidden from view &mdash; after about 3-7 days to declutter the channel sidebar. Closing a thread doesn't delete it. You can manually close a thread by clicking the More ⋯ icon at the top of the thread, then Close Thread. To reopen a closed thread, you can send a message in the thread, or click the More ⋯ icon and then Open Thread. This will make the thread reappear in the threads tab in the channel sidebar.
 - **Join/Leave Thread**: To join an active thread, click the thread you want to join and send a message in it, or click the More ⋯ icon and then Join Thread. To leave a thread, click the the More ⋯ icon and then Leave Thread.
 
 ### Voice Messages (Mobile)
