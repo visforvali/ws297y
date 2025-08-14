@@ -1,5 +1,5 @@
 ---
-name: [Dr. Vyshali Manivannan (Dr. Mani)](https://www.pace.edu/profile/vyshali-manivannan){:target="_blank"}
+name: Dr. Vyshali Manivannan (Dr. Mani)
 role: Instructor
 email: vmanivannan@pace.edu
 photo: drmani.png
