@@ -1,27 +1,19 @@
 ---
-title: Week 3
+title: Week 3 - 
 ---
 
-### Week 1 - Living a Good? Life
+Sep 16
+: [Linked Lists & Encapsulation](#)
+  : [3.1](#), [2.2](#), [2.3](#)
+
+B&V 2
+Monster Culture 1
 
 
+Sep 18
+: [Runtime Analysis](#)
+  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
+: **HW 2 due**{: .label .label-red }
 
-
-
-
-
-Thu, Sep 4
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+B&V 3
+Monster Culture 2
