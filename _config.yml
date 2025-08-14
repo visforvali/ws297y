@@ -36,7 +36,9 @@ aux_links:
     - 'https://visforvali.github.io/ws297y/practice/'
 aux_links_new_tab: true
 footer_content:
-  © 2025 Vyshali Manivannan. Released under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license
+  © 2025 Vyshali Manivannan. Released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA</a> license
+back_to_top: true
+back_to_top_text: "Back to top"
 color_scheme: light
 color_scheme_options:
   enable_localstorage: true
