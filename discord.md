@@ -89,7 +89,7 @@ Finally, you can add or change your status by hovering over the thought bubble n
 
 To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
 
-![How to customize your Discord main profile and server profile.](/assets/images/change_profile.gif "Discord Profile")
+<img src="http://visforvali.github.io/ws297y/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
 
 # User Preferences
 
@@ -107,16 +107,15 @@ Under User Settings, you may want to do the following:
 
 Under App Settings and Activity Settings (below the Billing section), you may want to do the following:
 
-- **Appearance**: Change the app's color mode; user interface density (the spacing between server, channel, and member lists &mdash; Spacious recommended); and Message Spacing (adjust chat message display, spacing between message groups, font and interface scaling)
-- **Accessibility**: Adjust color saturation; link underlining; how role colors should be displayed; enable/disable reduced motion (including animated GIF preferences); and adjust sticker animation preferences
-- **Voice and Video**: Adjust settings as needed based on your hardware and preferences
-- **Chat**: Change how images, videos, and links are displayed; enable/disable embeds and link previews; enable image descriptions for screenreaders; make sure that emoji reactions are shown on messages; preview emoji, mentions, and markdown syntax while typing; change how spoiler content is shown; and adjust threads view
-- **Notifications**: Enable/disable desktop notifications, unread message badge, and/or taskbar flashing; enable/disable notifications for particular message reactions; message sounds; and change your email preferences
-- **System Settings**: Enable/disable Discord opening on computer startup and modify the behavior of the Close button
+- **Appearance**: Change the app's color mode; user interface density (the spacing between server, channel, and member lists &mdash; Spacious recommended); and Message Spacing. (adjust chat message display, spacing between message groups, font and interface scaling)
+- **Accessibility**: Adjust color saturation; link underlining; how role colors should be displayed; enable/disable reduced motion (including animated GIF preferences); and adjust sticker animation preferences.
+- **Voice and Video**: Adjust settings as needed based on your hardware and preferences.
+- **Chat**: Change how images, videos, and links are displayed; enable/disable embeds and link previews; enable image descriptions for screenreaders; make sure that emoji reactions are shown on messages; preview emoji, mentions, and markdown syntax while typing; change how spoiler content is shown; and adjust threads view.
+- **Notifications**: Enable/disable desktop notifications, unread message badge, and/or taskbar flashing; enable/disable notifications for particular message reactions; message sounds; and change your email preferences.
+- **System Settings**: Enable/disable Discord opening on computer startup and modify the behavior of the Close button.
 - **Activity Settings**: Turn on/off Discord sharing any detected game/apps with others.
 
-![How to customize appearance and accessibility preferences.](/assets/images/preferences.gif "Discord Preferences")
-
+<img src="http://visforvali.github.io/ws297y/assets/images/preferences.gif" alt="How to customize appearance and accessibility preferences">
 
 ## Channel Notifications
 
@@ -191,7 +190,7 @@ GIFs/Stickers: You can search for and post animated GIFs and stickers by clickin
 - **Linking to Messages**: To link to an existing message, right-click it and select Copy Message Link, then paste it into your own message.
 - **Pin a Message**: In channels where you have permission to pin messages, right-click the message you want to pin and click Pin Message. (You can find pinned messages in a specific text channel by navigating to that channel and clicking the 📌 icon at the top of the screen.)
 
-![How to use text channels, including sending messages and options for interacting with messages.](https://drive.google.com/file/d/1QNmVyw5-8r2Qeg0pI3u390PQ4umjMawo/view?usp=drive_link)
+<img src="http://visforvali.github.io/ws297y/assets/images/messages.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
 
 _If you react to a message with ⭐, the message will be cross-posted to #⭐│starboard, along with a link to the original message._
 
@@ -215,7 +214,7 @@ For in-depth documentation, refer to [Discord's Voice Channel FAQs](https://supp
 - **Join Voice Chat (without view)**: By clicking a voice channel once, you'll join voice chat while retaining text channels in the main view, allowing you to listen, speak, and navigate text channels simultaneously.
 - **Join Voice Chat (with view)**: By clicking a voice channel twice, you'll highlight the channel and open the video feed in the main view, which includes a grid of participants and a control bar that appears on hover at the bottom of the screen.
 
-![How to join, open, and engage with voice channels.](https://drive.google.com/file/d/14bUshQaveDMiziQFoY153wOyzElGO1pq/view?usp=drive_link)
+<img src="http://visforvali.github.io/ws297y/assets/images/voice.gif" alt="How to join, open, and engage with voice channels">
 
 ### Text Chat in Voice
 
