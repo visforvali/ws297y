@@ -40,10 +40,6 @@ footer_content:
 back_to_top: true
 back_to_top_text: "[back to top]"
 color_scheme: light
-color_scheme_options:
-  enable_localstorage: true
-  enable_switch: true
-  switch_options: ["light", "dark"]
 toggle_color_scheme: dark
 toggle_page_url: nil  
 toggle_text_1: "-> 🔅-" # default: "-> Dark Mode"
