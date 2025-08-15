@@ -42,8 +42,8 @@ back_to_top_text: "[back to top]"
 color_scheme: light
 toggle_color_scheme: dark
 toggle_page_url: nil  
-toggle_text_1: "-> 🔅-" # default: "-> Dark Mode"
-toggle_text_2: "-> 🔆+" # default: "-> Light Mode"
+toggle_text_1: "-> Dark" # default: "-> Dark Mode"
+toggle_text_2: "-> Light" # default: "-> Light Mode"
 toggle_auto_mode: nil
 
 # Collections for website data
