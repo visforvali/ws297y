@@ -6,7 +6,6 @@ nav_order: 2
 ---
 
 # Syllabus 📖
-
 {:.no_toc}
 
 ## Table of Contents
@@ -15,7 +14,6 @@ nav_order: 2
 1. TOC
 {:toc}
 
-\
 
 {: .important }
 > This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #syllabus-rules.
@@ -99,6 +97,8 @@ You'll briefly organize your thoughts in writing in threads on on Discord once o
 
 {: .important }
 > Low-stakes writing is scored on the basis of completion (provided they demonstrate thought and care). Note that I'm unable to read late submissions except when warranted by extenuating circumstances or unless alternate deadlines were arranged in advance.
+
+Each week, you'll either choose 1 [prompt](/prompts.md) (I list the options for each week on the [calendar](/calendar.md)) to guide how you write (and read) the texts for the week.
 
 ### High-Stakes (Graded) Writing
 

@@ -1,13 +1,12 @@
 ---
 layout: page
-title: 🎮 Discord Quickstart Guide
+title: 🎮 Discord Tutorial
 description: >-
     Onboarding for Discord
 nav_order: 7
 ---
 
-# Discord Quickstart Guide 📖
-
+# Discord Tutorial 📖
 {:.no_toc}
 
 ## Table of Contents
@@ -16,40 +15,41 @@ nav_order: 7
 1. TOC
 {:toc}
 
-\\
 
 {: .important }
 > This "tl;dr (too long, didn't read)" tutorial goes over only the basics: fundamental controls; channel directory; and useful built-in or third-party-enabled functions. This guide is regularly updated based on user input and is designed to be read, referenced, and/or Ctrl+F'd as needed. For more in-depth documentation, check out the official [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"}.
 
-{ .warning }
+{: .warning }
 > If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊Voice channels on the left 1x to join voice-only and 2x to join voice-and-video.
-> 
-> Keep reading for more refined controls and our server's layout!
+
+Keep reading for more refined controls and our server's layout!
 
 # Getting Started
 
-- **Download Discord**: Discord can be accessed via browser, but the desktop client is recommended for the best experience. Download it here: [Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide). You can also download the Discord app through Google Play or Apple Store. Here's the full list of [Discord's OS/System Requirements](https://support.discord.com/hc/en-us/articles/213491697-What-are-the-OS-system-requirements-for-Discord)
-- **Create an Account**: If you don't have a Discord account, the first step is to create one. The Discord desktop client will prompt you to do so the first time it's opened, or visit Discord's [registration page](https://discord.com/register) directly. Enter a valid email that you can access and that isn't associated with another Discord account and select a username that's case-insensitive/forced lowercase and between 2-32 characters (using a-z, 0-9, and . or _). 
+First, you'll need to install the Discord app and create an account. 
+
+- **Download Discord**: Discord can be accessed via browser, but the desktop client is recommended for the best experience. Download it here: [Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide){:target="_blank"}. You can also download the Discord app through Google Play or Apple Store. Here's the full list of [Discord's OS/System Requirements](https://support.discord.com/hc/en-us/articles/213491697-What-are-the-OS-system-requirements-for-Discord){:target="_blank"}.
+- **Create an Account**: If you don't have a Discord account, the first step is to create one. The Discord desktop client will prompt you to do so the first time it's opened, or visit Discord's [registration page](https://discord.com/register){:target="_blank"} directly. Enter a valid email that you can access and that isn't associated with another Discord account and select a username that's case-insensitive/forced lowercase and between 2-32 characters (using a-z, 0-9, and . or _). 
 
 _This username is not the same as your display name, the prominent name shown when you interact in a server or in direct messages (DMs), which can be changed later._
 
-Once you've completed the registration and verification process, use the Discord server invitation link on Classes to add yourself to the WS 297Y server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) guide for additional help if needed.
+Once you've completed the registration and verification process, use the Discord server invitation link on Classes to add yourself to the WS 297Y server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started){:target="_blank"} guide for additional help if needed.
 
 ## Code of Conduct
 
-By joining, you are agreeing to these rules:
+Our priority is the privacy, security, and safety of the server. By joining, you are agreeing to these rules:
 
-- **Be civil, respectful, and considerate towards other members.** No hate speech, ableism, or discriminatory language or behavior of any kind will be tolerated. You will be banned.
-- **Never share an invite publicly.** Invitation links to join our server are set to expire for the safety of our community. If anyone comes here with bad intentions or to troll, they will be banned.
-- **Keep everything said here confidential.** Do not screenshot or share content without express permission. Anyone who does this will be banned and the content shared will be reported.
-- **Report harassment.** If you are made uncomfortable, bring your concerns to the facilitators and moderators.
-- **Read member profiles before replying or DMing them.** Make sure to use their preferred pronouns and accommodate their listed access needs.
-- **No spamming** Do not spam channels or individuals via DM.
-- **No age-restricted or obscene content.** This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
-- **No trolling.** Harassment, trolling, and malicious shitposting will not be tolerated.
-- **Communicate as accessibly as possible!** Create threads to organize conversations as needed; avoid terms rooted in ableism and discrimination (refer to [Ableist Terms and Words to Avoid](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html) for guidance); use alt-text and tone indicators (refer to [Alt Text as Poetry](https://tinyurl.com/yhfnfn3a) and [Tone Indicators](https://tinyurl.com/y8x2urop) for guidance); and use captions in voice channels (Discord doesn't have built-in captioning, but you can enable Live Captioning on your OS/browser).
-- **Call in people.** Call in people gently when they've crossed a line or are talking over someone (or @ or DM me) so we can have dialogue around uncomfortable moments.
-- **Respond to me ASAP if we DM you with a concern.** If the concern isn't addressed or there's no response after a few days, we might issue a timeout until the situation can be resolved. Breaking guidelines might result in a warning, kick, or ban depending on the circumstances. Our priority is the privacy, security, and safety of the server.
+- Be civil, respectful, and considerate towards other members. No hate speech or discriminatory language or behavior of any kind will be tolerated.
+- Server invitations are for this class only and are set to expire for the safety of our community. Never share an invite publicly.
+- Keep everything said here confidential. Don't screenshot or share content without express permission. Anyone who does this will be banned and the content shared will be reported.
+- If you're made uncomfortable, bring your concerns to the facilitators and moderators.
+- Read member profiles before replying or DMing them, to make sure you're using their preferred pronouns and accommodating any listed access needs.
+- Don't spam channels or members' direct messages.
+- Dont post age-restricted or obscene content (this includes text, images, or links featuring nudity, sex, hard violence, or anything else that's graphically disturbing).
+- Harassment, trolling, and malicious shitposting will not be tolerated.
+- Communicate accessibly! Create threads to organize conversations as needed; avoid terms rooted in ableism and discrimination (refer to [Ableist Terms and Words to Avoid](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html){:target="_blank"} for guidance); use alt-text and tone indicators (for guidance, check out [Alt Text as Poetry](https://tinyurl.com/yhfnfn3a){:target="_blank"} and [Tone Indicators](https://tinyurl.com/y8x2urop){:target="_blank"}); and enable Live Captioning on your OS/browser for captions in voice channels (Discord doesn't yet have built-in captioning).
+- Call in people when they've crossed a line or are talking over someone (or @ or DM me) so we can have dialogue around uncomfortable moments.
+- Respond to me if I DM you with a concern. If you don't respond for a few days or if a safety concern doesn't get addressed, I might notify your advisor to make sure you're okay, or issue a warning or timeout until the situation can be resolved. 
 
 ## Customizing Your Profile
 
@@ -64,7 +64,7 @@ Any changes you make to your Main Profile are visible on all servers you belong 
 
 Under the Main Profile menu, enter your **preferred display name and pronouns**. Click Change Avatar and upload the image &mdash; a photograph, image, or icon (you can use Picrew to create non-AI-generated avatars for personal, noncommercial use) &mdash; you’d like to use. 
 
-Below that, you have the option of editing the **banner color** on your profile and entering text into the **About Me** section. If you're stuck on what to say, here are two placeholders you can copy-paste:
+Below that, you have the option of editing the **banner color** on your profile and entering text into the **About Me** section. If you're stuck on what to say, here are two placeholders you can copy-paste and modify:
 
 *Biosketch* \\
  ✎┊ (Name) \\
@@ -75,7 +75,7 @@ Below that, you have the option of editing the **banner color** on your profile 
 │•(Teaching) \\
 ╰─────────── · · · · ✦ \\
 \\
-*Tetris Bio*
+*Tetris Bio* \\
 ⬛🟪🟪🟪⬛⬛🟩⬛⬛ \\
 ⬛⬛🟪⬛⬛⬛🟩🟩⬛ \\
 ⬛⬛⬛⬛🟨🟧🟧🟩🟦 \\
@@ -83,13 +83,13 @@ Below that, you have the option of editing the **banner color** on your profile 
 ⬛⬛🟩🟩🟪⬛🟥🟥🟦 \\
 ⬛🟩🟩🟪🟪🟪🟥⬛🟦 \\
 \\
-Finally, you can add or change your status by hovering over the thought bubble next to your avatar and clicking the ✏️ icon; choose an emoji, enter text, and select when you want the status to be cleared in the dropdown menu. (You can add or change your online status by exiting this menu, clicking your username, then hovering over your status and selecting 🟢Online, 🌘Idle, ⛔Do Not Disturb, or 🟣Invisible.)
+Finally, you can add or change your status by hovering over the thought bubble next to your avatar and clicking ✏️; choose an emoji, enter text, and select when you want the status to be cleared in the dropdown menu. (You can add or change your online status by exiting this menu, clicking your username, then hovering over your status and selecting 🟢 Online, 🌘 Idle, ⛔ Do Not Disturb, or 🟣 Invisible.)
 
 ### Per-Server Profile
 
-To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change **your nickname and pronouns** for our server.
+To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
 
-![How to customize your Discord main profile and server profile.](https://drive.google.com/file/d/1OVhHqshSZOiHM-4qN8p2HMfV2y0K8uit/view?usp=drive_link)
+![How to customize your Discord main profile and server profile.](/assets/images/change_profile.gif "Discord Profile")
 
 # User Preferences
 
@@ -100,9 +100,8 @@ Click the ⚙️ at the bottom-left to access a list of customizable settings.
 Under User Settings, you may want to do the following:
 
 - **My Account**: Enable Multi-Factor Authentication by configuring an Authenticator App (e.g., Duo or Aegis, available in Apple and Google Play Stores); adding a phone number for SMS Backup Authentication; and/or registering a security key.
-- **Content & Social**: Toggle Direct Message Spam to Filter All and adjust Social Permissions and Friend Request settings as you prefer. 
+- **Content & Social**: Toggle Direct Message Spam to Filter All and adjust Social Permissions and Friend Request settings as you prefer. (Make sure I can DM you even if we're not friends, though, or request to become friends for now!)
 - **Data and Privacy**: Adjust these settings as you prefer.
-- **Connections**: You can link accounts (e.g., Steam, Spotify, Bluesky) to your Discord account if you want.
 
 ## App and Activity Settings
 
@@ -116,7 +115,7 @@ Under App Settings and Activity Settings (below the Billing section), you may wa
 - **System Settings**: Enable/disable Discord opening on computer startup and modify the behavior of the Close button
 - **Activity Settings**: Turn on/off Discord sharing any detected game/apps with others.
 
-![How to customize appearance and accessibility preferences.](https://drive.google.com/file/d/1ahQEzWA8Jxw-laEjIwoDOstenxM3aERl/view?usp=drive_link)
+![How to customize appearance and accessibility preferences.](/assets/images/preferences.gif "Discord Preferences")
 
 
 ## Channel Notifications

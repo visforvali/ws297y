@@ -8,5 +8,5 @@ Nov 25
 
 Dwelling 3
 
-Nov 27 **No Class**{: .label .label-purple }
-: Thanksgiving
+Nov 27
+: **No Class**{: .label .label-purple } Thanksgiving

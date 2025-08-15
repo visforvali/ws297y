@@ -2,8 +2,8 @@
 title: Week 4 - 
 ---
 
-Sep 23 **No Class**{: .label .label-purple }
-: Rosh Hashanah - No Class or Office Hours
+Sep 23
+: **No Class**{: .label .label-purple } Rosh Hashanah - No Class or Office Hours
 
 Sep 25
 : [Runtime Analysis](#)

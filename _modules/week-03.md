@@ -6,6 +6,8 @@ Sep 16
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
+Loved Lines,
+
 B&V 2
 Monster Culture 1
 

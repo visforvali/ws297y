@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Materials
+title: 🎲 Materials
 description: Materials
 nav_order: 5
 ---
     
+
 Except for your composition notebook and the book you're setting aside to destroy, all required texts and materials are provided for free on Classes\Content.
 
 # Readings
@@ -37,5 +38,4 @@ https://www.mcsweeneys.net/articles/college-writing-class-assignments-with-real-
 
 
 # Slides
-
 

@@ -2,8 +2,8 @@
 title: Week 11 - 
 ---
 
-Nov 11 **No Class**{: .label .label-purple }
-: Veteran's Day
+Nov 11
+: **No Class**{: .label .label-purple } Veteran's Day
 
 Nov 13
 : [Runtime Analysis](#)

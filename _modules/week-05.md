@@ -6,8 +6,9 @@ Sep 30
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-B&V 4
+B&V 5
 Monster Culture 4
 
-Oct 2 **Async**{: .label .label-purple }
-: Yom Kippur - No Class or Office Hours
+Oct 2
+: **Async**{: .label .label-purple } Yom Kippur - No Class or Office Hours
+
