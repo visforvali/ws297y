@@ -38,12 +38,12 @@ aux_links_new_tab: true
 footer_content:
   © 2025 Vyshali Manivannan. Released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA</a> license
 back_to_top: true
-back_to_top_text: "Back to top"
-color_scheme: light
+back_to_top_text: "[back to top]"
+color_scheme: auto
 color_scheme_options:
   enable_localstorage: true
   enable_switch: true
-  switch_options: ["light", "dark"]
+  switch_options: ["auto", "light", "dark"]
 
 
 # Collections for website data
