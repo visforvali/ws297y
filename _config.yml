@@ -34,6 +34,7 @@ aux_links:
     - 'https://visforvali.github.io/tinygames/copydesk/play.html'
   💪🏾 Models:
     - 'https://visforvali.github.io/ws297y/practice/'
+  
 aux_links_new_tab: true
 footer_content:
   © 2025 Vyshali Manivannan. Released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA</a> license
@@ -42,8 +43,8 @@ back_to_top_text: "[back to top]"
 color_scheme: light
 toggle_color_scheme: dark
 toggle_page_url: nil  
-toggle_text_1: "-> Dark" # default: "-> Dark Mode"
-toggle_text_2: "-> Light" # default: "-> Light Mode"
+toggle_text_1: "Dark" # default: "-> Dark Mode"
+toggle_text_2: "Light" # default: "-> Light Mode"
 toggle_auto_mode: nil
 
 # Collections for website data

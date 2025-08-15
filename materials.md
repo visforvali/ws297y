@@ -32,7 +32,8 @@ https://www.mcsweeneys.net/articles/college-writing-class-assignments-with-real-
 [Between the Covers](#)
 [Westport Independent](#)
 [Inhuman Conditions](#)
-
+[Dream Askew](#)
+[The Quiet Year](#)
 
 
 # Slides
