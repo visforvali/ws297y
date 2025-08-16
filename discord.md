@@ -233,43 +233,43 @@ _Discord Help Website: Ctrl/Cmd + Shift + H_
 
 ### Navigation
 
-- Navigate Between Channels: Alt + Arrow Up /Arrow Down
-- Navigate Between Unread Channels - Alt + Shift + Arrow Up/Arrow Down
-- Mark Channel as Read - Esc
-- Mark Server Read - Shift + Esc
-- Mark Message Unread - Shift + U
-- Fully Exit: Ctrl/Cmd + Alt + F4
-- Toggle Pins Popout: Ctrl/Cmd + P
-- Upload a File: Control + Shift + U
-- Select Channel - Ctrl/Cmd + K
-- Jump to Oldest Unread Message - Shift + Pg Up
-- Answer Incoming Call - Ctrl/Cmd + Enter
-- Decline Incoming Call - Esc
-- Focus Text Area - Tab
-- Return to Connected Audio Channel - Alt + Arrow Left
-- Return to Previous Text Channel - Alt + Arrow Left
-- Toggle Mute - Ctrl/Cmd + Shift + M
-- Toggle Deafen - Ctrl/Cmd + Shift + D
+- Navigate Between Channels: ``Alt + Arrow Up /Arrow Down``
+- Navigate Between Unread Channels - ``Alt + Shift + Arrow Up/Arrow Down``
+- Mark Channel as Read - ``Esc``
+- Mark Server Read - ``Shift + Esc``
+- Mark Message Unread - ``Shift + U``
+- Fully Exit: ``Ctrl/Cmd + Alt + F4``
+- Toggle Pins Popout: ``Ctrl/Cmd + P``
+- Upload a File: ``Control + Shift + U``
+- Select Channel - ``Ctrl/Cmd + K``
+- Jump to Oldest Unread Message - ``Shift + Pg Up``
+- Answer Incoming Call - ``Ctrl/Cmd + Enter``
+- Decline Incoming Call - ``Esc``
+- Focus Text Area - ``Tab``
+- Return to Connected Audio Channel - ``Alt + Arrow Left``
+- Return to Previous Text Channel - ``Alt + Arrow Left``
+- Toggle Mute - ``Ctrl/Cmd + Shift + M``
+- Toggle Deafen - ``Ctrl/Cmd + Shift + D``
 
 ### Pinging Users
 
-- @ + username: Ping a specific user
-- @ + everyone: Ping all online/offline channel  members (not all channels have this enabled)
+- Ping a specific user: ``@ + username``
+- Ping all online/offline channel  members (not all channels have this feature enabled to reduce noise): ``@ + everyone``
 
 ### Formatting and Accessibility
 
-- **Line Breaks**: Shift + Enter to make line breaks without sending your message prematurely
-- **Bold**: Ctrl/⌘ + B or two * around  text: ** bold **
-- **Italics**: Ctrl/⌘ + I or type one * around text: * italics *
-- **Underline**: Ctrl/⌘ + U or type two _ around text: __ underline __
-- **Strikethrough**: Type two - around text: --strikethrough–
-- **Masked Links**: To make text a clickable link instead of a pasted URL, type [Text](URL)
-- **Block Quotes**: Type >  at the beginning of quote
-- **Spoiler Text**: To write blacked-out, click-to-reveal text (for triggering content/spoilers), type ``||``Text``||`` or highlight text and click the eye icon
-- **Bulleted List**: For bullet points, type - [Text]; to indent a bullet, add a space in front of the hyphen
-- **Space Between Messages**: Type ** ** + Shift + Enter at the beginning or end of a message to add white space
-- **Monospaced Font**: Type two backticks around text for monospaced font/code inclusion
-- **Alt Text**: Alt text must be added manually. Click the pen icon ("Modify Attachment") on the preview thumbnail after uploading the image. (This must be done at the time of upload.)
+- **Line Breaks**: ``Shift + Enter`` to make line breaks without sending your message prematurely
+- **Bold**: ``**bold**``
+- **Italics**: ``*italics*``
+- **Underline**: ``__underline__``
+- **Strikethrough**: ``~~strikethrough~~``
+- **Masked Links**: ``[Text](URL)`` to make text a clickable link instead of a pasted URL
+- **Block Quotes**: ``>``  at the beginning of quote
+- **Spoiler Text**: ``||``Text``||`` or highlight text and click the 👁️ icon to write blacked-out, click-to-reveal text (for triggering content/spoilers), 
+- **Bulleted List**: ``- bullet`` for bullet points; to indent a nested bullet, hit ``Shift + Enter`` to make a new line and add a space in front of the hyphen, `` - nested``
+- **Space Between Messages**: ``** **`` then ``Shift + Enter`` at the beginning or end of a message to increase spacing between posts
+- **Monospaced Font**: Type two backticks ` around text for monospaced font/code blocks
+- **Alt Text**: Alt text must be added manually. Click the 🖊️ icon ("Modify Attachment") on the preview thumbnail after uploading the image (this must be done at the time of upload).
 
 # Troubleshooting
 
