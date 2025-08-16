@@ -22,8 +22,6 @@ nav_order: 7
 {: .warning }
 > If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊Voice channels on the left 1x to join voice-only and 2x to join voice-and-video.
 
-Keep reading for more refined controls and our server's layout!
-
 # Getting Started
 
 First, you'll need to install the Discord app and create an account. 
@@ -61,6 +59,7 @@ Your profile picture (PFP), username, and user settings (cogwheel icon ⚙️) a
 Any changes you make to your Main Profile are visible on all servers you belong to; the Per-Server Profiles menu allows you to use different display names and pronouns on different servers.
 
 ### Main Profile 
+{:.no_toc}
 
 Under the Main Profile menu, enter your **preferred display name and pronouns**. Click Change Avatar and upload the image &mdash; a photograph, image, or icon (you can use Picrew to create non-AI-generated avatars for personal, noncommercial use) &mdash; you’d like to use. 
 
@@ -86,10 +85,13 @@ Below that, you have the option of editing the **banner color** on your profile 
 Finally, you can add or change your status by hovering over the thought bubble next to your avatar and clicking ✏️; choose an emoji, enter text, and select when you want the status to be cleared in the dropdown menu. (You can add or change your online status by exiting this menu, clicking your username, then hovering over your status and selecting 🟢 Online, 🌘 Idle, ⛔ Do Not Disturb, or 🟣 Invisible.)
 
 ### Per-Server Profile
+{:.no_toc}
 
 To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
-
+\\
 <img src="http://visforvali.github.io/ws297y/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
+
+*How to customize your Discord main profile and server profile.* 
 
 # User Preferences
 
@@ -117,6 +119,8 @@ Under App Settings and Activity Settings (below the Billing section), you may wa
 
 <img src="http://visforvali.github.io/ws297y/assets/images/preferences.gif" alt="How to customize appearance and accessibility preferences">
 
+*How to customize appearance and accessibility preferences.*
+
 ## Channel Notifications
 
 For precise control over each channel's notifications, regardless of server-wide settings, you may want to do the following:
@@ -137,6 +141,7 @@ Discord consists of a main view in the center (for interactions in text or voice
 - **Direct Messages**: DMs are only visible to you and the recipient. You can send DMs by clicking a user's name in the expanded Member List, or by clicking the upper-left Discord icon, which will open up your DM history. You can also start a one-on-one call through DMs. In your DM history, click the name of the user you want to call, then click the phone 📞 or video 📹 icon in the upper right to start a voice or video chat.
 
 ## Category and Channel Directory
+{:.no_toc}
 
 The left panel contains category headings and channels. Clicking a channel in the left panel will highlight it and open the channel’s content in the main view in the center of the screen.
 
@@ -144,20 +149,20 @@ The left panel contains category headings and channels. Clicking a channel in th
 - You can click category names to minimize or expand each category.
 - Private channels aren't visible in Discord's channel list to anyone who doesn't have permission to access them (but are listed below and designated with 🔒).
 
-### Welcome & Server Info
+## Welcome & Server Info
 
 - **👋🏾 welcome**: Welcome to the WS 297Y Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
 - **🆔 get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
 - **🗳️ its-help**: To automate questions unrelated to course content, this channel is for all your tech support issues regarding Discord, this website, and/or Classes. 💛 Fill out the ticket form to automatically open a private ticket that will flag me to help you out!
 
-### Community Making
+## Community Making
 
 - **🪪 roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
 - **🍕 lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
 - **🫂 mentoring**: A place to plan for mentoring opportunities for staff and authors, as well as to mentor staff and board members regarding academic/alt-ac life, editorial work, publishing, and navigating the job market.
 - **🍵 Downtime**: Voice channel for socializing.
 
-### Class Is in Session
+## Class Is in Session
 
 - **⭐ starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here.
 - **💻 classroom**: Text channel for text chats in and out of sync class sessions.
@@ -192,9 +197,12 @@ GIFs/Stickers: You can search for and post animated GIFs and stickers by clickin
 
 <img src="http://visforvali.github.io/ws297y/assets/images/messages.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
 
+*How to use text channels, including sending messages and options for interacting with messages.*
+
 _If you react to a message with ⭐, the message will be cross-posted to #⭐│starboard, along with a link to the original message._
 
 ### Threads
+{:.no_toc}
 
 Threads (of 3+ messages) organize conversations into dedicated spaces within a single channel. For in-depth documentation, refer to [Discord's Thread FAQs](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ){:target="_blank"}. 
 
@@ -204,6 +212,7 @@ Threads (of 3+ messages) organize conversations into dedicated spaces within a s
 - **Join/Leave Thread**: To join an active thread, click the thread you want to join and send a message in it, or click the More ⋯ icon and then Join Thread. To leave a thread, click the the More ⋯ icon and then Leave Thread.
 
 ### Voice Messages (Mobile)
+{:.no_toc}
 
 In text channels where you can send messages, you also send voice messages, a mobile-only function. To send a voice message, use the mobile app, open the text channel where you want to send your message, and press and hold the microphone 🎙️ icon to the right of the chat box, and record your message. Release the 🎙️ to send the message.
 
@@ -217,6 +226,7 @@ For in-depth documentation, refer to [Discord's Voice Channel FAQs](https://supp
 <img src="http://visforvali.github.io/ws297y/assets/images/voice.gif" alt="How to join, open, and engage with voice channels">
 
 ### Text Chat in Voice
+{:.no_toc}
 
 Voice channels also support in-channel texting. Hover over the voice channel (or right-click it) and click the Open Chat 💬 icon that appears to the right of the voice channel name. This will automatically open the text chat for that voice channel. Alternatively, click the voice channel twice to fully open it and click the Open Chat 💬 icon in the top right corner.
 
@@ -232,6 +242,7 @@ _Ctrl + / or Cmd + /: List of shortcuts_
 _Discord Help Website: Ctrl/Cmd + Shift + H_
 
 ### Navigation
+{:.no_toc}
 
 - Navigate Between Channels: ``Alt + Arrow Up /Arrow Down``
 - Navigate Between Unread Channels - ``Alt + Shift + Arrow Up/Arrow Down``
@@ -252,11 +263,13 @@ _Discord Help Website: Ctrl/Cmd + Shift + H_
 - Toggle Deafen - ``Ctrl/Cmd + Shift + D``
 
 ### Pinging Users
+{:.no_toc}
 
 - Ping a specific user: ``@ + username``
 - Ping all online/offline channel  members (not all channels have this feature enabled to reduce noise): ``@ + everyone``
 
 ### Formatting and Accessibility
+{:.no_toc}
 
 - **Line Breaks**: ``Shift + Enter`` to make line breaks without sending your message prematurely
 - **Bold**: ``**bold**``
