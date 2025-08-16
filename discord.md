@@ -65,7 +65,6 @@ Under the Main Profile menu, enter your **preferred display name and pronouns**.
 
 Below that, you have the option of editing the **banner color** on your profile and entering text into the **About Me** section. If you're stuck on what to say, here are two placeholders you can copy-paste and modify:
 
-*Biosketch* \\
  ✎┊ (Name) \\
 ╭────────────╯ \\
 │•(Reading) \\
@@ -74,7 +73,7 @@ Below that, you have the option of editing the **banner color** on your profile 
 │•(Teaching) \\
 ╰─────────── · · · · ✦ \\
 \\
-*Tetris Bio* \\
+ ✎┊ (Name) \\
 ⬛🟪🟪🟪⬛⬛🟩⬛⬛ \\
 ⬛⬛🟪⬛⬛⬛🟩🟩⬛ \\
 ⬛⬛⬛⬛🟨🟧🟧🟩🟦 \\
@@ -87,8 +86,8 @@ Finally, you can add or change your status by hovering over the thought bubble n
 ### Per-Server Profile
 {:.no_toc}
 
-To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
-\\
+To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.\\
+
 <img src="http://visforvali.github.io/ws297y/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
 
 *How to customize your Discord main profile and server profile.* 
