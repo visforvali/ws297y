@@ -128,12 +128,12 @@ For precise control over each channel's notifications, regardless of server-wide
 
 Now that you’ve retooled your profile and user preferences, it's time to familiarize yourself with our server!
 
-When you joined the WS 297Y server, you should have landed in the #👋🏾│welcome channel, which contains a link to this quickstart guide and instructions to select your roles and introduce yourself.
+When you joined the WS 297Y server, you should have landed in the #welcome channel, which contains a link to this quickstart guide and instructions to select your roles and introduce yourself.
 
-Discord consists of a **main view in the center** (for interactions in text or voice channels), **a left panel**, an **optional member list on the right** that shows a list of current server members and their online status (which can be expanded or collapsed by clicking the 👥 icon at the top), and the **Direct Messages** view.
+Discord consists of a main view in the center (for interactions in text or voice channels), a left panel, an optional member list on the right that shows a list of current server members and their online status (which can be expanded or collapsed by clicking the 👥 icon at the top), and the Direct Messages view.
 
-- **Main View**: In text channels, the **chat bar** is located at the bottom-center of the screen. The **message box** is where you type your messages (which are visible to all members of the channel). In voice channels, the main view displays the users in the voice channel and the controls
-- **Right Panel**: In the expanded **Member List** view, you can click on a user's name to read their profile (display name, username, pronouns, server roles, status, and About Me) or direct message (DM) them. Server roles are color coded; the color of the "highest" role (staff position) is the color of the member's display name in the list.
+- **Main View**: In text channels, the chat bar is located at the bottom-center of the screen. The **message box is where you type your messages (which are visible to all members of the channel). In voice channels, the main view displays the users in the voice channel and the controls
+- **Right Panel**: In the expanded Member List view, you can click on a user's name to read their profile (display name, username, pronouns, server roles, status, and About Me) or direct message (DM) them. Server roles are color coded; the color of the "highest" role (staff position) is the color of the member's display name in the list.
 - **Direct Messages**: DMs are only visible to you and the recipient. You can send DMs by clicking a user's name in the expanded Member List, or by clicking the upper-left Discord icon, which will open up your DM history. You can also start a one-on-one call through DMs. In your DM history, click the name of the user you want to call, then click the phone 📞 or video 📹 icon in the upper right to start a voice or video chat.
 
 ## Category and Channel Directory
@@ -144,20 +144,20 @@ The left panel contains category headings and channels. Clicking a channel in th
 - You can click category names to minimize or expand each category.
 - Private channels aren't visible in Discord's channel list to anyone who doesn't have permission to access them (but are listed below and designated with 🔒).
 
-### 【Welcome & Server Info 】
+### Welcome & Server Info
 
 - **👋🏾│welcome**: Welcome to the WS 297Y Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
 - **🆔│get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
 - **🗳️│its-help**: To automate questions unrelated to course content, this channel is for all your tech support issues regarding Discord, this website, and/or Classes. 💛 Fill out the ticket form to automatically open a private ticket that will flag me to help you out!
 
-### 【Community Making】
+### Community Making
 
 - **🪪│roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
 - **🍕│lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
 - **🫂│mentoring**: A place to plan for mentoring opportunities for staff and authors, as well as to mentor staff and board members regarding academic/alt-ac life, editorial work, publishing, and navigating the job market.
 - **🍵│Downtime**: Voice channel for socializing.
 
-### 【Class Is in Session】
+### Class Is in Session
 
 - **⭐│starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here. 
 - **💻|classroom**: Text channel for text chats in and out of sync class sessions.
@@ -170,7 +170,7 @@ The left panel contains category headings and channels. Clicking a channel in th
 
 # Using Discord
 
-You can interact on our server via text, voice, and video. For in-depth documentation about General Navigation, Main Functions, Message Navigation, Server and Channel Navigation, Accessibility Navigation, Text Formatting, as well as Custom Keybinds, refer to [Discord's Commands, Shortcuts, and Navigation Guide](https://support.discord.com/hc/en-us/articles/31232432266647-Discord-Commands-Shortcuts-and-Navigation-Guide).
+You can interact on our server via text, voice, and video. For in-depth documentation about General Navigation, Main Functions, Message Navigation, Server and Channel Navigation, Accessibility Navigation, Text Formatting, as well as Custom Keybinds, refer to [Discord's Commands, Shortcuts, and Navigation Guide](https://support.discord.com/hc/en-us/articles/31232432266647-Discord-Commands-Shortcuts-and-Navigation-Guide){:target="_blank"}.
 
 ## Text Channels
 
@@ -178,7 +178,7 @@ Text channels are indicated by the # symbol in the channel list. **Clicking a te
 
 Text messages are persistent. You can search for old messages by using the upper-right search bar.
 
-For in-depth documentation about text channels, refer to [Discord's Text Channels and Text Chat in Voice Channels](https://support.discord.com/hc/en-us/articles/4412085582359-Text-Channels-Text-Chat-In-Voice-Channels). 
+For in-depth documentation about text channels, refer to [Discord's Text Channels and Text Chat in Voice Channels](https://support.discord.com/hc/en-us/articles/4412085582359-Text-Channels-Text-Chat-In-Voice-Channels){:target="_blank"}. 
 
 - **Sending Messages**: To send a message to the text channel, enter your message in the message box and hit Enter. Messages are limited to 2000 characters; longer messages will be converted into a text file.
 - **Edit Your Messages**: You can edit a message you already sent by hovering over it and clicking the Edit ✏️ icon. 
@@ -196,7 +196,7 @@ _If you react to a message with ⭐, the message will be cross-posted to #⭐│
 
 ### Threads
 
-Threads (of 3+ messages) organize conversations into dedicated spaces within a single channel. For in-depth documentation, refer to [Discord's Thread FAQs](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ). 
+Threads (of 3+ messages) organize conversations into dedicated spaces within a single channel. For in-depth documentation, refer to [Discord's Thread FAQs](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ){:target="_blank"}. 
 
 - **Discover Threads**: To view or discover threads in a channel, you can click the Threads Discovery 🧵 icon at the top of the channel, which will open a submenu containing a directory of threads for that channel. 
 - **Creating Threads**: Hover over an existing post you'd like to turn into a thread. Click the More ⋯ icon, then Create Thread. Title the Thread. Once you send your message, the thread will be created. 
@@ -209,7 +209,7 @@ In text channels where you can send messages, you also send voice messages, a mo
 
 ## Voice Channels
 
-For in-depth documentation, refer to [Discord's Voice Channel FAQs](https://support.discord.com/hc/en-us/articles/19583625604887-Voice-Channels-FAQs).
+For in-depth documentation, refer to [Discord's Voice Channel FAQs](https://support.discord.com/hc/en-us/articles/19583625604887-Voice-Channels-FAQs){:target="_blank"}.
 
 - **Join Voice Chat (without view)**: By clicking a voice channel once, you'll join voice chat while retaining text channels in the main view, allowing you to listen, speak, and navigate text channels simultaneously.
 - **Join Voice Chat (with view)**: By clicking a voice channel twice, you'll highlight the channel and open the video feed in the main view, which includes a grid of participants and a control bar that appears on hover at the bottom of the screen.
@@ -273,10 +273,10 @@ _Discord Help Website: Ctrl/Cmd + Shift + H_
 
 # Troubleshooting
 
-If you encounter installer errors, the following steps might help (Windows instructions [here](https://support.discord.com/hc/en-us/articles/209099387); MacOS instructions [here](https://support.discord.com/hc/en-us/articles/360022082931--macOS-Install-and-Updating-Errors)).
+If you encounter installer errors, the following steps might help (Windows instructions [here](https://support.discord.com/hc/en-us/articles/209099387){:target="_blank"}; MacOS instructions [here](https://support.discord.com/hc/en-us/articles/360022082931--macOS-Install-and-Updating-Errors){:target="_blank"}).
 
 First, make sure that your computer is fully updated and that your operating system and drivers are current and that Discord is fully updated as well. You may need to allow the app through your antivirus or firewall protection as well (check Microsoft or Apple support as needed). Check that you granted Discord permission to use your microphone and camera (if you're using the app) or to your browser (if you're using the web version). 
 
 If you have difficulty using voice channels, you can try turning off acceleration: navigate to User Settings (the gear icon next to your name), then click Voice & Video and turn off both OpenH264 Video Codec and H.264 Hardware Acceleration; then scroll down in the left-hand pane, click Advanced,  and turn off Hardware Acceleration. You can also download the app on your mobile phone, where voice and video might run more seamlessly. 
 
-For more in-depth documentation, refer to [Discord's Support page](https://support.discord.com/hc/en-us).
+For more in-depth documentation, refer to [Discord's Support page](https://support.discord.com/hc/en-us){:target="_blank"}.
