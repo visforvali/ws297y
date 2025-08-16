@@ -56,7 +56,11 @@ Your profile picture (PFP), username, and user settings (cogwheel icon ⚙️) a
 - Clicking your username in the lower right, then Edit Profile in the opened pop-up, or 
 - Clicking the ⚙️ icon next to your username to open the User Settings screen, then Profiles in the opened menu.
 
-Any changes you make to your Main Profile are visible on all servers you belong to; the Per-Server Profiles menu allows you to use different display names and pronouns on different servers.
+Any changes you make to your Main Profile are visible on all servers you belong to; the Per-Server Profiles menu allows you to use different display names and pronouns on different servers.\
+
+<img src="http://visforvali.github.io/ws297y/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
+
+*How to customize your Discord main profile and server profile.* 
 
 ### Main Profile 
 {:.no_toc}
@@ -86,11 +90,7 @@ Finally, you can add or change your status by hovering over the thought bubble n
 ### Per-Server Profile
 {:.no_toc}
 
-To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.\\
-
-<img src="http://visforvali.github.io/ws297y/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
-
-*How to customize your Discord main profile and server profile.* 
+To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
 
 # User Preferences
 
@@ -98,7 +98,11 @@ Click the ⚙️ at the bottom-left to access a list of customizable settings.
 
 ## User Settings
 
-Under User Settings, you may want to do the following:
+Under User Settings, you may want to do the following:\
+
+<img src="http://visforvali.github.io/ws297y/assets/images/preferences.gif" alt="How to customize appearance and accessibility preferences">
+
+*How to customize appearance and accessibility preferences.*
 
 - **My Account**: Enable Multi-Factor Authentication by configuring an Authenticator App (e.g., Duo or Aegis, available in Apple and Google Play Stores); adding a phone number for SMS Backup Authentication; and/or registering a security key.
 - **Content & Social**: Toggle Direct Message Spam to Filter All and adjust Social Permissions and Friend Request settings as you prefer. (Make sure I can DM you even if we're not friends, though, or request to become friends for now!)
@@ -115,10 +119,6 @@ Under App Settings and Activity Settings (below the Billing section), you may wa
 - **Notifications**: Enable/disable desktop notifications, unread message badge, and/or taskbar flashing; enable/disable notifications for particular message reactions; message sounds; and change your email preferences.
 - **System Settings**: Enable/disable Discord opening on computer startup and modify the behavior of the Close button.
 - **Activity Settings**: Turn on/off Discord sharing any detected game/apps with others.
-
-<img src="http://visforvali.github.io/ws297y/assets/images/preferences.gif" alt="How to customize appearance and accessibility preferences">
-
-*How to customize appearance and accessibility preferences.*
 
 ## Channel Notifications
 
@@ -180,7 +180,11 @@ You can interact on our server via text, voice, and video. For in-depth document
 
 Text channels are indicated by the # symbol in the channel list. **Clicking a text channel in the left-hand channel list will open its content in the main view**, showing the chat bar and any existing messages. You can interact with existing messages in the text channel by adding a reaction, creating a thread, and/or replying directly to a message. 
 
-Text messages are persistent. You can search for old messages by using the upper-right search bar.
+Text messages are persistent. You can search for old messages by using the upper-right search bar.\
+
+<img src="http://visforvali.github.io/ws297y/assets/images/messages.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
+
+*How to use text channels, including sending messages and options for interacting with messages.*
 
 For in-depth documentation about text channels, refer to [Discord's Text Channels and Text Chat in Voice Channels](https://support.discord.com/hc/en-us/articles/4412085582359-Text-Channels-Text-Chat-In-Voice-Channels){:target="_blank"}. 
 
@@ -193,10 +197,6 @@ GIFs/Stickers: You can search for and post animated GIFs and stickers by clickin
 - **Reply**: To reply to a message, right-click it and select Reply in the menu that appears.
 - **Linking to Messages**: To link to an existing message, right-click it and select Copy Message Link, then paste it into your own message.
 - **Pin a Message**: In channels where you have permission to pin messages, right-click the message you want to pin and click Pin Message. (You can find pinned messages in a specific text channel by navigating to that channel and clicking the 📌 icon at the top of the screen.)
-
-<img src="http://visforvali.github.io/ws297y/assets/images/messages.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
-
-*How to use text channels, including sending messages and options for interacting with messages.*
 
 _If you react to a message with ⭐, the message will be cross-posted to #⭐│starboard, along with a link to the original message._
 
@@ -219,10 +219,12 @@ In text channels where you can send messages, you also send voice messages, a mo
 
 For in-depth documentation, refer to [Discord's Voice Channel FAQs](https://support.discord.com/hc/en-us/articles/19583625604887-Voice-Channels-FAQs){:target="_blank"}.
 
+<img src="http://visforvali.github.io/ws297y/assets/images/voice.gif" alt="How to join, open, and engage with voice channels">
+
+*How to join, open, and engage with voice channels.*
+
 - **Join Voice Chat (without view)**: By clicking a voice channel once, you'll join voice chat while retaining text channels in the main view, allowing you to listen, speak, and navigate text channels simultaneously.
 - **Join Voice Chat (with view)**: By clicking a voice channel twice, you'll highlight the channel and open the video feed in the main view, which includes a grid of participants and a control bar that appears on hover at the bottom of the screen.
-
-<img src="http://visforvali.github.io/ws297y/assets/images/voice.gif" alt="How to join, open, and engage with voice channels">
 
 ### Text Chat in Voice
 {:.no_toc}
