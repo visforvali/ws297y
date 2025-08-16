@@ -1,6 +1,6 @@
 ---
-name: <a href="https://www.pace.edu/profile/vyshali-manivannan" target="_blank">Dr. Vyshali Manivannan</a>
-  Game Master
+name: <a href="https://www.pace.edu/profile/vyshali-manivannan" target="_blank">Dr. Vyshali Manivannan (Game Master)</a>
+name: 
 role: Instructor
 email: vmanivannan@pace.edu
 photo: drmani.png
