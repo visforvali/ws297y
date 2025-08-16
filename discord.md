@@ -159,14 +159,14 @@ The left panel contains category headings and channels. Clicking a channel in th
 
 ### Class Is in Session
 
-- **⭐│starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here. 
-- **💻|classroom**: Text channel for text chats in and out of sync class sessions.
-- **📝|homework**: Text channel with threads where you'll post low-stakes writing activities.
+- **⭐│starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here.
+- **💻classroom**: Text channel for text chats in and out of sync class sessions.
+- **📝homework**: Text channel with threads where you'll post low-stakes writing activities.
 - **team1🔒**: Team 1's private stomping ground for group activities in and out of class and for helping each other out during the semester!
 - **team2🔒**: Team 2's private stomping ground for group activities in and out of class and for helping each other out during the semester!
 - **team3🔒**: Team 3's private stomping ground for group activities in and out of class and for helping each other out during the semester!
 - **team4🔒**: Team 4's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **🏫|Sync Sessions**: Voice channel for sync class sessions.
+- **🏫 Sync Sessions**: Voice channel for sync class sessions.
 
 # Using Discord
 
@@ -181,11 +181,11 @@ Text messages are persistent. You can search for old messages by using the upper
 For in-depth documentation about text channels, refer to [Discord's Text Channels and Text Chat in Voice Channels](https://support.discord.com/hc/en-us/articles/4412085582359-Text-Channels-Text-Chat-In-Voice-Channels){:target="_blank"}. 
 
 - **Sending Messages**: To send a message to the text channel, enter your message in the message box and hit Enter. Messages are limited to 2000 characters; longer messages will be converted into a text file.
-- **Edit Your Messages**: You can edit a message you already sent by hovering over it and clicking the Edit ✏️ icon. 
+- **Edit Your Messages**: You can edit a message you already sent by hovering over it and clicking the ✏️ icon. 
 - **Attaching Files**: You can attach files by clicking the + icon on the left side of the chat bar. 
 - **Emoji Reactions**: You can post emojis or react to existing messages with emojis by clicking the emoji picker icon on the right side of the chat bar. To see who reacted with which emojis on a particular message, right-click the message and click View Reactions.
 GIFs/Stickers: You can search for and post animated GIFs and stickers by clicking those icons on the right side of the chat bar.
-- **Hover Menu**: Hovering over a message opens an abbreviated menu of frequently used emoji reactions, the Edit ✏️ icon (on messages you sent), and the More ⋯ icon. Press Shift while hovering over a message to expand the message reaction menu.
+- **Hover Menu**: Hovering over a message opens an abbreviated menu of frequently used emoji reactions, the ✏️ icon (on messages you sent), and the More ⋯ icon. Press Shift while hovering over a message to expand the message reaction menu.
 - **Reply**: To reply to a message, right-click it and select Reply in the menu that appears.
 - **Linking to Messages**: To link to an existing message, right-click it and select Copy Message Link, then paste it into your own message.
 - **Pin a Message**: In channels where you have permission to pin messages, right-click the message you want to pin and click Pin Message. (You can find pinned messages in a specific text channel by navigating to that channel and clicking the 📌 icon at the top of the screen.)
