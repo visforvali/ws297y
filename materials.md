@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🎲 Materials
+title: 📔 Materials
 description: Materials
 nav_order: 5
 ---

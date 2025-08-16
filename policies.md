@@ -3,7 +3,7 @@ layout: page
 title: 📋 Course Policies
 description: >-
     Course policies and information.
-nav_order: 3
+nav_order: 4
 ---
 
 # Course Policies

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ✍️ Prompts
+title: ✍️ Writing Work
 description: Materials
 nav_order: 5
 ---
