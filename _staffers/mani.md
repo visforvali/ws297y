@@ -5,8 +5,8 @@ email: vmanivannan@pace.edu
 photo: drmani.png
 pronouns: she/her
 meta:
-  🪪 Call Me - Dr. Mani (she/her)
-  🕛 Office Hrs - Tue 2PM-5PM & Wed 12PM-2PM
+  🪪 Call Me Dr. Mani (she/her)
+  🕛 Office Hrs: Tue 2PM-5PM & Wed 12PM-2PM
   📍 Office - 🔊 Cafe 
   🎓 Ph.D. in 
   ♏ Scorpio
