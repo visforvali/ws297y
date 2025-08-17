@@ -56,21 +56,27 @@ This is an **online synchronous course that meets twice a week using Discord** f
 
 **The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Quickstart Guide](/discord.md) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
-We'll use 2 platforms (plus occasional use of Classes) this semester. Here's what they're used for:
+{: .important }
+> We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing, and share your grades with you.
+
+We'll use 2 platforms (plus occasional use of Classes) this semester:
 
 - **Discord**: Discussion forum for class meetings, text chats, communication, announcements, c
 - **Course Website**: This site, where course content is posted.
 - **Classes**: Platform for submitting assignments and viewing grades. You should be automatically added to Classes.
 
-{: .important }
-> We won't use Classes *except* for me to do enrollment verification, collect your major project submissions, and submit your grades.
-
 # Accessibility and Student Support ♿
 
-{: .important }
-> I want you to succeed! If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either.
+{: warning }
+> If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. 
 
-To request an accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
+{: .note }
+> If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
+
+I want you to succeed! You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either.
+
+To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
+
 
 
 
@@ -78,12 +84,7 @@ To request an accommodation for a qualifying disability a student must self-iden
 
 ## Participation Scores
 
-{: .important }
-> If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
 
-You're expected to regularly, substantively participate through thoughtful, informal contributions in text channels and sync class sessions that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats.
-
-Participation takes a lot of forms! It means talking out loud, posting in #classroom and in #team, submitting writing activities in a timely fashion, reading together and "buddy-working" with peers. It means organically replying and reacting to your classmates' posts (no boring "discussion board"-style replies, please!), coming to coffee chats, helping your peers, etc. It means DMing me for clarification, or before an absence or a class you know will be an "off day" to ask me to say something in class for you. These are all measurable, valid forms of participation! If there's another form that works for you, or if you're anxious about how you’re participating, please proactively reach out to me so we can talk about it! After 5 weeks of low participation, we'll need to meet to discuss whether it makes sense for you to stay in the class or withdraw.
 
 # Assignments 📚
 
