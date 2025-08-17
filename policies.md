@@ -18,8 +18,8 @@ nav_order: 4
 # Grading Breakdown 💯
 
 [Participation](#){: .buttonmodal } | 40%
-[High-Stakes Writing](#) | 50%
-[Low-Stakes Writing](#) | 10%
+[High-Stakes Writing](#){: .buttonmodal2 } | 50%
+[Low-Stakes Writing](#){: .buttonmodal } | 10%
 
 # This Class &: Alt-Grading 💯
 
