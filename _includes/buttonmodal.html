@@ -23,32 +23,6 @@
         if(event.target.closest('.modal')) return; 
         document.getElementById('buttonmodal').style.display = 'none';
     });
-
-    var elements = document.querySelectorAll('a.buttonmodal2');
-    elements.forEach(element => {
-        element.addEventListener('click', function(event) {
-            event.preventDefault();
-            event.stopPropagation();
-            document.getElementById('buttonmodal2').style.display = 'flex';
-        });
-    });
-    document.getElementById('buttonmodal2').addEventListener('click', function(event) {
-        if(event.target.closest('.modal')) return; 
-        document.getElementById('buttonmodal2').style.display = 'none';
-    });
-
-    var elements = document.querySelectorAll('a.buttonmodal3');
-    elements.forEach(element => {
-        element.addEventListener('click', function(event) {
-            event.preventDefault();
-            event.stopPropagation();
-            document.getElementById('buttonmodal3').style.display = 'flex';
-        });
-    });
-    document.getElementById('buttonmodal3').addEventListener('click', function(event) {
-        if(event.target.closest('.modal')) return; 
-        document.getElementById('buttonmodal3').style.display = 'none';
-    });
 </script>
 
 <style>
