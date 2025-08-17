@@ -6,7 +6,7 @@ nav_order: 5
 ---
     
 
-Except for your composition notebook and the book you're setting aside to destroy, all required texts and materials are provided for free on Classes\Content.
+Except for your composition notebook and the book you're setting aside to destroy, all required texts and materials are provided for free on Classes\Content. These are also linked in the Calendar. 
 
 # Readings
 

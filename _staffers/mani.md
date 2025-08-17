@@ -1,13 +1,15 @@
 ---
-name: <a href="https://www.pace.edu/profile/vyshali-manivannan" target="_blank">Dr. Vyshali Manivannan (Game Master)</a>
-name: 
+name: <a href="https://www.pace.edu/profile/vyshali-manivannan" target="_blank">Dr. Vyshali Manivannan (Dr. Mani)</a>
 role: Instructor
 email: vmanivannan@pace.edu
 photo: drmani.png
+pronouns: she/her
 meta:
-  Call Me: Dr. Mani (she/her)
-  Office Hrs: Tue 2:00PM-5:00PM, Wed 12:00PM-2:00PM
-  Office Hrs Location: 🫖 Downtime on Discord
+  🪪 Call Me - Dr. Mani (she/her)
+  🕛 Office Hrs - Tue 2PM-5PM & Wed 12PM-2PM
+  📍 Office - 🔊 Cafe 
+  🎓 Ph.D. in 
+  ♏ Scorpio
 ---
 
 [Schedule an appointment](https://zcal.co/drmani/office-hrs){: .btn .btn-outline }
