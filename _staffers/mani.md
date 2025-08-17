@@ -4,10 +4,10 @@ role: Instructor
 email: vmanivannan@pace.edu
 photo: drmani.png
 meta:
-  👩‍🏫 Pronouns: she/her
-  🥸 Server nickname: fhqwgads
-  🕛 Office hrs: Tue 2PM-5PM, Wed 12PM-2PM, 📍 🔊Cafe 
-  🏔️ Hill I will die on: Writing is thinking not its result
+  👩‍🏫 she/her
+  🥸 fhqwgads
+  🏢 Office hrs 🕛 Tue 2-5, Wed 12-2 (DM for other), 📍 🔊Cafe
+  🗯️ Writing is thinking not its result
 ---
 
 [Schedule an appointment](https://zcal.co/drmani/office-hrs){:target="_blank"}{: .btn .btn-outline }
