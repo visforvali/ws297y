@@ -4,7 +4,7 @@ role: Instructor
 email: vmanivannan@pace.edu
 photo: drmani.png
 meta:
-  👩‍🏫 she/her
+  🧑🏾‍🏫 she/her
   🥸 fhqwgads
   🏢 Office hrs 🕛 Tue 2-5, Wed 12-2 (DM for other), 📍 🔊Cafe
   🗯️ Writing is thinking not its result

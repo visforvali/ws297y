@@ -6,7 +6,7 @@ description: >-
 nav_order: 7
 ---
 
-# Discord Tutorial 📖
+# Discord Tutorial 🎮 
 {:.no_toc}
 
 ## Table of Contents

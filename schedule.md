@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Weekly Schedule
+title: 📅 Weekly Schedule
 description: The weekly event schedule.
-nav_exclude: true
+nav_exclude: false
+nav_order: 
 ---
 
-# Schedule
+# Weekly Schedule 📅
 
 {% for schedule in site.schedules %}
 {{ schedule }}
