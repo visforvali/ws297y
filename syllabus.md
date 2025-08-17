@@ -62,7 +62,7 @@ This is an **online synchronous course that meets twice a week using Discord** f
 
 **The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Quickstart Guide](/discord.md) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) to get started and reach out if you need help!
 
-## Technology 🌐
+## Technology/Platforms 🌐
 
 We'll use 2 platforms (plus occasional use of Classes) this semester. Here's what they're used for:
 
@@ -81,7 +81,10 @@ Participation | 40%
 High-Stakes Writing | 50%
 Low-Stakes Writing | 10%
 
-## Participation 
+## Participation Scores
+
+{: .important }
+> If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
 
 You're expected to regularly, substantively participate through thoughtful, informal contributions in text channels and sync class sessions that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats.
 
@@ -98,7 +101,7 @@ You'll briefly organize your thoughts in writing in threads on on Discord once o
 {: .important }
 > Low-stakes writing is scored on the basis of completion (provided they demonstrate thought and care). Note that I'm unable to read late submissions except when warranted by extenuating circumstances or unless alternate deadlines were arranged in advance.
 
-Each week, you'll either choose 1 [prompt](/prompts.md) (I list the options for each week on the [calendar](/calendar.md)) to guide how you write (and read) the texts for the week.
+Each week, you'll either choose 1 of the writing prompts listed for that week, then follow the instructions for that prompt as given on the [Writing Prompts](/prompts.md) page. 
 
 ### High-Stakes (Graded) Writing
 
