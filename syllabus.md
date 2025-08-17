@@ -80,6 +80,9 @@ To request an official accommodation for a qualifying disability a student must 
 
 
 
+{: .note }
+> For course policies, such as a description of the alt-grading system, attendance policy, disability accommodations, GenAI and academic integrity, and other information, check out [Course Policies](/policies.md).
+
 
 
 ## Participation Scores
@@ -97,14 +100,15 @@ You'll briefly organize your thoughts in writing in threads on on Discord once o
 {: .important }
 > Low-stakes writing is scored on the basis of completion (provided they demonstrate thought and care). Note that I'm unable to read late submissions except when warranted by extenuating circumstances or unless alternate deadlines were arranged in advance.
 
+Low-stakes writing assignments can be &mdash; are meant to be, even! &mdash; repurposed in your essay drafts, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to cumulatively build on them). 
+
 Each week, you'll either choose 1 of the writing prompts listed for that week, then follow the instructions for that prompt as given on the [Writing Prompts](/prompts.md) page. 
 
 ### High-Stakes (Graded) Writing
 
 Over the course of the semester, you'll compose an anthology of rough drafts and false starts that borrow from the craft techniques of the assigned readings and that are generated through the interactive fiction and single-player journaling games we'll play together as a class or in teams for this purpose. A lot of this work will be drafted and commented on when we play together and when you submit low-stakes writing activities. Later in the semester, you'll submit an ungraded draft of this anthology and revise it using feedback from your teammates and me. 
 
-{: .warning }
-> For course policies, such as a description of the alt-grading system, attendance policy, disability accommodations, GenAI and academic integrity, and other information, check out [Course Policies](/policies.md).
+
 
 # This Class & Pace Policies
 {: .important }
@@ -120,14 +124,17 @@ This class is writing-enhanced, so writing and revision are central to learning 
 This class is an antiracism education course and fulfills the ARE requirement, so diversity, equity, race, and ethnicity are central to learning content and achieving course goals. In the context of our course content, you'll learn about commitments to eliminate racism, receive exposure to a variety of perspectives, and acquire an antiracist toolkit that you can use in future classes or workplaces or for social justice causes. Antiracism education is considered necessary for career readiness, so this class will also help you prepare for your future world of work.
 
 
-# Pace &: Academic Integrity Code 🧠
+# Academic Integrity & Brain-Only Writing 🧠
 
-{ .important }
-> In accordance with university policy, all violations of academic integrity will be reported to your academic adviser and the Academic Conduct Committee. 
+{: .warning }
+> You're responsible for following Pace's [Academic Integrity Code](https://www.pace.edu/sites/default/files/files/student-handbook/pace-university-academic-integrity-code.pdf){:target="_blank"}. In accordance with university policy, all violations of academic integrity will be reported to your academic adviser and the Academic Conduct Committee. 
 
-You're responsible for following Pace's [Academic Integrity Code](https://www.pace.edu/sites/default/files/files/student-handbook/pace-university-academic-integrity-code.pdf){:target="_blank"}. In short: Do your own work, and don't use AI. If you use sources, including the assigned texts, cite them whether you're paraphrasing (translating the text into your own voice) or quoting (using the text's words). Don't invent research data, lie about engaging with a text, fabricate a source, or pass off another human's or GenAI model's responses as your own. 
+Pace allows instructors to use their own GenAI/LLM policies. **I do not accept GenAI/LLM use for any reason in this class.**
 
-Low-stakes writing assignments can be &mdash; are meant to be, even! &mdash; repurposed in your essay drafts, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to cumulatively build on them). 
+
+Do your own work. If you use sources, including the assigned texts, cite them whether you're paraphrasing (translating the text into your own voice) or quoting (using the text's words). Don't invent research data, lie about engaging with a text, fabricate a source, or pass off another human's or GenAI model's responses as your own. 
+
+
 
 ## This Class &: Writing with(out) GenAI 🤖
 
@@ -139,11 +146,11 @@ Writing is thinking. Therefore, large language models (LLMs) and generative AI (
 Check out this full statement on [Writing with(out) AI](https://vyshalimanivannan.com/writing-without-ai/){:target="_blank"}.
 
 
-# Pace &: Writing Support
+# Writing Support @ Pace
 
 Writing support is available for all students at Pace University. We offer confidential one-to-one appointments (on-site or on-line), group sessions, and drop-in sessions free of charge. Students can bring writing from all disciplines and at all stages of the writing process, from outlines to completed drafts. Students are encouraged to bring all types of writing, including resumes, internship and graduate school applications, and personal creative work. We are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff. Check out our [writing services and current hours of operation](https://www.pace.edu/learning-commons/services-current-students){:target="_blank"} and use [TracCloud](https://www.pace.edu/sites/default/files/2022-11/learning-commons-making-appointments-using-trac-cloud.pdf){:target="_blank"} to schedule an appointment. 
 
-# Pace &: Learning Commons
+# Learning Commons @ Pace
 
 The Learning Commons uses an array of programs and a holistic approach to assist students with academic skills and content knowledge. We are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff, such as:
 
@@ -152,6 +159,16 @@ The Learning Commons uses an array of programs and a holistic approach to assist
 - Writing Support Services: Writing tutoring and writing preparation/support workshops.
 
 Questions? Please email [LC_PLV@pace.edu](mailto:LC_PLV@pace.edu) or [LC_NYC@pace.edu](mailto:LC_NYC@pace.edu), pr visit (PLV: Mortola Library 3rd Fl; NYC: 15 Beekman 7th Fl).
+
+# Majoring/Minoring in English, Writing, & Cultural Studies!
+
+Thanks in part to GenAI, writing is now one of the most desirable skills in the workplace, and Writing Studies majors are now [more employable than computer science and engineering graduates](https://www.financialexpress.com/business/investing-abroad-stem-graduates-face-tougher-job-market-in-us-computer-science-engineering-majors-see-above-average-unemployment-3866695/){:target="_blank"}, 
+
+If you like this course, you'll love the rest of what [PLV English, Writing, and Cultural Studies](https://www.pace.edu/dyson/departments/english-writing-and-cultural-studies){:target="_blank"} has to offer! 
+
+If you're currently undecided, we offer a BA in English, Writing, and Rhetoric, combined BA/MS, BA/MA, BA/MPA, and BA/JD degrees, and minors in Literature and Creative Writing. 
+
+Many of our major and minor courses are online sync and async, and we emphasize social justice and access in course content, pedagogy, grading, and student support. DM me for more info if you want to "write your future" with us! 
 
 # Safety Statement
 
