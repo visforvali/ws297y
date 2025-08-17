@@ -67,9 +67,9 @@ We'll use 2 platforms (plus occasional use of Classes) this semester. Here's wha
 
 # Course Structure 🍎
 
-[Participation](Test text){: .buttonmodal } | 40%
-High-Stakes Writing | | 50%
-Low-Stakes Writing | | 10%
+[Participation](#){: .buttonmodal } | 40%
+[High-Stakes Writing](#){: .buttonmodal2} | 50%
+[Low-Stakes Writing](#){: .buttonmodal3} | 10%
 
 
 # Grading Breakdown 💯
@@ -119,9 +119,13 @@ Over the course of the semester, you'll compose an anthology of rough drafts and
 
 
 
-# Writing-Enhanced Course Statement
+# Writing-Enhanced Course (WEC)
 
+This class is writing-enhanced, so writing and revision are central to learning content and achieving course goals. You'll receive detailed written handouts for each writing assignment, specifying grading criteria and clearly setting forth expectations. Writing will be thought of as a process whereby you generate ideas, receive feedback, and then revise. You'll practice their writing through a combination of low stakes, informal writing and more formal assignments. You'll receive instructor-generated feedback for revision on at least one writing assignment prior to a second submission and subsequent grading. Final drafts will be evaluated based on evaluative criteria from a checklist or rubric.
 
+# Antiracism Education (ARE)
+
+This class is an antiracism education course and fulfills the ARE requirement, so diversity, equity, race, and ethnicity are central to learning content and achieving course goals. In the context of our course content, you'll learn about commitments to eliminate racism, receive exposure to a variety of perspectives, and acquire an antiracist toolkit that you can use in future classes or workplaces or for social justice causes. Antiracism education is considered necessary for career readiness, so this class will also help you prepare for your future world of work.
 
 
 # Pace &: Academic Integrity Code 🧠

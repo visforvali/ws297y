@@ -10,5 +10,5 @@ Sep 25
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
-B&V 3
+B&V 4
 Monster Culture 3
