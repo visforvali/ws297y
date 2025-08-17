@@ -15,8 +15,11 @@ nav_order: 4
 1. TOC
 {:toc}
 
-{: .important }
-> You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. If you skim/skip the boilerplate stuff, make sure to read the policies specific to this course!
+# Grading Breakdown 💯
+
+[Participation](#){: .buttonmodal } | 40%
+[High-Stakes Writing](#){: .buttonmodal2} | 50%
+[Low-Stakes Writing](#){: .buttonmodal3} | 10%
 
 # This Class &: Alt-Grading 💯
 
@@ -97,3 +100,5 @@ As a high-risk disabled individual myself, if I become sick, especially with COV
 I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning. And if you do get sick, communicate with me early so we can make a plan to make a plan when you're better.
 
 Remember: we are in this together, so communal care, mutual aid, and compassion will get us through!
+
+{% include buttonmodal.html %}

@@ -65,25 +65,15 @@ We'll use 2 platforms (plus occasional use of Classes) this semester. Here's wha
 {: .important }
 > We won't use Classes *except* for me to do enrollment verification, collect your major project submissions, and submit your grades.
 
-# Course Structure 🍎
+# Accessibility and Student Support ♿
 
-[Participation](#){: .buttonmodal } | 40%
-[High-Stakes Writing](#){: .buttonmodal2} | 50%
-[Low-Stakes Writing](#){: .buttonmodal3} | 10%
-
-
-# Grading Breakdown 💯
-
-
-
-
-# This Class &: Accessibility and Student Support ♿
-
-I want you to succeed! If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either.
-
-## Pace &: Student Accessibility Services
+{: .important }
+> I want you to succeed! If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either.
 
 To request an accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
+
+
+
 
 
 ## Participation Scores
@@ -115,8 +105,9 @@ Over the course of the semester, you'll compose an anthology of rough drafts and
 {: .warning }
 > For course policies, such as a description of the alt-grading system, attendance policy, disability accommodations, GenAI and academic integrity, and other information, check out [Course Policies](/policies.md).
 
-
-
+# This Class & Pace Policies
+{: .important }
+> You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. If you skim/skip the boilerplate stuff, make sure to read the policies specific to this course!
 
 
 # Writing-Enhanced Course (WEC)
@@ -171,6 +162,3 @@ If you've experienced a threat to your safety or been physically or sexually ass
 - [Pace Counseling Center](){:target="_blank"} (*NYC*: 161 William Street, 7th Floor, 212-346-1526; *PLV*: Administration Building, 2nd Floor, 914-773-3710)
 - [Office of Sexual and Interpersonal Wellness](https://www.pace.edu/sexual-wellness){:target="_blank"} (*NYC*: Director - [Ashleigh Andersen](aandersen2@pace.edu){:target="_blank"}, 41 Park Row, 9th Floor, Office 905, 212-346-1931, *PLV*: Director - [Asha M. Kadir](akadir@pace.edu){:target="_blank"}, Elm Hall, 133B, 914-773-8783)
 - [University Healthcare](https://www.pace.edu/college-health-professions/life-chp/university-health-care){:target="_blank"}, (*NYC*: 161 William Street, 2nd Floor, Room 212, 212-346-1600; *PLV*: Paton House Ground Fl., 861 Bedford Rd., 914-773-3760)
-
-
-{% include buttonmodal.html %}
