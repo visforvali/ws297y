@@ -65,6 +65,15 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 - **Course Website**: This site, where course content is posted.
 - **Classes**: Platform for submitting assignments and viewing grades. You should be automatically added to Classes.
 
+# Grading Breakdown 💯
+
+{: .note }
+> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Course Policies](/policies.md) page.
+
+Participation | 40% | [[description]()]
+High-Stakes Writing | 50% | [[description]()]
+Low-Stakes Writing | 10% | [[description]()]
+
 # Accessibility and Student Support ♿
 
 {: warning }
@@ -78,22 +87,7 @@ I want you to succeed! You don't need documentation to talk to me about issues i
 To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
 
-
-
-{: .note }
-> For course policies, such as a description of the alt-grading system, attendance policy, disability accommodations, GenAI and academic integrity, and other information, check out [Course Policies](/policies.md).
-
-
-
-## Participation Scores
-
-
-
-# Assignments 📚
-
-You'll do high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class.
-
-### Low-Stakes (Ungraded) Writing
+## Low-Stakes (Ungraded) Writing
 
 You'll briefly organize your thoughts in writing in threads on on Discord once or twice a week (check the Calendar for due dates) to synthesize your experience of reading texts and engaging in interactive fiction into writing that opens up new futurities. I try to open these threads in advance and leave them unlocked so you can post, reply, and reference at any time.
 
@@ -127,23 +121,22 @@ This class is an antiracism education course and fulfills the ARE requirement, s
 # Academic Integrity & Brain-Only Writing 🧠
 
 {: .warning }
-> You're responsible for following Pace's [Academic Integrity Code](https://www.pace.edu/sites/default/files/files/student-handbook/pace-university-academic-integrity-code.pdf){:target="_blank"}. In accordance with university policy, all violations of academic integrity will be reported to your academic adviser and the Academic Conduct Committee. 
+> You're responsible for following Pace's [Academic Integrity Code](https://www.pace.edu/sites/default/files/files/student-handbook/pace-university-academic-integrity-code.pdf){:target="_blank"}. Don't invent research data, lie about engaging with a text, fabricate a source, pass off another human's responses as your own, or use GenAI. In accordance with university policy, all violations of academic integrity will be reported to your academic adviser and the Academic Conduct Committee. 
 
-Pace allows instructors to use their own GenAI/LLM policies. **I do not accept GenAI/LLM use for any reason in this class.**
+Writing *is* the process of thinking and learning, so do your own work! If you use sources, including the assigned texts, cite them whether you're paraphrasing (translating the text into your own voice) or quoting (using the text's words). If a submission sounds "off" for any reason, and if you're unable to walk me through the writing choices you made and why (what you hoped to accomplish, how your thoughts and wordsmithing were supposed to get you there), then I'm unlikely to accept that submission for credit.
 
-
-Do your own work. If you use sources, including the assigned texts, cite them whether you're paraphrasing (translating the text into your own voice) or quoting (using the text's words). Don't invent research data, lie about engaging with a text, fabricate a source, or pass off another human's or GenAI model's responses as your own. 
-
-
-
-## This Class &: Writing with(out) GenAI 🤖
+## Writing without GenAI 🤖
 
 {: .warning }
-> The use of GenAI for *any* purpose isn't permitted in this class. If you take that risk, you're responsible for necessary fact-checking, rewriting to fit the assignment's rhetorical context and genre, and providing attribution for all the sources GenAI is using. For reasons of copyright infringement, you may not upload material from this class (my materials or your peers' submissions) to GenAI models.
+> The use of GenAI for *any* purpose isn't permitted in this class. For reasons of copyright infringement, you may not upload material from this class (my materials or your peers' submissions) to GenAI models.
+
+
 
 Writing is thinking. Therefore, large language models (LLMs) and generative AI (GenAI) technologies have no place at any stage of the writing process. Writing is painstaking work we do to refine our ideas and communicate them to others. LLMs are designed to produce plausible sounding permutations of text, with no ideas or thought behind them. They violate academic integrity. They encourage delusion. They destroy the environment. They do all this to produce synthetic, mediocre text in the name of capitalistic imperatives. They reduce your capacity for thought, across human activity. They reduce human intentionality.
 
-Check out this full statement on [Writing with(out) AI](https://vyshalimanivannan.com/writing-without-ai/){:target="_blank"}.
+If you take the risk of using GenAI, you need to effectively fact-check, rewrite to fit the assignment's rhetorical context and genre, and provide attribution for all the sources GenAI is using.
+
+Check out the full [Writing without AI](https://vyshalimanivannan.com/writing-without-ai/){:target="_blank"} statement.
 
 
 # Writing Support @ Pace

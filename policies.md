@@ -6,7 +6,7 @@ description: >-
 nav_order: 4
 ---
 
-# Course Policies
+# Work, Alt-Grading, Attendance
 {:.no_toc}
 
 ## Table of contents
@@ -15,31 +15,45 @@ nav_order: 4
 1. TOC
 {:toc}
 
-# Grading Breakdown 💯
-
-[Participation](#){: .buttonmodal } | 40%
-[High-Stakes Writing](#){: modal-popup} | 50%
-[Low-Stakes Writing](#){: .buttonmodal } | 10%
-
-# This Class &: Alt-Grading 💯
+# Alt-Grading 💯
 
 {: .warning }
 > You're guaranteed *at least* a B+ as your final grade if you do everything that's asked of you in the spirit you're asked to do it. But this doesn't mean anything goes! Read on for details.
-
-{: important }
-GenAI is not permitted in this class. I also don't police it specifically. If a submission sounds "off" for any reason, and if you're unable to walk me through the writing choices you made and why (what you hoped to accomplish, how your thoughts and wordsmithing were supposed to get you there), then I'm unlikely to accept that submission for credit.
 
 Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what we're learning
 
 Nothing in this class needs to be perfect or polished, but this doesn't mean anything goes. I can't measure how hard you feel you tried or give "effort points" for work that ignores the course material. I need measurable evidence of how you're engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
 
-## Scoring Discord Posts 🔥
+# Participation
 
-Low-stakes writing, i.e. responses to writing prompts or team activities, that actively engages with the material and is unafraid of "getting things wrong" on the way to figuring things out is usually accepted for credit. 
+You're expected to regularly, substantively participate through thoughtful, informal contributions in text channels and sync voice chat that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats. 
+
+Participation takes a lot of forms! These are all measurable, valid forms of participation:
+
+- Talking out loud
+- Posting on Discord during and outside of classtime
+- Reading and writing with classmates
+- Organically replying and reacting to classmates' posts (no boring "discussion board"-style replies, please!)
+- Working with me in coffee chats
+- Helping your classmates; DMing me thoughts and questions to add to my lecture notes
+
+If there's another form that works for you, or if you're anxious about whether you're substantively participating enough, reach out to me so we can talk about it! After 5 weeks of low participation, we'll need to meet to discuss whether it makes sense for you to stay in the class or withdraw.
+
+# Assignments 📚
+
+You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class.
+
+## Low-Stakes (Ungraded) Discord Posts
+
+You'll briefly organize your thoughts in writing in threads on on Discord once or twice a week (check the Calendar for due dates) to synthesize your experience of reading texts and engaging in interactive fiction into writing that opens up new futurities. I try to open these threads in advance and leave them unlocked so you can post, reply, and reference at any time.
+
+# Discord Posts 🔥
+
+Low-stakes writing, i.e. responses to writing prompts or team activities, that actively engages with the material and is unafraid of "getting things wrong" on the way to figuring things out is usually accepted for credit. I use emojis as a form of interaction, to give you a sense of how I'm reading and responding to your contributions. 
 
 If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know.
 
-I use emojis as a form of interaction, to give you a sense of how I'm reading and responding to your contributions. 
+
 
 ## 1 Wk Grace Period for Late Work 🗓️
 
