@@ -41,15 +41,21 @@ If there's another form that works for you, or if you're anxious about whether y
 
 # Assignments 📚
 
-You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class.
+You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class. 
 
 ## Low-Stakes (Ungraded) Discord Posts
 
-You'll briefly organize your thoughts in writing in threads on on Discord once or twice a week (check the Calendar for due dates) to synthesize your experience of reading texts and engaging in interactive fiction into writing that opens up new futurities. I try to open these threads in advance and leave them unlocked so you can post, reply, and reference at any time.
+Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and the relationship between their craft and the aims of social justice in writing. 
 
-# Discord Posts 🔥
 
-Low-stakes writing, i.e. responses to writing prompts or team activities, that actively engages with the material and is unafraid of "getting things wrong" on the way to figuring things out is usually accepted for credit. I use emojis as a form of interaction, to give you a sense of how I'm reading and responding to your contributions. 
+The prompts and due dates are listed on the [Calendar](/calendar.md).
+
+
+I open these low-stakes work threads in advance and leave them unlocked so you can post, reply, and reference them at any time. 
+
+Low-stakes writing, 
+
+that actively engages with the material and is unafraid of "getting things wrong" on the way to figuring things out is usually accepted for credit. I use emojis as a form of interaction, to give you a sense of how I'm reading and responding to your contributions. 
 
 If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know.
 

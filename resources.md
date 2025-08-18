@@ -27,6 +27,9 @@ Besides your composition notebook and the book you've chosen to destroy, all req
 Lacrimosa - Nightmare Magazine
 
 
+[Helen Oyeyemi, "If a Book's Locked There's Probably a Reason for That, Don't You Think"](https://www.buzzfeed.com/helenoyeyemi/keys)
+
+
 *The Onion,* ["'No Way to Prevent This,' Says Only Nation Where This Regularly Happens"](https://theonion.com/no-way-to-prevent-this-says-only-nation-where-this-r-1819576527/)
 
 
