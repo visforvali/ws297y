@@ -7,7 +7,7 @@ meta:
   🧑🏾‍🏫 Pronouns: she/her
   🥸 Server name: fhqwgads
   🏢 Office hrs: 🕛 Tue 2-5, Wed 12-2 (DM for other), 📍 🔊Cafe
-  ⛰️ Hill I'll die on: Writing is thinking not its result
+  🌋 Hill I'll die on: Writing is thinking not its result
 ---
 
 [Schedule an appointment](https://zcal.co/drmani/office-hrs){:target="_blank"}{: .btn .btn-outline }
