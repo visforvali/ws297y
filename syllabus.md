@@ -87,9 +87,7 @@ I want you to succeed! You don't need documentation to talk to me about issues i
 To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
 
-## Low-Stakes (Ungraded) Writing
 
-You'll briefly organize your thoughts in writing in threads on on Discord once or twice a week (check the Calendar for due dates) to synthesize your experience of reading texts and engaging in interactive fiction into writing that opens up new futurities. I try to open these threads in advance and leave them unlocked so you can post, reply, and reference at any time.
 
 {: .important }
 > Low-stakes writing is scored on the basis of completion (provided they demonstrate thought and care). Note that I'm unable to read late submissions except when warranted by extenuating circumstances or unless alternate deadlines were arranged in advance.

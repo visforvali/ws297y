@@ -120,5 +120,3 @@ As a high-risk disabled individual myself, if I become sick, especially with COV
 I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning. And if you do get sick, communicate with me early so we can make a plan to make a plan when you're better.
 
 Remember: we are in this together, so communal care, mutual aid, and compassion will get us through!
-
-{% include buttonmodal.html %}
