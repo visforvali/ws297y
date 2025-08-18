@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 📋 Course Policies
+title: 🍎 Assessments and Assignments
 description: >-
-    Course policies and information.
+    Alt-grading policy and general overview of assignments for the course.
 nav_order: 4
 ---
 
-# Work, Alt-Grading, Attendance
+# Assessments and Assignments
 {:.no_toc}
 
 ## Table of contents
@@ -73,11 +73,7 @@ Low-stakes writing that we do in class, i.e. discussion contributions, writing e
 
 Nothing in this class is busy work. Low-stakes work can be &mdash; is designed to be, even! &mdash; repurposed in your high-stakes projects, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them). 
 
-
-
- 
-
-## High-Stakes (Graded) Writing
+## High-Stakes (Graded) Writing 🚀
 
 
 

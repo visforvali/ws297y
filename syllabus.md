@@ -68,12 +68,11 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 # Grading Breakdown 💯
 
 {: .note }
-> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Course Policies](/policies.md) page.
+> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Assignments and Assessments](/assign-assess.md) page.
 
-Participation | 40% | [[description](https://visforvali.github.io/ws297y/policies/#participation)]
-High-Stakes Writing | 50% | [[description]()]
-Low-Stakes Writing | 10% | [[description]()]
-
+Participation | 40% | [[description](https://visforvali.github.io/ws297y/assign-assess/#participation-)]
+High-Stakes Writing | 40% | [[description](https://visforvali.github.io/ws297y/assign-assess/#high-stakes-graded-writing)]
+Low-Stakes Writing | 20% | [[description](https://visforvali.github.io/ws297y/assign-assess/#low-stakes-ungraded-discord-posts-%EF%B8%8F%E2%83%A3)]
 
 # Policies for WS 297Y & Pace
 {: .important }
