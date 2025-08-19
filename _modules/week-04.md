@@ -2,7 +2,7 @@
 title: Week 4 - Being Tested
 ---
 
-📖 Read Desirae Mathers, ["Final: Comprehensive, Roughly"](/assets/pdfs/matherly_final_comprehensive_roughly.pdf){:target="_blank"} \\
+📖 Read Desirae Mathers, ["Final: Comprehensive, Roughly"](/assets/pdfs/matherly_final_comprehensive_roughly.pdf){:target="_blank"}   
 
 Sep 23
 : **No Class**{: .label .label-purple } Rosh Hashanah

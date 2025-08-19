@@ -1,5 +1,6 @@
 ---
 title: Week 1 - Complicity or Resistance
+text: Test
 ---
 
 🕵️ Review [WS 297Y Course Prospectus](/syllabus.md){:target="_blank"}   
