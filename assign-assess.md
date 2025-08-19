@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🍎 Assessments and Assignments
+title: 🍎 Alt-Grading Breakdown
 description: >-
     Alt-grading policy and general overview of assignments for the course.
 nav_order: 4
