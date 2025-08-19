@@ -10,9 +10,9 @@ title: Week 7 - Theoretical Fiction
 Oct 14
 : **Post by 11am**{: .label .label-red} Respond to 1 prompt: Stumbling Blocks, Loved Lines, Truth to Power
   : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
-: **Discuss**{: .label .label-blue} Atwood
-: **Discuss**{: .label .label-blue} El Wardany
+: **Discuss**{: .label .label-blue} Atwood, El Wardany, Boully
   : &nbsp;
   
 Oct 16
+: **Discuss**{: .label .label-blue} Cixous
 : **Play/Write**{: .label .label-yellow} *Auspex* Worldbuilding and Day 1
