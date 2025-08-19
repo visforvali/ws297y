@@ -90,7 +90,7 @@ I want you to succeed! If you're dealing with issues or a schedule that will aff
 
 To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
-# WS 297Y: Attendance Policy 🙋
+## WS 297Y: Attendance Policy 🙋
 
 { .warning }
 > In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
@@ -135,7 +135,7 @@ If you choose to risk using an LLM in this class, you need to effectively fact-c
 
 Read the rest of the [Writing without AI](https://vyshalimanivannan.com/writing-without-ai/){:target="_blank"} policy and philosophy here. And remember: GenAI/LLM use might be trendy but isn't inevitable. You do harm to yourself and to the aims of social justice by using it. If you've been using it, use this course to experiment with getting back to brain-only writing.
 
-# Pace: Writing Support & Learning Commons
+## Pace: Writing Support & Learning Commons
 
 Writing support is available for all students at Pace University. We offer confidential one-to-one appointments (on-site or on-line), group sessions, and drop-in sessions free of charge. Students can bring writing from all disciplines and at all stages of the writing process, from outlines to completed drafts. Students are encouraged to bring all types of writing, including resumes, internship and graduate school applications, and personal creative work. We are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff. Check out our [writing services and current hours of operation](https://www.pace.edu/learning-commons/services-current-students){:target="_blank"} and use [TracCloud](https://www.pace.edu/sites/default/files/2022-11/learning-commons-making-appointments-using-trac-cloud.pdf){:target="_blank"} to schedule an appointment. 
 
@@ -147,7 +147,7 @@ The Learning Commons uses an array of programs and a holistic approach to assist
 
 Questions? Please email [LC_PLV@pace.edu](mailto:LC_PLV@pace.edu) or [LC_NYC@pace.edu](mailto:LC_NYC@pace.edu), pr visit (PLV: Mortola Library 3rd Fl; NYC: 15 Beekman 7th Fl).
 
-# Pace: Safety Statement
+## Pace: Safety Statement
 
 {: .important }
 > Faculty (like me) are non-confidential resources and have an obligation to report any information about sexual assault to the Executive Director of Institutional Equity/Title IX Compliance and Title IX Coordinator, Bernard Dufresne, who may be reached at 914-923-2610 or by email. The Office of Institutional Equity and Title IX Compliance is responsible for investigating violations of the sex-based misconduct policy. 
