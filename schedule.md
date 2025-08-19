@@ -2,8 +2,7 @@
 layout: page
 title: 🍎 Course Structure
 description: The weekly event schedule.
-nav_exclude: false
-nav_order: 
+nav_exclude: true
 ---
 
 # Course Structure 🍎

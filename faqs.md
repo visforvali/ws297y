@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 🙋 Faqs
-# nav_exclude: true
-nav_order: 8
+nav_exclude: false
+nav_order: 9
 ---
 
 # Faqs 🙋 

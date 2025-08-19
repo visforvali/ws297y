@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ✍️ Writing Work
-description: Materials
+title: ✍️ Low-Stakes Prompts
+description: All low stakes writing prompts
 nav_order: 5
 ---
     
