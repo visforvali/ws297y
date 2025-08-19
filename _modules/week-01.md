@@ -9,8 +9,10 @@ text: Test
 
 Sep 2
 : Tech setup, exploration, practice
-{: .label .label-yellow}
-Demo
+
+Demo{: .label .label-yellow}
+{demo|yellow|black}
+#[important](demo)
   : [[slides]](#){:target="_blank"}  [[discord tutorial]](/discord.md){:target="_blank"}
 : **Due Midnight**{: .label .label-red} Customize Discord profile, #get-roles, & introduce yourself in #roll-call
   : &nbsp;
