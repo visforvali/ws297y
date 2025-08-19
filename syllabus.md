@@ -86,9 +86,30 @@ Low-Stakes Writing | 20% | [[description](https://visforvali.github.io/ws297y/as
 {: .note }
 > If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
 
-I want you to succeed! You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either.
+I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. You don’t need to disclose any more details than you wish. You can just tell me you’re dealing with stuff, and then we can strategize ways for you to fulfill the course requirements while taking care of yourself. 
 
 To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
+
+# WS 297Y: Attendance Policy 🙋
+
+{ .warning }
+> In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
+
+{ .important }
+> The pandemic isn't over. For information on how to affordably protect yourself from infectious diseases, refer to this informational resource I put together on [pandemics and public health](https://vyshalimanivannan.com/pandemics-public-health/){:target="_blank"}, which includes info on current strains, long-term costs of COVID-19 and post-COVID syndromes, where to buy PPE affordably, and an abbreviated course policy on illness.
+
+Life is stressful: We're dealing with changes in government and social policy &mdash; cuts to open education, equity initiatives that support women, BIPOC, disabled, and LGBTQIA+ folks, social welfare, FEMA, the VA; bans on public health and science communications; attacks on citizenship and ICE raids &mdash; and ongoing problems like the rising cost of living; weather extremes and environmental disasters; gun violence; GenAI's destruction of environment, human intentionality, and reliable information; food recalls; medication shortages; and an uptick in anti-intellectualism and bigotry. 
+
+Naturally, all this can impact your class performance, gradually or suddenly. Your participation might also falter due to sickness, religious holidays, and/or Pace-affiliated extracurricular activities. At the same time, because much of our knowledge-making happens during class sessions, your attendance is critical to your success. 
+
+Since a large part of your course grade comes from consistent, active participation, the more you post, react, and chat with each other in and out of class, the better &mdash; and since actively participating is how learning happens, it'll help you do better on assignments, too! If you miss a class, you're responsible for reaching out to me in a timely fashion to arrange alternate deadlines and make sure you're on the right track, and for submitting any written assignments, reviewing the week's materials, and asking for notes or help on Discord. 
+
+If you get sick or experience some other health challenge, communicate with me early so we can make a plan to make a plan when you're better. We'll get you caught up when you're well enough to resume participating. As a high-risk disabled individual myself, if I become sick, especially with COVID-19 or another serious illness, I'll need to aggressively rest. You'll have the materials and each other on Discord to help you continue with your learning. I'll rejoin when I'm well enough.
+
+{: .note }
+> I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning. 
+
+Remember, communal care, mutual aid, and compassion will get us through!
 
 ## Pace: Writing-Enhanced Course (WEC)
 
@@ -105,7 +126,7 @@ This class is an antiracism education course and fulfills the ARE requirement, s
 
 Writing *is* the process of thinking and learning, so do your own work! If you use sources, including the assigned texts, cite them whether you're paraphrasing (translating the text into your own voice) or quoting (using the text's words). If a submission sounds "off" for any reason, and if you're unable to walk me through the writing choices you made and why (what you hoped to accomplish, how your thoughts and wordsmithing were supposed to get you there), then I'm unlikely to accept that submission for credit.
 
-And because writing is thinking, large language models (LLMs) and generative AI (GenAI) technologies have no place at any stage of the writing process. Writing is painstaking work we do to refine our ideas and communicate them to others. LLMs are designed to produce plausible sounding permutations of text, with no ideas or thought behind them. They violate academic integrity. They encourage delusion. They destroy the environment. They do all this to produce synthetic, mediocre text in the name of capitalistic imperatives. They reduce your capacity for thought, across human activity. They reduce human intentionality. 
+And because writing is thinking, large language models (LLMs) and generative AI (GenAI) technologies &mdash; which are accelerated text prediction machines designed for engagement, not learning &mdash; have no place at any stage of the writing process. Writing is painstaking work we do to refine our ideas and communicate them to others. LLMs are designed to produce plausible sounding permutations of text, with no ideas or thought behind them. They violate academic integrity. They encourage delusion. They destroy the environment. They do all this to produce synthetic, mediocre text in the name of capitalistic imperatives. They reduce your capacity for thought, across human activity. They reduce human intentionality. 
 
 {: .warning }
 > The use of GenAI for *any* purpose isn't permitted in this class. For reasons of copyright infringement, you may not upload material from this class (my materials or your peers' submissions) to GenAI models.

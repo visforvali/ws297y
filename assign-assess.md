@@ -75,29 +75,42 @@ Nothing in this class is busy work. Low-stakes work can be &mdash; is designed t
 
 ## High-Stakes (Graded) Writing 🚀
 
+{: .important }
+> High-stakes writing, i.e. first and final drafts of longer projects, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook.
+> 
+> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit."
 
+This class culminates in one multipart high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. These pieces should emulate the craft techniques we discuss 
 
+The assessment criteria for the high-stakes project are:
+
+- Your writing decisions (form, content, genre) in each piece must enact and/or contribute to the argument
+- You must emulate a craft technique from at least 8 of the texts we read
+- You must modify and incorporate at least 1 piece of writing you produced during *each* of our TTRPG solo journaling games
+- Each creative piece should contain at least 5 footnotes, identifying 
+- You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need a "in case readers don't get it" explanation.
 
 # Deadlines & Grace Period 😇
 
 {: .important}
 > This grace period doesn't apply to a lack of participation, which can't be made up once the week has passed unless we've made alternate arrangements. 
 
-I accept *all* writing assignments with no penalty or questions asked within 1 week of the original deadline (as long as they meet the rest of the assignment criteria). 
+I accept *all* writing assignments with no penalty or questions asked within 1 week of the original deadline (as long as they meet the rest of the assignment criteria). Please note that the grace period is time-bound, and I'm unable to accept work on a rolling basis whenever around you get to it. I can't promptly review late work. I don't accept work more than 1 week late unless we made alternate arrangements in advance.
 
-Please note that the grace period is time-bound, and I'm unable to accept work on a rolling basis whenever around you get to it. I can't promptly review late work. I don't accept work more than 1 week late unless we made alternate arrangements in advance.
+# Redemption Points 🎟️
 
+{: .warning }
+> Using GenAI for *anything* in this course will automatically disqualify you from these opportunities. 
 
+When you participate in voice chat during sync class sessions (whether what you say is correct or not) or are very proactive and conversational in our server's text channels, I'll note it in my roster as a "redemption point." You can earn up to 3 redemption points a week and trade them in for different chances to "redeem" a grade:
 
+Points | Resubmit For
+2 pts | You can submit 1 missed/no-credit low-stakes writing work.
+4 pts | You can revise and resubmit 1 missed/no-credit high-stakes draft.
+6 pts | You can add 1% to your participation score.
+14 pts | You can add 1/3 of a letter grade to your final course grade.
 
-## Redemption Points 🎟️
-
-When you participate in voice chat during sync class sessions (whether what you say is correct or not) or are very proactive and conversational in our server's text channels, e.g., #classroom or #team, I'll note it in my roster as a "redemption point." You can earn up to 3 redemption points a week and trade them in at the end of the semester for a boost to your final course grade.
-
-{: .note }
-> 6 points equals 1%. Using GenAI for *anything* in this course will automatically disqualify you from these opportunities. 
-
-
+If you don't need to use your points or have unused points at the end of the semester, you can also DM me to add them to the mutual aid pool, to be redistributed to the whole class (TBD based on total mutual aid points).
 
 # This Class &: Attendance Policy 🙋
 
