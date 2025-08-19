@@ -1,5 +1,5 @@
 ---
-title: Week 11 - 
+title: Week 11 - Salvaged from Destruction
 ---
 
 Nov 11

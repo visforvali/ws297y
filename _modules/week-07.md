@@ -1,16 +1,17 @@
 ---
-title: Week 7 - 
+title: Week 7 - Theoretical Fiction
 ---
 
-Oct 14
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+📖 Read Margaret Atwood, ["Instructions for the Third Eye"](/assets/pdfs/atwood_instructions_for_third_eye.pdf){:target="_blank"} \\
+📖 Read Haytham El Wardany, [Excerpt from *The Book of Sleep*](#){:target="_blank"} \\
 
-B&V 7
+Oct 14
+: **Post by 11am**{: .label .label-red} Respond to 1 prompt: Stumbling Blocks, Loved Lines
+  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+: **Discuss**{: .label .label-blue} Atwood
+: **Discuss**{: .label .label-blue} El Wardany
+  : &nbsp;
+  
 
 Oct 16
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
-
-Machado, Inventory
+: **Play/Write**{: .label .label-yellow} *Auspex* Worldbuilding and Day 1

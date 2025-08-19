@@ -1,5 +1,5 @@
 ---
-title: Week 13 - 
+title: Week 13 - Yesterday GenAI Convinced a Girl to Die 
 ---
 
 Nov 25

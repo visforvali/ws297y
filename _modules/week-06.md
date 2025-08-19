@@ -1,19 +1,17 @@
 ---
-title: Week 6 - 
+title: Week 6 - Just the Facts?
 ---
 
+📖 Read Nibedita Sen, ["Ten Excerpts from an Annotated Bibliography on the Cannibal Women of Ratnabar Island"](/assets/pdfs/sen_10_excerpts_from_annotated_bib.pdf){:target="_blank"} \\
+
 Oct 7
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
-
-BV 6
-
-
+: **Post by 11am**{: .label .label-red} Respond to 1 prompt: Why, Copycat
+  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+: **Discuss**{: .label .label-blue} Sen
+: **Play/Write**{: .label .label-yellow} *B&V* Stage 6
+  : &nbsp;
 
 
 Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
-
-https://www.thecommononline.org/in-v-e-n-t-ory/
+: **Stream**{: .label .label-yellow} *The Westport Independent*
+: **Play/Write**{: .label .label-yellow} *B&V* Stage 7 and debrief

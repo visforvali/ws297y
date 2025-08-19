@@ -1,5 +1,5 @@
 ---
-title: Week 12 - 
+title: Week 12 - Apocalyptic Tenderness 
 ---
 
 Nov 18
