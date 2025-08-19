@@ -111,30 +111,3 @@ Points | Resubmit For
 14 pts | You can add 1/3 of a letter grade to your final course grade.
 
 If you don't need to use your points or have unused points at the end of the semester, you can also DM me to add them to the mutual aid pool, to be redistributed to the whole class (TBD based on total mutual aid points).
-
-# This Class &: Attendance Policy 🙋
-
-{ .important }
-> The pandemic isn't over. For information on how to affordably protect yourself from infectious diseases, refer to this informational resource I put together on [pandemics and public health](https://vyshalimanivannan.com/pandemics-public-health/){:target="_blank"}, which includes info on current strains, long-term costs of COVID-19 and post-COVID syndromes, where to buy PPE affordably, and an abbreviated course policy on illness.
-
-Life is stressful: We're dealing with changes in government and social policy &mdash; cuts to open education, equity initiatives that support women, BIPOC, disabled, and LGBTQIA+ folks, social welfare, FEMA, the VA; bans on public health and science communications; attacks on citizenship and ICE raids &mdash; and ongoing problems like the rising cost of living; weather extremes and environmental disasters; gun violence; GenAI's destruction of environment, human intentionality, and reliable information; food recalls; medication shortages; and an uptick in anti-intellectualism and bigotry. 
-
-Naturally, all this can impact your class performance, gradually or suddenly. Your participation might also falter due to sickness, religious holidays, and/or Pace-affiliated extracurricular activities. At the same time, because much of our knowledge-making happens during class sessions, your attendance is critical to your success. 
-
-{ .important }
-> In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
-
-Since a large part of your course grade comes from consistent, active participation, the more you post, react, and chat with each other in and out of class, the better &mdash; and since actively participating is how learning happens, it'll help you do better on assignments, too! If you miss a class, you're responsible for reaching out to me in a timely fashion to arrange alternate deadlines and make sure you're on the right track, and for submitting any written assignments, reviewing the week's materials, and asking for notes or help on Discord. 
-
-{ .warning }
-> If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. You don’t need to disclose any more details than you wish. You can just tell me you’re dealing with stuff, and then we can strategize ways for you to fulfill the course requirements while taking care of yourself. 
-
-If you think you might have caught COVID-19 or the flu, as soon as you feel symptomatic (even if you suspect it's allergies), *get tested*! The average length of time for contagiousness is 9 days after symptom onset, and breakthrough infections can occur regardless of vaccination status, especially if you aren't consistently masking indoors. It's possible to become reinfected with COVID-19 within two weeks of having had it, and with a variant you've previously been infected with.
-
-If you test positive, prioritize your recovery and don't attend class. I trust you to reach out to me when you are well enough to resume participating, and we'll get you caught up then. No one learns well while sick, anyway. If you can, quarantine until you test negative on a PCR test. Try to limit your physical, cognitive, and emotional activity as much as possible for 4-6 weeks after you get COVID-19 to reduce your risk of developing a permanently disabling condition.
-
-As a high-risk disabled individual myself, if I become sick, especially with COVID-19 or another serious illness, I'll need to aggressively rest. You'll have the materials on Classes &mdash; texts, videos, other resources &mdash; and each other on Discord to help you continue with your learning. I'll rejoin when I'm well enough.
-
-I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning. And if you do get sick, communicate with me early so we can make a plan to make a plan when you're better.
-
-Remember: we are in this together, so communal care, mutual aid, and compassion will get us through!
