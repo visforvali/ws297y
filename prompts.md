@@ -19,6 +19,16 @@ nav_order: 5
 
 Each week, I choose a few of these prompts, from which you choose 1, to guide your low-stakes writing. 
 
+Stumbling Blocks, Keyholes
+Annotation, Letters to the Editor
+Stumbling Blocks, I Hope This Email Finds You
+Blood in the Gutter, Why
+Loved Lines, Stumbling Blocks
+Why, Copycat
+Stumbling Blocks, Loved Lines, Truth to Power
+
+
+
 ## Loved Lines
 
 
