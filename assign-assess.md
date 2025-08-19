@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 🍎 Alt-Grading Breakdown
+title: 🍎 Alt-Grading System
 description: >-
     Alt-grading policy and general overview of assignments for the course.
 nav_order: 4
 ---
 
-# Assessments and Assignments
+# Alt-Grading System
 {:.no_toc}
 
 ## Table of contents
