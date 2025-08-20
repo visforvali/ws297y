@@ -2,7 +2,7 @@
 layout: page
 title: 📚 Resources
 description: Required and recommended resources.
-nav_order: 6
+nav_exclude: true
 ---
 
 # Resources 📚

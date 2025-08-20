@@ -1,16 +1,15 @@
 ---
-title: Week 9 - The Crying World
+title: Week 9 - The World Weeps
 ---
 
-Oct 28
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+📖 Read Ben Okri, ["Three Parables about Water" from *Tiger Work*](/assets/pdfs/fa){:target="_blank"}   
 
-Auspex 3
+Oct 28
+: **Post by 11am**{: .label .label-red} Respond to 1 prompt: I Hope This Email Finds You, Copycat
+  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+: **Discuss**{: .label .label-blue} Okri
+: **Play/Write**{: .label .label-yellow} *Auspex* Day 3
+
 
 Oct 30
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
-
-Auspex 4
+: **Play/Write**{: .label .label-yellow} *Auspex* Days 4

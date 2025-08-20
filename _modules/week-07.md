@@ -13,6 +13,7 @@ Oct 14
 : **Discuss**{: .label .label-blue} Atwood, El Wardany, Boully
   : &nbsp;
   
+  
 Oct 16
 : **Discuss**{: .label .label-blue} Cixous
 : **Play/Write**{: .label .label-yellow} *Auspex* Worldbuilding and Day 1

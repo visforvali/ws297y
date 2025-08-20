@@ -2,17 +2,13 @@
 title: Week 15 - At the End of America
 ---
 
-Prompt - Suitcase
-
 Dec 9
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+: **Post by 11am**{: .label .label-red} Respond to 1 prompt: Why, Keyholes
+  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+: **Discuss**{: .label .label-blue} Hedva
+: **Play/Write**{: .label .label-yellow} *Dwelling* Room 4
 
-Dwelling 6
 
 Dec 11
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
-
-Dwelling 7
+: **Play/Write**{: .label .label-yellow} *Dwelling* Room 5 and debrief
+: **Present**{: .label .label-yellow} Share excerpts you're proud of
