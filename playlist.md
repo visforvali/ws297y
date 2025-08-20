@@ -3,7 +3,6 @@ layout: page
 title: 🎵 Playlist
 # nav_exclude: true
 nav_order: 8
-spotifyplaylist: 3rAm91N5mcUAfg7zDkTdkA
 ---
 
 # Playlist 🎵
@@ -21,8 +20,7 @@ Need some cool 😎 composition tunes? Look no further! Musical tastes are subje
 
 32 songs for 32 days on the Fall 2025 calendar.
 
-{% include spotifyplaylist.html id=page.spotifyplaylist %}
-
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3rAm91N5mcUAfg7zDkTdkA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Writing Jams
 
