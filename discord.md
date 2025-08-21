@@ -135,7 +135,7 @@ When you joined the WS 297Y server, you should have landed in the #welcome chann
 
 Discord consists of a main view in the center (for interactions in text or voice channels), a left panel, an optional member list on the right that shows a list of current server members and their online status (which can be expanded or collapsed by clicking the 👥 icon at the top), and the Direct Messages view.
 
-- **Main View**: In text channels, the chat bar is located at the bottom-center of the screen. The **message box is where you type your messages (which are visible to all members of the channel). In voice channels, the main view displays the users in the voice channel and the controls
+- **Main View**: In text channels, the chat bar is located at the bottom-center of the screen. The **message box is where you type your messages (which are visible to all members of the channel). In voice channels, the main view displays the users in the voice channel and the controls.
 - **Right Panel**: In the expanded Member List view, you can click on a user's name to read their profile (display name, username, pronouns, server roles, status, and About Me) or direct message (DM) them. Server roles are color coded; the color of the "highest" role (staff position) is the color of the member's display name in the list.
 - **Direct Messages**: DMs are only visible to you and the recipient. You can send DMs by clicking a user's name in the expanded Member List, or by clicking the upper-left Discord icon, which will open up your DM history. You can also start a one-on-one call through DMs. In your DM history, click the name of the user you want to call, then click the phone 📞 or video 📹 icon in the upper right to start a voice or video chat.
 

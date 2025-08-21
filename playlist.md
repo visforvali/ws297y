@@ -24,88 +24,9 @@ Need some cool 😎 composition tunes? Look no further! Musical tastes are subje
 
 # Writing Jams
 
-7 hours of (mostly) instrumental music, enough to get through a full day of classes, work, meetings, and commute time &mdash; or an uninterrupted weekend marathon writing sesh!
+Hours of (mostly) instrumental tracks, enough to get through a full day of classes, work, meetings, and commute time &mdash; or an uninterrupted weekend marathon writing sesh!
 
-Beak The Cornubia
-Julius - Starfucker
-M83 - Midnight City
-Lost and Found - Pretty Lights
-DJ Shadow - Stem - Long Stem
-Merkin Jerk
-Memory Tapes Bicycle
-Moby Natural Blues
-Fight Like Gods
-Zero 7 In the Waiting Line
-Larsen Rebirth
-Cat Power Speak for Me
-Gut Shot Soldier
-Astronomy
-Spieluhr
-Glory Box
-Kraftwek
-The Gardener
-Metric Face 1
-Lowkey Obama Nation
-Freshmen
-Homestuck - Cascade
-Back to Mad
-X Japan Art of Life
-NIN Together
-Kan Mikami
-SOTN Abandoned Pit
-Happy Cat Factory
-Mitsuda - Prisoners of Fate
-Dead Sea
-To Far Away Times
-Zimmer Why Do We Fall?
-Welcome to the Machine
-NIN Run Like Hell
-Forest Swords - The Weight of Gold
-Forest Swords - Ljoss
-Be Quiet and Drive Acoustic
-34 Ghosts IV
-25 Ghosts III
-13 Ghosts II
-4 Ghosts I
-
-Darren Korb - On the Coast
-Homestuck - Black
-MeGaLoVania
-At the Price of Oblivion
-Even in Death
-Awakening
-Ecstasy of Gold
-Carlos Viola
-Soon This Space
-Clubbed to Death
-Michael Abels The Run, A Hero Falls, Pursuit
-Hard Time Killing Floor Blues
-Tubular Bells
-Argules Wellerman
-KC Munchkin Remix
-Marcus Fjellstrom
-Gambuh I
-Terror
-Would You Rather
-X/1999 - Character File
-One Who Bares Fangs
-Zatoichi
-Oneohtrix Never Point No Good
-Tunng Sweet William
-Xiu Xiu Vulture Piano
-Alleewalzer
-Excessive Moonlight
-
-Timber Timbre Demon Host
-Yes Ceremony
-Libera Me
-Kensuke Ushio From Here to Eternity
-Ratatat Loud Pipes
-The Girl in Byakkoya
-Blottarsmurfen
-Caribou Odessa
-
-
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2C6P59es1JFvD17PzjDmNr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Go Go Go Go!
 
