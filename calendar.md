@@ -31,6 +31,8 @@ seo:
 >
 > For a quicker response to questions or project help, ask in #classroom or #team on Discord. Please note that I deprioritize questions about course material/logistics that are explained in the course syllabus+ and/or this website, or have already been asked and answered on Discord and added to the [FAQs](/faqs.md) on this site.
 
+*All lecture notes will be posted after class.*
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
