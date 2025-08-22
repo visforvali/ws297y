@@ -18,7 +18,6 @@ nav_order: 5
 # Low-Stakes Writing Prompts
 {: .no_toc }
 
-
 # Overview
 
 The low-stakes writing prompts for this class get you to engage with the readings by having you pose the question &mdash; allowing you to respond to things that excite, inspire, and/or confuse you most in the texts &mdash; and begin to figure out an answer in writing in aadvance of class discussion. 
@@ -26,9 +25,9 @@ The low-stakes writing prompts for this class get you to engage with the reading
 {: .warning }
 > You can ask and answer any question you like, but it *must* be informed by the prompt framework you selected for the week and pertain to that week's readings. 
 
-The prompts below concern various ideas, craft techniques, activities, and themes. You'll the kind of question you ask and answer for your low-stakes writing posts. 
+Each week, 3 prompts are identified and linked on the calendar. All prompts and their instructions are listed here. 
 
-   you with a theme to help you focus  you'll use to formulate your own question
+The prompts below concern various ideas, craft techniques, activities, and themes. You'll use these prompts to help you come up with a question about the week's readings for your low-stakes writing post and to help you prepare for class discussion. 
 
 # Annotation
 
