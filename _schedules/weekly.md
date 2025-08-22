@@ -35,20 +35,20 @@ schedule:
         start: 12:15 PM
         end: 1:40 PM
         location: 🔊Sync Sessions
-      - name: Coffee Chats (check [Zcal](https://zcal.co/drmani))
+      - name: Coffee Chats
         start: 2:00 PM
         end: 5:00 PM
-        location: 🔊Cafe
+        location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
       - name: Alt Hours
         start: 5:00 PM
         end: 6:00 PM
         location: Discord, DM to check availability
   - name: Wednesday
     events:
-      - name: Coffee Chats (check [Zcal](https://zcal.co/drmani))
+      - name: Coffee Chats
         start: 12:00 PM
         end: 2:00 PM
-        location: 🔊Cafe
+        location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
   - name: Thursday
     events:
       - name: Lecture
@@ -60,9 +60,4 @@ schedule:
         end: 4:00 PM
         location: Discord, DM to check availability
   - name: Friday
-    events:
-      - name: Alt Times
-        start: 4:00 PM
-        end: 6:00 PM
-        location: Discord, DM to check availability
 ---
