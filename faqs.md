@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 8
 ---
 
-# Faqs 🙋 
+# FAQs 🙋 
 {:.no_toc}
 
 ## Table of Contents
