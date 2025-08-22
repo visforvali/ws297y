@@ -18,4 +18,3 @@ Can't wait to virtually meet you very soon!
 
 🚀 To infinity and beyond,
 Dr. Mani (aka [fhqwhgads](https://homestarrunner.com/toons/everybody-to-the-limit){:target="_blank"})
-{: .fs-5 }
