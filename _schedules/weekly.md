@@ -22,6 +22,10 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
+      - name: Possible Chat Times
+        start: 12:00 PM
+        end: 12:15 PM
+        location: 🔊Sync Sessions
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
@@ -29,23 +33,27 @@ schedule:
       - name: Coffee Chats
         start: 2:00 PM
         end: 5:00 PM
-        location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
+        location: 🔊Cafe (check Zcal)
       - name: Possible Chat Times
         start: 5:00 PM
         end: 6:00 PM
-        location: DM to check availability
+        location: 1-on-1 DM for availability
   - name: Wednesday
     events:
       - name: Coffee Chats
         start: 12:00 PM
         end: 2:00 PM
-        location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
+        location: 🔊Cafe (check Zcal)
       - name: Possible Chat Times
         start: 5:00 PM
         end: 7:00 PM
-        location: DM to check availability
+        location: 1-on-1 DM for availability
   - name: Thursday
     events:
+      - name: Possible Chat Times
+        start: 12:00 PM
+        end: 12:15 PM
+        location: 🔊Sync Sessions
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
@@ -53,6 +61,11 @@ schedule:
       - name: Possible Chat Times
         start: 3:00 PM
         end: 4:00 PM
-        location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
+        location: 🔊Cafe (check Zcal)
   - name: Friday
+    events:
+    - name: Possible Chat Times
+      start: 4:00 PM
+      end: 5:00 PM
+      location: 1-on-1 DM for availability
 ---
