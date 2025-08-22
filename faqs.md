@@ -2,7 +2,7 @@
 layout: page
 title: 🙋 FAQs
 nav_exclude: false
-nav_order: 8
+nav_order: 7
 ---
 
 # FAQs 🙋 

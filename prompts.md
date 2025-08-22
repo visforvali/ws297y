@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ✍️ Low-Stakes Prompts
-description: All low stakes writing prompts
+title: ✍️ Prompts
+description: All writing prompts.
 nav_order: 5
 ---
     
@@ -15,7 +15,7 @@ nav_order: 5
 {:toc}
 
 
-# Low-Stakes Writing Prompts
+# Low-Stakes Writing
 {: .no_toc }
 
 # Overview
@@ -70,3 +70,6 @@ Formulate a paragraph of questions about things that confused you in the text.
 
 # Why
 
+
+
+# High-Stakes Writing

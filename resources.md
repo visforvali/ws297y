@@ -3,7 +3,7 @@ layout: page
 title: 🎒 Other Resources
 description: Required and recommended resources.
 nav_exclude: false
-nav_order: 9
+nav_order: 6
 ---
 
 # Other Resources 🎒
