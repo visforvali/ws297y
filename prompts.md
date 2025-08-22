@@ -49,6 +49,9 @@ MSG: Pretend you're writing a 3-5 paragraph email to a fictional boss, in which 
 
 ## Just Curious
 
+Formulate a "starter" question about something in the text that you're curious about &mdash; a sentence, a word, a metaphor, a title, a plot point, a characterization moment &mdash; and its relationship with social justice. Ask another question that gets you closer to an answer. Keep going until you come up with a question that feels like you've stumbled upon a question that grabs you, even if it's far from the original question. 
+
+In answering *this* question, reflect on the role your curiosity as a reader just played in 
 
 
 # Keyholes

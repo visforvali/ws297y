@@ -3,7 +3,7 @@ title: Week 1 - Complicity or Resistance
 {: .text-epsilon}
 ---
 
-# Week 1 - Complicity or Resistance
+## Week 1 - Complicity or Resistance
 
 🕵️ Review [WS 297Y Course Prospectus](/syllabus.md){:target="_blank"}   
 🕵️ Review [Discord Quickstart Guide](/discord.md){:target="_blank"}   
@@ -17,6 +17,6 @@ Sep 2
 
 
 Sep 4
-: **Due 11am**{: .label .label-red} Respond to 1 prompt: Stumbling Blocks, Keyholes
+: **Due 11am**{: .label .label-red} Respond to 1: Stumbling Blocks, Keyholes
   : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
 : **Discuss**{: .label .label-blue} LeGuin
