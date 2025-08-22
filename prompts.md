@@ -59,7 +59,7 @@ A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidde
 
 Identify 2-3 paragraphs (they don't have to be consecutive) that made you feel like your senses came alive. Try to figure out what's going on between sentences that furthered your interpretive processes. Use this process to guide you in formulating a question you have about the text's poetics and reliance on reader inference to get at the aims of social justice message.
 
-# Stumbling Blocks
+## Stumbling Blocks
 
 Identify a place where you felt confusion, and then identify the place where (if) you found your footing again. Reflect on how being confused by that part of the text specifically might help enact the social justice argument(s) of the piece as a whole. Try to interpret both the part of the text that confused you and the part of the text that clarified things for you. 
 

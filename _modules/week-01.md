@@ -5,18 +5,17 @@ title: Week 1 - Complicity or Resistance
 
 ## Week 1 - Complicity or Resistance
 \
-🕵️ Review [WS 297Y Course Prospectus](/syllabus.md){:target="_blank"}   
-🕵️ Review [Discord Quickstart Guide](/discord.md){:target="_blank"}   
-📖 Read Ursula K. LeGuin's ["The Ones Who Walk Away from Omelas"](/assets/pdfs/leguin_ones_who_walk_away_from_omelas.pdf){:target="_blank"}   
+🕵️ Review [WS 297Y Course Prospectus](/ws297y/syllabus.md){:target="_blank"}   
+🕵️ Review [Discord Quickstart Guide](/ws297y/discord.md){:target="_blank"}   
+📖 Read Ursula K. LeGuin's ["The Ones Who Walk Away from Omelas"](/ws297y/assets/pdfs/leguin_ones_who_walk_away_from_omelas.pdf){:target="_blank"}   
 
 Sep 2
 : **Demo**{: .label .label-yellow } Tech setup, exploration, practice
   : [lecture notes]
-: **Due Midnight**{: .label .label-red} Customize Discord profile, #get-roles, & introduce yourself in #roll-call
-  : [[discord tutorial]](/discord.md){:target="_blank"}
-
+: **Due Midnight**{: .label .label-red} Customize Discord profile, roles, introduction
+  : [[discord tutorial]](/ws297y/discord.md){:target="_blank"}
 
 Sep 4
-: **Due 11am**{: .label .label-red} Choose *one* of: [Stumbling Blocks](), Keyholes, Just Curious
+: **Due 11am**{: .label .label-red} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297y/prompts/#just-curious){:target="_blank"}
   : [lecture notes]
 : **Discuss**{: .label .label-blue} LeGuin
