@@ -21,46 +21,44 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Possible Alt Times
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Discord, DM to check availability
+      - name: Possible Alt Times
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Discord, DM to check availability
   - name: Tuesday
+    events:
+      - name: Class Voice Chat
+        start: 12:15 PM
+        end: 1:40 PM
+        location: Discord, 🏫│Sync Sessions
+      - name: Coffee Chats (check [Zcal](https://zcal.co/drmani))
+        start: 2:00 AM
+        end: 5:00 PM
+        location: Discord, 🍵│Cafe
+      - name: Possible Alt Times
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Discord, DM to check availability
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
+      - name: Coffee Chats (check [Zcal](https://zcal.co/drmani))
+        start: 12:00 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: Discord, 🍵│Cafe
   - name: Thursday
+    events:
+      - name: Possible Alt Times
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Discord, DM to check availability
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Possible Alt Times
+        start: 4:00 PM
+        end: 6:00 PM
+        location: Discord, DM to check availability
 ---
