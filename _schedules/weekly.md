@@ -21,11 +21,11 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Alt Times
+      - name: Alt Hours
         start: 12:00 PM
         end: 1:00 PM
         location: Discord, DM to check availability
-      - name: Alt Times
+      - name: Alt Hours
         start: 5:00 PM
         end: 6:00 PM
         location: Discord, DM to check availability
@@ -39,7 +39,7 @@ schedule:
         start: 2:00 PM
         end: 5:00 PM
         location: 🔊Cafe
-      - name: Alt Times
+      - name: Alt Hours
         start: 5:00 PM
         end: 6:00 PM
         location: Discord, DM to check availability
