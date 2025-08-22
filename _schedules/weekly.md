@@ -21,25 +21,25 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Possible Alt Times
+      - name: Alt Times
         start: 12:00 PM
         end: 1:00 PM
         location: Discord, DM to check availability
-      - name: Possible Alt Times
+      - name: Alt Times
         start: 5:00 PM
         end: 6:00 PM
         location: Discord, DM to check availability
   - name: Tuesday
     events:
-      - name: Class Voice Chat
+      - name: Lecture
         start: 12:15 PM
         end: 1:40 PM
-        location: Discord, 🏫│Sync Sessions
+        location: 🔊Sync Sessions
       - name: Coffee Chats (check [Zcal](https://zcal.co/drmani))
-        start: 2:00 AM
+        start: 2:00 PM
         end: 5:00 PM
-        location: Discord, 🍵│Cafe
-      - name: Possible Alt Times
+        location: 🔊Cafe
+      - name: Alt Times
         start: 5:00 PM
         end: 6:00 PM
         location: Discord, DM to check availability
@@ -48,16 +48,20 @@ schedule:
       - name: Coffee Chats (check [Zcal](https://zcal.co/drmani))
         start: 12:00 PM
         end: 2:00 PM
-        location: Discord, 🍵│Cafe
+        location: 🔊Cafe
   - name: Thursday
     events:
-      - name: Possible Alt Times
+      - name: Lecture
+        start: 12:15 PM
+        end: 1:40 PM
+        location: 🔊Sync Sessions
+      - name: Alt Times
         start: 3:00 PM
         end: 4:00 PM
         location: Discord, DM to check availability
   - name: Friday
     events:
-      - name: Possible Alt Times
+      - name: Alt Times
         start: 4:00 PM
         end: 6:00 PM
         location: Discord, DM to check availability
