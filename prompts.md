@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ✍️ Prompts
+title: ✍️ Writing Prompts
 description: All writing prompts.
 nav_order: 5
 ---
