@@ -24,7 +24,7 @@ seo:
 {: .warning }
 > I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐5, 🕐10, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks), to talk about any aspect of your classwork, college, life, etc. Book early and often! 
 >
-> And don't worry if these times don't work for your schedule! Just DM me to arrange an alternate time. 
+> And don't worry if these times don't work for your schedule! Just DM me to arrange an alternate time. You must contact me **at least 1 week in advance** to schedule a chat outside of my standard coffee chat times. 
 
 {: .important }
 > I respond to async messages (in in Discord's text channels and DMs, and Pace emails &mdash; within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 

@@ -22,10 +22,6 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - name: Possible Chat Times
-        start: 12:00 PM
-        end: 12:15 PM
-        location: 🔊Sync Sessions
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
