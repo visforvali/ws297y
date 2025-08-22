@@ -20,15 +20,6 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Alt Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Discord, DM to check availability
-      - name: Alt Hours
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Discord, DM to check availability
   - name: Tuesday
     events:
       - name: Class
@@ -39,25 +30,29 @@ schedule:
         start: 2:00 PM
         end: 5:00 PM
         location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
-      - name: Alt Hours
+      - name: Possible Chat Times
         start: 5:00 PM
         end: 6:00 PM
-        location: Discord, DM to check availability
+        location: DM to check availability
   - name: Wednesday
     events:
       - name: Coffee Chats
         start: 12:00 PM
         end: 2:00 PM
         location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
+      - name: Possible Chat Times
+        start: 5:00 PM
+        end: 7:00 PM
+        location: DM to check availability
   - name: Thursday
     events:
-      - name: Lecture
+      - name: Class
         start: 12:15 PM
         end: 1:40 PM
         location: 🔊Sync Sessions
-      - name: Alt Times
+      - name: Possible Chat Times
         start: 3:00 PM
         end: 4:00 PM
-        location: Discord, DM to check availability
+        location: 🔊Cafe (check [Zcal](https://zcal.co/drmani for availability)
   - name: Friday
 ---
