@@ -1,6 +1,9 @@
 ---
 title: Week 11 - False Starts
+{: .text-epsilon}
 ---
+
+## Week 11 - False Starts
 
 📖 Read Edouard Leve, [Excerpt from *Oeuvres*](/assets/pdfs/leve_oeuvres.pdf){:target="_blank"}   
 

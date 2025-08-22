@@ -1,6 +1,9 @@
 ---
 title: Week 7 - Theoretical Fiction
+{: .text-epsilon}
 ---
+
+## Week 7 - Theoretical Fiction
 
 📖 Read Margaret Atwood, ["Instructions for the Third Eye"](/assets/pdfs/atwood_instructions_for_third_eye.pdf){:target="_blank"}   
 📖 Read Haytham El Wardany, [Excerpt from *The Book of Sleep*](#){:target="_blank"}   

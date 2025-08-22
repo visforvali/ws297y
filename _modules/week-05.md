@@ -1,6 +1,9 @@
 ---
 title: Week 5 - Staking Out Feminist Space
+{: .text-epsilon}
 ---
+
+## Week 5 - Staking Out Feminist Space
 
 📖 Read Alice Notley, [Excerpt from *The Descent of Alette*](/assets/pdfs/notley_descent_of_alette_bk1_excerpt.pdf){:target="_blank"}   
 

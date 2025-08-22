@@ -1,6 +1,9 @@
 ---
-title: Week 4 - Being Tested
+title: Week 4 - This Will Be on the Exam
+{: .text-epsilon}
 ---
+
+## Week 4 - This Will Be on the Exam
 
 📖 Read Desirae Mathers, ["Final: Comprehensive, Roughly"](/assets/pdfs/matherly_final_comprehensive_roughly.pdf){:target="_blank"}   
 

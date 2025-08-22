@@ -80,7 +80,7 @@ Nothing in this class is busy work. Low-stakes work can be &mdash; is designed t
 > 
 > Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit."
 
-This class culminates in one multipart high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. These pieces should emulate the craft techniques we discuss 
+This class culminates in one multipart high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. Additionally, these pieces should emulate the craft techniques we discuss.
 
 The assessment criteria for the high-stakes project are:
 

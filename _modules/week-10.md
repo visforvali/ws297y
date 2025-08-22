@@ -1,6 +1,9 @@
 ---
 title: Week 10 - Indigenous Identity
+{: .text-epsilon}
 ---
+
+## Week 10 - Indigenous Identity
 
 📖 Read Rebecca Roanhorse, ["Welcome to Your Authentic Indian Experience™️"](/assets/pdfs/roanhorse_welcome_to_your_authentic_indian_experience.pdf){:target="_blank"}   
 

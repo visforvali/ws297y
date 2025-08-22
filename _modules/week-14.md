@@ -1,6 +1,9 @@
 ---
 title: Week 14 - Virality
+{: .text-epsilon}
 ---
+
+## Week 14 - Virality
 
 📖 Read Johanna Hedva, ["Get Well Soon"](https://getwellsoon.labr.io/){:target="_blank"}   
 📖 Read Victor Ray, ["A Short Quiz for My Students in Lieu of Asking About Their Vaccine Status or Requesting That They Wear Masks"](https://www.mcsweeneys.net/articles/a-short-quiz-for-my-students-in-lieu-of-asking-about-their-vaccine-status-or-requesting-that-they-wear-masks){:target="_blank"}   

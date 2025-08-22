@@ -17,6 +17,6 @@ Sep 2
 
 
 Sep 4
-: **Due 11am**{: .label .label-red} Respond to 1: Stumbling Blocks, Keyholes
-  : [lecture notes]  [[low-stakes prompts](/prompts.md)]
+: **Due 11am**{: .label .label-red} Choose *one* of: [Stumbling Blocks](), Keyholes, Just Curious
+  : [lecture notes]
 : **Discuss**{: .label .label-blue} LeGuin

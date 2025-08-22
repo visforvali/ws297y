@@ -1,6 +1,9 @@
 ---
 title: Week 9 - The World Weeps
+{: .text-epsilon}
 ---
+
+## Week 9 - The World Weeps
 
 📖 Read Ben Okri, ["Three Parables about Water" from *Tiger Work*](/assets/pdfs/fa){:target="_blank"}   
 

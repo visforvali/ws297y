@@ -1,6 +1,9 @@
 ---
-title: Week 12 - Apocalyptic Tenderness 
+title: Week 12 - Apocalyptic Tenderness
+{: .text-epsilon}
 ---
+
+## Week 12 - Apocalyptic Tenderness
 
 📖 Read Carmen Maria Machado, ["Inventory"](/assets/pdfs/machado_inventory.pdf){:target="_blank"}   
 
@@ -14,3 +17,4 @@ Nov 18
 Nov 20
 : **Play/Write**{: .label .label-yellow} *Dwelling* Worldbuilding and Room 1
   : [[lecture notes]](#){:target="_blank"}
+: **Stream**{: .label .label-yellow} *Centum* Ch. 1
