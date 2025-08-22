@@ -7,10 +7,11 @@ title: Week 14 - Virality
 
 Dec 2
 : **Post by 11am**{: .label .label-red} Respond to 1 prompt: Annotation, Truth to Power 
-  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+  : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
 : **Discuss**{: .label .label-blue} Hedva
 : **Play/Write**{: .label .label-yellow} *Dwelling* Room 2
 
 
 Dec 4
 : **Play/Write**{: .label .label-yellow} *Dwelling* Room 3
+  : [[lecture notes]](#){:target="_blank"}

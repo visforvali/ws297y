@@ -15,34 +15,54 @@ nav_order: 5
 {:toc}
 
 
-# Prompt List
-
-Each week, I choose a few of these prompts, from which you choose 1, to guide your low-stakes writing. 
-
-Stumbling Blocks, Keyholes
-Annotation, Letters to the Editor
-Stumbling Blocks, I Hope This Email Finds You
-Blood in the Gutter, Why
-Loved Lines, Stumbling Blocks
-Why, Copycat
-Stumbling Blocks, Loved Lines, Truth to Power
-Keyholes, Stumbling Blocks
+# Low-Stakes Writing Prompts
+{: .no_toc }
 
 
-## Loved Lines
+# Overview
+
+The low-stakes writing prompts for this class get you to engage with the readings by having you pose the question &mdash; allowing you to respond to things that excite, inspire, and/or confuse you most in the texts &mdash; and begin to figure out an answer in writing in advance of class discussion. 
+
+{ .warning }
+> You can ask and answer any question you like, but it must be informed by the prompt framework you selected for the week and must pertain to that week's readings. 
+
+The questions you formulate 
+
+Each one provides you with a theme to help you focus  you'll use to formulate your own question
+
+# Annotation
 
 
-## Stumbling Blocks
+# Blood in the Gutter
 
 
-## Keyholes
-
-
-
-## Just Curious
+# Copycat
 
 
 ## I Hope This Email Finds You
 
 
+## Just Curious
+
+
+# Keyholes
+
+
+# Letters to the Editor
+
+
+# Loved Lines
+
+
 ## Story, Interrupted 
+
+
+# Stumbling Blocks
+
+
+
+# Truth to Power
+
+
+# Why
+

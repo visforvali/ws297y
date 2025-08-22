@@ -7,7 +7,7 @@ title: Week 6 - Just the Facts?
 
 Oct 7
 : **Post by 11am**{: .label .label-red} Respond to 1 prompt: Why, Copycat
-  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+  : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
 : **Discuss**{: .label .label-blue} Sen
 : **Play/Write**{: .label .label-yellow} *B&V* Stage 6
   : &nbsp;
@@ -15,6 +15,6 @@ Oct 7
 
 Oct 9
 : **Discuss**{: .label .label-blue} Cole
-  : [[slides]](#){:target="_blank"}
+  : [[lecture notes]](#){:target="_blank"}
 : **Stream**{: .label .label-yellow} *The Westport Independent*
 : **Play/Write**{: .label .label-yellow} *B&V* Stage 7 and debrief

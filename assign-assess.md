@@ -43,9 +43,9 @@ If you do better on an ungraded draft than you do on a final submission, I'll sc
 
 # Participation 🙋
 
-You're expected to regularly, substantively participate through thoughtful, informal contributions in text channels and sync voice chat that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats. 
+You're expected to regularly, substantively participate in voice and text channels, through thoughtful, informal contributions that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats. 
 
-Participation takes a lot of forms! These are all measurable, valid forms of participation:
+Participation takes a lot of forms! While these are all measurable, valid forms of participation, you're expected to participate in different ways throughout the semester:
 
 - Talking out loud
 - Posting on Discord during and outside of classtime

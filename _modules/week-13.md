@@ -7,7 +7,7 @@ title: Week 13 - This Machine Kills
 
 Nov 25
 : **Post by 11am**{: .label .label-red} Respond to 1 prompt: Copycat, Keyholes
-  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+  : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
 : **Discuss**{: .label .label-blue} Liu
 : **Stream**{: .label .label-yellow} *Centum*
 

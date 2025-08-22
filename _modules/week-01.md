@@ -8,12 +8,12 @@ title: Week 1 - Complicity or Resistance
 
 Sep 2
 : **Demo**{: .label .label-yellow } Tech setup, exploration, practice
-  : [[slides]](#){:target="_blank"}  [[discord tutorial]](/discord.md){:target="_blank"}
+  : [[lecture notes]](#){:target="_blank"}  [[discord tutorial]](/discord.md){:target="_blank"}
 : **Due Midnight**{: .label .label-red} Customize Discord profile, #get-roles, & introduce yourself in #roll-call
   : &nbsp;
 
 
 Sep 4
 : **Due 11am**{: .label .label-red} Respond to 1 prompt: Stumbling Blocks, Keyholes
-  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+  : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
 : **Discuss**{: .label .label-blue} LeGuin

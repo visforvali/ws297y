@@ -6,7 +6,7 @@ title: Week 5 - Staking Out Feminist Space
 
 Sep 30
 : **Post by 11am**{: .label .label-red} Respond to 1 prompt: Loved Lines, Stumbling Blocks
-  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+  : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
 : **Discuss**{: .label .label-blue} Notley
 : **Play/Write**{: .label .label-yellow} *B&V* Stage 5
   : &nbsp;

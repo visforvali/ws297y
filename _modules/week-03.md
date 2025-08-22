@@ -6,7 +6,7 @@ title: Week 3 - Don't Let the Bastards Grind You Down
 
 Sep 16
 : **Post by 11am**{: .label .label-red} Respond to 1 prompt: Stumbling Blocks, I Hope This Email Finds You
-  : [[slides]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+  : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
 : **Discuss**{: .label .label-blue} Oyeyemi
 : **Play/Write**{: .label .label-yellow} *B&V* Stage 2
   : &nbsp;
@@ -14,4 +14,5 @@ Sep 16
 
 Sep 18
 : **Stream**{: .label .label-yellow} *The Stanley Parable*
+  : [[lecture notes]](#){:target="_blank"}
 : **Play/Write**{: .label .label-yellow} *B&V* Stage 3
