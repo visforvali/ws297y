@@ -17,8 +17,22 @@ nav_order: 9
 
 {: .important }
 Besides your composition notebook and the book you've chosen to destroy, all required texts and materials are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/calendar.md) and in chronological order on [Classes\Content](#){:target="_blank"}.
+\
+There are many articles, blogs, books and podcasts that are very interesting for more reading on the topics discussed in class. We'll update this list as the semester goes, and if you have suggestions of materials to share, please let us know and we'll add it to the list.
 
-There are many articles, blogs, books and podcasts that are very interesting for more reading on the topics discussed in class. We’ll update this list as the semester goes, and if you have suggestions of materials to share, please let us know and we’ll add it to the list.
+## On Craft and Social Justice
+
+
+
+## On Gaming for Social Justice
+
+
+
+## On Thinking and Empathy
+
+
+
+## 
 
 
 
