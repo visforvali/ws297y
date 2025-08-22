@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 🎵 Playlist
+title: 🎵 Playlists
 # nav_exclude: true
-nav_order: 8
+nav_order: 9
 ---
 
 # Playlist 🎵
