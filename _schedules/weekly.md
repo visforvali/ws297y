@@ -31,7 +31,7 @@ schedule:
         location: Discord, DM to check availability
   - name: Tuesday
     events:
-      - name: Lecture
+      - name: Class
         start: 12:15 PM
         end: 1:40 PM
         location: 🔊Sync Sessions
