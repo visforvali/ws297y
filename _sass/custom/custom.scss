@@ -28,28 +28,24 @@ summary {
   width: 100%;
 }
 
-.label-blue-lt {
-  background-color: #99badd;
+.label-blue-custom {
+  background-color: #99badd !important;
   color: #ffffff;
-  border-radius: 25px;
 }
 
-.label-red-lt {
-  background-color: #d9603b;
+.label-red-custom {
+  background-color: #d9603b !important;
   color: #ffffff;
-  border-radius: 25px;
 }
 
-.label-yellow-dk {
-  background-color: #ffdb58;
+.label-yellow-custom {
+  background-color: #ffdb58 !important;
   color: #ffffff;
-  border-radius: 25px;
 }
 
-.label-green-lt {
-  background-color: #74c365;
+.label-green-custom {
+  background-color: #74c365 !important;
   color: #ffffff;
-  border-radius: 25px;
 }
 
 a:link {
