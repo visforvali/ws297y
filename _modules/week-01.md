@@ -18,4 +18,4 @@ Sep 2
 Sep 4
 : **Due 11am**{: .label .label-red} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297y/prompts/#just-curious){:target="_blank"}
   : [lecture notes]
-: **Discuss**{: .label .label-blue-lt-000} LeGuin
+: **Discuss**{: .label .label-blue-lt} LeGuin
