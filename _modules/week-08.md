@@ -5,14 +5,13 @@ title: Week 8 - Trans Allegories
 
 ## Week 8 - Trans Allegories
 
-📖 Read Isabel Fall's ["I Sexually Identify as an Attack Helicopter"](/assets/pdfs/fall_i_sexually_identify_as_an_attack_helicopter.pdf){:target="_blank"}   
+📖 Read Isabel Fall's ["I Sexually Identify as an Attack Helicopter"](ws297y/assets/pdfs/fall_i_sexually_identify_as_an_attack_helicopter.pdf){:target="_blank"}   
 
 Oct 21
-: **Post by 11am**{: .label .label-red} Respond to 1 prompt: Keyholes, Stumbling Blocks
-  : [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+: **Post by 11am**{: .label .label-red} Choose *one* of: [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
+  : [lecture notes]
 : **Discuss**{: .label .label-blue} Fall
-
 
 Oct 23
 : **Play/Write**{: .label .label-yellow} *Auspex* Day 2
-  : [[lecture notes]](#){:target="_blank"}
+  : [lecture notes]

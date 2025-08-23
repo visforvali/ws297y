@@ -39,7 +39,7 @@ Locate an excerpt you either loved or hated, and use the same style to formulate
 ## I Hope This Email Finds You
 
 SUBJ: Re: Your question about how genre/audience are used for social justice
-MSG: Pretend you're writing a 3-5 paragraph email to a fictional boss, in which you reply to a question you formulate about the relationship between the text's genre/audience and its social justice message as though your fictional boss asked you the question. You can imagine that your boss' first email was either deliberately obtuse or earnestly inquiring.
+MSG: Formulate a question that deliberately misunderstands the aims of this text, then pretend you're writing a 3-5 paragraph email explaining the the text's genre/audience and social justice message in response to someone who has asked you this question. 
 
 ## Just Curious
 
@@ -51,7 +51,6 @@ A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidde
 
 
 ## Loved Lines
-
 
 
 

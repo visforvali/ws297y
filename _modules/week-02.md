@@ -5,17 +5,16 @@ title: Week 2 - Fluid Perspectives
 
 ## Week 2 - Fluid Perspectives
 \
-📖 Read Isabel J. Kim, ["Why Don't We Just Kill the Kid In the Omelas Hole"](/assets/pdfs/kim_why_dont_we_just_kill_the_kid_in_the_omelas_hole.pdf){:target="_blank"}   
-📖 Read Zoe Bossiere & Erica Trabold's ["Introduction to *The Lyric Essay as Resistance*"](/assets/pdfs/bossiere_trabold_intro_lyric_essay_as_resistance.pdf){:target="_blank"}   
+📖 Read Isabel J. Kim, ["Why Don't We Just Kill the Kid In the Omelas Hole"](ws297y/assets/pdfs/kim_why_dont_we_just_kill_the_kid_in_the_omelas_hole.pdf){:target="_blank"}   
+📖 Read Zoe Bossiere & Erica Trabold's ["Introduction to *The Lyric Essay as Resistance*"](ws297y/assets/pdfs/bossiere_trabold_intro_lyric_essay_as_resistance.pdf){:target="_blank"}   
 
 Sep 9
-: **Post by 11am**{: .label .label-red} Respond to 1 prompt: Annotation, Letters to the Editor
-: [[lecture notes]](#){:target="_blank"}  [[low-stakes prompts](/prompts.md)]
+: **Post by 11am**{: .label .label-red} Choose *one* of: [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation), [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you), [Why](https://visforvali.github.io/ws297y/prompts/#why)
+  : [lecture notes]
 : **Discuss**{: .label .label-blue} Kim
   : &nbsp;
   
-
 Sep 11
 : **Discuss**{: .label .label-blue} Bossiere & Trabold
-  : [[lecture notes]](#){:target="_blank"}
+  : [lecture notes]
 : **Play/Write**{: .label .label-yellow} *Belluae/Venatores* (*B&V*): Worldbuilding, Stage 1

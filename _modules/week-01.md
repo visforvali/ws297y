@@ -13,7 +13,7 @@ Sep 2
 : **Demo**{: .label .label-yellow } Tech setup, exploration, practice
   : [lecture notes]
 : **Due Midnight**{: .label .label-red} Customize Discord profile, roles, introduction
-  : [[discord tutorial]](discord.html){:target="_blank"}
+  : [[discord tutorial]](discord){:target="_blank"}
 
 Sep 4
 : **Due 11am**{: .label .label-red} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297y/prompts/#just-curious){:target="_blank"}
