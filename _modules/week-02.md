@@ -18,3 +18,4 @@ Sep 11
 : **Discuss**{: .label .label-blue} Bossiere & Trabold
   : [lecture notes]
 : **Play/Write**{: .label .label-yellow} *Belluae/Venatores* (*B&V*): Worldbuilding, Stage 1
+  : &nbsp;
