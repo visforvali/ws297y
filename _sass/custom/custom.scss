@@ -29,20 +29,39 @@ summary {
 }
 
 .label-blue-lt {
-  background-color: #71a6d2;
+  background-color: #99badd;
   color: #ffffff;
+  border-radius: 25px;
+}
+
+.label-red-lt {
+  background-color: #d9603b;
+  color: #ffffff;
+  border-radius: 25px;
+}
+
+.label-yellow-dk {
+  background-color: #ffdb58;
+  color: #ffffff;
+  border-radius: 25px;
+}
+
+.label-green-lt {
+  background-color: #74c365;
+  color: #ffffff;
+  border-radius: 25px;
 }
 
 a:link {
-  color: #1034a6;
+  color: #0000cd;
 }
 
 a:hover {
-  color: #ab4e52;
+  color: #cf1020;
 }
 
 a:visited {
-  color: #860111;
+  color: #65000b;
 }
 
 .side-bar {
