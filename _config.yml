@@ -38,7 +38,7 @@ footer_content:
   © 2025 Vyshali Manivannan. Released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA</a> license
 back_to_top: true
 back_to_top_text: "[back to top]"
-color_scheme: new
+color_scheme: light
 toggle_color_scheme: dark
 toggle_page_url: nil  
 toggle_text_1: "Dark" # default: "-> Dark Mode"
