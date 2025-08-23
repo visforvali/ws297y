@@ -14,6 +14,7 @@ Sep 2
   : [lecture notes]
 : **Due Midnight**{: .label .label-red-custom} Customize Discord profile, roles, introduction
   : [[discord tutorial]](discord){:target="_blank"}
+: **Lecture 1**{: .label .label-blue-custom} On Craft and Social Justice
 
 Sep 4
 : **Due 11am**{: .label .label-red-custom} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297y/prompts/#just-curious){:target="_blank"}
