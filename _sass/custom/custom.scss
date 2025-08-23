@@ -28,9 +28,10 @@ summary {
   width: 100%;
 }
 
-.a {
-  $link-color: #65000b;
+a:link {
+  color: #65000b;
 }
+
 
 .main-content {
   dl {

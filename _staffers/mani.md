@@ -7,7 +7,7 @@ meta:
   ⚧️ Pronouns: she/her
   🥸 Server name: fhqwgads
   🍵 Office hrs: 🕛 Tue 2-5, Wed 12-2 (DM for other), 📍 🔊Cafe
-  🌋 My hill to die on: Writing *is* thinking, not something that happens after thinking.
+  🌋 My hill to die on: Writing *is* thinking, not something that happens afterwards.
 ---
 
 [Schedule an appointment](https://zcal.co/drmani/coffee-chat){:target="_blank"}{: .btn .btn-outline } 
