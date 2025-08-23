@@ -5,7 +5,7 @@ title: Week 7 - Theoretical Fiction
 
 ## Week 7 - Theoretical Fiction
 
-📖 Read Margaret Atwood, ["Instructions for the Third Eye"](ws297y/assets/pdfs/atwood_instructions_for_third_eye.pdf){:target="_blank"}   
+📖 Read Margaret Atwood, ["Bread"](ws297y/assets/pdfs/atwood_bread.pdf){:target="_blank"}   
 📖 Read Haytham El Wardany, [Excerpt from *The Book of Sleep*](#){:target="_blank"}   
 📖 Read Jenny Boully, ["The Page as Artifact" from *Betwixt and Between*](ws297y/assets/pdfs/boully_page_as_artifact.pdf){:target="_blank"}   
 📖 Read Helene Cixous, ["Laugh of the Medusa"](ws297y/assets/pdfs/cixous_laugh_of_medusa.pdf){:target="_blank"}   

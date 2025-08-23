@@ -56,7 +56,7 @@ Your profile picture (PFP), username, and user settings (cogwheel icon ⚙️) a
 - Clicking your username in the lower right, then Edit Profile in the opened pop-up, or 
 - Clicking the ⚙️ icon next to your username to open the User Settings screen, then Profiles in the opened menu.
 
-Any changes you make to your Main Profile are visible on all servers you belong to; the Per-Server Profiles menu allows you to use different display names and pronouns on different servers.\
+Any changes you make to your Main Profile are visible on all servers you belong to; the Per-Server Profiles menu allows you to use different display names and pronouns on different servers.
 
 <img src="http://visforvali.github.io/ws297y/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
 
@@ -98,7 +98,7 @@ Click the ⚙️ at the bottom-left to access a list of customizable settings.
 
 ## User Settings
 
-Under User Settings, you may want to do the following:\
+Under User Settings, you may want to do the following:
 
 <img src="http://visforvali.github.io/ws297y/assets/images/preferences.gif" alt="How to customize appearance and accessibility preferences">
 
@@ -180,7 +180,7 @@ You can interact on our server via text, voice, and video. For in-depth document
 
 Text channels are indicated by the # symbol in the channel list. **Clicking a text channel in the left-hand channel list will open its content in the main view**, showing the chat bar and any existing messages. You can interact with existing messages in the text channel by adding a reaction, creating a thread, and/or replying directly to a message. 
 
-Text messages are persistent. You can search for old messages by using the upper-right search bar.\
+Text messages are persistent. You can search for old messages by using the upper-right search bar.
 
 <img src="http://visforvali.github.io/ws297y/assets/images/messages.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
 

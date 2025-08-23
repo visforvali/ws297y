@@ -16,21 +16,32 @@ nav_order: 7
 {:toc}
 
 {: .important }
-Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/calendar.md) page and in chronological order on [Classes\Content\Texts](#){:target="_blank"}.
-\
-There are many articles, blogs, books and podcasts that are very interesting for more reading on the topics discussed in class. If you have suggestions about materials to share, please let me know, and I'll add it to the list!
+> Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](ws297y/calendar) page and in chronological order on [Classes\Content\Texts](classes.pace.edu){:target="_blank"}.
+
+There are many articles, blogs, books and podcasts that would have been interesting to include in this class but ultimately didn't make the cut. If you have suggestions about materials to share, let me know and I'll add them to the list!
 
 ## Essays and Stories 📚
 
-Here are some essays and stories that pertain to this class but didn't make the cut:
+Here are some essays, stories, and books that are relevant to this class:
 
+- Clive Barker, ["In the Hills, the Cities"](https://dn720004.ca.archive.org/0/items/short_story_roulette/Barker%2C%20Clive%20-%20In%20the%20Hills%2C%20the%20Cities.pdf){:target="_blank"} (Fun fact: In Nine Inch Nails' ["Sin"](https://www.youtube.com/watch?v=lIvzTlAdcUE){:target="_blank"}, the lyric "Stale incense, old sweat, and lies" is a quote from this short story.)
+- Jorge Luis Borges, ["The House of Asterion"](https://www.freewriterscentre.org/uploads/1/2/5/6/125643600/house_of_asterion.pdf){:target="_blank"}
+- Italo Calvino, [*Invisible Cities*](https://irenebrination.typepad.com/files/calvino_italo_invisible_cities.pdf){:target="_blank"}
+- Italo Calvino, [*Castle of Crossed Destinies*](#){:target="_blank"}
+- Julio Cortazar, ["House Taken Over"](https://berwickea.org/wp-content/uploads/2020/09/House-Taken-Over.pdf){:target="_blank"}
+- Octavia Butler, ["Bloodchild"](https://dl.booksee.org/foreignfiction/508000/ed55a50187fbf71be93a6aab73efcaef.pdf/_as/%255BButler_Octavia%255D_Bloodchild%28BookSee.org%29.pdf){:target="_blank"}
+- Philip K. Dick, ["I Hope I Shall Arrive Soon"](https://dn720004.ca.archive.org/0/items/english-collections-1/I%20Hope%20I%20Shall%20Arrive%20Soon%20-%20Philip%20K.%20Dick.pdf){:target="_blank"}
 - Cameron Dodd, ["College Writing Class Assignments with Real World Applications"](https://www.mcsweeneys.net/articles/college-writing-class-assignments-with-real-world-applications){:target="_blank"}
-
-- *The Onion,* ["'No Way to Prevent This,' Says Only Nation Where This Regularly Happens"](https://theonion.com/no-way-to-prevent-this-says-only-nation-where-this-r-1819576527/){:target="_blank"}
-
-
+- Meg Elison, ["Dresses Like White Elephants"](https://blog.pmpress.org/2020/06/06/dresses-like-white-elephants-on-uncanny-magazine/){:target="_blank"}
+- Franz Fanon, [*Pedagogy of the Oppressed*](https://fsi-ebcao.princeton.edu/sites/g/files/toruqf1411/files/media/freire.pdf){:target="_blank"}
+- Jack Finney, ["Of Missing Persons"](https://ia601403.us.archive.org/12/items/short_story_roulette/Finney%2C%20Jack%20-%20Of%20Missing%20Persons.pdf){:target="_blank"}
+- Ken Liu, ["Thoughts and Prayers"](https://slate.com/technology/2019/01/thoughts-and-prayers-ken-liu-short-story.html){:target="_blank"}
+- Audre Lorde, [*The Cancer Journals*](https://monoskop.org/images/1/16/Lorde_Audre_The_Cancer_Journals_2nd_ed_1980.pdf){:target="_blank"}
 - Carmen Maria Machado, ["The Husband Stitch"](https://granta.com/The-Husband-Stitch/){:target="_blank"}
-- 
+- Vyshali Manivannan, ["Chaos Itself Is an Order"](https://vyshalimanivannan.com/wp-content/uploads/2025/04/VM-2021-ChaosItselfIsAnOrder.pdf){:target="_blank"}
+- Herman Melville, ["Bartleby the Scrivener"](https://www.gutenberg.org/files/11231/11231-h/11231-h.htm){:target="_blank"}
+- *The Onion,* ["'No Way to Prevent This,' Says Only Nation Where This Regularly Happens"](https://theonion.com/no-way-to-prevent-this-says-only-nation-where-this-r-1819576527/){:target="_blank"}
+- Meg Pillow, ["Long Live the Girl Detective"](https://electricliterature.com/long-live-the-girl-detective-by-megan-pillow/){:target="_blank"}
 
 
 ## Podcasts 📻
@@ -59,5 +70,9 @@ Here are links to buy the solo journaling RPGs I modded for this class, and the 
 
 Games that, due to time constraints, didn't make the cut:
 
+- [The Beginner's Guide](){:target="_blank"}
+- [Celeste](){:target="_blank"}
+- [The Dark Queen of Mortholme](){:target="_blank"}
+- [Heaven's Vault](){:target="_blank"}
 - [Papers, Please](https://store.steampowered.com/app/352240/The_Westport_Independent/){:target="_blank"}
-- 
+- [Wildermyth](){:target="_blank"}

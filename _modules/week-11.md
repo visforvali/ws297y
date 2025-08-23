@@ -5,7 +5,7 @@ title: Week 11 - False Starts
 
 ## Week 11 - False Starts
 
-📖 Read Edouard Leve, [Excerpt from *Oeuvres*](ws297y/assets/pdfs/leve_oeuvres.pdf){:target="_blank"}   
+📖 Read Myisha Cherry, ["Painting in Broad Strokes"](ws297y/assets/pdfs/cherry_painting_in_broad_strokes.pdf){:target="_blank"}   
 
 Nov 11
 : **No Class**{: .label .label-purple } Veteran's Day
