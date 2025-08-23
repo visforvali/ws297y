@@ -28,6 +28,10 @@ summary {
   width: 100%;
 }
 
+.a {
+  $link-color: #65000b;
+}
+
 .main-content {
   dl {
     display: block;
@@ -49,8 +53,3 @@ summary {
     }
   }
 }
-
-$link-color: $red-dk-000;
-$red-dk-000: #65000b !default;
-$brown-lt-000: #f0ead6 !default;
-$blue-lt-000: #add8e6 !default;
