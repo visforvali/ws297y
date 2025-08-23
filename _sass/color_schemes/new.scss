@@ -76,6 +76,13 @@ $red-300: #dd2e2e !default;
 $red-dk-000: #65000b !default;
 $brown-lt-000: #f0ead6 !default;
 
+//Labels
+.label {
+    border-radius: $border-radius;
+    margin-left: 0;
+    user-select: none;
+}
+
 // Spacing
 
 $spacing-unit: 1rem; // 1rem == 16px
