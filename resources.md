@@ -16,7 +16,7 @@ nav_order: 7
 {:toc}
 
 {: .important }
-> Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](ws297y/calendar) page and in chronological order on [Classes\Content\Texts](classes.pace.edu){:target="_blank"}.
+> Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/ws297y/calendar) page and in chronological order on [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
 
 There are many articles, blogs, books and podcasts that would have been interesting to include in this class but ultimately didn't make the cut. If you have suggestions about materials to share, let me know and I'll add them to the list!
 
@@ -27,7 +27,7 @@ Here are some essays, stories, and books that are relevant to this class:
 - Clive Barker, ["In the Hills, the Cities"](https://dn720004.ca.archive.org/0/items/short_story_roulette/Barker%2C%20Clive%20-%20In%20the%20Hills%2C%20the%20Cities.pdf){:target="_blank"} (Fun fact: In Nine Inch Nails' ["Sin"](https://www.youtube.com/watch?v=lIvzTlAdcUE){:target="_blank"}, the lyric "Stale incense, old sweat, and lies" is a quote from this short story.)
 - Jorge Luis Borges, ["The House of Asterion"](https://www.freewriterscentre.org/uploads/1/2/5/6/125643600/house_of_asterion.pdf){:target="_blank"}
 - Italo Calvino, [*Invisible Cities*](https://irenebrination.typepad.com/files/calvino_italo_invisible_cities.pdf){:target="_blank"}
-- Italo Calvino, [*Castle of Crossed Destinies*](#){:target="_blank"}
+- Italo Calvino, [*Castle of Crossed Destinies*](https://openlibrary.org/books/OL4734329M/The_Castle_of_Crossed_Destinies){:target="_blank"}
 - Julio Cortazar, ["House Taken Over"](https://berwickea.org/wp-content/uploads/2020/09/House-Taken-Over.pdf){:target="_blank"}
 - Octavia Butler, ["Bloodchild"](https://dl.booksee.org/foreignfiction/508000/ed55a50187fbf71be93a6aab73efcaef.pdf/_as/%255BButler_Octavia%255D_Bloodchild%28BookSee.org%29.pdf){:target="_blank"}
 - Philip K. Dick, ["I Hope I Shall Arrive Soon"](https://dn720004.ca.archive.org/0/items/english-collections-1/I%20Hope%20I%20Shall%20Arrive%20Soon%20-%20Philip%20K.%20Dick.pdf){:target="_blank"}
