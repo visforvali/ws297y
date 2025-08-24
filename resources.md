@@ -70,9 +70,8 @@ Here are links to buy the solo journaling RPGs I modded for this class, and the 
 
 Games that, due to time constraints, didn't make the cut:
 
-- [The Beginner's Guide](){:target="_blank"}
-- [Celeste](){:target="_blank"}
-- [The Dark Queen of Mortholme](){:target="_blank"}
-- [Heaven's Vault](){:target="_blank"}
+- [The Beginner's Guide](https://store.steampowered.com/app/303210/The_Beginners_Guide/){:target="_blank"}
+- [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme?download){:target="_blank"}
+- [Heaven's Vault](https://www.inklestudios.com/heavensvault/){:target="_blank"}
 - [Papers, Please](https://store.steampowered.com/app/352240/The_Westport_Independent/){:target="_blank"}
-- [Wildermyth](){:target="_blank"}
+- [Wildermyth](https://wildermyth.com/){:target="_blank"}
