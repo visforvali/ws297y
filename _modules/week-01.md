@@ -10,13 +10,15 @@ title: Week 1 - Complicity or Resistance
 📖 Read Ursula K. LeGuin's ["The Ones Who Walk Away from Omelas"](/ws297y/assets/pdfs/leguin_ones_who_walk_away_from_omelas.pdf){:target="_blank"}   
 
 Sep 2
-: **Demo**{: .label .label-yellow-custom } Tech setup, exploration, practice
+: **Lecture**{: .label .label-blue-custom} On Craft and Social Justice
   : [lecture notes]
-: **Due Midnight**{: .label .label-red-custom} Customize Discord profile, roles, introduction
+: **Practice**{: .label .label-green-custom } Tech setup and exploration
   : [[discord tutorial]](discord){:target="_blank"}
-: **Lecture 1**{: .label .label-blue-custom} On Craft and Social Justice
+: **Due Midnight**{: .label .label-red-custom} Customize Discord profile, roles, introduction
 
 Sep 4
 : **Due 11am**{: .label .label-red-custom} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297y/prompts/#just-curious){:target="_blank"}
+  : &nbsp;
+: **Lecture**{: .label .label-blue-custom} Philosophical Fiction
   : [lecture notes]
-: **Discuss**{: .label .label-blue-custom} LeGuin
+: **Discussion**{: .label .label-blue-custom} LeGuin

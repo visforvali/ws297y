@@ -5,9 +5,14 @@ title: Week 16 - Departures
 
 ## Week 16 - Departures
 
-Dec 16
-: **Async**{: .label .label-purple } Drafting, workshop, final Q&A
+📖 Read the drafts your teammmates submitted for workshop
 
+Dec 16
+: **Share by 11am**{: .label .label-red-custom } Post drafts for workshop to #team. 
+: **Discuss**{: .label .label-blue-custom} Final Q&A
+: **Async**{: .label .label-purple-custom } Drafting, workshop, final Q&A
 
 Dec 18
-: **Async**{: .label .label-purple } Drafting, workshop, final Q&A
+: **Share by 11am**{: .label .label-red-custom } Post drafts for workshop to #team.
+: **Discuss**{: .label .label-blue-custom} Final Q&A 
+: **Async**{: .label .label-purple-custom } Drafting, workshop, final Q&A

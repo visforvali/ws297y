@@ -5,16 +5,20 @@ title: Week 3 - Don't Let the Bastards Grind You Down
 
 ## Week 3 - Don't Let the Bastards Grind You Down
 
-📖 Read Helen Oyeyemi, ["If a Book's Locked There's Probably a Reason for That, Don't You Think"](ws297y/assets/pdfs/oyeyemi_if_a_book_is_locked.pdf){:target="_blank"}   
+📖 Read Helen Oyeyemi, ["If a Book's Locked There's Probably a Reason for That, Don't You Think"](/ws297y/assets/pdfs/oyeyemi_if_a_book_is_locked.pdf){:target="_blank"}   
 
 Sep 16
-: **Post by 11am**{: .label .label-red} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
+: **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
+  : &nbsp;
+: **Lecture**{: .label .label-blue-custom} Intimacy, Cruelty, Unknowability... and Work
   : [lecture notes]
-: **Discuss**{: .label .label-blue} Oyeyemi
-: **Play/Write**{: .label .label-yellow} *B&V* Stage 2
+: **Discussion**{: .label .label-blue-custom} Oyeyemi
+: **TTRPG**{: .label .label-green-custom} *B&V* Stage 2
   : &nbsp;
   
 Sep 18
-: **Stream**{: .label .label-yellow} *The Stanley Parable*
+: **Lecture**{: .label .label-blue-custom} Exposing the Common
   : [lecture notes]
-: **Play/Write**{: .label .label-yellow} *B&V* Stage 3
+: **Stream**{: .label .label-green-custom} *The Stanley Parable*
+  : &nbsp;
+: **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 3

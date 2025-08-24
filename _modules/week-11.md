@@ -5,14 +5,14 @@ title: Week 11 - False Starts
 
 ## Week 11 - False Starts
 
-📖 Read Myisha Cherry, ["Painting in Broad Strokes"](ws297y/assets/pdfs/cherry_painting_in_broad_strokes.pdf){:target="_blank"}   
+📖 Read Myisha Cherry, ["Painting in Broad Strokes"](/ws297y/assets/pdfs/cherry_painting_in_broad_strokes.pdf){:target="_blank"}   
 
 Nov 11
-: **No Class**{: .label .label-purple } Veteran's Day
-: **Play by Thu**{: .label .label-red} [*Writer's Rush*](https://frogstorm.itch.io/writers-rush){:target="_blank"}   
+: **No Class**{: .label .label-purple-custom } Veteran's Day
 
 Nov 13
-: **Post by 11am**{: .label .label-red} Choose *one* of: [Why](https://visforvali.github.io/ws297y/prompts/#why), [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
+: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Why](https://visforvali.github.io/ws297y/prompts/#why), [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
+  : &nbsp;
+: **Lecture**{: .label .label-blue-custom} Political Uses for Minor Feelings
   : [lecture notes]
-: **Discuss**{: .label .label-blue} Leve, *Writer's Rush*
-: **Play/Write**{: .label .label-yellow} *Auspex* Day 7 and debrief
+: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 7 and debrief
