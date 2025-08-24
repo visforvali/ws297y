@@ -18,35 +18,24 @@ nav_order: 5
 # Low-Stakes Writing
 {: .no_toc }
 
-The low-stakes writing prompts for this class get you to engage with the readings by having you reflect on portions of the texts and/or pose questions about the texts yourself &mdash; allowing you to respond to things that excite, inspire, and/or confuse you most in the texts &mdash; and begin to answer those questions in writing before we meet for sync class sessions.
+These low-stakes writing prompts put *you* in the driver's seat.
+
+Instead of asking you a narrow question that might feel "leading" or like it's "testing" your understanding or knowledge, these prompts provide frameworks to anchor you in course content and ask *you* to ask and attempt to answer a question, within a loose framework designed to keep you anchored in course content. This gets you to develop your learning out of things that naturally excite, inspire, and/or confuse you most.
+
+The questions you come up with in your low-stakes posts will be integrated into class lectures and discussions, so this also helps you feel more confident about vocally contributing to class, i.e. you can talk about your own question and someone else's!
 
 {: .warning }
 > You can ask and answer any question you like, but it *must* be informed by the prompt framework you selected for the week and pertain to that week's readings. 
 
-Each week, 3 prompts are identified and linked on the calendar. All prompts and their instructions are listed here. 
+Each week, you'll be given 3 prompts and asked to use 1 of them to write-to-think towards asking and answering a question. These posts won't be perfect &mdash; as a matter of fact, they shouldn't be. I hope for low-stakes posts that are informal, casual, unrehearsed, definitely unpolished, more concerned with precision of thought than adherence to grammar, mechanics, and academic style. 
 
-The prompts below concern various ideas, craft techniques, activities, and themes. You'll use these prompts to help you come up with a question about the week's readings for your low-stakes writing post and to help you prepare for class discussion. 
+All prompts and their instructions are listed here. They offer various ideas, craft techniques, activities, and themes to prompt your questing. 
 
-Always write in a word processor so you have a local copy, 
+{: .important }
+> Since low-stakes posts will help launch class discussions, please post them directly in #classroom (and feel free to react/reply to your comrades' posts!). Include "✍️" and the title of the prompt you're responding to at the start of your post, so I know it's your submission for the week and have context for your response. **Draft your posts in a word processor, so you have a local saved copy in case of technical difficulties.** 
 
-
-{: .warning }
-Since these posts are meant to be integrated into our sync discussions, you'll post them directly in #classroom.
-
-
-
-Include "✍️" and the title of the prompt you're responding to at the start of your post, so I know it's your submission for the week and have context for your response, i.e., "
-
-{: .}
-> ✍️ **Poetic Inference**: In Atwood's "The Page," I felt enlivened by the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" When she first calls it "a skin" it resonated. In the "gutter" between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question startled me, and I hadn't gotten my bearings back after the revelation that the page is a skin but also a thing with skin (implied by "a skin is there to hold in"). 
-
-The same way skin touches you back when you touch it, the page acts on you when you read it or write on it.
-
-There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing." 
-
-
-Q: If writing and reading are a collaborative risk, 
-
+{: .new }
+> ✍️ **Poetic Inference**: In Atwood's "The Page," the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" felt like a revelation. I think I always knew this but didn't have the words, so it resonated when she first called it "a skin." Between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question is meant to be quick and disorienting and make readers feel (infer?) the risk of reading and writing, which mostly is treated like a safe, boring activity. The page is a skin which means it's also a thing with skin, full of organs like a living body, and the same way skin touches you back when you touch it, the page acts on you when you read it or write on it. There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing" &mdash; the (female/gender nonconforming) body is not a passive thing for you to impose meaning onto. Are we supposed to think that the page = bodies that resist easy understanding? And if so, are we supposed to think that inference is more dangerous for readers who approach the page like its passive, or for readers who approach the page expecting a confrontation? Or, thinking of social justice now, should the page *always* be a confrontation?
 
 ## Annotation
 
