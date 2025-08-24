@@ -11,7 +11,7 @@ title: Week 7 - Theoretical Fiction
 📖 Read Helene Cixous, ["Laugh of the Medusa"](/ws297y/assets/pdfs/cixous_laugh_of_medusa.pdf){:target="_blank"}   
 
 Oct 14
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}
+: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Theory-Fiction
   : [lecture notes]

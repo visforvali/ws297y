@@ -8,7 +8,7 @@ title: Week 12 - Apocalyptic Tenderness
 📖 Read Carmen Maria Machado, ["Inventory"](/ws297y/assets/pdfs/machado_inventory.pdf){:target="_blank"}   
 
 Nov 18
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}
+: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} A Tender Apocalypse
   : [lecture notes]
