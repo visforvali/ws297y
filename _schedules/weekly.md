@@ -33,7 +33,7 @@ schedule:
       - name: Potential Times
         start: 5:00 PM
         end: 6:00 PM
-        location: 1-on-1 DM for availability
+        location: DM for availability
   - name: Wednesday
     events:
       - name: Coffee Chats
@@ -43,7 +43,7 @@ schedule:
       - name: Potential Times
         start: 5:00 PM
         end: 7:00 PM
-        location: 1-on-1 DM for availability
+        location: DM for availability
   - name: Thursday
     events:
       - name: Class
@@ -59,5 +59,5 @@ schedule:
     - name: Potential Times
       start: 4:00 PM
       end: 5:00 PM
-      location: 1-on-1 DM for availability
+      location: DM for availability
 ---

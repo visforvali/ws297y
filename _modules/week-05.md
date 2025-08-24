@@ -17,4 +17,4 @@ Sep 30
   : &nbsp;
   
 Oct 2
-: **Async**{: .label .label-purple-custom } Yom Kippur - No Class/Chats
+: **No Class**{: .label .label-purple-custom } Yom Kippur - No Class/Chats

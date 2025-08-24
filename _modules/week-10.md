@@ -16,6 +16,6 @@ Nov 4
 : **TTRPG**{: .label .label-yellow} *Auspex* Day 5
 
 Nov 6
-: **Discussion**{: .label .label-blue-custom} Mid-Semester Check-In
+: **Discussion**{: .label .label-blue-custom} Checking In
   : [lecture notes]
 : **TTRPG**{: .label .label-yellow} *Auspex* Day 6
