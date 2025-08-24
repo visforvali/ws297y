@@ -9,7 +9,7 @@ title: Week 2 - Fluid Perspectives
 📖 Read Zoe Bossiere & Erica Trabold's ["Introduction to *The Lyric Essay as Resistance*"](/ws297y/assets/pdfs/bossiere_trabold_intro_lyric_essay_as_resistance.pdf){:target="_blank"}   
 
 Sep 9
-: **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation), [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you), [Why](https://visforvali.github.io/ws297y/prompts/#why)
+: **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Philosophical Fanfiction
   : [lecture notes]

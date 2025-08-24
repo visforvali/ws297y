@@ -11,7 +11,7 @@ Nov 11
 : **No Class**{: .label .label-purple-custom } Veteran's Day
 
 Nov 13
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Why](https://visforvali.github.io/ws297y/prompts/#why), [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
+: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Political Uses for Minor Feelings
   : [lecture notes]
