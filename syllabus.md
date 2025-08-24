@@ -43,7 +43,7 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 # Required Materials 💰
 
 { .note }
-> All required readings are provided for free. They're uploaded to [Classes\Content](https://classes.pace.edu){:target="_blank"} and are linked on this website: by week on the [Calendar](/ws297y/calendar) and by alphabetical order in [Resources](/ws297y/resources).
+> All required readings are provided for free. They're uploaded to [Classes\Content](https://classes.pace.edu){:target="_blank"} and are linked on this website: by week on the [Calendar](/ws297y/) and by alphabetical order in [Resources](/ws297y/resources).
 
 On your own, you'll need to obtain:
 
@@ -68,34 +68,32 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 # Grading Breakdown 💯
 
 {: .note }
-> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Assignments and Assessments](/ws297y/alt-grading) page.
+> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Alt-Grading System](/ws297y/alt-grading) page.
 
 Participation | 40% | [[description](https://visforvali.github.io/ws297y/alt-grading/#participation-)]
-High-Stakes Writing | 40% | [[description](https://visforvali.github.io/ws297y/alt-grading/#high-stakes-graded-writing)]
+High-Stakes Writing | 40% | [[description](https://visforvali.github.io/ws297y/alt-grading/#high-stakes-graded-writing-)]
 Low-Stakes Writing | 20% | [[description](https://visforvali.github.io/ws297y/alt-grading/#low-stakes-ungraded-discord-posts-%EF%B8%8F%E2%83%A3)]
 
 # Policies for WS 297Y & Pace
+
 {: .important }
 > Make sure to read the policies specific to this course! You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. I've labeled them "WS 297Y" and "Pace" to differentiate in case you want to skim/skip Pace's boilerplate stuff.
 
 ## WS 297Y: Accessibility & Student Support ♿
 
-{: .warning }
-> If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. 
+If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. **Barring emergencies, I need as much advance notice as possible to effectively accommodate you.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. 
 
 {: .note }
 > If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
-
-I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. **Barring emergencies, I need as much advance notice as possible to effectively accommodate you.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. 
 
 To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at 212-346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
 ## WS 297Y: Attendance Policy 🙋
 
-{ .warning }
+{: .warning }
 > In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
 
-{ .important }
+{: .important }
 > The pandemic isn't over. For information on how to affordably protect yourself from infectious diseases, refer to this informational resource I put together on [pandemics and public health](https://vyshalimanivannan.com/pandemics-public-health/){:target="_blank"}, which includes info on current strains, long-term costs of COVID-19 and post-COVID syndromes, where to buy PPE affordably, and an abbreviated course policy on illness.
 
 Life is stressful: We're dealing with changes in government and social policy &mdash; cuts to open education, equity initiatives that support women, BIPOC, disabled, and LGBTQIA+ folks, social welfare, FEMA, the VA; bans on public health and science communications; attacks on citizenship and ICE raids &mdash; and ongoing problems like the rising cost of living; weather extremes and environmental disasters; gun violence; GenAI's destruction of environment, human intentionality, and reliable information; food recalls; medication shortages; and an uptick in anti-intellectualism and bigotry. 
@@ -121,7 +119,7 @@ This class is an antiracism education course and fulfills the ARE requirement, s
 
 ## WS 297Y: Academic Integrity & Brain-Only Writing 🧠
 
-{: .warning }
+{: .important }
 > You're responsible for following Pace's [Academic Integrity Code](https://www.pace.edu/sites/default/files/files/student-handbook/pace-university-academic-integrity-code.pdf){:target="_blank"}. Don't invent research data, lie about engaging with a text, fabricate a source, pass off another human's responses as your own, or use GenAI. In accordance with university policy, all violations of academic integrity will be reported to your academic adviser and the Academic Conduct Committee. 
 
 Writing *is* the process of thinking and learning, so do your own work! If you use sources, including the assigned texts, cite them whether you're paraphrasing (translating the text into your own voice) or quoting (using the text's words). If a submission sounds "off" for any reason, and if you're unable to walk me through the writing choices you made and why (what you hoped to accomplish, how your thoughts and wordsmithing were supposed to get you there), then I'm unlikely to accept that submission for credit.
