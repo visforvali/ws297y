@@ -5,7 +5,7 @@ description: All writing prompts.
 nav_order: 5
 ---
     
-# Discord Tutorial 
+# Writing Prompts ✍️
 {:.no_toc}
 
 ## Table of Contents
@@ -18,9 +18,9 @@ nav_order: 5
 # Low-Stakes Writing
 {: .no_toc }
 
-These low-stakes writing prompts put *you* in the driver's seat.
+These low-stakes writing prompts put *you* in the driver's seat. Instead of asking you a narrow question that might feel "leading" or like it's "testing" your understanding or knowledge, these prompts provide frameworks to anchor you in course content and ask *you* to ask and attempt to answer a question, within a loose framework designed to keep you anchored in course content. You'll develop your interest and understanding of creative writing for social justice. 
 
-Instead of asking you a narrow question that might feel "leading" or like it's "testing" your understanding or knowledge, these prompts provide frameworks to anchor you in course content and ask *you* to ask and attempt to answer a question, within a loose framework designed to keep you anchored in course content. This gets you to develop your learning out of things that naturally excite, inspire, and/or confuse you most.
+out of things that naturally excite, inspire, and/or confuse you most.
 
 The questions you come up with in your low-stakes posts will be integrated into class lectures and discussions, so this also helps you feel more confident about vocally contributing to class, i.e. you can talk about your own question and someone else's!
 

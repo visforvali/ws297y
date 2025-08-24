@@ -53,7 +53,7 @@ schedule:
       - name: Potential Times
         start: 3:00 PM
         end: 4:00 PM
-        location: 🔊Cafe (check Zcal)
+        location: DM for availability
   - name: Friday
     events:
     - name: Potential Times
