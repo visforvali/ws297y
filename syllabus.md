@@ -43,7 +43,7 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 # Required Materials 💰
 
 { .note }
-> All required readings are provided for free. They're uploaded to [Classes\Content](#){:target="_blank"} and are linked on this website: by week on the [Calendar](/calendar.md) and by alphabetical order in [Resources](/resources.md).
+> All required readings are provided for free. They're uploaded to [Classes\Content](https://classes.pace.edu){:target="_blank"} and are linked on this website: by week on the [Calendar](/ws297y/calendar) and by alphabetical order in [Resources](/ws297y/resources).
 
 On your own, you'll need to obtain:
 
@@ -54,21 +54,21 @@ On your own, you'll need to obtain:
 
 This is an **online synchronous course that meets twice a week using Discord** for sync sessions and sync/async text chats. Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
 
-**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Quickstart Guide](/discord.md) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
+**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Quickstart Guide](/ws297y/discord) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
 {: .important }
 > We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing, and share your grades with you.
 
 We'll use 2 platforms (plus occasional use of Classes) this semester:
 
-- **Discord**: Discussion forum for class meetings, text chats, communication, announcements, c
-- **Course Website**: This site, where course content is posted.
-- **Classes**: Platform for submitting assignments and viewing grades. You should be automatically added to Classes.
+- **Discord**: Discussion forum for sync class sessions, sync and async text chats, low-stakes writing assignments, workshops, announcements.
+- **Course Website**: This website, where course content is posted.
+- **Classes**: Platform for submitting assignments and viewing grades.
 
 # Grading Breakdown 💯
 
 {: .note }
-> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Assignments and Assessments](/alt-grading.md) page.
+> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Assignments and Assessments](/ws297y/alt-grading) page.
 
 Participation | 40% | [[description](https://visforvali.github.io/ws297y/alt-grading/#participation-)]
 High-Stakes Writing | 40% | [[description](https://visforvali.github.io/ws297y/alt-grading/#high-stakes-graded-writing)]
@@ -86,9 +86,9 @@ Low-Stakes Writing | 20% | [[description](https://visforvali.github.io/ws297y/al
 {: .note }
 > If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
 
-I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. You don’t need to disclose any more details than you wish. You can just tell me you’re dealing with stuff, and then we can strategize ways for you to fulfill the course requirements while taking care of yourself. 
+I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. **Barring emergencies, I need as much advance notice as possible to effectively accommodate you.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. 
 
-To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at (212) 346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at (914) 773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
+To request an official accommodation for a qualifying disability a student must self-identify and register with the [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for his/her/their campus. Student Accessibility Services for the New York City campus may be contacted at 212-346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
 ## WS 297Y: Attendance Policy 🙋
 
@@ -154,6 +154,6 @@ Questions? Please email [LC_PLV@pace.edu](mailto:LC_PLV@pace.edu) or [LC_NYC@pac
 
 If you've experienced a threat to your safety or been physically or sexually assaulted, there are confidential resources available at the university to assist you:
 
-- [Pace Counseling Center](){:target="_blank"} (*NYC*: 161 William Street, 7th Floor, 212-346-1526; *PLV*: Administration Building, 2nd Floor, 914-773-3710)
-- [Office of Sexual and Interpersonal Wellness](https://www.pace.edu/sexual-wellness){:target="_blank"} (*NYC*: Director - [Ashleigh Andersen](aandersen2@pace.edu){:target="_blank"}, 41 Park Row, 9th Floor, Office 905, 212-346-1931, *PLV*: Director - [Asha M. Kadir](akadir@pace.edu){:target="_blank"}, Elm Hall, 133B, 914-773-8783)
+- [Pace Counseling Center](https://www.pace.edu/counseling/about){:target="_blank"} (*NYC*: 161 William Street, 7th Floor, 212-346-1526; *PLV*: Administration Building, 2nd Floor, 914-773-3710)
+- [Office of Sexual and Interpersonal Wellness](https://www.pace.edu/sexual-wellness){:target="_blank"} (*NYC*: Director - [Ashleigh Andersen](mailto:aandersen2@pace.edu){:target="_blank"}, 41 Park Row, 9th Floor, Office 905, 212-346-1931, *PLV*: Director - [Asha M. Kadir](mailto:akadir@pace.edu){:target="_blank"}, Elm Hall, 133B, 914-773-8783)
 - [University Healthcare](https://www.pace.edu/college-health-professions/life-chp/university-health-care){:target="_blank"}, (*NYC*: 161 William Street, 2nd Floor, Room 212, 212-346-1600; *PLV*: Paton House Ground Fl., 861 Bedford Rd., 914-773-3760)
