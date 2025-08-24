@@ -69,7 +69,7 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 
 Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and how they use various craft techniques to accomplish the aims of social justice and/or imagine more socially just futures. I open these low-stakes work threads in advance and leave them unlocked so you can post, reply, and reference them at any time. I also emoji react and/or reply to your posts to give you a sense of how I'm interpreting your contributions. 
 
-Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop critiques, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to choose 1 prompt &mdash; from a rotating selection of the full list of [Writing Prompts](/prompts.md) &mdash; and use it to guide your response to the materials for that week. Eligible prompts to choose from per week can be found on the [Calendar](/calendar.md).
+Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop critiques, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to choose 1 prompt &mdash; from a rotating selection of the full list of [Writing Prompts](/ws297y/prompts) &mdash; and use it to guide your response to the materials for that week. Eligible prompts to choose from per week can be found on the [Calendar](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance).
 
 Nothing in this class is busy work. Low-stakes work can be &mdash; is designed to be, even! &mdash; repurposed in your high-stakes projects, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them). 
 
@@ -87,13 +87,12 @@ The assessment criteria for the high-stakes project are:
 - Your writing decisions (form, content, genre) in each piece must enact and/or contribute to the argument
 - You must emulate a craft technique from at least 8 of the texts we read
 - You must modify and incorporate at least 1 piece of writing you produced during *each* of our TTRPG solo journaling games
-- Each creative piece should contain at least 5 footnotes, identifying 
 - You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need a "in case readers don't get it" explanation.
 
 # Deadlines & Grace Period 😇
 
 {: .important}
-> This grace period doesn't apply to a lack of participation, which can't be made up once the week has passed unless we've made alternate arrangements. 
+> This grace period doesn't apply to a lack of participation, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
 
 I accept *all* writing assignments with no penalty or questions asked within 1 week of the original deadline (as long as they meet the rest of the assignment criteria). Please note that the grace period is time-bound, and I'm unable to accept work on a rolling basis whenever around you get to it. I can't promptly review late work. I don't accept work more than 1 week late unless we made alternate arrangements in advance.
 
@@ -104,7 +103,7 @@ I accept *all* writing assignments with no penalty or questions asked within 1 w
 
 When you participate in voice chat during sync class sessions (whether what you say is correct or not) or are very proactive and conversational in our server's text channels, I'll note it in my roster as a "redemption point." You can earn up to 3 redemption points a week and trade them in for different chances to "redeem" a grade:
 
-Points | Resubmit For
+**Points** | **Resubmit For**
 2 pts | You can submit 1 missed/no-credit low-stakes writing work.
 4 pts | You can revise and resubmit 1 missed/no-credit high-stakes draft.
 6 pts | You can add 1% to your participation score.
