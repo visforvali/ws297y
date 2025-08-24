@@ -46,6 +46,10 @@ schedule:
         location: DM for availability
   - name: Thursday
     events:
+      - name: Potential Times
+        start: 9:00 AM
+        end: 10:00 AM
+        location: DM for availability
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
