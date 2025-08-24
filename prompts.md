@@ -18,7 +18,7 @@ nav_order: 5
 # Low-Stakes Writing
 {: .no_toc }
 
-The low-stakes writing prompts for this class get you to engage with the readings by having you reflect on portions of the texts and/or pose questions about the texts yourself &mdash; allowing you to respond to things that excite, inspire, and/or confuse you most in the texts &mdash; and begin to figure out an answer in writing in aadvance of class discussion. 
+The low-stakes writing prompts for this class get you to engage with the readings by having you reflect on portions of the texts and/or pose questions about the texts yourself &mdash; allowing you to respond to things that excite, inspire, and/or confuse you most in the texts &mdash; and begin to answer those questions in writing before we meet for sync class sessions.
 
 {: .warning }
 > You can ask and answer any question you like, but it *must* be informed by the prompt framework you selected for the week and pertain to that week's readings. 
@@ -27,10 +27,31 @@ Each week, 3 prompts are identified and linked on the calendar. All prompts and 
 
 The prompts below concern various ideas, craft techniques, activities, and themes. You'll use these prompts to help you come up with a question about the week's readings for your low-stakes writing post and to help you prepare for class discussion. 
 
+Always write in a word processor so you have a local copy, 
+
+
+{: .warning }
+Since these posts are meant to be integrated into our sync discussions, you'll post them directly in #classroom.
+
+
+
+Include "✍️" and the title of the prompt you're responding to at the start of your post, so I know it's your submission for the week and have context for your response, i.e., "
+
+{: .}
+> ✍️ **Poetic Inference**: In Atwood's "The Page," I felt enlivened by the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" When she first calls it "a skin" it resonated. In the "gutter" between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question startled me, and I hadn't gotten my bearings back after the revelation that the page is a skin but also a thing with skin (implied by "a skin is there to hold in"). 
+
+The same way skin touches you back when you touch it, the page acts on you when you read it or write on it.
+
+There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing." 
+
+
+Q: If writing and reading are a collaborative risk, 
+
+
 ## Annotation
 
 Skim the reading again. As soon as you encounter a word, phrase, or sentence that catches
-your attention, immediately annotate it with a guess as to why it struck you. Use these annotations to guide you in formulating a question you have about the relationship between the text's form, the reader, and its social justice argument. Attach a photograph of one of your annotated pages with your response as well.
+your attention, immediately annotate it with a guess as to why it struck you. Use these annotations to guide you in formulating a question you have about the relationship between the text's form, the reader, and its social justice argument. Attach a photograph of one of your annotated pages with your response as well. 
 
 ## Copycat
 
@@ -56,7 +77,7 @@ A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidde
 
 ## Poetic Inference
 
-Identify 2-3 paragraphs (they don't have to be consecutive) that made you feel like your senses came alive. Try to figure out what's going on between sentences that furthered your interpretive processes. Use this process to guide you in formulating a question you have about the text's poetics and reliance on reader inference to get at the aims of social justice message.
+Identify 2-5 lines (they don't have to be consecutive) that made you feel like your senses came alive. Try to figure out what's going on in and between sentences that inspired and anchored your interpretation. Use this process to guide you in formulating a question you have about the text's poetics and reliance on reader inference to get at the aims of social justice.
 
 ## Stumbling Blocks
 

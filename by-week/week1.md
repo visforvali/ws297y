@@ -12,9 +12,7 @@ In the first week of this course, you'll learn:
 
 - How this course will be organized and what will be expected from you in each class and each week
 - A general sense of the relationship between "minor" genres of writing and social justice movements
-- A little about philosophical writing 
-- How to read, think, and write about "The Ones Who Walk Away from Omelas"
-
+- A little about philosophical fiction 
 
 
 Important Dates:
