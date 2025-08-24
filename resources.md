@@ -16,7 +16,7 @@ nav_order: 7
 {:toc}
 
 {: .important }
-> Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/ws297y/calendar) page and in chronological order on [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
+> Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/ws297y/) page and in chronological order on [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
 
 There are many articles, blogs, books and podcasts that would have been interesting to include in this class but ultimately didn't make the cut. If you have suggestions about materials to share, let me know and I'll add them to the list!
 
@@ -29,7 +29,7 @@ Here are some essays, stories, and books that are relevant to this class:
 - Italo Calvino, [*Invisible Cities*](https://irenebrination.typepad.com/files/calvino_italo_invisible_cities.pdf){:target="_blank"}
 - Italo Calvino, [*Castle of Crossed Destinies*](https://openlibrary.org/books/OL4734329M/The_Castle_of_Crossed_Destinies){:target="_blank"}
 - Julio Cortazar, ["House Taken Over"](https://berwickea.org/wp-content/uploads/2020/09/House-Taken-Over.pdf){:target="_blank"}
-- Octavia Butler, ["Bloodchild"](https://dl.booksee.org/foreignfiction/508000/ed55a50187fbf71be93a6aab73efcaef.pdf/_as/%255BButler_Octavia%255D_Bloodchild%28BookSee.org%29.pdf){:target="_blank"}
+- Octavia Butler, ["Bloodchild"](https://archive.org/details/1540992824-octavia-butler-bloodchild/page/n5/mode/2up){:target="_blank"}
 - Philip K. Dick, ["I Hope I Shall Arrive Soon"](https://dn720004.ca.archive.org/0/items/english-collections-1/I%20Hope%20I%20Shall%20Arrive%20Soon%20-%20Philip%20K.%20Dick.pdf){:target="_blank"}
 - Cameron Dodd, ["College Writing Class Assignments with Real World Applications"](https://www.mcsweeneys.net/articles/college-writing-class-assignments-with-real-world-applications){:target="_blank"}
 - Meg Elison, ["Dresses Like White Elephants"](https://blog.pmpress.org/2020/06/06/dresses-like-white-elephants-on-uncanny-magazine/){:target="_blank"}
@@ -66,7 +66,7 @@ Here are links to buy the solo journaling RPGs I modded for this class, and the 
 - [Venatores](https://goodluckpress.co/products/venatores?pr_prod_strat=jac&pr_rec_id=3373e4029&pr_rec_pid=8022533406914&pr_ref_pid=8022521151682&pr_seq=uniform){:target="_blank"}
 - [Westport Independent](https://store.steampowered.com/app/352240/The_Westport_Independent/){:target="_blank"}
 
-# Other Games
+# Other Games 🎮
 
 Games that, due to time constraints, didn't make the cut:
 
