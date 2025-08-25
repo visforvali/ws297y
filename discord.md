@@ -43,7 +43,7 @@ Our priority is the privacy, security, and safety of the server. By joining, you
 - If you're made uncomfortable, bring your concerns to the facilitators and moderators.
 - Read member profiles before replying or DMing them, to make sure you're using their preferred pronouns and accommodating any listed access needs.
 - Don't spam channels or members' direct messages.
-- Dont post age-restricted or obscene content (this includes text, images, or links featuring nudity, sex, hard violence, or anything else that's graphically disturbing).
+- Don't post age-restricted or obscene content (this includes text, images, or links featuring nudity, sex, hard violence, or anything else that's graphically disturbing).
 - Harassment, trolling, and malicious shitposting will not be tolerated.
 - Communicate accessibly! Create threads to organize conversations as needed; avoid terms rooted in ableism and discrimination (refer to [Ableist Terms and Words to Avoid](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html){:target="_blank"} for guidance); use alt-text and tone indicators (for guidance, check out [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"} and [Tone Indicators](https://toneindicators.carrd.co/#masterlist){:target="_blank"}); and enable Live Captioning on your OS/browser for captions in voice channels (Discord doesn't yet have built-in captioning).
 - Call in people when they've crossed a line or are talking over someone (or @ or DM me) so we can have dialogue around uncomfortable moments.

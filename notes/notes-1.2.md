@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Week 1 - Complicity or Resistance
+title: 1.1 - On Craft and Social Justice
 nav_exclude: true
 ---
 
-# Week 1 - Complicity or Resistance
+# 1.1 - On Craft and Social Justice
+
+*Lecture notes posted after class!*
+
+
 
 ## Learning Objectives:
 

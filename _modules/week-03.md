@@ -11,14 +11,14 @@ Sep 16
 : **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Intimacy, Cruelty, Unknowability... and Work
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-3.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Oyeyemi
-: **TTRPG**{: .label .label-green-custom} *B&V* Stage 2
+: **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 2
   : &nbsp;
   
 Sep 18
 : **Lecture**{: .label .label-blue-custom} Exposing the Common
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-3.2){:target="_blank"}
 : **Stream**{: .label .label-green-custom} *The Stanley Parable*
   : &nbsp;
 : **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 3

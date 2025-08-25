@@ -11,12 +11,12 @@ Dec 9
 : **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} The Realities of Reconciliation
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-15.1){:target="_blank"}
 : **Discuss**{: .label .label-blue-custom } Anders
 : **Play/Write**{: .label .label-yellow-custom } *Dwelling* Room 4
 
 Dec 11
-: **Lecture**{: .label .label-blue-custom} Hauntings Are Assets If We Permit
-  : [lecture notes]
+: **Lecture**{: .label .label-blue-custom} The Unsaid and Unsayable
+  : [lecture notes](/ws297y/notes-15.2){:target="_blank"}
 : **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 5 and debrief
-: **Presentation**{: .label .label-green-custom } Share excerpts you're proud of 
+: **Presentation**{: .label .label-green-custom } Share an excerpt you're proud of!

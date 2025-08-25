@@ -14,12 +14,12 @@ Oct 14
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Theory-Fiction
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-7.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Atwood, El Wardany, Boully
   : &nbsp;
   
 Oct 16
 : **Lecture**{: .label .label-blue-custom} Écriture Féminine
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-7.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Cixous
 : **TTRPG**{: .label .label-yellow-custom } *Auspex* Worldbuilding and Day 1

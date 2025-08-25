@@ -12,7 +12,7 @@ Oct 7
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Can the Researcher's Tools Dismantle Their House?
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-6.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Sen
 : **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 6
   : &nbsp;

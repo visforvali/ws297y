@@ -14,6 +14,6 @@ Sep 25
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} What Tests Teach Us
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-4.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Mathers
 : **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 4

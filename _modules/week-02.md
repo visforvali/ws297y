@@ -12,12 +12,12 @@ Sep 9
 : **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Philosophical Fanfiction
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-2.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Kim
   
 Sep 11
 : **Lecture**{: .label .label-blue-custom} Form as Resistance
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-2.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Bossiere & Trabold
 : **TTRPG**{: .label .label-yellow-custom} *Belluae/Venatores* (*B&V*): Worldbuilding, Stage 1
   : &nbsp;

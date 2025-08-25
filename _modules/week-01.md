@@ -11,7 +11,7 @@ title: Week 1 - Complicity or Resistance
 
 Sep 2
 : **Lecture**{: .label .label-blue-custom} On Craft and Social Justice
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-1.1){:target="_blank"}
 : **Practice**{: .label .label-green-custom } Tech setup and exploration
   : &nbsp;
 : **Due Midnight**{: .label .label-red-custom} Finish customizing Discord
@@ -21,5 +21,5 @@ Sep 4
 : **Due 11am**{: .label .label-red-custom} Respond to *one*: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297y/prompts/#just-curious){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Philosophical Fiction
-  : [lecture notes]
+  : [lecture notes](/ws297y/notes-1.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} LeGuin

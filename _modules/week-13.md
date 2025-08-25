@@ -10,8 +10,8 @@ title: Week 13 - This Machine Kills
 Nov 25
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} The Social Justice Issue That Connects to All Issues
-  : [lecture notes]
+: **Lecture**{: .label .label-blue-custom} The Amount of Intentionality in the World
+  : [lecture notes](/ws297y/notes-13.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Liu
 : **Stream**{: .label .label-green-custom } *Centum* Ch. 2
 
