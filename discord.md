@@ -150,27 +150,24 @@ The left panel contains category headings and channels. Clicking a channel in th
 
 ## Welcome & Server Info
 
-- **👋🏾 welcome**: Welcome to the WS 297Y Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
-- **🆔 get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
-- **🗳️ its-help**: To automate questions unrelated to course content, this channel is for all your tech support issues regarding Discord, this website, and/or Classes. 💛 Fill out the ticket form to automatically open a private ticket that will flag me to help you out!
+- **#welcome**: Welcome to the WS 297Y Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
+- **#get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
+- **#its-help**: To automate questions unrelated to course content, this channel is for all your tech support issues regarding Discord, this website, and/or Classes. 💛 Fill out the ticket form to automatically open a private ticket that will flag me to help you out!
 
 ## Community Making
 
-- **🪪 roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
-- **🍕 lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
-- **🫂 mentoring**: A place to plan for mentoring opportunities for staff and authors, as well as to mentor staff and board members regarding academic/alt-ac life, editorial work, publishing, and navigating the job market.
-- **🍵 Downtime**: Voice channel for socializing.
+- **#roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
+- **#lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
+- **🔊 Cafe**: Voice channel for socializing.
 
 ## Class Is in Session
 
-- **⭐ starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here.
-- **💻 classroom**: Text channel for text chats in and out of sync class sessions.
-- **📝 homework**: Text channel with threads where you'll post low-stakes writing activities.
-- **team1🔒**: Team 1's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **team2🔒**: Team 2's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **team3🔒**: Team 3's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **team4🔒**: Team 4's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **🏫 Sync Sessions**: Voice channel for sync class sessions.
+- **#starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here.
+- **#classroom**: A channel for class activities and low-stakes writing 💛
+- **🔊 Sync Sessions**: Voice channel for sync class sessions.
+- **#team1🔒**: Team 1's private stomping ground for group activities in and out of class and for helping each other out during the semester!
+- **#team2🔒**: Team 2's private stomping ground for group activities in and out of class and for helping each other out during the semester!
+- **#team3🔒**: Team 3's private stomping ground for group activities in and out of class and for helping each other out during the semester!
 
 # Using Discord
 
