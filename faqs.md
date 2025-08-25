@@ -14,11 +14,9 @@ nav_order: 9
 1. TOC
 {:toc}
 
-# Overview
-
 This page will contain frequently asked questions as they're asked and answered in class, text channels, coffee chats, and elsewhere. I'll note updates to the FAQs periodically on Discord, but keep checking back, too!
 
-## How do I schedule a coffee chat with you?
+# How do I schedule a coffee chat with you?
 
 After clicking 🍵 Let's Chat! at the top right, follow the directions on Zcal to reserve an appointment. First, select the time interval you want (🕛10, 🕐15, or 🕑20 min) at the bottom left, then choose a date/time that works for you.</p>
 
