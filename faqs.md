@@ -14,9 +14,6 @@ nav_order: 9
 1. TOC
 {:toc}
 
-# Frequently Asked Questions
-{: .no_toc }
-
 # Overview
 
 This page will contain frequently asked questions as they're asked and answered in class, text channels, coffee chats, and elsewhere. I'll note updates to the FAQs periodically on Discord, but keep checking back, too!
