@@ -58,6 +58,7 @@ A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidde
 
 ## Loved Lines
 
+Type out (don't copy and paste!) 3 sentences that you loved from the text. Ask and answer a question that falls under a general inquiry into why you loved these lines (but isn't that exact question), and that helps you elaborate on the effect of a pattern across sentences; the precise language, rhythm, or shape of each sentence; or the way its white spaces create insights. Next, find an ordinary, tangible (not online) object in your home that you love the same way, i.e. if you love these lines for their minimalism, you might find a solar-powered charger, a quarter-teaspoon, a hairline crack in the wall, a pencil worn all the way down; if you love them for a rhythm you can feel in your flesh, you might find an iPod and headphones, or your feet in the shoes that dance with you at a party. Let your thinking be loose and associative. Take a photo of this object and share it with your post (and don't explain the relationship between the lines and the object you chose).
 
 
 ## Poetic Inference
@@ -74,15 +75,18 @@ Choose a minor character &mdash; a character who isn't the protagonist and whose
 
 ## Why
 
+Come up with 5 questions about 5 different things that induced sensations in you while you were reading and answer 2 of them.
 
 
 # High-Stakes Writing
 
-For your high-stakes project, you'll choose one social justice issue. The project has two parts: 
+{: .important }
+> This project should be between 8,000 to 10,000 words (15-20 single-spaced pages) and is due at the end of the semester. If your project needs more room, or involves other modalities, book a coffee chat with me early so we can talk about it.
 
-- A compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around the social justice issue 
-- 
+For your high-stakes project, you'll choose one social justice issue. Your collection will be divided between two parts: 
 
+- A compilation of philosophical/theoretical fiction (theory, fiction, and theory-fiction) that evokes, provokes, and revolves around the social justice issue you chose. Each piece should emulate at least one of the craft techniques we discussed in class.
+- A preface that identifies your goals in composing and compiling this particular manuscript and explains how your choices in craft (i.e. whose techniques you chose to emulate and why) and design (i.e. arrangement in and across pieces)
 
-
- revolving around a social justice issue of your choosing. These pieces should emulate the craft techniques we discuss
+{: .note }
+> If you wrote about the social justice issue you chose in your low-stakes posts, you're welcome to modify those posts and integrate them into this project. If you didn't but can easily modify existing low-stakes posts, you're welcome to adapt those posts to be about the social issue justice you chose.
