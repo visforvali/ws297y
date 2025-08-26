@@ -18,7 +18,7 @@ Sep 16
   
 Sep 18
 : **Lecture**{: .label .label-blue-custom} Exposing the Common
-  : [lecture notes](/ws297y/notes-3.2){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-3.2){:target="_blank"}
 : **Stream**{: .label .label-green-custom} *The Stanley Parable*
   : &nbsp;
 : **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 3

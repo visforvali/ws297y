@@ -11,7 +11,7 @@ title: Week 1 - Complicity or Resistance
 
 Sep 2
 : **Lecture**{: .label .label-blue-custom} On Craft and Social Justice
-  : [lecture notes](/ws297y/notes-1.1){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-1.1){:target="_blank"}
 : **Practice**{: .label .label-green-custom } Tech setup and exploration
   : &nbsp;
 : **Due Midnight**{: .label .label-red-custom} Finish customizing Discord

@@ -12,7 +12,7 @@ Sep 9
 : **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Philosophical Fanfiction
-  : [lecture notes](/ws297y/notes-2.1){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-2.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Kim
   
 Sep 11

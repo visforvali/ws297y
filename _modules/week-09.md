@@ -19,4 +19,3 @@ Oct 30
 : **Lecture**{: .label .label-blue-custom} From Gaming to Drafting
   : [lecture notes](/ws297y/notes/notes-9.2){:target="_blank"}
 : **TTRPG**{: .label .label-yellow-custom } *Auspex* Days 4
-  : [lecture notes]
