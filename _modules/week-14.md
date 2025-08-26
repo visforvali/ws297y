@@ -12,12 +12,12 @@ Dec 2
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} On Satire and Interactivity
-  : [lecture notes](/ws297y/notes-14.1){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-14.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Hedva
 : **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 2
 
 Dec 4
 : **Lecture**{: .label .label-blue-custom} From the Personal to the Universal
-  : [lecture notes](/ws297y/notes-14.2){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-14.2){:target="_blank"}
 : **Stream**{: .label .label-green-custom } *The Blue Prince*
 : **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 3

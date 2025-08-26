@@ -17,7 +17,7 @@ Sep 9
   
 Sep 11
 : **Lecture**{: .label .label-blue-custom} Form as Resistance
-  : [lecture notes](/ws297y/notes-2.2){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-2.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Bossiere & Trabold
 : **TTRPG**{: .label .label-yellow-custom} *Belluae/Venatores* (*B&V*): Worldbuilding, Stage 1
   : &nbsp;

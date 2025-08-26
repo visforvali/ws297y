@@ -11,10 +11,10 @@ Oct 21
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} The Helicopter Story...
-  : [lecture notes](/ws297y/notes-8.1){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-8.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Fall
 
 Oct 23
 : **Lecture**{: .label .label-blue-custom} ...and the Fallout
-  : [lecture notes](/ws297y/notes-8.2){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-8.2){:target="_blank"}
 : **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 2

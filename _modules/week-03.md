@@ -11,7 +11,7 @@ Sep 16
 : **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Intimacy, Cruelty, Unknowability... and Work
-  : [lecture notes](/ws297y/notes-3.1){:target="_blank"}
+  : [lecture notes](/ws297y/notes/notes-3.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Oyeyemi
 : **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 2
   : &nbsp;
