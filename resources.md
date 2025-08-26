@@ -35,6 +35,7 @@ Here are some essays, stories, and books that are relevant to this class:
 - Meg Elison, ["Dresses Like White Elephants"](https://blog.pmpress.org/2020/06/06/dresses-like-white-elephants-on-uncanny-magazine/){:target="_blank"}
 - Franz Fanon, [*Pedagogy of the Oppressed*](https://fsi-ebcao.princeton.edu/sites/g/files/toruqf1411/files/media/freire.pdf){:target="_blank"}
 - Jack Finney, ["Of Missing Persons"](https://ia601403.us.archive.org/12/items/short_story_roulette/Finney%2C%20Jack%20-%20Of%20Missing%20Persons.pdf){:target="_blank"}
+- Yuval Noah Harari, [*Nexus*](https://s1.papyruspub.com/files/demos/products/ebooks/novels/technology/Preview-Nexus-by-Yuval-Noah-Harari.pdf){:target="_blank"}
 - Ken Liu, ["Thoughts and Prayers"](https://slate.com/technology/2019/01/thoughts-and-prayers-ken-liu-short-story.html){:target="_blank"}
 - Audre Lorde, [*The Cancer Journals*](https://monoskop.org/images/1/16/Lorde_Audre_The_Cancer_Journals_2nd_ed_1980.pdf){:target="_blank"}
 - Carmen Maria Machado, ["The Husband Stitch"](https://granta.com/The-Husband-Stitch/){:target="_blank"}
