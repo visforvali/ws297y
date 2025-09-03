@@ -42,7 +42,7 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 
 # Required Materials 💰
 
-{ .note }
+{: .note }
 > All required readings are provided for free. They're uploaded to [Classes\Content](https://classes.pace.edu){:target="_blank"} and are linked on this website: by week on the [Calendar](/ws297y/) and by alphabetical order in [Resources](/ws297y/resources).
 
 On your own, you'll need to obtain:
@@ -54,7 +54,7 @@ On your own, you'll need to obtain:
 
 This is an **online synchronous course that meets twice a week using Discord** for sync sessions and sync/async text chats. Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
 
-**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Quickstart Guide](/ws297y/discord) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
+**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Discord Tutorial](/ws297y/discord) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
 {: .important }
 > We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing, and share your grades with you.

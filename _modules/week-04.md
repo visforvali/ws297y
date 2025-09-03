@@ -5,7 +5,7 @@ title: Week 4 - This Will Be on the Exam
 
 ## Week 4 - This Will Be on the Exam
 
-📖 Read Desirae Mathers, ["Final: Comprehensive, Roughly"](/ws297y/assets/pdfs/matherly_final_comprehensive_roughly.pdf){:target="_blank"}   
+📖 Read Desirae Matherly, ["Final: Comprehensive, Roughly"](/ws297y/assets/pdfs/matherly_final_comprehensive_roughly.pdf){:target="_blank"}   
 
 Sep 23
 : **No Class**{: .label .label-purple-custom } Rosh Hashanah - No Class/Chats
@@ -15,5 +15,5 @@ Sep 25
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} What Tests Teach Us
   : [lecture notes](/ws297y/notes/notes-4.2){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Mathers
+: **Discussion**{: .label .label-blue-custom } Matherly
 : **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 4

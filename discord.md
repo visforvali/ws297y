@@ -90,7 +90,7 @@ Finally, you can add or change your status by hovering over the thought bubble n
 ### Per-Server Profile
 {:.no_toc}
 
-To change your per-server nickname, click the Edit Per-Server Profile tab, choose the Kairos RTP server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
+To change your per-server nickname, click the Edit Per-Server Profile tab, choose the WS297Y Classroom server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
 
 # User Preferences
 
@@ -131,7 +131,7 @@ For precise control over each channel's notifications, regardless of server-wide
 
 Now that you’ve retooled your profile and user preferences, it's time to familiarize yourself with our server!
 
-When you joined the WS 297Y server, you should have landed in the #welcome channel, which contains a link to this quickstart guide and instructions to select your roles and introduce yourself.
+When you joined the WS 297Y server, you should have landed in the #welcome channel, which contains a link to this tutorial and instructions to select your roles and introduce yourself.
 
 Discord consists of a main view in the center (for interactions in text or voice channels), a left panel, an optional member list on the right that shows a list of current server members and their online status (which can be expanded or collapsed by clicking the 👥 icon at the top), and the Direct Messages view.
 
@@ -158,7 +158,7 @@ The left panel contains category headings and channels. Clicking a channel in th
 
 - **#roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
 - **#lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
-- **🔊 Cafe**: Voice channel for socializing.
+- **🔊 Cafe**: Voice channel for for coffee chats with me, voice/video work with classmates, and/or socializing.
 
 ## Class Is in Session
 
@@ -179,7 +179,7 @@ Text channels are indicated by the # symbol in the channel list. **Clicking a te
 
 Text messages are persistent. You can search for old messages by using the upper-right search bar.
 
-<img src="http://visforvali.github.io/ws297y/assets/images/messages.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
+<img src="http://visforvali.github.io/ws297y/assets/images/message.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
 
 *How to use text channels, including sending messages and options for interacting with messages.*
 
@@ -234,7 +234,7 @@ Whether you enter a voice channel or pull it up in the main view, a panel will a
 
 ## Formatting and Text Commands
 
-A list of keyboard shortcuts is on the Discord app under Keybinds in User Settings (and a "cheat sheet" has been posted to #👋🏾│welcome). 
+A list of keyboard shortcuts is on the Discord app under Keybinds in User Settings (and a "cheat sheet" has been posted to #welcome). 
 
 _Ctrl + / or Cmd + /: List of shortcuts_
 _Discord Help Website: Ctrl/Cmd + Shift + H_

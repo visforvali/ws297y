@@ -20,7 +20,7 @@ nav_order: 4
 {: .warning }
 > You're guaranteed *at least* a B+ as your final grade if you do everything that's asked of you in the spirit you're asked to do it. But this doesn't mean anything goes! Read on for details.
 
-Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what we're learning
+Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what we're learning.
 
 Nothing in this class needs to be perfect or polished, but this doesn't mean anything goes. I can't measure how hard you feel you tried or give "effort points" for work that ignores the course material. I need measurable evidence of how you're engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
 
@@ -34,7 +34,7 @@ For you to earn at least a B+ in this class, you must:
 - Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments.
 - Regularly participate in voice and text chat every week.
 - Proactively try to figure things out on your own before chatting with me, scheduling coffee chats, and by bringing relevant notes, annotated readings, and writing materials to these meetings so we can work on them together.
-- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you’re right!).
+- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!).
 - Be open to critique and accountable for the work you did (or didn't do).
 
 You can always check in with me if you’re unsure of how you're doing!
@@ -49,7 +49,7 @@ Participation takes a lot of forms! While these are all measurable, valid forms 
 
 - Talking out loud
 - Posting on Discord during and outside of classtime
-- Reading and writing with classmates
+- Reading and writing with classmates in spaces/ways I can see/quantify
 - Organically replying and reacting to classmates' posts (no boring "discussion board"-style replies, please!)
 - Working with me in coffee chats
 - Helping your classmates; DMing me thoughts and questions to add to my lecture notes
@@ -67,7 +67,7 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 > 
 > In short: Unless you hear otherwise from me, you know your submission received full credit.
 
-Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and how they use various craft techniques to accomplish the aims of social justice and/or imagine more socially just futures. I open these low-stakes work threads in advance and leave them unlocked so you can post, reply, and reference them at any time. I also emoji react and/or reply to your posts to give you a sense of how I'm interpreting your contributions. 
+Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and how they use various craft techniques to accomplish the aims of social justice and/or imagine more socially just futures. I also emoji react and/or reply to your posts to give you a sense of how I'm interpreting your contributions. 
 
 Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop critiques, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to choose 1 prompt &mdash; from a rotating selection of the full list of [Writing Prompts](/ws297y/prompts) &mdash; and use it to guide your response to the materials for that week. Eligible prompts to choose from per week can be found on the [Calendar](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance).
 
@@ -87,7 +87,7 @@ The assessment criteria for the high-stakes project are:
 - Your writing decisions (form, content, genre) in each piece must enact and/or contribute to the argument
 - You must emulate a craft technique from at least 8 of the texts we read
 - You must modify and incorporate at least 1 piece of writing you produced during *each* of our TTRPG solo journaling games
-- You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need a "in case readers don't get it" explanation.
+- You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation.
 
 # Deadlines & Grace Period 😇
 

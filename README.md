@@ -12,7 +12,7 @@ nav_exclude: true
 
 This course website for the Fall 2025 section of WS 297Y: Creative Writing for Social Justice at Pace University, taught by Dr. Vyshali Manivannan, uses Jekyll and is based on the [Just the Class](https://github.com/kevinlin1/just-the-class) template by Kevin Lin.
 
-It was developed in response to having generative AI forced into my course LMS, where it fabricates lies, steals student writing (and increasing false positives in plagiarism detection), and manipulates students and faculty into believing they can outsource _any_ part of their thought process without proportionally atrophying their brains.
+It was developed in response to having generative AI forced into my course LMS, where it fabricates lies, steals student writing (and increases false positives in plagiarism detection), and manipulates students and faculty into believing they can outsource _any_ part of their thought process without proportionally atrophying their brains.
 
 This site contains:
 
