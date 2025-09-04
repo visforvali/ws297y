@@ -6,7 +6,7 @@ title: Week 2 - Fluid Perspectives
 ## Week 2 - Fluid Perspectives
 \
 📖 Read Isabel J. Kim, ["Why Don't We Just Kill the Kid In the Omelas Hole"](/ws297y/assets/pdfs/kim_why_dont_we_just_kill_the_kid_in_the_omelas_hole.pdf){:target="_blank"}   
-📖 Read Zoe Bossiere & Erica Trabold's ["Introduction to *The Lyric Essay as Resistance*"](/ws297y/assets/pdfs/bossiere_trabold_intro_lyric_essay_as_resistance.pdf){:target="_blank"}   
+📖 Read Zoe Bossiere & Erica Trabold, ["Introduction to *The Lyric Essay as Resistance*"](/ws297y/assets/pdfs/bossiere_trabold_intro_lyric_essay_as_resistance.pdf){:target="_blank"}   
 
 Sep 9
 : **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}
