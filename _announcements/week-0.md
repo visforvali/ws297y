@@ -20,7 +20,7 @@ This course works best when we all treat it like a space to chill and learn, not
 
 Can't wait to virtually meet you very soon!
 
-🚀 To infinity and beyond,
+🚀 To infinity and beyond,   
 Dr. Mani (alias: [fhqwhgads](https://homestarrunner.com/toons/everybody-to-the-limit){:target="_blank"})
 
 P.S. Want a song to kick off each of our sync sessions, or music to fuel those writing sprints? Check out the [Playlist](/ws297y/playlist) page!
