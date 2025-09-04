@@ -18,11 +18,11 @@ This website was also designed to streamline our technological platforms to Disc
 
 This site contains:
 
-- a [course syllabus](/ws297y/syllabus){:target="_blank"},
-- a [course calendar](/ws297y/calendar){:target="_blank"},
-- [announcements](/ws297y/announcements){:target="_blank"},
+- a [course syllabus](syllabus.md),
+- a [course calendar](calendar.md),
+- [announcements](announcements.md),
 - course materials, and
-- a weekly [schedule](/ws297y/schedule){:target="_blank"}.
+- a weekly [schedule](schedule.md).
 
 ## Just the Class Template
 
