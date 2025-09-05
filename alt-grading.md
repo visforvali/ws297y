@@ -15,8 +15,6 @@ nav_order: 4
 1. TOC
 {:toc}
 
-# Alt-Grading Overview 💯
-
 {: .warning }
 > You're guaranteed *at least* a B+ as your final grade if you do everything that's asked of you in the spirit you're asked to do it. But this doesn't mean anything goes! Read on for details.
 
@@ -24,18 +22,18 @@ Grading is the worst part of teaching (for me) and learning (for you). Grades ca
 
 Nothing in this class needs to be perfect or polished, but this doesn't mean anything goes. I can't measure how hard you feel you tried or give "effort points" for work that ignores the course material. I need measurable evidence of how you're engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
 
-## Basic Checklist ✅
+# Basic Checklist ✅
 
 For you to earn at least a B+ in this class, you must:
 
-- Complete *all* required activities and assignments by the deadline, within the 1-week grace period for late work (where permitted) after the original deadline, or by an alternate deadline that was arranged in advance with me.
+- Complete *all* required activities and assignments by the deadline, within the 1-week grace period for late work (where permitted) after the original deadline, or by an alternate deadline that was arranged in advance with me
 - Attempt to write nearly all of the components of required assignments in each draft.
-- Regularly incorporate feedback and what you learn in class in your assignments.
-- Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments.
-- Regularly participate in voice and text chat every week.
-- Proactively try to figure things out on your own before chatting with me, scheduling coffee chats, and by bringing relevant notes, annotated readings, and writing materials to these meetings so we can work on them together.
-- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!).
-- Be open to critique and accountable for the work you did (or didn't do).
+- Regularly incorporate feedback and what you learn in class in your assignments
+- Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments
+- Regularly participate in voice and text chat every week
+- Proactively try to figure things out on your own before chatting with me, scheduling coffee chats, and by bringing relevant notes, annotated readings, and writing materials to these meetings so we can work on them together
+- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!)
+- Be open to critique and accountable for the work you did (or didn't do)
 
 You can always check in with me if you’re unsure of how you're doing!
 
@@ -65,11 +63,11 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 {: .important }
 > Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. 
 > 
-> In short: Unless you hear otherwise from me, you know your submission received full credit.
+> **In short: Unless you hear otherwise from me, you know your submission received full credit.**
 
-Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and how they use various craft techniques to accomplish the aims of social justice and/or imagine more socially just futures. I also emoji react and/or reply to your posts to give you a sense of how I'm interpreting your contributions. 
+Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and how they use various craft techniques to accomplish the aims of social justice and/or imagine more socially just futures. I may also emoji react and/or reply to your posts to give you a sense of how I'm interpreting your contributions. 
 
-Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop critiques, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to choose 1 prompt &mdash; from a rotating selection of the full list of [Writing Prompts](/ws297y/prompts) &mdash; and use it to guide your response to the materials for that week. Eligible prompts to choose from per week can be found on the [Calendar](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance).
+Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop critiques, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to choose 1 prompt &mdash; from a rotating selection of the full list of [Writing Prompts](/ws297y/prompts){:target="_blank"} &mdash; and use it to guide your response to the materials for that week. Eligible prompts to choose from per week can be found on the [Calendar](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance){:target="_blank"}.
 
 Nothing in this class is busy work. Low-stakes work can be &mdash; is designed to be, even! &mdash; repurposed in your high-stakes projects, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them). 
 
@@ -78,7 +76,7 @@ Nothing in this class is busy work. Low-stakes work can be &mdash; is designed t
 {: .important }
 > High-stakes writing, i.e. first and final drafts of longer projects, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook.
 > 
-> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit."
+> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "Nc" for "No Credit."
 
 This class culminates in one multipart high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. Additionally, these pieces should emulate the craft techniques we discuss.
 
@@ -87,12 +85,12 @@ The assessment criteria for the high-stakes project are:
 - Your writing decisions (form, content, genre) in each piece must enact and/or contribute to the argument
 - You must emulate a craft technique from at least 8 of the texts we read
 - You must modify and incorporate at least 1 piece of writing you produced during *each* of our TTRPG solo journaling games
-- You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation.
+- You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation
 
 # Deadlines & Grace Period 😇
 
 {: .important}
-> This grace period doesn't apply to a lack of participation, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
+> **This grace period doesn't apply to a lack of participation**, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
 
 I accept *all* writing assignments with no penalty or questions asked within 1 week of the original deadline (as long as they meet the rest of the assignment criteria). Please note that the grace period is time-bound, and I'm unable to accept work on a rolling basis whenever around you get to it. I can't promptly review late work. I don't accept work more than 1 week late unless we made alternate arrangements in advance.
 
