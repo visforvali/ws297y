@@ -30,10 +30,6 @@ schedule:
         start: 2:00 PM
         end: 5:00 PM
         location: 🔊Cafe (check Zcal)
-      - name: Potential Times
-        start: 5:00 PM
-        end: 6:00 PM
-        location: DM for availability
   - name: Wednesday
     events:
       - name: Coffee Chats
