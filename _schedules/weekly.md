@@ -41,15 +41,11 @@ schedule:
         end: 2:00 PM
         location: 🔊Cafe (check Zcal)
       - name: Potential Times
-        start: 5:00 PM
-        end: 7:00 PM
+        start: 4:00 PM
+        end: 5:00 PM
         location: DM for availability
   - name: Thursday
     events:
-      - name: Potential Times
-        start: 9:00 AM
-        end: 10:00 AM
-        location: DM for availability
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
