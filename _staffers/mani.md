@@ -5,6 +5,7 @@ email: vmanivannan@pace.edu
 photo: drmani.png
 meta:
   ⚧️ Pronouns: she/her
+  📲 **Discord server**: Invitation link posted to Classes\Content\Syllabus   
   🥸 Server name: fhqwgads
   🕛 Coffee chats: Tue 2-5, Wed 12-2 (DM for other) in 🔊Cafe
   🌋 My hill to die on: Writing *is* thinking, not something that happens afterwards
