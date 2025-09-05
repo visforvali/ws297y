@@ -59,6 +59,7 @@ Here are links to buy the solo journaling RPGs I modded for this class, and the 
 
 - [Auspex](https://goodluckpress.co/products/auspex?_pos=1&_psq=auspex&_ss=e&_v=1.0){:target="_blank"}
 - [Belluae](https://goodluckpress.co/products/belluae){:target="_blank"}
+- [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/){:target="_blank"}
 - [Centum](https://store.steampowered.com/app/2625550/Centum/){:target="_blank"}
 - [Dream Askew](https://buriedwithoutceremony.com/dream-askew){:target="_blank"}
 - [Dwelling](https://goodluckpress.co/products/dwelling?_pos=1&_psq=dwelling&_ss=e&_v=1.0){:target="_blank"}
