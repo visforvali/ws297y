@@ -20,14 +20,14 @@ nav_order: 8
 > This "tl;dr (too long, didn't read)" tutorial goes over only the basics: fundamental controls; channel directory; and useful built-in or third-party-enabled functions. This guide is regularly updated based on user input and is designed to be read, referenced, and/or Ctrl+F'd as needed. For more in-depth documentation, check out the official [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"}.
 
 {: .warning }
-> If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊 Sync Sessions on the left 1x to join voice-only and 2x to join voice-and-video.
+> If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🔊 Sync Sessions on the left 1x to join voice-only and 2x to join voice-and-video; and click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts.
 
 # Getting Started
 
 First, you'll need to install the Discord app and create an account. 
 
-- **Download Discord**: Discord can be accessed via browser, but the desktop client is recommended for the best experience. Download it here: [Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide){:target="_blank"}. You can also download the Discord app through Google Play or Apple Store. Here's the full list of [Discord's OS/System Requirements](https://support.discord.com/hc/en-us/articles/213491697-What-are-the-OS-system-requirements-for-Discord){:target="_blank"}. 
-- **Create an Account**: If you don't have a Discord account, the first step is to create one. The Discord desktop client will prompt you to do so the first time it's opened, or visit Discord's [registration page](https://discord.com/register){:target="_blank"} directly. Enter a valid email that you can access and that isn't associated with another Discord account and select a username that's case-insensitive/forced lowercase and between 2-32 characters (using a-z, 0-9, and . or _). 
+- **Download Discord**: Discord can be accessed via browser, but the desktop client is recommended for the best experience. Download it here: [Desktop Installation Guide](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide){:target="_blank"}. You can also download the Discord app through Google Play or Apple Store. Here's the full list of [Discord's OS/System Requirements](https://support.discord.com/hc/en-us/articles/213491697-What-are-the-OS-system-requirements-for-Discord){:target="_blank"}
+- **Create an Account**: If you don't have a Discord account, the first step is to create one. The Discord desktop client will prompt you to do so the first time it's opened, or visit Discord's [registration page](https://discord.com/register){:target="_blank"} directly. Enter a valid email that you can access and that isn't associated with another Discord account and select a username that's case-insensitive/forced lowercase and between 2-32 characters (using a-z, 0-9, and . or _)
 
 _This username is not the same as your display name, the prominent name shown when you interact in a server or in direct messages (DMs), which can be changed later._
 
@@ -37,24 +37,24 @@ Once you've completed the registration and verification process, use the Discord
 
 Our priority is the privacy, security, and safety of the server. By joining, you are agreeing to these rules:
 
-- Be civil, respectful, and considerate towards other members. No hate speech or discriminatory language or behavior of any kind will be tolerated.
-- Server invitations are for this class only and are set to expire for the safety of our community. Never share an invite publicly.
-- Keep everything said here confidential. Don't screenshot or share content without express permission. Anyone who does this will be banned and the content shared will be reported.
+- Be civil, respectful, and considerate towards other members. No hate speech or discriminatory language or behavior of any kind will be tolerated
+- Server invitations are for this class only and are set to expire for the safety of our community. Never share an invite publicly
+- Keep everything said here confidential. Don't screenshot or share content without express permission. Anyone who does this will be banned and the content shared will be reported
 - If you're made uncomfortable, bring your concerns to the facilitators and moderators.
-- Read member profiles before replying or DMing them, to make sure you're using their preferred pronouns and accommodating any listed access needs.
-- Don't spam channels or members' direct messages.
+- Read member profiles before replying or DMing them, to make sure you're using their preferred pronouns and accommodating any listed access needs
+- Don't spam channels or members' direct messages
 - Don't post age-restricted or obscene content (this includes text, images, or links featuring nudity, sex, hard violence, or anything else that's graphically disturbing).
-- Harassment, trolling, and malicious shitposting will not be tolerated.
-- Communicate accessibly! Create threads to organize conversations as needed; avoid terms rooted in ableism and discrimination (refer to [Ableist Terms and Words to Avoid](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html){:target="_blank"} for guidance); use alt-text and tone indicators (for guidance, check out [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"} and [Tone Indicators](https://toneindicators.carrd.co/#masterlist){:target="_blank"}); and enable Live Captioning on your OS/browser for captions in voice channels (Discord doesn't yet have built-in captioning).
-- Call in people when they've crossed a line or are talking over someone (or @ or DM me) so we can have dialogue around uncomfortable moments.
-- Respond to me if I DM you with a concern. If you don't respond for a few days or if a safety concern doesn't get addressed, I might notify your advisor to make sure you're okay, or issue a warning or timeout until the situation can be resolved. 
+- Harassment, trolling, and malicious shitposting will not be tolerated
+- Communicate accessibly! Create threads to organize conversations as needed; avoid terms rooted in ableism and discrimination (refer to [Ableist Terms and Words to Avoid](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html){:target="_blank"} for guidance); use alt-text and tone indicators (for guidance, check out [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"} and [Tone Indicators](https://toneindicators.carrd.co/#masterlist){:target="_blank"}); and enable Live Captioning on your OS/browser for captions in voice channels (Discord doesn't yet have built-in captioning)
+- Call in people when they've crossed a line or are talking over someone (or @ or DM me) so we can have dialogue around uncomfortable moments
+- Respond to me if I DM you with a concern. If you don't respond for a few days or if a safety concern doesn't get addressed, I might notify your advisor to make sure you're okay, or issue a warning or timeout until the situation can be resolved
 
 ## Customizing Your Profile
 
 Your profile picture (PFP), username, and user settings (cogwheel icon ⚙️) are visible at the bottom left of the screen. Open the Edit Profile screen to change your display name and PFP for this server. You can do this by:
 
 - Clicking your username in the lower right, then Edit Profile in the opened pop-up, or 
-- Clicking the ⚙️ icon next to your username to open the User Settings screen, then Profiles in the opened menu.
+- Clicking the ⚙️ icon next to your username to open the User Settings screen, then Profiles in the opened menu
 
 Any changes you make to your Main Profile are visible on all servers you belong to; the Per-Server Profiles menu allows you to use different display names and pronouns on different servers.
 
@@ -104,28 +104,28 @@ Under User Settings, you may want to do the following:
 
 *How to customize appearance and accessibility preferences.*
 
-- **My Account**: Enable Multi-Factor Authentication by configuring an Authenticator App (e.g., Duo or Aegis, available in Apple and Google Play Stores); adding a phone number for SMS Backup Authentication; and/or registering a security key.
+- **My Account**: Enable Multi-Factor Authentication by configuring an Authenticator App (e.g., Duo or Aegis, available in Apple and Google Play Stores); adding a phone number for SMS Backup Authentication; and/or registering a security key
 - **Content & Social**: Toggle Direct Message Spam to Filter All and adjust Social Permissions and Friend Request settings as you prefer. (Make sure I can DM you even if we're not friends, though, or request to become friends for now!)
-- **Data and Privacy**: Adjust these settings as you prefer.
+- **Data and Privacy**: Adjust these settings as you prefer
 
 ## App and Activity Settings
 
 Under App Settings and Activity Settings (below the Billing section), you may want to do the following:
 
 - **Appearance**: Change the app's color mode; user interface density (the spacing between server, channel, and member lists &mdash; Spacious recommended); and Message Spacing. (adjust chat message display, spacing between message groups, font and interface scaling)
-- **Accessibility**: Adjust color saturation; link underlining; how role colors should be displayed; enable/disable reduced motion (including animated GIF preferences); and adjust sticker animation preferences.
-- **Voice and Video**: Adjust settings as needed based on your hardware and preferences.
-- **Chat**: Change how images, videos, and links are displayed; enable/disable embeds and link previews; enable image descriptions for screenreaders; make sure that emoji reactions are shown on messages; preview emoji, mentions, and markdown syntax while typing; change how spoiler content is shown; and adjust threads view.
-- **Notifications**: Enable/disable desktop notifications, unread message badge, and/or taskbar flashing; enable/disable notifications for particular message reactions; message sounds; and change your email preferences.
-- **System Settings**: Enable/disable Discord opening on computer startup and modify the behavior of the Close button.
-- **Activity Settings**: Turn on/off Discord sharing any detected game/apps with others.
+- **Accessibility**: Adjust color saturation; link underlining; how role colors should be displayed; enable/disable reduced motion (including animated GIF preferences); and adjust sticker animation preferences
+- **Voice and Video**: Adjust settings as needed based on your hardware and preferences
+- **Chat**: Change how images, videos, and links are displayed; enable/disable embeds and link previews; enable image descriptions for screenreaders; make sure that emoji reactions are shown on messages; preview emoji, mentions, and markdown syntax while typing; change how spoiler content is shown; and adjust threads view
+- **Notifications**: Enable/disable desktop notifications, unread message badge, and/or taskbar flashing; enable/disable notifications for particular message reactions; message sounds; and change your email preferences
+- **System Settings**: Enable/disable Discord opening on computer startup and modify the behavior of the Close button
+- **Activity Settings**: Turn on/off Discord sharing any detected game/apps with others
 
 ## Channel Notifications
 
 For precise control over each channel's notifications, regardless of server-wide settings, you may want to do the following:
 
-- **Notification Override**: Right-click the channel you want to customize and choose your notification preferences: All (for every message); Mentions (only when you're @); Nothing (disable all notifications); Mute (silence everything, including @mentions).
-- **Channel/Thread/DM Muting**: To mute channels and threads &mdash; i.e., silence notifications for them &mdash; right-click the name of the channel or thread, hover over Mute, then select the appropriate option. To mute DMs with a specific user, open your DM history by clicking the upper-left Discord icon, right-click the user's display name, hover over Mute, then select the appropriate option.
+- **Notification Override**: Right-click the channel you want to customize and choose your notification preferences: All (for every message); Mentions (only when you're @); Nothing (disable all notifications); Mute (silence everything, including @mentions)
+- **Channel/Thread/DM Muting**: To mute channels and threads &mdash; i.e., silence notifications for them &mdash; right-click the name of the channel or thread, hover over Mute, then select the appropriate option. To mute DMs with a specific user, open your DM history by clicking the upper-left Discord icon, right-click the user's display name, hover over Mute, then select the appropriate option
 
 # What's Where
 
@@ -135,18 +135,18 @@ When you joined the WS 297Y server, you should have landed in the #welcome chann
 
 Discord consists of a main view in the center (for interactions in text or voice channels), a left panel, an optional member list on the right that shows a list of current server members and their online status (which can be expanded or collapsed by clicking the 👥 icon at the top), and the Direct Messages view.
 
-- **Main View**: In text channels, the chat bar is located at the bottom-center of the screen. The message box is where you type your messages (which are visible to all members of the channel). In voice channels, the main view displays the users in the voice channel and the controls.
-- **Right Panel**: In the expanded Member List view, you can click on a user's name to read their profile (display name, username, pronouns, server roles, status, and About Me) or direct message (DM) them. Server roles are color coded; the color of the "highest" role (staff position) is the color of the member's display name in the list.
-- **Direct Messages**: DMs are only visible to you and the recipient. You can send DMs by clicking a user's name in the expanded Member List, or by clicking the upper-left Discord icon, which will open up your DM history. You can also start a one-on-one call through DMs. In your DM history, click the name of the user you want to call, then click the phone 📞 or video 📹 icon in the upper right to start a voice or video chat.
+- **Main View**: In text channels, the chat bar is located at the bottom-center of the screen. The message box is where you type your messages (which are visible to all members of the channel). In voice channels, the main view displays the users in the voice channel and the controls
+- **Right Panel**: In the expanded Member List view, you can click on a user's name to read their profile (display name, username, pronouns, server roles, status, and About Me) or direct message (DM) them. Server roles are color coded; the color of the "highest" role (staff position) is the color of the member's display name in the list
+- **Direct Messages**: DMs are only visible to you and the recipient. You can send DMs by clicking a user's name in the expanded Member List, or by clicking the upper-left Discord icon, which will open up your DM history. You can also start a one-on-one call through DMs. In your DM history, click the name of the user you want to call, then click the phone 📞 or video 📹 icon in the upper right to start a voice or video chat
 
 ## Category and Channel Directory
 {:.no_toc}
 
 The left panel contains category headings and channels. Clicking a channel in the left panel will highlight it and open the channel’s content in the main view in the center of the screen.
 
-- On Discord's channel list, categories appear in 【brackets】, channels beginning with # are text-only (i.e., text- and image-based chat), and channels beginning with 🔊 are voice-only (with the option for text chat within the voice channel). 
-- You can click category names to minimize or expand each category.
-- Private channels aren't visible in Discord's channel list to anyone who doesn't have permission to access them (but are listed below and designated with 🔒).
+- On Discord's channel list, categories appear in 【brackets】, channels beginning with # are text-only (i.e., text- and image-based chat), and channels beginning with 🔊 are voice-only (with the option for text chat within the voice channel)
+- You can click category names to minimize or expand each category
+- Private channels aren't visible in Discord's channel list to anyone who doesn't have permission to access them (but are listed below and designated with 🔒)
 
 ## Welcome & Server Info
 
@@ -195,17 +195,17 @@ GIFs/Stickers: You can search for and post animated GIFs and stickers by clickin
 - **Linking to Messages**: To link to an existing message, right-click it and select Copy Message Link, then paste it into your own message.
 - **Pin a Message**: In channels where you have permission to pin messages, right-click the message you want to pin and click Pin Message. (You can find pinned messages in a specific text channel by navigating to that channel and clicking the 📌 icon at the top of the screen.)
 
-_If you react to a message with ⭐, the message will be cross-posted to #⭐│starboard, along with a link to the original message._
+_If you react to a message with ⭐, the message will be cross-posted to #starboard, along with a link to the original message._
 
 ### Threads
 {:.no_toc}
 
 Threads (of 3+ messages) organize conversations into dedicated spaces within a single channel. For in-depth documentation, refer to [Discord's Thread FAQs](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ){:target="_blank"}. 
 
-- **Discover Threads**: To view or discover threads in a channel, you can click the Threads Discovery 🧵 icon at the top of the channel, which will open a submenu containing a directory of threads for that channel. 
-- **Creating Threads**: Hover over an existing post you'd like to turn into a thread. Click the More ⋯ icon, then Create Thread. Title the Thread. Once you send your message, the thread will be created. 
-- **Closing/Opening Threads**: Threads will close &mdash; become hidden from view &mdash; after about 3-7 days to declutter the channel sidebar. Closing a thread doesn't delete it. You can manually close a thread by clicking the More ⋯ icon at the top of the thread, then Close Thread. To reopen a closed thread, you can send a message in the thread, or click the More ⋯ icon and then Open Thread. This will make the thread reappear in the threads tab in the channel sidebar.
-- **Join/Leave Thread**: To join an active thread, click the thread you want to join and send a message in it, or click the More ⋯ icon and then Join Thread. To leave a thread, click the the More ⋯ icon and then Leave Thread.
+- **Discover Threads**: To view or discover threads in a channel, you can click the Threads Discovery 🧵 icon at the top of the channel, which will open a submenu containing a directory of threads for that channel
+- **Creating Threads**: Hover over an existing post you'd like to turn into a thread. Click the More ⋯ icon, then Create Thread. Title the Thread. Once you send your message, the thread will be created
+- **Closing/Opening Threads**: Threads will close &mdash; become hidden from view &mdash; after about 3-7 days to declutter the channel sidebar. Closing a thread doesn't delete it. You can manually close a thread by clicking the More ⋯ icon at the top of the thread, then Close Thread. To reopen a closed thread, you can send a message in the thread, or click the More ⋯ icon and then Open Thread. This will make the thread reappear in the threads tab in the channel sidebar
+- **Join/Leave Thread**: To join an active thread, click the thread you want to join and send a message in it, or click the More ⋯ icon and then Join Thread. To leave a thread, click the the More ⋯ icon and then Leave Thread
 
 ### Voice Messages (Mobile)
 {:.no_toc}
@@ -220,8 +220,8 @@ For in-depth documentation, refer to [Discord's Voice Channel FAQs](https://supp
 
 *How to join, open, and engage with voice channels.*
 
-- **Join Voice Chat (without view)**: By clicking a voice channel once, you'll join voice chat while retaining text channels in the main view, allowing you to listen, speak, and navigate text channels simultaneously.
-- **Join Voice Chat (with view)**: By clicking a voice channel twice, you'll highlight the channel and open the video feed in the main view, which includes a grid of participants and a control bar that appears on hover at the bottom of the screen.
+- **Join Voice Chat (without view)**: By clicking a voice channel once, you'll join voice chat while retaining text channels in the main view, allowing you to listen, speak, and navigate text channels simultaneously
+- **Join Voice Chat (with view)**: By clicking a voice channel twice, you'll highlight the channel and open the video feed in the main view, which includes a grid of participants and a control bar that appears on hover at the bottom of the screen
 
 ### Text Chat in Voice
 {:.no_toc}
@@ -276,7 +276,7 @@ _Discord Help Website: Ctrl/Cmd + Shift + H_
 - **Strikethrough**: ``~~strikethrough~~``
 - **Masked Links**: ``[Text](URL)`` to make text a clickable link instead of a pasted URL
 - **Block Quotes**: ``>``  at the beginning of quote
-- **Spoiler Text**: ``||``Text``||`` or highlight text and click the 👁️ icon to write blacked-out, click-to-reveal text (for triggering content/spoilers), 
+- **Spoiler Text**: ``||``Text``||`` or highlight text and click the 👁️ icon to write blacked-out, click-to-reveal text (for triggering content/spoilers) 
 - **Bulleted List**: ``- bullet`` for bullet points; to indent a nested bullet, hit ``Shift + Enter`` to make a new line and add a space in front of the hyphen, `` - nested``
 - **Space Between Messages**: ``** **`` then ``Shift + Enter`` at the beginning or end of a message to increase spacing between posts
 - **Monospaced Font**: Type two backticks ` around text for monospaced font/code blocks
