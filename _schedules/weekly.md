@@ -51,9 +51,5 @@ schedule:
         end: 4:00 PM
         location: DM for availability
   - name: Friday
-    events:
-    - name: Potential Times
-      start: 4:00 PM
-      end: 5:00 PM
-      location: DM for availability
+
 ---
