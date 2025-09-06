@@ -20,7 +20,7 @@ nav_order: 3
 {: .important }
 > This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #welcome.
 > 
-> The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in the announcements thread in #classroom.
+> The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in #classroom and Classes\Announcements.
 
 This course focuses on genres of resistance &mdash; particularly the lyric essay &mdash; and what it means to write for social justice. Part-webinar, part-roleplay, part-workshop, you'll be introduced to the elements of poetry, fiction, and creative nonfiction through reading, writing, and individual and cooperative play. Since social justice writing is writing that _does_ something to its audience, you'll regularly engage with, interpret (and create!) texts that model how content and form act together on readers. In doing so, you'll consider questions like: 
 
@@ -81,7 +81,7 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 
 ## WS 297Y: Accessibility & Student Support ♿
 
-If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. **Barring emergencies, I need as much advance notice as possible to effectively accommodate you.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. **I'll do my best to accommodate you, but please be aware that my own capacities only extend so far.**
+If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. I want you to succeed! You don't need documentation to proactively talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. **Barring emergencies, I need as much advance notice as possible to effectively accommodate you.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. **I'll do my best to accommodate you, but please be aware that my own capacities only extend so far.**
 
 {: .note }
 > If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
@@ -104,8 +104,7 @@ Since a large part of your course grade comes from consistent, active participat
 
 If you get sick or experience some other health challenge, communicate with me early so we can make a plan to make a plan when you're better. We'll get you caught up when you're well enough to resume participating. As a high-risk disabled individual myself, if I become sick, especially with COVID-19 or another serious illness, I'll need to aggressively rest. You'll have the materials and each other on Discord to help you continue with your learning. I'll rejoin when I'm well enough.
 
-{: .note }
-> I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning. 
+I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning. 
 
 Remember, communal care, mutual aid, and compassion will get us through!
 
