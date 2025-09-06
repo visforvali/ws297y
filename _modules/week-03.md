@@ -13,7 +13,7 @@ Sep 16
 : **Lecture**{: .label .label-blue-custom} Intimacy, Cruelty, Unknowability... and Work
   : [lecture notes](/ws297y/notes/notes-3.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Oyeyemi
-  : cn: 
+  : cn: implicit anti-Blackness, workplace harassment
 : **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 2
   : &nbsp;
   
