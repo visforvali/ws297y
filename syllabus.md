@@ -18,7 +18,7 @@ nav_order: 3
 # Course Description 🧐
 
 {: .important }
-> This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #syllabus-rules.
+> This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #welcome.
 > 
 > The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in the announcements thread in #classroom.
 
