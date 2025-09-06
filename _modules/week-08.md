@@ -13,6 +13,7 @@ Oct 21
 : **Lecture**{: .label .label-blue-custom} The Helicopter Story...
   : [lecture notes](/ws297y/notes/notes-8.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Fall
+  : cn: implicit reference to transphobia
 
 Oct 23
 : **Lecture**{: .label .label-blue-custom} ...and the Fallout

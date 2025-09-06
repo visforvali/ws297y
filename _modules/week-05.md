@@ -13,6 +13,7 @@ Sep 30
 : **Lecture**{: .label .label-blue-custom} The Contemporary Epic
   : [lecture notes](/ws297y/notes/notes-5.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Notley
+  : cn: misogyny
 : **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 5
   : &nbsp;
   

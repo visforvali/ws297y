@@ -14,6 +14,7 @@ Sep 9
 : **Lecture**{: .label .label-blue-custom} Philosophical Fanfiction
   : [lecture notes](/ws297y/notes/notes-2.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Kim
+  : cn: child abuse, guerilla resistance, murder, social media
   
 Sep 11
 : **Lecture**{: .label .label-blue-custom} Form as Resistance

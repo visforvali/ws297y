@@ -16,4 +16,5 @@ Sep 25
 : **Lecture**{: .label .label-blue-custom} What Tests Teach Us
   : [lecture notes](/ws297y/notes/notes-4.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Matherly
+  : cn: classism
 : **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 4

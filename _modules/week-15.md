@@ -13,6 +13,7 @@ Dec 9
 : **Lecture**{: .label .label-blue-custom} The Realities of Reconciliation
   : [lecture notes](/ws297y/notes/notes-15.1){:target="_blank"}
 : **Discuss**{: .label .label-blue-custom } Anders
+  : cn: extreme political ideologies
 : **Play/Write**{: .label .label-yellow-custom } *Dwelling* Room 4
 
 Dec 11

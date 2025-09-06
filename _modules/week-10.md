@@ -13,6 +13,7 @@ Nov 4
 : **Lecture**{: .label .label-blue-custom} Appropriation and Loss
   : [lecture notes](/ws297y/notes/notes-10.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Roanhorse
+  : cn: Indigenous cultural appropriation, racial stereotypes
 : **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 5
 
 Nov 6

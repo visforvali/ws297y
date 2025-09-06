@@ -13,6 +13,7 @@ Sep 16
 : **Lecture**{: .label .label-blue-custom} Intimacy, Cruelty, Unknowability... and Work
   : [lecture notes](/ws297y/notes/notes-3.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Oyeyemi
+  : cn: 
 : **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 2
   : &nbsp;
   
@@ -20,5 +21,4 @@ Sep 18
 : **Lecture**{: .label .label-blue-custom} Exposing the Common
   : [lecture notes](/ws297y/notes/notes-3.2){:target="_blank"}
 : **Stream**{: .label .label-green-custom} *The Stanley Parable*
-  : &nbsp;
 : **TTRPG**{: .label .label-yellow-custom} *B&V* Stage 3

@@ -14,6 +14,7 @@ Oct 7
 : **Lecture**{: .label .label-blue-custom} The Researcher's Tools
   : [lecture notes](/ws297y/notes/notes-6.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Sen
+  : cn: colonialism, imperialism
 : **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 6
   : &nbsp;
 

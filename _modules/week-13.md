@@ -14,6 +14,7 @@ Nov 25
   : [lecture notes](/ws297y/notes/notes-13.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Liu
 : **Stream**{: .label .label-green-custom } *Centum* Ch. 2
+  : cn: amnesia, body horror, death
 
 Nov 27
 : **No Class**{: .label .label-purple-custom } Thanksgiving

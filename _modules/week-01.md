@@ -23,3 +23,4 @@ Sep 4
 : **Lecture**{: .label .label-blue-custom} Philosophical Fiction
   : [lecture notes](/ws297y/notes/notes-1.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} LeGuin
+  : cn: child abuse, confinement, utilitarianism

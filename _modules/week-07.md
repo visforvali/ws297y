@@ -15,7 +15,6 @@ Oct 14
 : **Lecture**{: .label .label-blue-custom} Theory-Fiction
   : [lecture notes](/ws297y/notes/notes-7.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Atwood, El Wardany, Boully
-  : &nbsp;
   
 Oct 16
 : **Lecture**{: .label .label-blue-custom} The Fates Have It
