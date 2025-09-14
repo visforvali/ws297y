@@ -13,12 +13,8 @@ Dec 2
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} On Satire and Interactivity
   : [lecture notes](/ws297y/notes/notes-14.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Hedva
-: **Discussion**{: .label .label-blue-custom } Ray
-: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 2
+: **Discussion**{: .label .label-blue-custom } Hedva, Ray
+: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Rooms 2, 3
 
 Dec 4
-: **Lecture**{: .label .label-blue-custom} From the Personal to the Universal
-  : [lecture notes](/ws297y/notes/notes-14.2){:target="_blank"}
-: **Stream**{: .label .label-green-custom } *The Blue Prince*
-: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 3
+: **Text-only**{: .label .label-purple-custom } *Dwelling* workshop

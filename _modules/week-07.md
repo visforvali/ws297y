@@ -14,8 +14,10 @@ Oct 14
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Theory-Fiction
   : [lecture notes](/ws297y/notes/notes-7.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Atwood, El Wardany, Boully
+: **Discussion**{: .label .label-blue-custom } Atwood, Boully
   
 Oct 16
-: **Lecture**{: .label .label-blue-custom} The Fates Have It
-: **TTRPG**{: .label .label-yellow-custom } *Auspex* Worldbuilding and Day 1
+: **Lecture**{: .label .label-blue-custom} The Poetry of Activism
+  : [lecture notes](/ws297y/notes/notes-7.2){:target="_blank"}
+: **Discussion**{: .label .label-blue-custom } El Wardany
+: **TTRPG**{: .label .label-yellow-custom } *Auspex* Worldbuilding, Day 1

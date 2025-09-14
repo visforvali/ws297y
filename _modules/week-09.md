@@ -13,9 +13,7 @@ Oct 28
 : **Lecture**{: .label .label-blue-custom} Challenging Obstinacy
   : [lecture notes](/ws297y/notes/notes-9.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Okri
-: **TTRPG**{: .label .label-yellow-custom } *Auspex* Day 3
+: **TTRPG**{: .label .label-yellow-custom } *Auspex* Day 4, 5
 
 Oct 30
-: **Lecture**{: .label .label-blue-custom} From Gaming to Drafting
-  : [lecture notes](/ws297y/notes/notes-9.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom } *Auspex* Days 4
+: **Text-Only**{: .label .label-purple-custom } Drafting day

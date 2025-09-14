@@ -13,14 +13,10 @@ Oct 7
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} The Researcher's Tools
   : [lecture notes](/ws297y/notes/notes-6.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Sen
+: **Discussion**{: .label .label-blue-custom } Sen, Cole
   : cn: colonialism, imperialism
-: **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 6
+: **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 7 and debrief
   : &nbsp;
 
 Oct 9
-: **Lecture**{: .label .label-blue-custom} Media Criticism
-  : [lecture notes](/ws297y/notes/notes-6.2){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Cole
-: **Stream**{: .label .label-green-custom } *The Westport Independent*
-: **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 7 and debrief
+: **Text-Only**{: .label .label-purple-custom } *B&V* #team workshop

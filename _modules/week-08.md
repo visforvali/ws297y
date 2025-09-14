@@ -18,4 +18,4 @@ Oct 21
 Oct 23
 : **Lecture**{: .label .label-blue-custom} ...and the Fallout
   : [lecture notes](/ws297y/notes/notes-8.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 2
+: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 2, 3

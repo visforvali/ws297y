@@ -19,5 +19,5 @@ Dec 9
 Dec 11
 : **Lecture**{: .label .label-blue-custom} The Unsaid and Unsayable
   : [lecture notes](/ws297y/notes/notes-15.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 5 and debrief
+: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 5, debrief
 : **Presentation**{: .label .label-green-custom } Share an excerpt you're proud of!

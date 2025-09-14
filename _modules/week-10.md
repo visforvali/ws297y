@@ -14,9 +14,7 @@ Nov 4
   : [lecture notes](/ws297y/notes/notes-10.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Roanhorse
   : cn: Indigenous cultural appropriation, racial stereotypes
-: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 5
+: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 6
 
 Nov 6
-: **Lecture**{: .label .label-blue-custom} Question Your Teaspoons
-  : [lecture notes](/ws297y/notes/notes-10.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 6
+: **Text-only**{: .label .label-purple-custom } *Auspex* workshop
