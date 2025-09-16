@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 1.1 - On Craft and Social Justice
+title: 1.2 - Philosophical Fiction
 nav_exclude: true
 ---
 
-# 1.1 - On Craft and Social Justice
+# 1.2 - Philosophical Fiction
 
 I also encourage you to keep this question in mind at all times: With regards to *form* more than narrative (plot, character, setting), how does this piece move us closer to a socially just reality?
 
