@@ -14,7 +14,7 @@ Sep 30
   : [lecture notes](/ws297y/notes/notes-5.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Notley
   : cn: misogyny
-: **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 6
+: **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 4, 5
   : &nbsp;
   
 Oct 2
