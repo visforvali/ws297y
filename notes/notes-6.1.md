@@ -8,6 +8,6 @@ nav_exclude: true
 
 *Lecture notes posted after class!*
 
-# *Belluae/Venatores* Stage 6
+# *Belluae/Venatores* Stage 4, 5
 
 *Class notes posted after class!*
