@@ -43,7 +43,7 @@ Here are some essays, stories, and books that are relevant to this class:
 - Herman Melville, ["Bartleby the Scrivener"](https://www.gutenberg.org/files/11231/11231-h/11231-h.htm){:target="_blank"}
 - *The Onion,* ["'No Way to Prevent This,' Says Only Nation Where This Regularly Happens"](https://theonion.com/no-way-to-prevent-this-says-only-nation-where-this-r-1819576527/){:target="_blank"}
 - Meg Pillow, ["Long Live the Girl Detective"](https://electricliterature.com/long-live-the-girl-detective-by-megan-pillow/){:target="_blank"}
-
+- Julietta Singh, [*Unthinking Mastery: Dehumanism and Decolonial Entanglements*](https://www.dukeupress.edu/unthinking-mastery){:target="_blank"}
 
 ## Podcasts 📻
 
