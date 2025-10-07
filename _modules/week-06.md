@@ -15,8 +15,9 @@ Oct 7
   : [lecture notes](/ws297y/notes/notes-6.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Sen, Cole
   : cn: colonialism, imperialism
-: **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 4, 5
   : &nbsp;
 
 Oct 9
-: **Text-Only**{: .label .label-purple-custom } *B&V* 6, 7, #team workshop
+: **Async**{: .label .label-purple-custom } 
+  : **Text Chat**{: .label .label-blue-custom} #team workshop
+  : **TTRPG**{: .label .label-yellow-custom } *B&V* Stages 4-6
