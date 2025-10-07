@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 6.1 - Can the Researcher’s Tools Dismantle Their House?
+title: 6.1 - The Researcher's Tools
 nav_exclude: true
 ---
 
-# 6.1 - Can the Researcher’s Tools Dismantle Their House?
+# 6.1 - The Researcher's Tools
 
 Welcome back, comrades! We're more than a third of the way through so I wanted to ask how you’re taking care of yourselves this semester.
 
