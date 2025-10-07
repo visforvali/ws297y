@@ -19,5 +19,5 @@ Oct 7
 
 Oct 9
 : **Async**{: .label .label-purple-custom } 
-  : **Text Chat**{: .label .label-blue-custom} #team workshop
-  : **TTRPG**{: .label .label-yellow-custom } *B&V* Stages 4-6
+: **Text Chat**{: .label .label-blue-custom} #team workshop
+ : **TTRPG**{: .label .label-yellow-custom } *B&V* Stages 4-6
