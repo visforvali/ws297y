@@ -18,6 +18,6 @@ Oct 7
   : &nbsp;
 
 Oct 9
-: **Async**{: .label .label-purple-custom } 
+: **Async**{: .label .label-purple-custom } To Love and Kill What's Monstrous
 : **Text Chat**{: .label .label-blue-custom} #team workshop
  : **TTRPG**{: .label .label-yellow-custom } *B&V* Stages 4-6
