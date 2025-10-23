@@ -65,17 +65,7 @@ Give them what they want, steer them down a brighter path, or lean into the chao
 2. The Body: the action ([2 of Pentacles](https://labyrinthos.co/blogs/tarot-card-meanings-list/two-of-pentacles-meaning-tarot-card-meanings){:target="_blank"})
 3. The Blade: the separation ([Empress](https://labyrinthos.co/blogs/tarot-card-meanings-list/the-empress-meaning-major-arcana-tarot-card-meanings){:target="_blank"})
 
-
-
-
-
-
-
-
-
-
-
-
+**Post-Prediction Journaling**: What of their actions has unintended consequences? Will they live to see it?
 
 # I Sexually Identify as an Attack Helicopter (aka Helicopter Story)
 
