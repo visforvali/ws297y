@@ -14,6 +14,7 @@ Oct 21
   : [lecture notes](/ws297y/notes/notes-8.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Fall
   : cn: implicit reference to transphobia
+: **TTRPG**{: .label .label-yellow-custom } *Auspex* Worldbuilding, Day 1
 
 Oct 23
 : **Lecture**{: .label .label-blue-custom} ...and the Fallout
