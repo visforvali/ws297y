@@ -6,7 +6,15 @@ nav_exclude: true
 
 # 8.2 - ...and the Fallout
 
-*Lecture notes posted after class!*
+*Clarkesworld*, the venue that published "I Sexually Identify as an Attack Helicopter," is a niche publication with a fairly small, dedicated, regular audience who expects thoughtful, subversive science fiction from its website. 
+
+Fall had received a lot of hate and unwarranted attacks online, accusing her of being a transphobic, cisgender man trying to troll everyone with a hateful story, of being a neo-Nazi because her bio included her birth year, 1988, forcing her to out herself before she was prepared to as a trans woman herself when readers accused her of being a cis man exploiting trans identity for accolades and publication. The controversy hit social media and with critics like authors with large platforms echoing these criticisms &mdash; like N.K. Jemisin saying that sometimes art should not be shared &mdash; led to mob shaming and a deluge of hate mail that forced Fall back into the closet and caused her to hospitalize herself, due to her deteriorating health and well-being. 
+
+*Clarkesworld* believed in the story and it had received praise to that point; again, it was only taken down at Fall's request, for her safety. In effect, a first-time trans writer writing bold inventive fiction exploring trans experience in a fresh way, was silenced. She retracted other publications as well. And in the end, it turned out most of the critics never read the story &mdash; just the title, which made them morally outraged &mdash; and the pile-on was made up of people who hadn’t read the story and had only read the critics’ posts.
+
+Art can certainly provoke—upset, repulse, trigger &mdash; but the pain of the reader isn't the author's responsibility. Ethical writing makes a good faith effort to address potential triggers but can't control how readers ultimately engage with or react to their work, no more than they can prevent their egregious misinterpretation of their work. However, there's a difference between critiquing art after engaging with it and misinterpreting it, and critiquing it without engaging with the work itself at all &mdash; and instead going solely off the opinions of critics and influential voices on social media. If anything, the ignorant puritanical backlash against Fall's story points to a problematically regressive trend in the relationship between artists and their audiences, where readers seem increasingly primed by social media to object to fiction in moral terms as though they're saviors of the marginalized and less-literature (and of the public norms of taste and decency). Even members of the group being written about fall prey to this &mdash; the trans writer Phoebe Barton called Fall’s story a "gun with only one use: for hurting." Later she, like Jemisin, admitted she hadn't read the story. Without reading it, "readers" accused Fall of being hateful and evil for depicting a trans character committing murder and reveling in violence, of handing right-wing trolls the material they needed to cause harm. The attackers are righteous, while the author is either thoughtless or malicious—turning art from an aesthetic, potentially transformative experience into a moral binary of good and evil, whose gratification comes from attacking authors to protect imagined innocents or virtue. 
+
+But portraying such things isn't synonymous with endorsing them. In fact, stories like this one help us unpack nuanced intersecting forces that constitute our society and endow marginalized communities with full humanity.
 
 ## *Auspex* 
 
@@ -35,7 +43,7 @@ nav_exclude: true
 
 ### Day 3 Visitor: A Man of Wealth
 
-**His Question**: "I look at my life and there is so much in front of me it’s overwhelming! There are so many paths for me to take and I want to do them all! Must I really pick one path in life? Or may I meander through the garden of life’s offerings?"
+**His Question**: "I look at my life and there is so much in front of me it's overwhelming! There are so many paths for me to take and I want to do them all! Must I really pick one path in life? Or may I meander through the garden of life's offerings?"
 
 *Choose one of the following spreads to guide your answer to this question!*
 
