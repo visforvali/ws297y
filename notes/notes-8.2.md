@@ -29,7 +29,7 @@ But portraying such things isn't synonymous with endorsing them. In fact, storie
 
 <img src="http://visforvali.github.io/ws297y/assets/images/bread_butter.jpg" alt="Bread and butter tarot spread from Auspex">
 
-1. The necessity; what is needed ks ([Queen of Pentacles](https://labyrinthos.co/blogs/tarot-card-meanings-list/queen-of-pentacles-meaning-tarot-card-meanings){:target="_blank"})
+1. The necessity; what is needed ([Queen of Pentacles](https://labyrinthos.co/blogs/tarot-card-meanings-list/queen-of-pentacles-meaning-tarot-card-meanings){:target="_blank"})
 2. The indulgence; what is wanted ([Two of Swords](https://labyrinthos.co/blogs/tarot-card-meanings-list/two-of-swords-meaning-tarot-card-meaning){:target="_blank"})
 
 **Tarot Spread 2: The Buffoon**
