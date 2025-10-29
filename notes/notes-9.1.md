@@ -6,6 +6,8 @@ nav_exclude: true
 
 # 9.1 - Challenging Obstinacy
 
+Welcome back, comrades! Today, we'll start with our next solo journaling game, *Auspex*, to make sure we get to it; followed by a discussion of Okri's parables.
+
 ## *Auspex* 
 
 ### Day 4 Visitor: A Judge
@@ -70,4 +72,14 @@ will change the world. How do I find this knowledge within myself?"
 
 ## Three Parables about Water
 
-*Lecture notes posted after class!*
+These three pieces are excerpted from Ben Okri's Tiger Work, a compilation of pieces like this &mdash; a blend of fiction, creative nonfiction, poetry, fables, and lyric essays &mdash; that revolve around climate catastrophe. The title comes from William Blake's famous poem: "Tyger, tyger, burning bright, in forests of the night, what immortal hand or eye, could frame thy fearful symmetry"? In keeping with this inspiration, these parables &mdash; like the rest of the collection &mdash; imagine a future where water is vanishing, or suspect or tainted, or in scarcity or plentiful based on our thirst or our desire for it, a world where we're the authors of our own annihilation.
+
+One of the strategies used here, from a craft perspective, is to couch dire warnings about the state of the world in strange, unusual, fantastical stories that make you look for meanings without a formula or set symbolic interpretation to guide you. Every word is vital and designed to prod you towards one of several possible interpretations. Okri has said elsewhere, "The deeper the things you talk about, the less you must seem to be doing so. This needed to be a deceptive text." 
+
+The way water disappears in a glass, the stories are almost too clear while their message is knotty and confusing. There's also a playfulness at work here, such as the use of quintessential British stereotypes shows certain characters as privileged members of the establishment and others as newcomers or outsiders &mdash; we see this in "Knowledge," for instance, where the dean of faculties and the invited speaker seem at cross-purposes. These parables also critique the Eurocentric preoccupation with realism, or with fixed reality, in most of its mainstream literary canon. As Okri says, "Power needs fixity in order to do its work. My fiction is about undoing the very notion of that kind of power at all. That kind of power is actually an illusion, a bind, a trap." The presence of magic and/or the divine in "Thirst" and "Love" demonstrate this.
+
+I'll offer a couple of guiding questions for each of these parables.
+
+Regarding "Thirst": What relationships are we invited to see between friendship, love, and thirst and water scarcity? What is the meaning of the story his mother tells him, and what is suggested by the fact the story isn’t finished? How and why was he able to carry so much water, really, and how and why could she only carry so little? 
+
+Regarding "Knowledge," what is the relationship we're invited to see between knowledge and water, specifically the woman's demonstration? What is the difference between the dean of faculties and the invited speaker, and what details tell you this? What is the meaning of the academics perceiving a flood and the woman showing that when she stops her demonstration everything is dry?
