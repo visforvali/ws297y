@@ -40,7 +40,7 @@ Welcome back, comrades! Today, we'll start with our next solo journaling game, *
 6. Star, the aspiration ([King of Swords, Reversed](https://labyrinthos.co/blogs/tarot-card-meanings-list/king-of-swords-meaning-tarot-card-meanings){:target="_blank"})
 7. Earth, the return ([World](https://labyrinthos.co/blogs/tarot-card-meanings-list/the-world-meaning-major-arcana-tarot-card-meanings){:target="_blank"})
 
-**Post-Prediction Journaling**: How does this person inspire people in the new world? Who wishes to stop them?
+**Post-Prediction Journaling**: *Your visitor leaves, with each new step they take towards the future the waves of their influence spread out amongst those around them.* How does this person inspire people in the new world? Who wishes to stop them?
 
 ### Day 5 Visitor: An Archivist
 
@@ -50,7 +50,7 @@ will change the world. How do I find this knowledge within myself?"
 *Choose one of the following spreads to guide your answer to this question!*
 
 **Tarot Spread 1: Monkey's Paw**
-*It rains, it pours.*
+*Closer with each finger that curls.*
 
 <img src="http://visforvali.github.io/ws297y/assets/images/monkeys_paw.jpg" alt="Monkey's Paw tarot spread from Auspex">
 
@@ -68,7 +68,7 @@ will change the world. How do I find this knowledge within myself?"
 2. Protector, what they give up to protect it ([Six of Cups](https://labyrinthos.co/blogs/tarot-card-meanings-list/six-of-cups-meaning-tarot-card-meanings){:target="_blank"})
 3. Seeker, what they will lose to uncover it ([The Sun](https://labyrinthos.co/blogs/tarot-card-meanings-list/the-sun-meaning-major-arcana-tarot-card-meanings){:target="_blank"})
 
-**Post-Prediction Journaling**: What world-changing chain of events do they incite? How does their life stay mundane despite their impact?
+**Post-Prediction Journaling**: *Your visitor leaves, feeling mostly unchanged, back to their normal life and regular days, but the slight changes in their actions ripple out into the world.* What world-changing chain of events do they incite? How does their life stay mundane despite their impact?
 
 ## Three Parables about Water
 

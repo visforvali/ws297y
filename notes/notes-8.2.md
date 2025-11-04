@@ -68,4 +68,4 @@ But portraying such things isn't synonymous with endorsing them. In fact, storie
 5. Sun: what illuminates ([Five of Cups](https://labyrinthos.co/blogs/tarot-card-meanings-list/five-of-cups-meaning-tarot-card-meanings){:target="_blank"})
 6. The Pull: what magnetizes them together ([Six of Pentacles](https://labyrinthos.co/blogs/tarot-card-meanings-list/six-of-pentacles-meaning-tarot-card-meanings){:target="_blank"})
 
-**Post-Prediction Journaling**: How will their actions be recounted in history? Will history be kind to them?
+**Post-Prediction Journaling**: *Your visitor leaves, thoughts of their place in the world swirling about them, about how they see the world and how it should be known.* How will their actions be recounted in history? Will history be kind to them?
