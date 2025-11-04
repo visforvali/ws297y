@@ -42,7 +42,7 @@ Welcome back, comrades! Today, we'll start with our next solo journaling game, *
 
 ### Day 7 Visitor: A Revolutionary Leader
 
-**Their Question**: "I feel the whole world pressing down on my shoulders; there is so much I must carry but I cannot put it down. Will my burdens ease or am I doomed to be crushed under the weight of the world?"
+**Their Question**: "The world is a tumultuous place, but I feel a great peace in myself and in the world around me. I feel I have transcended life's strife into an unending kind of tranquility. How do I offer this peace to others?"
 
 *Choose one of the following spreads to guide your answer to this question!*
 
@@ -69,4 +69,5 @@ Welcome back, comrades! Today, we'll start with our next solo journaling game, *
 4. Thorn; a sacrifice for you ([King of Cups](https://labyrinthos.co/blogs/tarot-card-meanings-list/king-of-cups-meaning-tarot-card-meanings){:target="_blank"})
 5. Thorn; a sacrifice for others ([The Emperor](https://labyrinthos.co/blogs/tarot-card-meanings-list/the-emperor-meaning-major-arcana-tarot-card-meanings){:target="_blank"})
 
-**Post-Prediction Journaling**: *Your visitor leaves, and whether they know it or not, they will end an era. They will plan, plot, or blunder this world anew.* What do they create from the remnants of the old world? What is their agenda?
+**Post-Prediction Journaling**: *Your visitor leaves, and whether they know it or not, they will end an era. They will plan, plot, or blunder this world anew.* How do they destroy the world as we know it? Are they really to
+blame?
