@@ -67,6 +67,6 @@ Welcome back, comrades! Today, we'll start with our next solo journaling game, *
 2. Thorn; a consequence for you ([Nine of Wands](https://labyrinthos.co/blogs/tarot-card-meanings-list/nine-of-wands-meaning-tarot-card-meanings){:target="_blank"})
 3. Thorn; a consequence for others ([Three of Cups](https://labyrinthos.co/blogs/tarot-card-meanings-list/three-of-cups-meaning-tarot-card-meanings){:target="_blank"})
 4. Thorn; a sacrifice for you ([King of Cups](https://labyrinthos.co/blogs/tarot-card-meanings-list/king-of-cups-meaning-tarot-card-meanings){:target="_blank"})
-5. Thorn; a sacrifice for others ([The Emperor](https://labyrinthos.co/blogs/tarot-card-meanings-list/the-hermit-meaning-major-arcana-tarot-card-meanings){:target="_blank"})
+5. Thorn; a sacrifice for others ([The Emperor](https://labyrinthos.co/blogs/tarot-card-meanings-list/the-emperor-meaning-major-arcana-tarot-card-meanings){:target="_blank"})
 
 **Post-Prediction Journaling**: *Your visitor leaves, and whether they know it or not, they will end an era. They will plan, plot, or blunder this world anew.* What do they create from the remnants of the old world? What is their agenda?
