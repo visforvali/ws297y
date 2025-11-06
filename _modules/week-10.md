@@ -17,4 +17,6 @@ Nov 4
 : **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 6
 
 Nov 6
-: **Text-only**{: .label .label-purple-custom } *Auspex* workshop
+: **Text-only**{: .label .label-purple-custom } *Auspex* Conclusion and TTRPG Workshop
+: **Text-only**{: .label .label-purple-custom} Guided Peer Workshops in #team
+  : [instructions](/ws297y/notes/notes-10.2){:target="_blank"}
