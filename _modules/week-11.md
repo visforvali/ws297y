@@ -15,4 +15,4 @@ Nov 13
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} Political Uses for Minor Feelings
   : [lecture notes](/ws297y/notes/notes-11.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 7 and debrief
+: **TTRPG**{: .label .label-yellow-custom} *Dwelling* Worldbuilding

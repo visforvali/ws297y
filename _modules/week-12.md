@@ -18,6 +18,6 @@ Nov 18
 Nov 20
 : **Lecture**{: .label .label-blue-custom} Locked Rooms and Hauntings
   : [lecture notes](/ws297y/notes/notes-12.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Worldbuilding and Room 1
+: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 1
 : **Stream**{: .label .label-green-custom } *Centum* Ch. 1
   : cn: amnesia, body horror, death
