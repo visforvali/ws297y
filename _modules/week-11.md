@@ -1,9 +1,9 @@
 ---
-title: Week 11 - False Starts
+title: Week 11 - Political Uses for Minor Feelings
 {: .text-epsilon}
 ---
 
-## Week 11 - False Starts
+## Week 11 - Political Uses for Minor Feelings
 
 📖 Read Myisha Cherry, ["Painting in Broad Strokes"](/ws297y/assets/pdfs/cherry_painting_in_broad_strokes.pdf){:target="_blank"}   
 
