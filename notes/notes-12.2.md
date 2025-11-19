@@ -40,4 +40,4 @@ The arrangement of walls and windows and doors is different than I'm used to, bu
 
 On the nightstand next to me is the book I've been reading, looking over at the cover I try to remember where the story was going when I left off. I fumbled the book back onto the nightstand before trying to sleep and I still have the mark of a small paper cut on my fingertip.
 
-[*15 min writing interlude:*]
+[*15 min writing interlude: How has this haunting "marked" you, i.e. how are you *]
