@@ -33,11 +33,11 @@ I shift, letting the sensation of my skin against sheets register my body in pla
 
 I let my eyes languidly take in the walls around me and make sense of the still-unfamiliar shadows, tracing the shapes with my unfocused eyes still hazy from sleep. In my sleep-addled imagination, my mind conjures a shape in the shadows, the way the darkness piles at the end of my bed, making the dark shapes against the wall look as if something is peering over the edge of my bed, looking up at me. 
 
-[*15 min writing interlude: What is the ghost haunting this room? Why this room? Why are they still here?*]
+[*15 min writing interlude: What is the ghost of memory haunting this room? Why this room? Why are they still here? Why are you compelled to record it in writing?*]
 
 I shake my head and rub my eyes and the creeping shadows are now unrecognizable as anything, just the folds of sheets into the shadows on the floor below.
 The arrangement of walls and windows and doors is different than I'm used to, but I managed to make the room work in a way I really liked. My bed, across from a south-facing window, lets the morning light in. Dresser pressed against the wall and my small but functional desk sits under the Windowsill. The bare surfaces in my bedroom are starting to accumulate clutter. My favourite knickknacks draw my eye to the top of the dresser, or to the top of my desk, a jumble of things and books. The walls too are less bare, the south wall I opted to paint my favourite colour, and around the window are polaroids of memories from last fall.
 
 On the nightstand next to me is the book I've been reading, looking over at the cover I try to remember where the story was going when I left off. I fumbled the book back onto the nightstand before trying to sleep and I still have the mark of a small paper cut on my fingertip.
 
-[*15 min writing interlude: How has this haunting "marked" you, i.e. how are you *]
+[*15 min writing interlude: How has this haunting "marked" you, i.e. how are you forever changed by remembering and recording this ghost?*]
