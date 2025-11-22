@@ -13,7 +13,7 @@ Nov 25
 : **Lecture**{: .label .label-blue-custom} Intentionality in Art
   : [lecture notes](/ws297y/notes/notes-13.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Liu
-: **Stream**{: .label .label-green-custom } *Centum* Ch. 2
+: **Stream**{: .label .label-green-custom } *Centum* Ch. 1
   : cn: amnesia, body horror, death
 
 Nov 27

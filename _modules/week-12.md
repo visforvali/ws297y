@@ -14,8 +14,6 @@ Nov 18
   : [lecture notes](/ws297y/notes/notes-12.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Machado
   : cn: pandemic, sex
-: **Stream**{: .label .label-green-custom } *Centum* Ch. 1
-  : cn: amnesia, body horror, death
 
 Nov 20
 : **Text-only**{: .label .label-purple-custom} Navigating a Haunted House
