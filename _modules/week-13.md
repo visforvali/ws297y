@@ -10,11 +10,9 @@ title: Week 13 - This Machine Kills
 Nov 25
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} Intentionality in Art
+: **Lecture**{: .label .label-blue-custom} This Machine Kills
   : [lecture notes](/ws297y/notes/notes-13.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Liu
-: **Stream**{: .label .label-green-custom } *Centum* Ch. 1
-  : cn: amnesia, body horror, death
 
 Nov 27
 : **No Class**{: .label .label-purple-custom } Thanksgiving
