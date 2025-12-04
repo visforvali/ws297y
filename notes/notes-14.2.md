@@ -6,7 +6,7 @@ nav_exclude: true
 
 # 14.2 - *Dwelling* Room 2
 
-You were asked to do the worldbuilding and some initial writing in Week 13; instructions are [here](/notes/notes-12.2.md){:target="_blank"}. 
+**Instructions**: You were asked to do the worldbuilding and some initial writing in Week 13; instructions are [here](/notes/notes-12.2.md){:target="_blank"}. 
 
 With the shadows and the space surveyed, I let my eyes close again, drifting back into sleep. Until &mdash; a sound starts echoing through the hallway and slips its way in through my open door.
 

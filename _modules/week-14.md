@@ -14,7 +14,6 @@ Dec 2
 : **Lecture**{: .label .label-blue-custom} On Satire and Interactivity
   : [lecture notes](/ws297y/notes/notes-14.1){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Hedva, Ray
-: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Rooms 2, 3
 
 Dec 4
-: **Text-only**{: .label .label-purple-custom } *Dwelling* workshop
+: **Text-only**{: .label .label-purple-custom } *Dwelling* Room 2

@@ -1,20 +1,18 @@
 ---
-title: Week 15 - At the End of America
+title: Week 15 - Haunted Memories
 {: .text-epsilon}
 ---
 
-## Week 15 - At the End of America
+## Week 15 - Haunted Memories 
    
 📖 No readings!
    
 Dec 9
-: **Instructions**{: .label .label-blue-custom} The Realities of Reconciliation
+: **Instructions**{: .label .label-blue-custom} *Dwelling* Room 3
   : [lecture notes](/ws297y/notes/notes-15.1){:target="_blank"}
-: **Text-only**{: .label .label-purple-custom } Drafting, optional coffee chats
-: **Play/Write**{: .label .label-yellow-custom } *Dwelling* Room 4
+: **Text-only**{: .label .label-purple-custom } *Dwelling* Room 3
 
 Dec 11
-: **Instructions**{: .label .label-blue-custom} The Unsaid and Unsayable
+: **Instructions**{: .label .label-blue-custom} *Dwelling* Room 4
   : [lecture notes](/ws297y/notes/notes-15.2){:target="_blank"}
-: **Text-only**{: .label .label-purple-custom } Drafting, optional coffee chats
-: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 5, debrief
+: **Text-only**{: .label .label-purple-custom } *Dwelling* Room 4
