@@ -87,7 +87,7 @@ Come up with 5 questions about 5 different craft techniques &mdash; descriptions
 For your high-stakes project, you'll choose one social justice issue. Your collection will be divided between two parts: 
 
 - A compilation of philosophical/theoretical fiction (theory, fiction, and theory-fiction) that evokes, provokes, and revolves around the social justice issue you chose. Each piece should emulate at least one of the craft techniques we discussed in class
-- A preface that identifies your goals in composing and compiling this particular manuscript and explains how your choices in craft (i.e. whose techniques you chose to emulate and why) and design (i.e. arrangement in and across pieces)
+- A preface that identifies your goals in composing and compiling this particular manuscript and explains your choices in craft (i.e. whose techniques you chose to emulate and why) and design (i.e. arrangement in and across pieces)
 
 {: .note }
 > If you wrote about the social justice issue you chose in your low-stakes posts, you're welcome to modify those posts and integrate them into this project. If you didn't but can easily modify existing low-stakes posts, you're welcome to adapt those posts to be about the social issue justice you chose.
