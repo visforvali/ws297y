@@ -4,29 +4,36 @@ title: 15.2 - Leaving the Door Open
 nav_exclude: true
 ---
 
-# 15.1 - Leaving the Door Open 
+# 16.1 - Departures
 
-**Instructions**: You were asked to do the worldbuilding and some initial writing in [Week 13](/notes/notes-12.2.md){:target="_blank"} and [Week 14](/notes/notes-14.2.md){:target="_blank"}.
+As we close out the semester this week, you'll share your drafts of your final projects to your #team channels and engage in a guided workshop. Your workshop will be guided by the Feedback Survey below, which is a set of questions you should answer for each of your teammates' papers. 
 
-I step into the living room and feel as if there's hot coals under my feet. I stop, take a step back and stand at the threshold of the room, not willing to
-enter the room that no light seems to move through.
+Here are the general instructions:
 
-A door slams again. It's neither the door behind me nor is there any other visible door in my vicinity. The walls of the room shake at the impact of the
-slams. My limbs feel turgid and electric, stuck in place. As if they were to move at all, they would move with great force, colliding into things with a destructive lack of focus. My heart beats in my chest and shakes my ribs, just as the slamming door shook the walls.
+1. Out of respect for your team members, please post your drafts to your #team channel by Tuesday 8AM so your peers have time to read and review before the Thursday night deadline. (If you post a Google Doc link, make sure you've enabled sharing permissions.)
 
-Another slam that rings so loud it is accompanied by the sound of cracking wood, I finally see the cause. It is summoned before me, accompanied by the loud boom. Eyes adjusting to the darkness, I realize the shadow looms in the room, pressed up into the ceiling and wall alike, filling the room with its presence. Its movement stifled by its cumbersome size, it swings wildly, limb like protrusions colliding with walls, furniture, and picture frames.
+2. Read like a reader, not an editor or professor. Effective feedback starts with responding based on your thought process and internal cognitive and emotional reactions to the text. 
 
-[*15 min writing interlude: What is the ghost/memory that has been summoned into this room? How did you summon it? Why this space? Why has it taken this form? Why has it appeared to you now, and why do you feel compelled to record it in writing?*]
+3. Effective feedback is also: actionable and specific (spelled out in a way that the writer can actually carry out in a timely fashion); non-prescriptive (offers suggestions, not demands); and generous (doesn't assume the writer intended to make mistakes, whether it's misreading assignment directions, not emulating a specific craft technique, etc.) while kindly telling the writer what they needed to do differently.
 
-Its mass moves wildly and frantically in its fury. The dark shape of one swings by my face and with it my vision goes dark, my mind instead filled with a memory
-that feels too big, too loud to properly be projected within my mind. Sharp voices, the shouting, the tension in the room and in the stretches of spaces in between bodies. How distance could feel as loud as a shout. Doors slamming only to punctuate sentences, to end an argument. What even was all the anger for? Did anything ever make it stop? Or was it a matter of time? Heat in bodies and temperament alike needing time to cool off.
+4. Don't talk about your projects! First, read without commenting. You can read and make marginalia, underline/highlight what you think the claim is, make notes about what you think the writer's aims are, etc.
 
-As fast as the memory was in my mind, it's gone completely, but the sounds remain. Unable to take the noise and the damage being done to my house, I move forward into the living room, preparing myself to scream over the pounding and static and the echo of a bellowing roar.
+5. Answer all the questions in the Feedback Survey below for each of your teammates' drafts, and post your answers as a reply to your teammate in your #team channel. **This process must be complete by Thurs 8AM at the latest**.
 
-I take one step into the living room and it all stops. The room shifts in tone. It's brighter, as the thing that filled the room shrinks into a small cluster of dark shadows in the corner of the room. It's quiet again. I can still feel the reverberations of the sound in the floorboards through my feet but the sound itself is gone. The room is undamaged. The house is quiet again and I slump into the wall &mdash; letting myself breathe and feel my heart rate pound back to normal. I feel the mark of tension stretching across some part of me, a taught bundle of nerves ready to snap.
+5. After receiving feedback, read what your teammates wrote, and discuss any questions you have together as a group. You may want to ask questions about what their comments mean, how they suggest enacting those comments, collaboratively write your way towards enacting those comments, and so on.
 
-I attempt to ease out the tension in my body and rest, letting my body go slack in its place on the floor. 
+# Feedback Survey
 
-As my body settles, and I feel the new extremities of it, the sound of a singular heartbeat resonates throughout the house, breaking the silence, in each and every empty room.
+Answer the below questions for each of your teammates' drafts. Post your responses to your #team channel as a reply to each teammate (or tag them in your post with @username). 
 
-[*15 min writing interlude: How has this haunting "marked" you, i.e. how are you forever changed by remembering and recording this ghost?*]
+1. Is there a clearly identifiable social justice issue around which the entire compilation coheres?
+2. Is the writer using at least 1 distinct craft technique from one of the readings we discussed this semester?
+3. Did the writer include at least 1 piece from each of the solo journaling games we played (*Belluae/Venatores, Auspex, Dwelling*)?
+4. Is the chosen form/technique well-suited for the subject? Why/why not? If not, what form/technique would be better suited to the subject, and why?
+5. Does the writer spend an equal amount of space or time to each craft technique? If not, is it clear why the technique(s) they spend more time on are more important than the other ones?
+6. When you compare the draft with the project guidelines, what major criteria are absent or need improvement? Tell the writer how they might take care of that.
+7. What 2-3 items from the feedback survey questions above feel like top priority items for the writer's paper?
+
+I highly recommend you plan to drop in for a sync coffee chat during our scheduled class time if you have any questions or want to review your project together in real time! 
+
+Happy drafting and reviewing!

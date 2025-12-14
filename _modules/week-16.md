@@ -9,6 +9,7 @@ title: Week 16 - Departures
 
 Dec 16
 : **Share by 11am**{: .label .label-red-custom } Post drafts for guided workshop to #team
+  : [lecture notes](/ws297y/notes/notes-16){:target="_blank"}
 : **Async**{: .label .label-purple-custom } Drafting, revision, final Q&A
 
 Dec 18
