@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 15.2 - Leaving the Door Open
+title: 16 - Departures
 nav_exclude: true
 ---
 
