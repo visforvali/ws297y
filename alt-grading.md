@@ -93,18 +93,3 @@ The assessment criteria for the high-stakes project are:
 > **This grace period doesn't apply to a lack of participation**, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
 
 I accept *all* writing assignments with no penalty or questions asked within 1 week of the original deadline (as long as they meet the rest of the assignment criteria). Please note that the grace period is time-bound, and I'm unable to accept work on a rolling basis whenever around you get to it. I can't promptly review late work. I don't accept work more than 1 week late unless we made alternate arrangements in advance.
-
-# Redemption Points 🎟️
-
-{: .warning }
-> Using GenAI for *anything* in this course will automatically disqualify you from these opportunities. 
-
-When you participate in voice chat during sync class sessions (whether what you say is correct or not) or are very proactive and conversational in our server's text channels, I'll note it in my roster as a "redemption point." You can earn up to 3 redemption points a week and trade them in for different chances to "redeem" a grade:
-
-**Points** | **Resubmit For**
-2 pts | You can submit 1 missed/no-credit low-stakes writing work.
-4 pts | You can revise and resubmit 1 missed/no-credit high-stakes draft.
-6 pts | You can add 1% to your participation score.
-14 pts | You can add 1/3 of a letter grade to your final course grade.
-
-If you don't need to use your points or have unused points at the end of the semester, you can also DM me to add them to the mutual aid pool, to be redistributed to the whole class (TBD based on total mutual aid points).
