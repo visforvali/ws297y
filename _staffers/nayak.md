@@ -1,11 +1,11 @@
 ---
 name: <a href="https://www.pace.edu/profile/meghana-nayak" target="_blank">Dr. Meghana Nayak</a>
-role: Chair, Dept. of Women's and Gender Studies Dept.
+role: Chair
 email: mnayak@pace.edu
 photo: drnayak.png
 meta:
   ⚧️ Pronouns: she/her
-  📲 Discord server: Invitation link posted to Classes\Content\Syllabus
+  📲 Dept: Women's and Gender Studies
 ---
 
 [Book a coffee chat!](https://zcal.co/drmani/coffee-chat){:target="_blank"}{: .btn .btn-outline } 
