@@ -1,6 +1,6 @@
 ---
 name: <a href="https://www.pace.edu/profile/meghana-nayak" target="_blank">Dr. Meghana Nayak</a>
-role: Chair
+role: Instructor
 email: mnayak@pace.edu
 photo: drnayak.png
 meta:
