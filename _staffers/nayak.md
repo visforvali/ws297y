@@ -2,7 +2,7 @@
 name: <a href="https://www.pace.edu/profile/meghana-nayak" target="_blank">Dr. Meghana Nayak</a>
 role: Instructor
 email: mnayak@pace.edu
-photo: drnayak.png
+photo: nayak.png
 meta:
   ⚧️ Pronouns: she/her
   📲 Dept: Women's and Gender Studies
