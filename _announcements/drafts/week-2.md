@@ -1,7 +1,7 @@
 ---
-title: ✉️ Week 3 - Housekeeping
-week: 0
-date: 2025-09-18
+title: ✉️ Week 2 - Housekeeping
+week: 2
+date: 2025-09-07
 ---
 
 Hello students,
