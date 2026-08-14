@@ -3,7 +3,7 @@ title: Week 1 - Complicity or Resistance
 {: .text-epsilon}
 ---
 
-## Week 1 - Complicity or Resistance
+## Week 1 - Rest is Resistance
 \
 🕵️ Review [WS 297Y Course Prospectus](syllabus){:target="_blank"}   
 🕵️ Review [Discord Tutorial](discord){:target="_blank"}   
