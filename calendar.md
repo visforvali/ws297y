@@ -22,9 +22,7 @@ seo:
 {% endfor %}
 
 {: .warning }
-> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐10, 🕐15, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) to talk about any aspect of class, college, life, etc. Book early and often! And if these times don't work for your schedule, you can DM me to arrange an alternate time. The [Class Schedule](schedule) shows some potential times you can ask about, but we can figure it out if those times don't work for you, either. 
->
-> You must contact me **at least 1 week in advance** to schedule a chat outside of my standard coffee chat times. I'm almost never able to accommodate last-minute requests.
+> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a <a href="https://zcal.co/drmani/coffee-chat" target="_blank">🕐10</a>, <a href="https://zcal.co/drmani/coffee-chat?duration=15" target="_blank">🕐15</a>, or <a href="https://zcal.co/drmani/coffee-chat?duration=20" target="_blank">🕧20</a> min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) chat to talk about any aspect of your classwork, college, life, etc. I have limited availability outside of these hours, but if these times don't work for your schedule, you can DM me **at least 1 week in advance** to arrange an alternate time. I'm unable to accommodate last-minute requests.
 
 {: .important }
 > I respond to async messages in Discord's text channels and DMs, and Pace emails &mdash; within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 

@@ -25,23 +25,23 @@ schedule:
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
-        location: 🔊|🪑Sync Sessions (check [Calendar](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance))
+        location: 🔊🪑Sync Sessions (confirm on [Calendar](https://visforvali.github.io/ws297y/))
       - name: Coffee Chats
         start: 2:00 PM
         end: 5:00 PM
-        location: 🔊|☕Cafe (check [Zcal](https://zcal.co/drmani))
+        location: 🔊☕Cafe (schedule through [Zcal](https://zcal.co/drmani))
   - name: Wednesday
     events:
       - name: Coffee Chats
         start: 1:00 PM
         end: 3:00 PM
-        location: 🔊|☕Cafe (check [Zcal](https://zcal.co/drmani))
+        location: 🔊☕Cafe (schedule through [Zcal](https://zcal.co/drmani))
   - name: Thursday
     events:
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
-        location: /#🙋|classroom (check [Calendar](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance))
+        location: /#🙋classroom (confirm on [Calendar](https://visforvali.github.io/ws297y/)
   - name: Friday
 
 ---
