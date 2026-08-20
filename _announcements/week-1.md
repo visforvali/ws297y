@@ -1,7 +1,7 @@
 ---
 title: 👋🏾 Week 1 - Welcome & Course Setup
 week: 1
-date: 2026-08-31
+date: 2026-08-20
 ---
 
 Dear Students,

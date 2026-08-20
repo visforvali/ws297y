@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ✍️ High- & Low-Stakes Writing Prompts
+title: ✍️ Writing Assignments
 description: All writing prompts.
 nav_order: 5
 ---
     
-# Writing Prompts ✍️
+# Writing Assignments ✍️
 {:.no_toc}
 
 ## Table of Contents
@@ -15,7 +15,7 @@ nav_order: 5
 {:toc}
 
 
-# Low-Stakes Writing
+# Low-Stakes Writing Prompts
 {: .no_toc }
 
 {: .important }
@@ -79,7 +79,7 @@ Choose a minor character &mdash; a character who isn't the protagonist and whose
 
 Come up with 5 questions about 5 different craft techniques &mdash; descriptions, rhythm, white space, lack of white space, poetics, etc. &mdash; that induced sensations in you while you were reading, and answer 2 of them. Of the 2 you answered, also address why you feel these 2 techniques induced the specific sensations that they did.
 
-# High-Stakes Writing
+# High-Stakes Writing Projects
 
 {: .important }
 > This project should be between 8,000 to 10,000 words (15-20 single-spaced pages) and is due at the end of the semester. If your project needs more room, or involves other modalities, book a coffee chat with me early so we can talk about it.
