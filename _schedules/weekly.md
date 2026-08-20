@@ -41,7 +41,7 @@ schedule:
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
-        location: \#🙋classroom (confirm on <a href="https://visforvali.github.io/ws297y/" target="_blank" style="color:#fff;">Calendar</a>)
+        location: &num;🙋classroom (confirm on <a href="https://visforvali.github.io/ws297y/" target="_blank" style="color:#fff;">Calendar</a>)
   - name: Friday
 
 ---
