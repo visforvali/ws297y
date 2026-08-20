@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ✍️ Writing Prompts
+title: ✍️ High- & Low-Stakes Writing Prompts
 description: All writing prompts.
 nav_order: 5
 ---
