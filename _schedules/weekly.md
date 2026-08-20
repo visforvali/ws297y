@@ -25,7 +25,7 @@ schedule:
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
-        location: 🔊🪑Sync Sessions (confirm on <a href="https://visforvali.github.io/ws297y/" target="_blank">Calendar</a>)
+        location: 🔊🪑Sync Sessions (confirm on <a href="https://visforvali.github.io/ws297y/" target="_blank" style="color:#fff;">Calendar</a>)
       - name: Coffee Chats
         start: 2:00 PM
         end: 5:00 PM
