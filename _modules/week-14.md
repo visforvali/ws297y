@@ -1,9 +1,9 @@
 ---
-title: Week 14 - Reclaim Survival
+title: Week 14 - Reclaim School
 {: .text-epsilon}
 ---
 
-## Week 14 - Surviving and Thriving
+## Week 14 - Get Your Sh!t Together I
 
 📖 Read Johanna Hedva, ["Get Well Soon"](https://getwellsoon.labr.io/){:target="_blank"}   
 📖 Read Victor Ray, ["A Short Quiz for My Students in Lieu of Asking About Their Vaccine Status or Requesting That They Wear Masks"](/ws297y/assets/pdfs/ray_quiz_for_my_students_in_lieu_of_asking_about_covid.pdf){:target="_blank"}   

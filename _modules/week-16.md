@@ -1,9 +1,9 @@
 ---
-title: Week 16 - Departures
+title: Week 16 - Creative Reclamation
 {: .text-epsilon}
 ---
 
-## Week 16 - Departures
+## Week 16 - A Retrospective
 
 📖 Read the drafts your teammmates submitted for workshop
 

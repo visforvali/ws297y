@@ -20,6 +20,10 @@ nav_order: 3
 {: .important }
 > This course prospectus (syllabus, calendar, alt-grading system, and writing assignments) is x-posted as a PDF in Classes\Content\Syllabus and as a pinned post in #👋🏾welcome on Discord. If I modify the course prospectus to better fit the needs of our class, I'll let you know in #🙋classroom on Discord and Classes\Announcements.
 
+
+
+
+
 This course focuses on genres of resistance &mdash; particularly the lyric essay &mdash; and what it means to write for social justice. Part-webinar, part-roleplay, part-workshop, you'll be introduced to the elements of poetry, fiction, and creative nonfiction through reading, writing, and individual and cooperative play. Since social justice writing is writing that _does_ something to its audience, you'll regularly engage with, interpret (and create!) texts that model how content and form act together on readers. In doing so, you'll consider questions like: 
 
 - How have we been shaped, personally and politically, by reading and writing? 

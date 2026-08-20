@@ -1,9 +1,9 @@
 ---
-title: Week 15 - Haunted Memories
+title: Week 15 - Reclaim School
 {: .text-epsilon}
 ---
 
-## Week 15 - Haunted Memories 
+## Week 15 - Get Your Sh!t Together II 
    
 📖 No readings!
    

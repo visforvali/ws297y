@@ -1,9 +1,9 @@
 ---
-title: Week 13 - Reclaim What's Wasted
+title: Week 13 - Reclaim Survival
 {: .text-epsilon}
 ---
 
-## Week 13 - Everything Can Be Used
+## Week 13 - Surviving and Thriving
 
 📖 Read Ken Liu, ["50 Things Every AI Working with Humans Should Know"](/ws297y/assets/pdfs/liu_50_things_every_ai_should_know.pdf){:target="_blank"}   
 
