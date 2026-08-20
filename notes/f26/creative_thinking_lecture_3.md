@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 3. Thought Without Image
+title: 3. Reclaim Thinking II
 nav_exclude: true
 ---
 
-# Thought Without Image
+# Reclaim Thinking II: Thought Without Image
 

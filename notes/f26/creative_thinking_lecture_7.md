@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 7. Resistive Rest
+title: 7. Reclaim Wellness
 nav_exclude: true
 ---
 
-# Resistive Rest
+# Reclaim Wellness: Differential Unwellness
+

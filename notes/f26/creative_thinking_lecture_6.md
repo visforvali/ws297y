@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 6. Resisting Rest
+title: 6. Reclaim Your Time
 nav_exclude: true
 ---
 
-# Resisting Rest
+# Reclaim Your Time: Work Vs. Labor

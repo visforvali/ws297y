@@ -1,9 +1,9 @@
 ---
-title: Week 6 - Just the Facts?
+title: Week 6 - Reclaim Your Time
 {: .text-epsilon}
 ---
 
-## Week 6 - Just the Facts?
+## Week 6 - : Work vs. Labor
 
 📖 Read Teju Cole, ["What It Is"](/ws297y/assets/pdfs/cole_what_it_is.pdf){:target="_blank"}   
 📖 Read Nibedita Sen, ["Ten Excerpts from an Annotated Bibliography on the Cannibal Women of Ratnabar Island"](/ws297y/assets/pdfs/sen_10_excerpts_from_annotated_bib.pdf){:target="_blank"}   

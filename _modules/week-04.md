@@ -1,9 +1,9 @@
 ---
-title: Week 4 - This Will Be on the Exam
+title: Week 4 - Reclaim Learning
 {: .text-epsilon}
 ---
 
-## Week 4 - This Will Be on the Exam
+## Week 4 - The Art of Curation
 
 📖 Read Desirae Matherly, ["Final: Comprehensive, Roughly"](/ws297y/assets/pdfs/matherly_final_comprehensive_roughly.pdf){:target="_blank"}   
 

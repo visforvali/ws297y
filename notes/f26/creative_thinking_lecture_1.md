@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 1. Question Your Teaspoons
+title: 1. Reclaim the World
 nav_exclude: true
 ---
 
-# Question Your Teaspoons
+# Reclaim the World: Question Your Teaspoons

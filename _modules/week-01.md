@@ -1,5 +1,5 @@
 ---
-title: Week 1 - Complicity or Resistance
+title: Week 1 - Reclaim the World
 {: .text-epsilon}
 ---
 

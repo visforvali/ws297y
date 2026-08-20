@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 5. Fuck You I Quit
+title: 5. Reclaim Attention
 nav_exclude: true
 ---
 
-# Fuck You I Quit
+# Reclaim Attention: 24/7/365 Grinding
+
+

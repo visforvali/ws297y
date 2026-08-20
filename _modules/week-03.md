@@ -1,9 +1,9 @@
 ---
-title: Week 3 - Don't Let the Bastards Grind You Down
+title: Week 3 - Reclaim Thinking
 {: .text-epsilon}
 ---
 
-## Week 3 - Don't Let the Bastards Grind You Down
+## Week 3 - Thought without Image 
 
 📖 Read Helen Oyeyemi, ["If a Book's Locked There's Probably a Reason for That, Don't You Think"](/ws297y/assets/pdfs/oyeyemi_if_a_book_is_locked.pdf){:target="_blank"}   
 

@@ -1,9 +1,9 @@
 ---
-title: Week 5 - Staking Out Feminist Space
+title: Week 5 - Reclaim Attention
 {: .text-epsilon}
 ---
 
-## Week 5 - Staking Out Feminist Space
+## Week 5 - 24/7/365 Grinding
 
 📖 Read Alice Notley, [Excerpt from *The Descent of Alette*](/ws297y/assets/pdfs/notley_descent_of_alette_bk1_excerpt.pdf){:target="_blank"}   
 

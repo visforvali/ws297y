@@ -1,7 +1,10 @@
 ---
 layout: page
-title: 4. The Queer Art of Failure
+title: 4. Reclaim Learning
 nav_exclude: true
 ---
 
-# The (Queer) Art of Failure
+# Reclaim Learning: The Art of Curation 
+
+About collecting quotes and excerpts and putting them together
+

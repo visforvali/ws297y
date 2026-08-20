@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 2. The Image of Thought
+title: 2. Reclaim Thinking I
 nav_exclude: true
 ---
 
-#  The Image of Thought
+#  Reclaim Thinking I: The Image of Thought
 

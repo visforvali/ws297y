@@ -1,9 +1,9 @@
 ---
-title: Week 7 - Theoretical Fiction
+title: Week 7 - Reclaim Wellness
 {: .text-epsilon}
 ---
 
-## Week 7 - Theoretical Fiction
+## Week 7 - Differential Unwellness
 
 📖 Read Margaret Atwood, ["Bread"](/ws297y/assets/pdfs/atwood_bread.pdf){:target="_blank"}   
 📖 Read Haytham El Wardany, [Excerpt from *The Book of Sleep*](/ws297y/assets/pdfs/el_wardany_book_of_sleep.pdf){:target="_blank"}   
