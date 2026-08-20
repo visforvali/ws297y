@@ -29,19 +29,19 @@ schedule:
       - name: Coffee Chats
         start: 2:00 PM
         end: 5:00 PM
-        location: 🔊☕Cafe (schedule through <a href="https://zcal.co/drmani" target="_blank">Zcal</a>)
+        location: 🔊☕Cafe (schedule through <a href="https://zcal.co/drmani" target="_blank" style="color:#fff;>Zcal</a>)
   - name: Wednesday
     events:
       - name: Coffee Chats
         start: 1:00 PM
         end: 3:00 PM
-        location: 🔊☕Cafe (schedule through <a href="https://zcal.co/drmani" target="_blank">Zcal</a>)
+        location: 🔊☕Cafe (schedule through <a href="https://zcal.co/drmani" target="_blank" style="color:#fff;>Zcal</a>)
   - name: Thursday
     events:
       - name: Class
         start: 12:15 PM
         end: 1:40 PM
-        location: /#🙋classroom (confirm on <a href="https://visforvali.github.io/ws297y/" target="_blank">Calendar</a>)
+        location: \#🙋classroom (confirm on <a href="https://visforvali.github.io/ws297y/" target="_blank" style="color:#fff;>Calendar</a>)
   - name: Friday
 
 ---
