@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📖 Syllabus
+title: 📋 Syllabus
 # nav_exclude: true
 nav_order: 3
 ---

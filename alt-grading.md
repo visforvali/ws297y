@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🍎 Alt-Grading System
+title: 💯 Alt-Grading System
 description: >-
     Alt-grading policy and general overview of assignments for the course.
 nav_order: 4
