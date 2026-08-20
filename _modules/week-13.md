@@ -1,9 +1,9 @@
 ---
-title: Week 13 - This Machine Kills
+title: Week 13 - Reclaim What's Wasted
 {: .text-epsilon}
 ---
 
-## Week 13 - This Machine Kills
+## Week 13 - Everything Can Be Used
 
 📖 Read Ken Liu, ["50 Things Every AI Working with Humans Should Know"](/ws297y/assets/pdfs/liu_50_things_every_ai_should_know.pdf){:target="_blank"}   
 

@@ -1,9 +1,9 @@
 ---
-title: Week 8 - Trans Allegories
+title: Week 8 - Reclaim Rest
 {: .text-epsilon}
 ---
 
-## Week 8 - Trans Allegories
+## Week 8 - The Art of Dreaming
 
 📖 Read Isabel Fall's ["I Sexually Identify as an Attack Helicopter"](/ws297y/assets/pdfs/fall_i_sexually_identify_as_an_attack_helicopter.pdf){:target="_blank"}   
 

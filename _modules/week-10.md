@@ -1,9 +1,9 @@
 ---
-title: Week 10 - Indigenous Identity
+title: Week 10 - Reclaim Refusal
 {: .text-epsilon}
 ---
 
-## Week 10 - Indigenous Identity
+## Week 10 - The Art of Saying No
 
 📖 Read Rebecca Roanhorse, ["Welcome to Your Authentic Indian Experience™"](/ws297y/assets/pdfs/roanhorse_welcome_to_your_authentic_indian_experience.pdf){:target="_blank"}   
 

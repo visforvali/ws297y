@@ -1,9 +1,9 @@
 ---
-title: Week 9 - The World Weeps
+title: Week 9 - Reclaim Writing
 {: .text-epsilon}
 ---
 
-## Week 9 - The World Weeps
+## Week 9 - Empty Spaces
 
 📖 Read Ben Okri, ["Three Parables about Water"](/ws297y/assets/pdfs/okri_three_parables_about_water.pdf){:target="_blank"}
 

@@ -4,4 +4,4 @@ title: 9. Reclaim Writing
 nav_exclude: true
 ---
 
-# Reclaim Writing: Blank Spaces
+# Reclaim Writing: Empty Spaces
