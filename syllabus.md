@@ -22,56 +22,51 @@ nav_order: 3
 
 The official title for this course is "Creative Writing and Social Justice" &mdash; but this semester, it's being run as an extra-special topics section titled "Creative Reclamation." Writing *is* thinking, so this course explores how we think about thinking, making, and doing &mdash; how neoliberalism, late-stage capitalism, biopolitics, and technofascism organize around stealing, commodifying, and profiting from our thinking, making, and doing &mdash; and how we might resist exploitation and other necropolitical modes of production by taking back what was always-already ours.
 
-Each week, we'll read short pieces, "just talk," and engage in theoretical and practical exercises designed to help us reclaim various aspects of human thought, creativity, and relationality, which underpin creative writing for social justice.
-
-Like a grassroots movement, this course is designed to be as non-hierarchical as possible. 
-
-
-Show up. Talk. Shoot the sh!t.
-
-
-This course focuses on genres of resistance &mdash; particularly the lyric essay &mdash; and what it means to write for social justice. Part-webinar, part-roleplay, part-workshop, you'll be introduced to the elements of poetry, fiction, and creative nonfiction through reading, writing, and individual and cooperative play. Since social justice writing is writing that _does_ something to its audience, you'll regularly engage with, interpret (and create!) texts that model how content and form act together on readers. In doing so, you'll consider questions like: 
-
-- How have we been shaped, personally and politically, by reading and writing? 
-- How have systems of power and oppression shaped who and how we read; who and what we write about; how we compose and perceive our compositions; and which genres we consider "legitimate" genres?
-- What potential impact can we &mdash; through what we write &mdash; have on our communities and institutions? 
+Like a grassroots movement, this course is designed to be as non-hierarchical as possible. Each week, we'll read short pieces, "just talk," and engage in theoretical and practical exercises designed to help us reclaim various aspects of human thought, creativity, and relationality, which underpin creative writing for social justice. Since this kind of writing aims to *do* something to its audience, we'll also talk about and create texts that model how content and form act together on readers. 
 
 # Learning Outcomes ✅
 
 The idea that anyone masters anything in a semester is a myth. But you'll leave the class with at least a sense of:
 
-- Existing arguments about the relationship between writing and social justice
-- The role of the relationship between form and content in writing for social justice
-- How intersectional feminist, queer, trans, and/or crip modes of writing operate
+- How systems of power and oppression shape how we think; who and how we read; what we write about; how we compose and perceive our compositions; and what kinds of thinking, reading, writing, and making we consider "legitimate"
+- How we have been shaped, personally and politically, by reading and writing
+- How reclaiming human creativity can impact ourselves, our communities, and our institutions for 
+- How to (re)build your capacities for metacognition, cognition, and attention
+- The relationships between metacognition, cognition, and the interplay between form and content in writing for social justice
+- The role of metacognition in writing and imagining socially just futures
 - What might belong in a literary canon of resistance
-- How to write for social justice yourself
 
 # Required Materials 💰
 
 {: .note }
-> All required readings are provided for free. They're uploaded to [Classes\Content](https://classes.pace.edu){:target="_blank"} and are linked on the [Calendar](/ws297y/){:target="_blank"} on this website.
+> All required readings are provided for free. They're uploaded to [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"} and are linked on the [Calendar](/ws297y/){:target="_blank"} on this website.
 
 On your own, you'll need to obtain:
 
-- A composition notebook for journaling by hand (if you're disabled and require assistive technology to write, please contact me)
-- A short prose book (>50 pages) of your choosing that you wouldn't mind parting with. It can be fiction, nonfiction, a book you already own, or a book bought for this purpose, but it must be a book you're willing to destroy
+- A blank notebook containing at least 80 pages for journaling by hand. A [blank spiral Kokuyo notebook](https://www.amazon.com/KOKUYO-Notebooks-Perforated-Sketchbook-SV308BT-W/dp/B01MZE4HKY?th=1){:target="_blank"}, a [blank Rhodia memo notebook](https://www.amazon.com/Rhodia-Staplebound-Notepads-Blank-sheets/dp/B00A6VRT0C){:target="_blank"}, a [blank Maruman Mnemosyne notebook](https://www.amazon.com/Maruman-Mnemosyne-Horizontal-Perforated-Wire-Bound/dp/B00TES88AS?th=1){:target="_blank"}, or an [unruled Midori A7 notebook](https://www.amazon.com/DESIGNPHIL-Midori-15344006-Notebook-Unruled/dp/B0CYP2ZMDT){:target="_blank"}
+would all work well for this purpose.
+
+If you require assistive technology to write and draw, please contact me so we can figure out an alternative.
+
 
 # Technology/Platforms 🌐
 
-This is an **online synchronous course that meets twice a week using Discord** for sync sessions and sync/async text chats. We meet most Tue/Thu but will have some sync-to-async or fully async sessions.
+This is an **online MIXAS course scheduled to meet on Tue and Thu that uses Discord for sync voice chats and sync and async text chats**. Typically, we'll spend one class session in sync voice chat in 🔊🪑Sync Sessions and spend the other session in a sync or async text chat in #🙋classroom. 
 
-Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
+{: .note }
+> Make sure to check the [Calendar](/ws297y/){:target="_blank"} for specific meeting modalities each week!
 
-**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Discord Tutorial](/ws297y/discord) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
+Outside of class, you'll read, think, dream, journal, and cultivate a stream-of-consciousness disposition for our "just talk" voice and text chats.
 
-{: .important }
-> We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing, and share your grades with you.
+**The Discord server invite link is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}**. If you're new to Discord, check out our [Discord Tutorial](/ws297y/discord){:target="_blank"} and the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started.
 
 We'll use 2 platforms (plus occasional use of Classes) this semester:
 
+{: .important }
+> We will *only* use Classes for enrollment verification, assignment dropboxes for drafts of high-stakes writing, and gradebook. Announcements and readings linked to this website and/or Discord will also be x-posted to Classes.
+
 - **Discord**: Discussion forum for sync class sessions, sync and async text chats, low-stakes writing assignments, workshops, announcements
 - **Course Website**: This website, where course content is posted
-- **Classes**: Platform for submitting assignments and viewing grades
 
 # Grading Breakdown 💯
 
