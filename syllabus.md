@@ -60,22 +60,22 @@ Outside of class, you'll read, think, dream, journal, and cultivate a stream-of-
 
 **The Discord server invite link is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}**. If you're new to Discord, check out our [Discord Tutorial](/ws297y/discord){:target="_blank"} and the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started.
 
-We'll use 2 platforms (plus occasional use of Classes) this semester:
-
-{: .important }
-> We will *only* use Classes for enrollment verification, assignment dropboxes for drafts of high-stakes writing, and gradebook. Announcements and readings linked to this website and/or Discord will also be x-posted to Classes.
+We'll use these 2 platforms (with occasional use of Classes) this semester:
 
 - **Discord**: Discussion forum for sync class sessions, sync and async text chats, low-stakes writing assignments, workshops, announcements
 - **Course Website**: This website, where course content is posted
+
+{: .important }
+> We will *only* use Classes for enrollment verification, assignment dropboxes for drafts of high-stakes writing, and gradebook. Announcements and readings linked to this website and/or Discord will also be x-posted to Classes.
 
 # Grading Breakdown 💯
 
 {: .note }
 > For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Alt-Grading System](/ws297y/alt-grading){:target="_blank"} page.
 
-[Participation](https://visforvali.github.io/ws297y/alt-grading/#participation-){:target="_blank"} | 40% 
-[High-Stakes Writing](https://visforvali.github.io/ws297y/alt-grading/#high-stakes-graded-writing-){:target="_blank"} | 40% 
-[Low-Stakes Writing](https://visforvali.github.io/ws297y/alt-grading/#low-stakes-ungraded-discord-posts-%EF%B8%8F%E2%83%A3){:target="_blank"} | 20% 
+[Participation](https://visforvali.github.io/ws297y/alt-grading/#participation-){:target="_blank"} | 50% 
+[Low-Stakes Writing](https://visforvali.github.io/ws297y/alt-grading/#low-stakes-ungraded-discord-posts-%EF%B8%8F%E2%83%A3){:target="_blank"} | 30%
+[High-Stakes Writing](https://visforvali.github.io/ws297y/alt-grading/#high-stakes-graded-writing-){:target="_blank"} | 20% 
 
 # Policies for WS 297Y & Pace
 
@@ -84,10 +84,10 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 
 ## WS 297Y: Accessibility & Student Support ♿
 
-If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. I want you to succeed! You don't need documentation to proactively talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. **Barring emergencies, I need as much advance notice as possible to effectively accommodate you.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. **I'll do my best to accommodate you, but please be aware that my own capacities only extend so far.**
+If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course requirements. I want you to succeed! You don't need documentation to proactively talk to me about issues impacting your learning, whether it’s because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. **We will need to synchronously meet for 20 min at minimum to work out alternate arrangements. I'll do my best to accommodate you, but please be aware that my own capacities only extend so far, and I cannot implement accommodations retroactively or at the last minute.**
 
 {: .note }
-> If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
+> If you select the "Check in Weekly" role on Discord in #🆔get-roles, I'll send you a Discord DM every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to get the conversation going!
 
 To request an official accommodation for a qualifying disability, a student must self-identify and register with [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} (SAS) for his/her/their campus. NYC SAS may be contacted at 212-346-1199 or 161 William St, 10th Floor. PLV SAS may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
