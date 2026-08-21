@@ -20,8 +20,16 @@ nav_order: 3
 {: .important }
 > This course prospectus (syllabus, calendar, alt-grading system, and writing assignments) is x-posted as a PDF in Classes\Content\Syllabus and as a pinned post in #👋🏾welcome on Discord. If I modify the course prospectus to better fit the needs of our class, I'll let you know in #🙋classroom on Discord and Classes\Announcements.
 
+The official title for this course is "Creative Writing and Social Justice" &mdash; but this semester, it's being run as an extra-special topics section titled "Creative Reclamation." 
+
+Writing *is* thinking, so this course explores how we think about thinking, making, and doing &mdash; how neoliberalism, late-stage capitalism, biopolitics, and technofascism co-operate to steal, commodify, and profit from our thinking, making, and doing &mdash; and how to resist this exploitation and other necropolitical modes of production by reclaiming what was always-already ours.
+
+Each week, we'll read short pieces together, "just talk," and engage in theoretical and practical exercises designed to help us reclaim various aspects of human thought, creativity, and relationality: the foundations of creative writing, advocacy and activism, and individual and collective survival.
+
+Like a grassroots movement, this course is designed to be as non-hierarchical as possible. 
 
 
+Show up. Talk. Shoot the sh!t.
 
 
 This course focuses on genres of resistance &mdash; particularly the lyric essay &mdash; and what it means to write for social justice. Part-webinar, part-roleplay, part-workshop, you'll be introduced to the elements of poetry, fiction, and creative nonfiction through reading, writing, and individual and cooperative play. Since social justice writing is writing that _does_ something to its audience, you'll regularly engage with, interpret (and create!) texts that model how content and form act together on readers. In doing so, you'll consider questions like: 
