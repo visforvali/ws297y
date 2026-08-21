@@ -20,11 +20,9 @@ nav_order: 3
 {: .important }
 > This course prospectus (syllabus, calendar, alt-grading system, and writing assignments) is x-posted as a PDF in Classes\Content\Syllabus and as a pinned post in #👋🏾welcome on Discord. If I modify the course prospectus to better fit the needs of our class, I'll let you know in #🙋classroom on Discord and Classes\Announcements.
 
-The official title for this course is "Creative Writing and Social Justice" &mdash; but this semester, it's being run as an extra-special topics section titled "Creative Reclamation." 
+The official title for this course is "Creative Writing and Social Justice" &mdash; but this semester, it's being run as an extra-special topics section titled "Creative Reclamation." Writing *is* thinking, so this course explores how we think about thinking, making, and doing &mdash; how neoliberalism, late-stage capitalism, biopolitics, and technofascism organize around stealing, commodifying, and profiting from our thinking, making, and doing &mdash; and how we might resist exploitation and other necropolitical modes of production by taking back what was always-already ours.
 
-Writing *is* thinking, so this course explores how we think about thinking, making, and doing &mdash; how neoliberalism, late-stage capitalism, biopolitics, and technofascism co-operate to steal, commodify, and profit from our thinking, making, and doing &mdash; and how to resist this exploitation and other necropolitical modes of production by reclaiming what was always-already ours.
-
-Each week, we'll read short pieces together, "just talk," and engage in theoretical and practical exercises designed to help us reclaim various aspects of human thought, creativity, and relationality: the foundations of creative writing, advocacy and activism, and individual and collective survival.
+Each week, we'll read short pieces, "just talk," and engage in theoretical and practical exercises designed to help us reclaim various aspects of human thought, creativity, and relationality, which underpin creative writing for social justice.
 
 Like a grassroots movement, this course is designed to be as non-hierarchical as possible. 
 

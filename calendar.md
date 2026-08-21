@@ -13,7 +13,7 @@ seo:
 <p class="fs-6 fw-300">WS 297Y at Pace University 👋🏾</p>
 
 
-<small>**Fall 2025**{: .label .label-blue-custom } **Tue, Thu 12:15PM - 1:40PM**{: .label .label-blue-custom } **Online Sync**{: .label .label-blue-custom } **Discord**{: .label .label-blue-custom }</small>
+<small>**Fall 2026**{: .label .label-blue-custom } **Tue, Thu 12:15PM - 1:40PM**{: .label .label-blue-custom } **Online MIXAS**{: .label .label-blue-custom } **Discord**{: .label .label-blue-custom }</small>
 
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
