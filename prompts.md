@@ -36,6 +36,33 @@ All of the low-stakes prompts and instructions are listed below. Here's a model 
 
 **Your responses should always include at least one question about the text you're responding to.**
 
+
+
+## Affective Atlas Entry 1: The Infra-Ordinary
+
+Perec directs: "Question what seems so much a matter of course that we've forgotten its origins [...] What we need to question is bricks, concrete, glass, our table manners, our utensils, our tools, the way we spend our time, our rhythms. To question that which seems to have ceased forever to astonish us." 
+
+Your first logbook entry should follow suit. Choose something infra-ordinary &mdash; common, habitual, taken-for-granted, background noise &mdash; and question it in a manner that makes it astonishing. Describe its history, its use, its value, its destiny. 
+
+Be sure to end with a question about Perec's "Approaches to What?"
+
+
+
+## Affective Atlas Entry 2: The Infra-Ordinary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Annotation
 
 Skim the reading again. As soon as you encounter a word, phrase, or sentence that catches
