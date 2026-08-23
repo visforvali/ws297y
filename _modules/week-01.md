@@ -22,5 +22,5 @@ Sep 3
   : &nbsp;
 : **Praxis**{: .label .label-green-custom } Tech setup and exploration
   : &nbsp;
-: **Due 11am**{: .label .label-red-custom} [Affective Atlas Entry 1](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}
+: **Due 11am**{: .label .label-red-custom} [Affective Atlas Entry 1](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-1-the-infra-ordinary){:target="_blank"}
   : &nbsp;
