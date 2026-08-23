@@ -1,9 +1,9 @@
 ---
-title: Week 12 - Apocalyptic Tenderness
+title: Week 12 - Reclaim What's Wasted
 {: .text-epsilon}
 ---
 
-## Week 12 - Apocalyptic Tenderness
+## Week 12 - Everything Can Be Used
 
 📖 Read Carmen Maria Machado, ["Inventory"](/ws297y/assets/pdfs/machado_inventory.pdf){:target="_blank"}   
 

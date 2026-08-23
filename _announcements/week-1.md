@@ -29,8 +29,8 @@ Like physical buildings you aren't familiar with, Discord might initially seem c
 - [ ] Join our Discord server (the invitation link is posted to [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}) 
 - [ ] Review the full [🎮 Discord Tutorial](/ws297y/discord)
 - [ ] [Customize your server profile](https://visforvali.github.io/ws297y/discord/#customizing-your-profile)
-- [ ] Select your roles in #🆔|get-roles
-- [ ] Introduce yourself in #🪪|roll-call
+- [ ] Select your roles in #🆔get-roles
+- [ ] Introduce yourself in #🪪roll-call
 - [ ] Read XXX before our first voice chat on Tue 9/1
 
 ## Our Typical Weekly Schedule

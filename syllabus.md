@@ -91,25 +91,23 @@ If something might affect or is affecting your academic performance, **please ta
 
 To request an official accommodation for a qualifying disability, a student must self-identify and register with [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} (SAS) for his/her/their campus. NYC SAS may be contacted at 212-346-1199 or 161 William St, 10th Floor. PLV SAS may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
-## WS 297Y: Attendance Policy 🙋
+## WS 297Y: Attendance = Participation
 
 {: .warning }
-> In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
+> In this class, attendance doesn't mean showing up and passively existing &mdash; it's equivalent to participation, and participation is a significant part of your course grade. **You have to actively participate in 🔊🪑Sync Sessions during voice chat sessions, in #🙋classroom during sync/async text chat sessions, and in #team during sync/async group text chat activities to be counted as present**. I tally your *substantive* voice and text contributions per class. I recommend aiming for 5 voice chats and 5 text chats per week. This has the added benefit of providing a participation "buffer" if you're having an "off" week or otherwise unable to participate to the fullest.
 
 {: .important }
 > The pandemic isn't over. For information on how to affordably protect yourself from infectious diseases, refer to this informational resource I put together on [pandemics and public health](https://vyshalimanivannan.com/pandemics-public-health/){:target="_blank"}, which includes info on current strains, long-term costs of COVID-19 and post-COVID syndromes, where to buy PPE affordably, and an abbreviated course policy on illness.
 
 Life is stressful: We're dealing with changes in government and social policy &mdash; cuts to open education, equity initiatives that support women, BIPOC, disabled, and LGBTQIA+ folks, social welfare, FEMA, the VA; bans on public health and science communications; attacks on citizenship and ICE raids &mdash; and ongoing problems like the rising cost of living; weather extremes and environmental disasters; gun violence; GenAI's destruction of environment, human intentionality, and reliable information; food recalls; medication shortages; and an uptick in anti-intellectualism and bigotry. 
 
-Naturally, all this can impact your class performance, gradually or suddenly. Your participation might also falter due to sickness, religious holidays, and/or Pace-affiliated extracurricular activities. At the same time, because much of our knowledge-making happens during class sessions, your attendance is critical to your success. 
+Naturally, all this can impact your class performance, gradually or suddenly. Your participation might also falter due to sickness, religious holidays, and/or Pace-affiliated extracurricular activities. At the same time, because much of our knowledge-making happens during class sessions, your participation is critical to your success. 
 
 Since a large part of your course grade comes from consistent, active participation, the more you post, react, and chat with each other in and out of class, the better &mdash; and since actively participating is how learning happens, it'll help you do better on assignments, too! If you miss a class, you're responsible for reaching out to me in a timely fashion to arrange alternate deadlines and make sure you're on the right track, and for submitting any written assignments, reviewing the week's materials, and asking for notes or help on Discord. 
 
-If you get sick or experience some other health challenge, communicate with me early so we can make a plan to make a plan when you're better. We'll get you caught up when you're well enough to resume participating. As a high-risk disabled individual myself, if I become sick, especially with COVID-19 or another serious illness, I'll need to aggressively rest. You'll have the materials and each other on Discord to help you continue with your learning. I'll rejoin when I'm well enough.
-
 I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning. 
 
-Remember, communal care, mutual aid, and compassion will get us through!
+If you get sick or experience some other health challenge, communicate with me early so we can make a plan to make a plan when you're better. We'll get you caught up when you're well enough to resume participating. As a high-risk disabled individual myself, if I become sick, especially with COVID-19 or another serious illness, I'll need to aggressively rest. You'll have the materials and each other on Discord to help you continue with your learning. I'll rejoin when I'm well enough. Communal care, mutual aid, and compassion will get us through!
 
 ## Pace: Writing-Enhanced Course (WEC) ✒️
 
