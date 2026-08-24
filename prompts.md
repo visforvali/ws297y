@@ -14,7 +14,6 @@ nav_order: 5
 1. TOC
 {:toc}
 
-
 # Low-Stakes Writing Prompts
 {: .no_toc }
 
@@ -49,11 +48,6 @@ Be sure to end with a question about Perec's "Approaches to What?"
 
 
 ## Affective Atlas Entry 2: The Infra-Ordinary
-
-
-
-
-
 
 
 
@@ -110,6 +104,15 @@ Come up with 5 questions about 5 different craft techniques &mdash; descriptions
 
 {: .important }
 > This project should be between 8,000 to 10,000 words (15-20 single-spaced pages) and is due at the end of the semester. If your project needs more room, or involves other modalities, book a coffee chat with me early so we can talk about it.
+
+
+
+
+Compiled Affective Atlas (all 10 entries, revised, as a zine with additional pieces)
+
+
+
+
 
 For your high-stakes project, you'll choose one social justice issue. Your collection will be divided between two parts: 
 
