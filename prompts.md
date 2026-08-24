@@ -47,12 +47,23 @@ Be sure to end with a question about Perec's "Approaches to What?"
 
 
 
-## Affective Atlas Entry 2: The Infra-Ordinary
+## Affective Atlas Entry 2: Un-Thinking Thought
 
+## Affective Atlas Entry 3: Bibliographic Altars
 
+## Affective Atlas Entry 4: Grind Culture
 
+## Affective Atlas Entry 5: Differential Unwellness
 
+## Affective Atlas Entry 6: Sleepers and Dreamers
 
+## Affective Atlas Entry 7: For Writing's Sake
+
+## Affective Atlas Entry 8: Just Say No
+
+## Affective Atlas Entry 9: Failing Up
+
+## Affective Atlas Entry 10: Making to Survive
 
 
 
