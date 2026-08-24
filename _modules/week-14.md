@@ -18,4 +18,5 @@ Dec 1
 
 Dec 3
 : **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 10](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-10-making-to-survive){:target="_blank"}
 : **Text-only**{: .label .label-purple-custom } *Dwelling* Room 2

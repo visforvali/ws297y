@@ -20,6 +20,8 @@ Oct 6
 
 Oct 8
 : **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 4](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-4-grind-culture){:target="_blank"}
+
 : **Async**{: .label .label-purple-custom } To Love and Kill What's Monstrous
 : **Text Chat**{: .label .label-blue-custom} #team workshop
  : **TTRPG**{: .label .label-yellow-custom } *B&V* Stages 4-6

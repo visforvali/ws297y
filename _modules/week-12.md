@@ -18,6 +18,7 @@ Nov 17
 
 Nov 19
 : **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 9](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-9-failing-up){:target="_blank"}
 : **Text-only**{: .label .label-purple-custom} Navigating a Haunted House
 : **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 1
   : [instructions](/ws297y/notes/notes-12.2){:target="_blank"}

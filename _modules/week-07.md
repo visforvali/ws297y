@@ -18,7 +18,8 @@ Oct 13
 : **Discussion**{: .label .label-blue-custom } Boully
   
 Oct 15
-: **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **Sync Text Chat**{: .label .label-purple-custom} #🙋classroom
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"}
 : **Lecture**{: .label .label-blue-custom} The Poetry of Activism
   : [lecture notes](/ws297y/notes/notes-7.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Atwood, El Wardany

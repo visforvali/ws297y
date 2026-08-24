@@ -20,6 +20,6 @@ Sep 3
   : &nbsp;
 : **Praxis**{: .label .label-green-custom } From idea to close-reading
   : &nbsp;
-: **By 11am**{: .label .label-red-custom} [Affective Atlas Entry 1](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-1-the-infra-ordinary){:target="_blank"}
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 1](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-1-the-infra-ordinary){:target="_blank"}
   : &nbsp;
 : **By Sat**{: .label .label-red-custom} Customize Discord pfp, bio, #🆔get-roles, #🪪roll-call, post your questions to #🗳️its-help

@@ -18,4 +18,5 @@ Oct 27
 
 Oct 29
 : **Async Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 7](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-7-for-writings-sake){:target="_blank"}
 : **Text-Only**{: .label .label-purple-custom } Drafting day

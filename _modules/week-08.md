@@ -19,6 +19,8 @@ Oct 20
 
 Oct 22
 : **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 6](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-6-sleepers-and-dreamers){:target="_blank"}
+
 : **Lecture**{: .label .label-blue-custom} ...and the Fallout
   : [lecture notes](/ws297y/notes/notes-8.2){:target="_blank"}
 : **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 2, 3

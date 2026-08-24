@@ -12,6 +12,11 @@ Sep 22
 
 Sep 24
 : **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
+
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 3](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-3-bibliographic-altars){:target="_blank"}
+
+
+
 : **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-blue-custom} What Tests Teach Us

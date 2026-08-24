@@ -19,6 +19,7 @@ Nov 3
 
 Nov 5
 : **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 8](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-8-just-say-no){:target="_blank"}
 : **Text-only**{: .label .label-purple-custom } *Auspex* Conclusion and TTRPG Workshop
 : **Text-only**{: .label .label-purple-custom} Guided Peer Workshops in #team
   : [instructions](/ws297y/notes/notes-10.2){:target="_blank"}

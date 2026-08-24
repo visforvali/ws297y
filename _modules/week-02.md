@@ -18,7 +18,7 @@ Sep 8
   : cn: child abuse, guerilla resistance, murder, social media
   
 Sep 10
-: **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
+: **Sync Text Chat**{: .label .label-purple-custom} #🙋classroom
 : **Lecture**{: .label .label-blue-custom} Form as Resistance
   : [lecture notes](/ws297y/notes/notes-2.2){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Bossiere & Trabold
