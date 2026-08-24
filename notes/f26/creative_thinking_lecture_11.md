@@ -5,3 +5,5 @@ nav_exclude: true
 ---
 
 # Reclaim Failure: Failure as Success
+
+*Talking points and discussion notes to be posted after class.*

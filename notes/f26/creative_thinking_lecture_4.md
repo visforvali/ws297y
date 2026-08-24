@@ -8,3 +8,4 @@ nav_exclude: true
 
 About collecting quotes and excerpts and putting them together
 
+*Talking points and discussion notes to be posted after class.*
