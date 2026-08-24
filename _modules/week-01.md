@@ -11,9 +11,8 @@ title: Week 1 - Reclaim the World
 
 Sep 1
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : &nbsp;
-: [notes](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}
   : **Due Midnight**{: .label .label-red-custom} Customize Discord pfp, bio, #🆔get-roles, #🪪roll-call
+: [notes](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Tech setup and exploration
   : &nbsp;
 
