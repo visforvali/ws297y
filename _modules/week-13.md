@@ -5,15 +5,14 @@ title: Week 13 - Reclaim Survival
 
 ## Week 13 - Surviving and Thriving
 
-📖 Read Ken Liu, ["50 Things Every AI Working with Humans Should Know"](/ws297y/assets/pdfs/liu_50_things_every_ai_should_know.pdf){:target="_blank"}   
+📖 Read Sara Ahmed, ["Feminist Killjoy Survival Kit"](/assets/pdfs/ahmed_killjoy_survival_kit_2017.pdf){:target="_blank"}   
 
 Nov 24
-: **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_13.md){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through talking
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} This Machine Kills
-  : [lecture notes](/ws297y/notes/notes-13.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Liu
 
 Nov 26
-: **No Class**{: .label .label-purple-custom } No Class or Coffee Chats
+: **Fall Break!**{: .label .label-yellow-custom } No Class or Coffee Chats
+  : **By Mon**{: .label .label-red-custom} [Affective Atlas Entry 10](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-10-making-to-survive){:target="_blank"}

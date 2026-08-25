@@ -5,22 +5,14 @@ title: Week 4 - Reclaim Learning
 
 ## Week 4 - The Art of Curation
 
-📖 Read Desirae Matherly, ["Final: Comprehensive, Roughly"](/ws297y/assets/pdfs/matherly_final_comprehensive_roughly.pdf){:target="_blank"}   
+📺 Watch Ann Cvetkovich, ["Ann Cvetkovich on the Bibliographic Altar"](https://www.youtube.com/watch?v=SAF9MOP_fBg){:target="_blank"} (10:09)  
 
 Sep 22
-: **No Class**{: .label .label-purple-custom } No Class or Coffee Chats
+: **No Class**{: .label .label-yellow-custom } No Class or Coffee Chats
+  : &nbsp;
 
 Sep 24
-: **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
-
-: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 3](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-3-bibliographic-altars){:target="_blank"}
-
-
-
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
-  : &nbsp;
-: **Lecture**{: .label .label-blue-custom} What Tests Teach Us
-  : [lecture notes](/ws297y/notes/notes-4.2){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Matherly
-  : cn: classism
-: **TTRPG**{: .label .label-yellow-custom } *B&V* Stage 3
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_4.md){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through writing
+  : **By Sat**{: .label .label-red-custom} [Affective Atlas Entry 3](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-3-bibliographic-altars){:target="_blank"}

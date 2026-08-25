@@ -43,15 +43,17 @@ Perec directs: "Question what seems so much a matter of course that we've forgot
 
 Your first logbook entry should follow suit. Choose something infra-ordinary &mdash; common, habitual, taken-for-granted, background noise &mdash; and question it in a manner that makes it astonishing. Describe its history, its use, its value, its destiny. 
 
-Be sure to end with a question about Perec's "Approaches to What?"
-
-
-
 ## Affective Atlas Entry 2: Un-Thinking Thought
+
+Deleuze suggests that thought begins with a "dogmatic image of thought" &mdash; a mental, habitual idea or representation of what thought is supposed to be that precedes and conditions thought before it happens. In short, before thinking, thought is shaped by this internalized image of what it means to think. As long as this image is present, thought is barred from what it is and the conditions of its operation. How would you describe the dogmatic image of thought that governs how you think: i.e., how you habitually feel thought is supposed to happen, or the shape it's meant to take even before the thought happens? How has this affected how your thinking transpires? What forms can thought begin to take when that image disappears or is changed?
 
 ## Affective Atlas Entry 3: Bibliographic Altars
 
+Create a bibliographic altar
+
 ## Affective Atlas Entry 4: Grind Culture
+
+
 
 ## Affective Atlas Entry 5: Differential Unwellness
 

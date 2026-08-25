@@ -1,26 +1,20 @@
 ---
-title: Week 2 - Reclaim Thinking
+title: Week 2 - Reclaim Thinking Pt. 1
 {: .text-epsilon}
 ---
 
 ## Week 2 - The Image of Thought
 \
-📖 Read Isabel J. Kim, ["Why Don't We Just Kill the Kid In the Omelas Hole"](/ws297y/assets/pdfs/kim_why_dont_we_just_kill_the_kid_in_the_omelas_hole.pdf){:target="_blank"}   
-📖 Read Zoe Bossiere & Erica Trabold, ["Introduction to *The Lyric Essay as Resistance*"](/ws297y/assets/pdfs/bossiere_trabold_intro_lyric_essay_as_resistance.pdf){:target="_blank"}   
+📖 Read Gilles Deleuze, [*Difference and Repetition* Ch. 3 excerpts](/ws297y/assets/pdfs/deleuze_difference_and_repetition_1994.pdf){:target="_blank"}     
 
 Sep 8
-: **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
-: **Post by 11am**{: .label .label-red-custom} Choose *one* of: [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_2.md){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through talking
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} Philosophical Fanfiction
-  : [lecture notes](/ws297y/notes/notes-2.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom} Kim
-  : cn: child abuse, guerilla resistance, murder, social media
   
 Sep 10
-: **Sync Text Chat**{: .label .label-purple-custom} #🙋classroom
-: **Lecture**{: .label .label-blue-custom} Form as Resistance
-  : [lecture notes](/ws297y/notes/notes-2.2){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom} Bossiere & Trabold
-: **TTRPG**{: .label .label-yellow-custom} *Belluae/Venatores* (*B&V*): Worldbuilding, Stage 1
+: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+  : &nbsp;
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through writing
   : &nbsp;

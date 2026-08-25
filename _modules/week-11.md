@@ -5,15 +5,16 @@ title: Week 11 - Reclaim Failure
 
 ## Week 11 - Failure as Success 
 
-📖 Read Myisha Cherry, ["Painting in Broad Strokes"](/ws297y/assets/pdfs/cherry_painting_in_broad_strokes.pdf){:target="_blank"}   
+📖 Read Jack Halberstam, [*The Queer Art of Failure* excerpts](){:target="_blank"}   
 
 Nov 10
-: **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_11.md){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through talking
+  : &nbsp;
 
 Nov 12
-: **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}
+: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} Political Uses for Minor Feelings
-  : [lecture notes](/ws297y/notes/notes-11.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom} *Dwelling* Worldbuilding
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through writing
+  : &nbsp;

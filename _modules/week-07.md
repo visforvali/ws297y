@@ -5,21 +5,16 @@ title: Week 7 - Reclaim Wellness
 
 ## Week 7 - Differential Unwellness
 
-📖 Read Margaret Atwood, ["Bread"](/ws297y/assets/pdfs/atwood_bread.pdf){:target="_blank"}   
-📖 Read Haytham El Wardany, [Excerpt from *The Book of Sleep*](/ws297y/assets/pdfs/el_wardany_book_of_sleep.pdf){:target="_blank"}   
-📖 Read Jenny Boully, [Excerpt from *The Body* (from fn. 1-16)](https://writing.upenn.edu/epc/mags/vert/Vert_issue_6/jboully.html){:target="_blank"}   
+📖 Read Mimi Khuc, [*dear elia* excerpts](){:target="_blank"}   
 
 Oct 13
-: **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_7.md){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through talking
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} Theory-Fiction
-  : [lecture notes](/ws297y/notes/notes-7.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Boully
   
 Oct 15
-: **Sync Text Chat**{: .label .label-purple-custom} #🙋classroom
-: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"}
-: **Lecture**{: .label .label-blue-custom} The Poetry of Activism
-  : [lecture notes](/ws297y/notes/notes-7.2){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Atwood, El Wardany
+: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+  : **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through writing
+  : &nbsp;

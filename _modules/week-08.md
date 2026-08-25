@@ -5,22 +5,16 @@ title: Week 8 - Reclaim Rest
 
 ## Week 8 - The Art of Dreaming
 
-📖 Read Isabel Fall's ["I Sexually Identify as an Attack Helicopter"](/ws297y/assets/pdfs/fall_i_sexually_identify_as_an_attack_helicopter.pdf){:target="_blank"}   
+📖 Read Haytham El Wardany, [*The Book of Sleep* excerpts](/assets/pdfs/el_wardany_book_of_sleep_2020.pdf){:target="_blank"}    
 
 Oct 20
-: **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Keyholes](https://visforvali.github.io/ws297y/prompts/#keyholes){:target="_blank"}, [Stumbling Blocks](https://visforvali.github.io/ws297y/prompts/#stumbling-blocks){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_8.md){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through talking
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} The Helicopter Story...
-  : [lecture notes](/ws297y/notes/notes-8.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Fall
-  : cn: implicit reference to transphobia
-: **TTRPG**{: .label .label-yellow-custom } *Auspex* Worldbuilding, Day 1
 
 Oct 22
-: **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
-: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 6](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-6-sleepers-and-dreamers){:target="_blank"}
-
-: **Lecture**{: .label .label-blue-custom} ...and the Fallout
-  : [lecture notes](/ws297y/notes/notes-8.2){:target="_blank"}
-: **TTRPG**{: .label .label-yellow-custom} *Auspex* Day 2, 3
+: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+  : **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 6](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-6-sleepers-and-dreamers){:target="_blank"}
+: **Praxis**{: .label .label-green-custom } Collaborative close-reading through writing
+  : &nbsp;

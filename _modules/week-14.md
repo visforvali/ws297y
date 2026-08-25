@@ -1,22 +1,21 @@
 ---
-title: Week 14 - Reclaim School
+title: Week 14 - Reclaim School Pt. 1
 {: .text-epsilon}
 ---
 
 ## Week 14 - Get Your Sh!t Together I
 
-📖 Read Johanna Hedva, ["Get Well Soon"](https://getwellsoon.labr.io/){:target="_blank"}   
-📖 Read Victor Ray, ["A Short Quiz for My Students in Lieu of Asking About Their Vaccine Status or Requesting That They Wear Masks"](/ws297y/assets/pdfs/ray_quiz_for_my_students_in_lieu_of_asking_about_covid.pdf){:target="_blank"}   
+📖 Explore model student work posted to [Classes\Content\Model Student Work](https://classes.pace.edu){:target="_blank"}    
+📖 Watch Rua Williams, ["Hacking Executive Function &mdash; Being Kind to Ourselves and the Magic of Friendship"](https://www.youtube.com/watch?v=gdtDByKtAY4){:target="_blank"} (*optional*)   
 
 Dec 1
-: **Voice Chat**{: .label .label-purple-custom} 🔊|🪑Sync Sessions
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297y/prompts/#truth-to-power){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
+: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} On Satire and Interactivity
-  : [lecture notes](/ws297y/notes/notes-14.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Hedva, Ray
+: **Praxis**{: .label .label-green-custom } Peer workshops in #team
+  : [instructions](/ws297y/notes/notes-10.2){:target="_blank"}
 
 Dec 3
-: **Sync Text Chat**{: .label .label-purple-custom} #🙋|classroom
-: **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 10](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-10-making-to-survive){:target="_blank"}
-: **Text-only**{: .label .label-purple-custom } *Dwelling* Room 2
+: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
+  : &nbsp;
+: **Praxis**{: .label .label-green-custom } Peer workshops in #team
+  : [instructions](/ws297y/notes/notes-10.2){:target="_blank"}

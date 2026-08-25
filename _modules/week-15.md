@@ -1,20 +1,14 @@
 ---
-title: Week 15 - Reclaim School
+title: Week 15 - Reclaim School Pt. 2
 {: .text-epsilon}
 ---
 
 ## Week 15 - Get Your Sh!t Together II 
-   
-📖 No readings!
-   
+
 Dec 8
-: **Async Text Chat**{: .label .label-purple-custom} #🙋|classroom
-: **Instructions**{: .label .label-blue-custom} *Dwelling* Room 3
-  : [lecture notes](/ws297y/notes/notes-15.1){:target="_blank"}
-: **Text-only**{: .label .label-purple-custom } *Dwelling* Room 3
+: **Undergraduate Study Day**{: .label .label-yellow-custom } No Class or Coffee Chats
+  : &nbsp;
 
 Dec 10
-: **Async Text Chat**{: .label .label-purple-custom} #🙋|classroom
-: **Instructions**{: .label .label-blue-custom} *Dwelling* Room 4
-  : [lecture notes](/ws297y/notes/notes-15.2){:target="_blank"}
-: **Text-only**{: .label .label-purple-custom } *Dwelling* Room 4
+: **Undergraduate Study Day**{: .label .label-yellow-custom } No Class or Coffee Chats
+  : &nbsp;
