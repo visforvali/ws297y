@@ -7,3 +7,5 @@ nav_exclude: true
 # Reclaim Thinking II: Thought Without Image
 
 *Talking points and discussion notes to be posted after class.*
+
+Screen images from Unflattening

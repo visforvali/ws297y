@@ -10,7 +10,7 @@ title: Week 13 - Reclaim Survival
 Nov 24
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_13.md){:target="_blank"}
-: **Praxis**{: .label .label-green-custom } Collaborative close-reading through talking
+: **Praxis**{: .label .label-green-custom } Building survival kits
   : &nbsp;
 
 Nov 26

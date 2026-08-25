@@ -11,12 +11,11 @@ title: Week 5 - Reclaim Attention
 Sep 29
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_5.md){:target="_blank"}
-: **Praxis**{: .label .label-green-custom } Collaborative close-reading through talking
+: **Praxis**{: .label .label-green-custom } "I Would Prefer Not To"
   : &nbsp;
-: **Let's Play**{: .label .label-yellow-custom} Livestream of *The Stanley Parable*
   
 Oct 1
 : **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
   : &nbsp;
-: **Praxis**{: .label .label-green-custom } Collaborative close-reading through writing
+: **Praxis**{: .label .label-green-custom } Precariat, unite!
   : &nbsp;

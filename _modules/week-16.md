@@ -11,7 +11,7 @@ Dec 15
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : &nbsp;
 : **Praxis**{: .label .label-green-custom } Present what makes you proud
-  : [instructions](/ws297y/notes/notes-10.2){:target="_blank"}
+  : &nbsp;
 
 Dec 17
 : **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
