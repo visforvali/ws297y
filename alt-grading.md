@@ -88,10 +88,10 @@ The assessment criteria for the high-stakes project are:
 
 # Deadlines & Grace Period 😇
 
-{: .important}
+{: .warning}
 > **This grace period doesn't apply to a lack of participation**, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final high-stakes project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
 
-{: .important}
+{: .warning}
 > Please note that the grace period is 1 week *only*; I'm unable to accept work on a rolling basis whenever around you get to it. 
 
 I accept *all* writing assignments with no penalty or questions asked **within 1 week of the original deadline** (as long as they meet the rest of the assignment criteria). Please note that I can't promptly review late work, and I don't accept work more than 1 week late unless we made alternate arrangements in advance.
