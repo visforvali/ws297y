@@ -73,7 +73,7 @@ Low-stakes writing that we do in class, i.e. discussion contributions, writing e
 ## High-Stakes (Graded) Writing 🚀
 
 {: .important }
-> High-stakes writing, i.e. first and final drafts of longer projects, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook.
+> High-stakes writing, i.e. first and final drafts of longer projects, should be submitted to [Classes\Assignments](classes.pace.edu){:target="_blank"} and will be scored in [Classes\Gradebook](classes.pace.edu){:target="_blank"}.
 > 
 > Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "Nc" for "No Credit."
 
