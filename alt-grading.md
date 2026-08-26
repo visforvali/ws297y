@@ -61,7 +61,7 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 {: .note }
 > All [assignment guidelines](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} are provided in advance so you can pace yourself as needed.
 
-## Low-Stakes (Ungraded) Discord Posts #️⃣
+## Low-Stakes Discord Posts #️⃣
 
 {: .important }
 > Low-stakes writing assignments are scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
@@ -81,16 +81,20 @@ Your Affective Atlas is an intentionally arranged compilation of your substantiv
 
 The assessment criteria for the high-stakes project are: 
 
-
-
-- Your writing decisions (form, content, genre) in each piece must enact and/or contribute to the argument
-- You must emulate a craft technique from at least 8 of the texts we read
-- You must modify and incorporate at least 1 piece of writing you produced during *each* of our TTRPG solo journaling games
-- You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation
+- Each entry must substantively engage with the readings associated with the week(s) building up to that entry
+- You must emulate a minimum of 3 craft techniques, choosing 1 technique from at least 3 different texts we read
+- Your writing decisions (form, content, genre) in each entry must enact and/or contribute to the aim of the entry
+- You must write a foreword contextualizing your compilation, specifically your aims with each entry: i.e., How do you want each entry to affect readers? What about your writing decisions (form, content, genre) in each entry makes you think it will have that effect? What are the writing decisions you're most proud of, most insecure about, and/or most need an "in case readers don't get it" explanation? And finally, what have you reclaimed over the course of the semester, and how will you use these reclamations to move towards a more socially just future?
 
 # Deadlines & Grace Period 😇
 
 {: .important}
-> **This grace period doesn't apply to a lack of participation**, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
+> **This grace period doesn't apply to a lack of participation**, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final high-stakes project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
 
-I accept *all* writing assignments with no penalty or questions asked within 1 week of the original deadline (as long as they meet the rest of the assignment criteria). Please note that the grace period is time-bound, and I'm unable to accept work on a rolling basis whenever around you get to it. I can't promptly review late work. I don't accept work more than 1 week late unless we made alternate arrangements in advance.
+{: .important}
+> Please note that the grace period is 1 week *only*; I'm unable to accept work on a rolling basis whenever around you get to it. 
+
+I accept *all* writing assignments with no penalty or questions asked **within 1 week of the original deadline** (as long as they meet the rest of the assignment criteria). Please note that I can't promptly review late work, and I don't accept work more than 1 week late unless we made alternate arrangements in advance.
+
+{: .important}
+> **Save yourself from panicked exaggeration!**. Don't forget: an actually failing grade is an F; this isn't the same as a grade that isn't an A or B aren't the same!
