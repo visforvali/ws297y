@@ -75,16 +75,13 @@ Low-stakes writing that we do in class, i.e. discussion contributions, writing e
 {: .important }
 > High-stakes writing, i.e. first and final drafts of longer projects, should be submitted to [Classes\Assignments](classes.pace.edu){:target="_blank"} and will be scored in [Classes\Gradebook](classes.pace.edu){:target="_blank"}. Drafts of high-stakes writing assignments, i.e. what you share in #team for workshop, are scored on the basis of completion. To show I've received and read your draft, I'll enter an "R" for "Reviewed" in the Classes gradebook. Only final drafts receive "real" grades. If you receive an "N" ("No Credit"), it means that I could not accept your work for credit for substantive reasons, and you should reach out to me. You will need to substantively revise each draft no matter what.
 
-This class revolves around one two-part high-stakes writing project: the Affective Atlas.  
+This class revolves around one two-part high-stakes writing project: the [Unabridged Affective Atlas](https://visforvali.github.io/ws297y/prompts/#high-stakes-project-the-unabridged-affective-atlas){:target="_blank"}.  
 
 Your Affective Atlas is an intentionally arranged compilation of your substantively expanded, revised, and otherwise augmented and modified low-stakes writing assignments. 
 
+The assessment criteria for the high-stakes project are: 
 
 
-
-one two-part high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. Additionally, these pieces should emulate the craft techniques we discuss.
-
-The assessment criteria for the high-stakes project are:
 
 - Your writing decisions (form, content, genre) in each piece must enact and/or contribute to the argument
 - You must emulate a craft technique from at least 8 of the texts we read

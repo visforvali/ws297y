@@ -16,6 +16,6 @@ Dec 1
 
 Dec 3
 : **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
-  : **By 2pm**{: .label .label-red-custom} [Unabridged Affective Atlas Draft](https://visforvali.github.io/ws297y/prompts/){:target="_blank"}  
+  : **By 2pm**{: .label .label-red-custom} [Unabridged Affective Atlas Draft](https://visforvali.github.io/ws297y/prompts/#high-stakes-project-the-unabridged-affective-atlas){:target="_blank"}  
 : **Praxis**{: .label .label-green-custom } Peer workshops in #team
   : [instructions](/ws297y/notes/notes-10.2){:target="_blank"}
