@@ -64,20 +64,25 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 ## Low-Stakes (Ungraded) Discord Posts #️⃣
 
 {: .important }
-> Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
+> Low-stakes writing assignments are scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
 
-Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and their practical applications in imagining more socially just futures. **Low-stakes writing assignments are designed to be repurposed in your high-stakes project but must be expanded and/or substantively revised.**
+Low-stakes writing assignments, i.e. Affective Atlas entries and #team activities, will ask you to briefly organize your thoughts about assigned texts and reflect on their practical applications in imagining more socially just futures. **Affective Atlas entries are intended to be repurposed in your high-stakes project but in a substantively expanded and revised form.**
 
-Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop activities, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to respond to a writing prompt intended to guide your response to the materials for that week. Low-stakes writing prompts for each week are listed under [Writing Assignments](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} and linked with deadlines on the [Calendar](https://visforvali.github.io/ws297y/){:target="_blank"}.
+Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop activities, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to write a rough Affective Atlas entry for that week. All Affective Atlas entry prompts are listed under [Writing Assignments](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} and linked with deadlines on the [Calendar](https://visforvali.github.io/ws297y/){:target="_blank"}.
 
 ## High-Stakes (Graded) Writing 🚀
 
 {: .important }
-> High-stakes writing, i.e. first and final drafts of longer projects, should be submitted to [Classes\Assignments](classes.pace.edu){:target="_blank"} and will be scored in [Classes\Gradebook](classes.pace.edu){:target="_blank"}.
-> 
-> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "Nc" for "No Credit."
+> High-stakes writing, i.e. first and final drafts of longer projects, should be submitted to [Classes\Assignments](classes.pace.edu){:target="_blank"} and will be scored in [Classes\Gradebook](classes.pace.edu){:target="_blank"}. Drafts of high-stakes writing assignments, i.e. what you share in #team for workshop, are scored on the basis of completion. To show I've received and read your draft, I'll enter an "R" for "Reviewed" in the Classes gradebook. Only final drafts receive "real" grades. If you receive an "N" ("No Credit"), it means that I could not accept your work for credit for substantive reasons, and you should reach out to me. You will need to substantively revise each draft no matter what.
 
-This class culminates in one multipart high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. Additionally, these pieces should emulate the craft techniques we discuss.
+This class revolves around one two-part high-stakes writing project: the Affective Atlas.  
+
+Your Affective Atlas is an intentionally arranged compilation of your substantively expanded, revised, and otherwise augmented and modified low-stakes writing assignments. 
+
+
+
+
+one two-part high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. Additionally, these pieces should emulate the craft techniques we discuss.
 
 The assessment criteria for the high-stakes project are:
 

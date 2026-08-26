@@ -14,11 +14,12 @@ nav_order: 5
 1. TOC
 {:toc}
 
-# Low-Stakes Writing Prompts
+# Low-Stakes Writing: Rough Affective Atlas Entries
 {: .no_toc }
 
 {: .important }
-> Since low-stakes posts will help launch class discussions, please post them directly in #classroom (and feel free to react/reply to your comrades' posts!). **Include the title of the prompt you're responding to at the start of your post**, so I know it's your submission for the week and have context for your response. I recommend drafting your posts in a word processor, so you have a local saved copy in case of technical difficulties.
+> Post your low-stakes affective atlas entries directly in #🙋classroom (and feel free to react and reply to your peers' posts!). **Title your posts with 'Affective Atlas Entry #'** so I know it's your submission for that assignment. I recommend drafting in a word processor or Google Docs, so you have a locally saved copy for the Unabridged Affective Atlas due at the end of the semester and in case of technical difficulties with Discord.
+
 
 These low-stakes writing prompts put *you* in the driver's seat. Instead of asking you a narrow question that might feel "leading" or like it's "testing" your understanding or knowledge, these prompts ask *you* to ask and attempt to answer a question within a loose framework designed to keep you anchored in course content. You'll develop your interest and understanding of creative writing for social justice out of the things that naturally excite, inspire, and/or confuse you most.
 
@@ -49,81 +50,46 @@ Deleuze suggests that thought begins with a "dogmatic image of thought" &mdash; 
 
 ## Affective Atlas Entry 3: Bibliographic Altars
 
-Create a bibliographic altar
+Ann Cvetkovich creates what she calls "bibliographic altars" &mdash; assemblages of books and material objects that are both secular and ritual for her and that "saved (her) life and helped (her) keep writing" (Cvetkovich & Wilkerson, 2016). What would you include in a bibliographic altar for this semester? Continuing our workshop activity this week, assemble this altar and write or record a brief explanation of what you included and why.
 
 ## Affective Atlas Entry 4: Grind Culture
 
-
+Do you, or did you ever, dream of work? From our readings and discussion this week, what do you find most problematic about the idea that work should be the focus of our dreams? What's one thing you can realistically do, right now, to stabilize yourself a little more in the precariat class, restore passion to your work ethic, and otherwise find "a way out"?
 
 ## Affective Atlas Entry 5: Differential Unwellness
 
+Mimi Khuc argues that we are all differentially unwell and that academia in particular is a site of compulsory unwellness. Expanding on your answers from our class activities this week, what has Pace promised you while making you unwell? How can we better collectively and practically recognize and resist the imposition and internalization of academic unwellness as it transpires at Pace? Or in her words, "How might you ask the university to be accountable to the kind of mental health you want? What structures would foster this kind of mental health, and what would it take to build them?" (p. 46)
+
 ## Affective Atlas Entry 6: Sleepers and Dreamers
+
+We spend a great deal of our lives resting and sleeping without thinking about the inherently resistive qualities of slumber. From this week's reading, discussion, and class activities, what new ideas do you have about what sleep is and does for us as individuals and as a collective body? What, to you, now seems like the most revolutionary aspect of sleep?
 
 ## Affective Atlas Entry 7: For Writing's Sake
 
+The "exotic" space of the blank page can be among the most intimidating spaces in academia. What changes when you consider unexpected similarities between seemingly different spaces, like beds, bedrooms, and pages? Since engaging with this week's readings and discussion, what has changed about how you interact with the infra-ordinary, "endotic"  spaces of your bed, bedroom, and the blank page?
+
 ## Affective Atlas Entry 8: Just Say No
+
+
 
 ## Affective Atlas Entry 9: Failing Up
 
+
+
 ## Affective Atlas Entry 10: Making to Survive
 
+Sara Ahmed outlines a practice of building feminist survival kits, an assemblage of tangibles and intangibles that help us survive. Accounting for everything you've learned and reclaimed this semester, what belongs in your feminist survival kit? How, if it all, does it complement or extend your bibliographic altar? Continuing our workshop activity this week, assemble this altar and write or record a brief explanation of what you included and why.
 
-
-
-## Annotation
-
-Skim the reading again. As soon as you encounter a word, phrase, or sentence that catches
-your attention, immediately annotate it with a guess as to why it struck you. Use these annotations to guide you in formulating a question you have about the relationship between the text's form, the reader, and its social justice argument. Attach a photograph of one of your annotated pages with your response as well. 
-
-## Copycat
-
-Locate an excerpt you either loved or hated, and use the same style to formulate a question about the form/content relationship in the text. Write your question in the same style. Pay attention to the readerly/writerly mindset that this use of mimicry puts you in, or removes you from, and use this to help you answer the question you just posed.
-
-## I Hope This Email Finds You
-
-*SUBJ*: Re: Your question about how genre/audience are used for social justice   
-*MSG*: Formulate a question that deliberately misunderstands the aims of this text, then pretend you're writing a 3-5 paragraph email explaining the the text's genre/audience and social justice message in response to someone who has asked you this question. 
-
-## Just Curious
-
-Formulate a "starter" question about something in the text that you're curious about &mdash; a sentence, a word, a metaphor, a title, a plot point, a characterization moment &mdash; and its relationship with social justice. Ask another question that gets you closer to an answer. Keep going until you come up with a question that feels like you've stumbled upon a question that grabs you, even if it's far from the original question. In answering *this* question, reflect on how pursuing readerly curiosity about this part of the text might develop a specific aspect of social justice consciousness.
-
-## Keyholes
-
-A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidden room. Identify a passage that gave you a glimpse into something that previously felt like a locked or forbidden room. Alternatively, identify a passage that shows you quite firmly that the room will always be locked to you, and that whatever access you're granted will always be partial, like the view through a keyhole. In either case, formulate a question concerning both why it used to feel that way, what craft decisions "unlocked" the room for you, and how this might play a role in writing for social justice.
-
-## Loved Lines
-
-Type out (don't copy and paste!) 3 sentences that you loved from the text. Ask and answer a question that falls under a general inquiry into why you loved these lines (but isn't that exact question), and that helps you elaborate on the effect of a pattern across sentences; the precise language, rhythm, or shape of each sentence; or the way its white spaces create insights. Next, find an ordinary, tangible (not online) object in your home that you love the same way, i.e. if you love these lines for their minimalism, you might find a solar-powered charger, a quarter-teaspoon, a hairline crack in the wall, a pencil worn all the way down; if you love them for a rhythm you can feel in your flesh, you might find an iPod and headphones, or your feet in the shoes that dance with you at a party. Let your thinking be loose and associative. Take a photo of this object and share it with your post (and don't explain the relationship between the lines and the object you chose).
-
-
-## Poetic Inference
-
-Identify 2-5 lines (they don't have to be consecutive) that made you feel like your senses came alive. Try to figure out what's going on in and between sentences that inspired and anchored your interpretation. Use this process to guide you in formulating a question you have about the text's poetics and reliance on reader inference to get at the aims of social justice.
-
-## Stumbling Blocks
-
-Identify a place where you felt confusion, and then identify the place where (if) you found your footing again. Reflect on how being confused by that part of the text specifically might help enact the social justice argument(s) of the piece as a whole. Try to interpret both the part of the text that confused you and the part of the text that clarified things for you. 
-
-## Truth to Power
-
-Choose a minor character &mdash; a character who isn't the protagonist and whose interiority we aren't given &mdash; and use their perspective to speak truth to power, attempting to fill a gap that the protagonist ignores or doesn't successfully address. You can use first-person ("I"), second-person ("you"), or third-person ("name/pronoun"); select the perspective you think will best accomplish this, and briefly note why.
-
-## Why
-
-Come up with 5 questions about 5 different craft techniques &mdash; descriptions, rhythm, white space, lack of white space, poetics, etc. &mdash; that induced sensations in you while you were reading, and answer 2 of them. Of the 2 you answered, also address why you feel these 2 techniques induced the specific sensations that they did.
-
-# High-Stakes Writing Projects
+# High-Stakes Project: The Unabridged Affective Atlas
 
 {: .important }
 > This project should be between 8,000 to 10,000 words (15-20 single-spaced pages) and is due at the end of the semester. If your project needs more room, or involves other modalities, book a coffee chat with me early so we can talk about it.
 
 
 
+Your Unabridged Affective Atlas is the compilation of the 10 affective atlas entries you produced over the course of the semester, expanded, revised, and augmented with additional 
 
-Compiled Affective Atlas (all 10 entries, revised, as a zine with additional pieces)
-
-
+This assignment is designed to get you to catalog your affective lives and think about &mdash; and think about how to dismantle &mdash; the structural conditions of those lives.
 
 
 
