@@ -18,7 +18,7 @@ nav_order: 4
 {: .warning }
 > You're guaranteed *at least* a B+ as your final grade if you do everything that's asked of you in the spirit you're asked to do it. But this doesn't mean anything goes! Read on for details.
 
-Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what we're learning.
+Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what were learning. This assessment method is designed to support learning as an ongoing, dynamic, trial-and-error process of emulation, experimentation, revision, reflection, and social collaboration.
 
 Nothing in this class needs to be perfect or polished, but this doesn't mean anything goes. I can't measure how hard you feel you tried or give "effort points" for work that ignores the course material. I need measurable evidence of how you're engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
 
@@ -27,7 +27,7 @@ Nothing in this class needs to be perfect or polished, but this doesn't mean any
 For you to earn at least a B+ in this class, you must:
 
 - Complete *all* required activities and assignments by the deadline, within the 1-week grace period for late work (where permitted) after the original deadline, or by an alternate deadline that was arranged in advance with me
-- Attempt to write nearly all of the components of required assignments in each draft.
+- Write nearly all of the components of required assignments in each draft
 - Regularly incorporate feedback and what you learn in class in your assignments
 - Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments
 - Regularly participate in voice and text chat every week
@@ -41,35 +41,34 @@ If you do better on an ungraded draft than you do on a final submission, I'll sc
 
 # Participation 🙋
 
-You're expected to regularly, substantively participate in voice and text channels, through thoughtful, informal contributions that reflect what we're learning organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats. 
+You're expected to regularly, substantively participate in voice and text chat each week, through thoughtful, informal contributions that reflect what we're learning organically; reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats. 
 
 Participation takes a lot of forms! While these are all measurable, valid forms of participation, you're expected to participate in different ways throughout the semester:
 
-- Talking out loud
-- Posting on Discord during and outside of classtime
+- Talking out loud in voice chats in 🔊🪑Sync Sessions each week
+- Posting in text chats in #🙋classroom each week
 - Reading and writing with classmates in spaces/ways I can see/quantify
 - Organically replying and reacting to classmates' posts (no boring "discussion board"-style replies, please!)
+- Asking questions in #🙋classroom as soon as you're confused
 - Working with me in coffee chats
-- Helping your classmates; DMing me thoughts and questions to add to my lecture notes
 
-If there's another form that works for you, or if you're anxious about whether you're substantively participating enough, reach out to me so we can talk about it! After 5 weeks of low participation, we'll need to meet to discuss whether it makes sense for you to stay in the class or withdraw.
+If you’re anxious about whether you're substantively participating enough, reach out to me so we can talk about it. **After 5 weeks of low participation, we’ll need to synchronously meet to discuss whether it makes sense for you to stay in the class or withdraw.**
 
 # Assignments 📚
 
 You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class. 
 
+{: .note }
+> All [assignment guidelines](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} are provided in advance so you can pace yourself as needed.
+
 ## Low-Stakes (Ungraded) Discord Posts #️⃣
 
 {: .important }
-> Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. 
-> 
-> **In short: Unless you hear otherwise from me, you know your submission received full credit.**
+> Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
 
-Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and how they use various craft techniques to accomplish the aims of social justice and/or imagine more socially just futures. I may also emoji react and/or reply to your posts to give you a sense of how I'm interpreting your contributions. 
+Low-stakes writing work, i.e. responses to writing prompts or team activities on Discord, asks you to briefly organize your thoughts about assigned texts and their practical applications in imagining more socially just futures. **Low-stakes writing assignments are designed to be repurposed in your high-stakes project but must be expanded and/or substantively revised.**
 
-Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop critiques, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to choose 1 prompt &mdash; from a rotating selection of the full list of [Writing Prompts](/ws297y/prompts){:target="_blank"} &mdash; and use it to guide your response to the materials for that week. Eligible prompts to choose from per week can be found on the [Calendar](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance){:target="_blank"}.
-
-Nothing in this class is busy work. Low-stakes work can be &mdash; is designed to be, even! &mdash; repurposed in your high-stakes projects, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them). 
+Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop activities, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to respond to a writing prompt intended to guide your response to the materials for that week. Low-stakes writing prompts for each week are listed under [Writing Assignments](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} and linked with deadlines on the [Calendar](https://visforvali.github.io/ws297y/){:target="_blank"}.
 
 ## High-Stakes (Graded) Writing 🚀
 
