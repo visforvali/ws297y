@@ -5,9 +5,9 @@ title: Week 12 - Reclaim What's Wasted
 
 ## Week 12 - Everything Can Be Used
 
-📖 Read Édouard Levé, [*Works* excerpts](){:target="_blank"}   
+📖 Read Édouard Levé, [*Works* excerpts](https://www.thewhitereview.org/poetry/oeuvres/){:target="_blank"} ([PDF version](/ws297y/assets/pdfs/leve_works_2014.pdf){:target="_blank"})   
 
-Nov 17
+Nov 17q
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_12.md){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Archives of failure

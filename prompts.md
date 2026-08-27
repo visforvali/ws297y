@@ -14,35 +14,36 @@ nav_order: 5
 1. TOC
 {:toc}
 
+# What's an Affective Atlas, Anyway?
+
+Feeling, emotion, and affect are colloquially treated interchangeably, but affect studies differentiates between them. Unlike *feeling* &mdash; a sensation that has already been cross-checked against preexisting experienced, categorized, and named &mdash; or *emotion* &mdash; the outward display of feeling &mdash; *affect* is the first step that precedes conscious understanding. An affect is always prior to and outside of consciousness, the non-conscious, unformed intensity that has not yet been cross-checked against personal experience and labeled as a feeling. We learn to consciously control the display of emotion, but we can't control the reception and impact of affect.
+
+Thus, the Affective Atlas is a metacognitive (thinking about thinking) exercise that asks you to focus your attention on the abstract and nameless sensations, the thoughts that feel inarticulate and that you're hesitant to articulate. The end result will be a feminist cartography of interiority &mdash; a map not of geographic terrain but of personal, emotional, cognitive, metacognitive, and experiential trajectories of movement and mobilization. An experimental expedition log into your subconscious, made manifest as a multimodal composition: handwritten words, typed words, drawings, photographs, annotated portions of texts, sentimental artifacts, audiovisual recordings, and whatever else your intuition directs you to include.
+
 # Low-Stakes Writing: Rough Affective Atlas Entries
 {: .no_toc }
 
+{: .warning }
+> Each entry should be a minimum length of ~500-800 words; you can (and should!) also attach links to audiovisual content or photos of tangible artifacts you made or collected to accompany your entry. Where relevant, and if you're comfortable with sharing, I also encourage you to attach photos of your handwritten journal entries.
+
 {: .important }
-> Post your low-stakes affective atlas entries directly in #🙋classroom (and feel free to react and reply to your peers' posts!). **Title your posts with 'Affective Atlas Entry #'** so I know it's your submission for that assignment. I recommend drafting in a word processor or Google Docs, so you have a locally saved copy for the Unabridged Affective Atlas due at the end of the semester and in case of technical difficulties with Discord.
+> Post your low-stakes affective atlas entries directly in #🙋classroom (and feel free to react and reply to your peers' posts!). **Title your posts with 'Affective Atlas Entry #'** so I know it's your submission for that assignment. I recommend drafting in a word processor or Google Docs, so you have a locally saved copy for the [Unabridged Affective Atlas](https://visforvali.github.io/ws297y/prompts/#high-stakes-project-the-unabridged-affective-atlas){:target="_blank"} due at the end of the semester, and in case you have technical difficulties with Discord.
 
+These low-stakes prompts are designed to help you generate rough drafts of the 10 entries that will constitute your Unabridged Affective Atlas. They ask you to draw on assigned texts, ideas raised and refined in 🔊🪑Sync Sessions voice chat, and crowdsourced notes in #🙋classroom to articulate and refine your own understanding of your past, present, and future self, habits, and internalized beliefs. 
 
-These low-stakes writing prompts put *you* in the driver's seat. Instead of asking you a narrow question that might feel "leading" or like it's "testing" your understanding or knowledge, these prompts ask *you* to ask and attempt to answer a question within a loose framework designed to keep you anchored in course content. You'll develop your interest and understanding of creative writing for social justice out of the things that naturally excite, inspire, and/or confuse you most.
+You can (and should, where appropriate and relevant!) mine material from your handwritten journal for these low-stakes writing assignments.
 
-Each week, you'll be given 3 prompts and asked to use 1 of them to write-to-think towards asking and answering a question. You can ask and answer any question you like, but it *must* be informed by the prompt framework you selected for the week and pertain to that week's readings. These posts won't be perfect &mdash; as a matter of fact, they shouldn't be. I hope for low-stakes posts that are informal, casual, unrehearsed, unpolished, more concerned with precision of thought than adherence to grammar, mechanics, and academic style. 
+**These posts must remain anchored in course content through close-reading and reflecting on portions of relevant assigned readings**, but as low-stakes writing assignments, these entries can (and should!) be stream-of-consciousness and can (and should, where appropriate and relevant!) include photographs of your handwritten journal entries and any material objects and audiovisual content that go with, inspire, or are otherwise relevant to your entry.
 
-The questions you come up with in your low-stakes posts will be integrated into class lectures and discussions, so this also helps you feel more confident about vocally contributing to class, i.e. you can talk about your own question and someone else's!
+You'll be substantively revising and expanding these entries for the final Unabridged Affective Atlas, so I don't expect these rough low-stakes entries to be perfect &mdash; as a matter of fact, they shouldn't be. **I hope for low-stakes posts that are informal, casual, unrehearsed, unpolished, more concerned with precision of thought and seriously and thoroughly engaging with the entry prompt than with adherence to grammar, mechanics, and academic style.** 
 
-All of the low-stakes prompts and instructions are listed below. Here's a model post as well if it helps!
+I'll integrate especially interesting ideas and questions you come up with in your low-stakes posts into our voice chats, so you can feel more confident about vocally contributing to class by talking about ideas you've already had time to work through yourself.
 
-{: .new }
-> ✍️ **Poetic Inference**: In Atwood's "The Page," the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" felt like a revelation. I think I always knew this but didn't have the words, so it resonated when she first called it "a skin." Between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question is meant to be quick and disorienting and make readers feel (infer?) the risk of reading and writing, which mostly is treated like a safe, boring activity. The page is a skin which means it's also a thing with skin, full of organs like a living body, and the same way skin touches you back when you touch it, the page acts on you when you read it or write on it. There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing" &mdash; the (female/gender nonconforming) body is not a passive thing for you to impose meaning onto.
->
-> Are we supposed to think that the page = bodies that resist easy understanding? And if so, are we supposed to think that inference is more dangerous for readers who approach the page like its passive, or for readers who approach the page expecting a confrontation? Or, thinking of social justice now, should the page *always* be a confrontation?
-
-**Your responses should always include at least one question about the text you're responding to.**
-
-
+All of the low-stakes writing prompts are listed below. 
 
 ## Affective Atlas Entry 1: The Infra-Ordinary
 
-Perec directs: "Question what seems so much a matter of course that we've forgotten its origins [...] What we need to question is bricks, concrete, glass, our table manners, our utensils, our tools, the way we spend our time, our rhythms. To question that which seems to have ceased forever to astonish us." 
-
-Your first logbook entry should follow suit. Choose something infra-ordinary &mdash; common, habitual, taken-for-granted, background noise &mdash; and question it in a manner that makes it astonishing. Describe its history, its use, its value, its destiny. 
+Perec directs: "Question what seems so much a matter of course that we've forgotten its origins [...] What we need to question is bricks, concrete, glass, our table manners, our utensils, our tools, the way we spend our time, our rhythms. To question that which seems to have ceased forever to astonish us." Your first entry should follow suit. Choose something infra-ordinary &mdash; common, habitual, taken-for-granted, background noise &mdash; and question it in a manner that makes it astonishing. Describe its history, its use, its value, its destiny. 
 
 ## Affective Atlas Entry 2: Un-Thinking Thought
 
@@ -83,20 +84,22 @@ Sara Ahmed outlines a practice of building feminist survival kits, an assemblage
 # High-Stakes Project: The Unabridged Affective Atlas
 
 {: .important }
-> This project should be between 8,000 to 10,000 words (15-20 single-spaced pages) and is due at the end of the semester. If your project needs more room, or involves other modalities, book a coffee chat with me early so we can talk about it.
+> This project should be between 5,000 to 8,000 words (10-16 single-spaced pages) and is due on our last day of class. If your project needs more room, or involves other modalities, book a coffee chat with me early so we can talk about it.
 
+As described above, the Affective Atlas is designed to get you to catalog your affective lives and think about &mdash; and think about how to dismantle &mdash; the structural conditions of those lives. Your Unabridged Affective Atlas is the expanded, revised, and augmented compilation of the 10 affective atlas entries you produced over the course of the semester. 
 
+You can think of it like a multimodal composition of a geopsychic architecture of your interiority, as it has historically existed and captured in the moment that reclamation mobilizes it towards new formations. Or an experimental expedition log documenting a voyage into your subconscious, made manifest as a multimodal composition: handwritten words, typed words, drawings, photographs, annotated portions of texts, sentimental artifacts, audiovisual recordings, and whatever else your intuition directs you to include.
 
-Your Unabridged Affective Atlas is the compilation of the 10 affective atlas entries you produced over the course of the semester, expanded, revised, and augmented with additional 
+As you compile and expand this high-stakes project, make sure to do the following:
 
-This assignment is designed to get you to catalog your affective lives and think about &mdash; and think about how to dismantle &mdash; the structural conditions of those lives.
-
-
-
-For your high-stakes project, you'll choose one social justice issue. Your collection will be divided between two parts: 
-
-- A compilation of philosophical/theoretical fiction (theory, fiction, and theory-fiction) that evokes, provokes, and revolves around the social justice issue you chose. Each piece should emulate at least one of the craft techniques we discussed in class
-- A preface that identifies your goals in composing and compiling this particular manuscript and explains your choices in craft (i.e. whose techniques you chose to emulate and why) and design (i.e. arrangement in and across pieces)
+- Each entry must substantively engage with the readings associated with the week(s) building up to that entry
+- Emulate at least 3 craft techniques (from different assigned texts) across your affective atlas, which will entail revising each entry to emulate a distinct craft technique from a text
+- Enact the aim of the entry through your writing decisions about form, content, and genre
+- Write a foreword contextualizing your compilation, specifically your aims with each entry; to help you get started, try free-writing answers to the following questions in your journal: 
+ - How do you want each entry to affect readers? 
+ - What about your writing decisions (form, content, genre) in each entry makes you think the intended effect will come across?
+ - What are the writing decisions you're most proud of, most insecure about, and/or most need an "in case readers don't get it" explanation?
+ - What have you reclaimed over the course of the semester, and how will you use these reclamations to move towards a more socially just future?
 
 {: .note }
-> If you wrote about the social justice issue you chose in your low-stakes posts, you're welcome to modify those posts and integrate them into this project. If you didn't but can easily modify existing low-stakes posts, you're welcome to adapt those posts to be about the social issue justice you chose.
+> I encourage you to submit your handwritten journals as well, with whatever tangible artifacts or scraps you've stuffed between their pages, as either a digitized submission (photographed or scanned as a PDF) or a hard-copy submission to the NYC Women's and Gender Studies Department at 41 Park Row, 5th floor, Suite 511. Enclose your materials in an envelope or folder labeled "ATTN: Dr. Meghana Nayak" and leave them in her mailbox, in the folder designated for our class with my name on it.
