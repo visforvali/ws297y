@@ -8,18 +8,18 @@ Dear Students,
 
 Welcome to Fall 2026 and WS 297Y! While the official title for this course is "Creative Writing and Social Justice," this semester, I'm running an unofficial, underground, extra-special-topics section, titled "Rest, Resistance, and Creation."
 
-To set yourself up for a successful semester, you should complete all the tasks listed under [Week 1](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance) in the Calendar on the home page. 
+To set yourself up for a successful semester, you should complete all the tasks listed under [Week 1](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance){:target="_blank"} in the Calendar on the home page. 
 
 I'll expect you to reference the Calendar every week, but since we're just getting started, I've summarized the tasks for Week 1 here:
 
 ## Getting to Know This Website
 
-- [ ] Review the [📋 Syllabus](/ws297y/syllabus) and jot down 1 question you have about it
-- [ ] Review the [💯 Alt-Grading System](/ws297y/alt-grading) policy and jot down 1 question you have about it
-- [ ] Skim the whole [🗓️ Calendar]() and write down class times & modalities and reading & writing deadlines in your personal comprehensive digital or analog planner
-- [ ] Review low- and high-stakes writing [✍️ Assignments]() 
-- [ ] Check out the [🙋 FAQs](/ws297y/faqs) page and jot down 1 question you'd like added to it
-- [ ] Post your full list of questions to #🗳️|its-help on Discord
+- [ ] Review the [📋Syllabus](/ws297y/syllabus){:target="_blank"} and jot down 1 question you have about it
+- [ ] Review the [💯Alt-Grading System](/ws297y/alt-grading){:target="_blank"} policy and jot down 1 question you have about it
+- [ ] Skim the whole [🗓️Calendar](https://visforvali.github.io/ws297y/){:target="_blank"} and write down class times & modalities and reading & writing deadlines in your personal comprehensive digital or analog planner
+- [ ] Review low- and high-stakes writing [✍️Writing Assignments](/ws297y/prompts){:target="_blank"}
+- [ ] Check out the [🙋FAQs](/ws297y/faqs){:target="_blank"} page and jot down 1 question you'd like added to it
+- [ ] Post your full list of questions to #🗳️its-help on Discord
 
 
 ## Getting to Know Discord
@@ -27,8 +27,8 @@ I'll expect you to reference the Calendar every week, but since we're just getti
 Like physical buildings you aren't familiar with, Discord might initially seem confusing, but it's pretty intuitive with a little exploration, is more low-key than Classes, and won't track you, steal your work, or accuse you of plagiarism like many GenAI-integrated learning management systems, including Classes.
 
 - [ ] Join our Discord server (the invitation link is posted to [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}) 
-- [ ] Review the full [🎮 Discord Tutorial](/ws297y/discord)
-- [ ] [Customize your server profile](https://visforvali.github.io/ws297y/discord/#customizing-your-profile)
+- [ ] Review the full [🎮Discord Tutorial](/ws297y/discord){:target="_blank"}
+- [ ] [Customize your server profile](https://visforvali.github.io/ws297y/discord/#customizing-your-profile){:target="_blank"}
 - [ ] Select your roles in #🆔get-roles
 - [ ] Introduce yourself in #🪪roll-call
 - [ ] Read XXX before our first voice chat on Tue 9/1
@@ -39,11 +39,11 @@ This is a MIXAS section that meets twice a week, on Tue/Thu from 12:15-1:40. We'
 
 Starting in Week 2 (9/7-9/11), I'll be available for coffee chats &mdash; a friendlier name for office hours! &mdash; on Tue 2-5 and Wed 1-3. You can reserve coffee chats with me on [Zcal](https://zcal.co/drmani){:target="_blank"}
 
-You can view this general pattern on the [Weekly Schedule](ws297y/weekly) page.
+You can view this general pattern on the [Weekly Schedule](ws297y/weekly){:target="_blank"} page.
 
 **While this pattern is typically true, it may vary from week to week. Check the Calendar every week for the exact schedule of meetings, readings, and assignments.**
 
-All sync voice chats will be held on Discord in 🔊|🪑Sync Sessions. All sync and async text chats will be held on Discord in #🙋|classroom. 
+All sync voice chats will be held on Discord in 🔊🪑Sync Sessions. All sync and async text chats will be held on Discord in #🙋classroom. 
 
 ## Show Up and Be Real
 
@@ -53,9 +53,9 @@ We all have things to contribute, and we'll all get lost and trip up along the w
 
 ## About Me & Other Fun Stuff
 
-You can learn more about me by checking out my profile on the home page and my introduction on Discord #🪪|roll-call. 
+You can learn more about me by checking out my profile on the home page and my introduction on Discord #🪪roll-call. 
 
-I've also curated playlists for our class, so if you're looking for music to fuel your writing sprints or get you in the mood for class, check out the [Playlist](/ws297y/playlist) page!
+I've also curated playlists for our class, so if you're looking for music to fuel your writing sprints or get you in the mood for class, check out the [Playlist](/ws297y/playlist){:target="_blank"} page!
 
 Can't wait to virtually meet y'all soon!
 
