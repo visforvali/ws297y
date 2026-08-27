@@ -71,11 +71,11 @@ The "exotic" space of the blank page can be among the most intimidating spaces i
 
 ## Affective Atlas Entry 8: Just Say No
 
-
+Sara Ahmed describes a complaint biography as the entanglement between the lives that complaints take on and our own lives from which they originate. They constitute the sharing of our stories of complaint and can chronicle our changing relationship to the institutions we're complaining about. What would you include in your own complaint biography? To start composing a complaint biography, Ahmed suggests starting with the following questions: "Can you remember your first complaint or an early complaint? What happened? How did it affect you? Can you recall a time you decided not to complain? What happened? How did it affect you?" (p. 254) Adding to those questions, consider Pace University as a specific site of complaint: Can you remember your first complaint about Pace? What happened? How did it affect you? Can you recall a time you decided to or not to complain about Pace publicly? What happened? How did it affect you? Finally, if you want to take your complaint further, write down one of your answers about Pace on a sticky note, put it up in a public place on campus, take a picture, and attach the photo to your entry post.
 
 ## Affective Atlas Entry 9: Failing Up
 
-
+Édouard Levé's work focuses on the gap between potentiality and actualization, as illustrated in the false starts or unrealizable ideas in *Oeuvres*. Make a list of 15-20 of your own false starts, unrealizable ideas, half-remembered dreams, and other moments of similar potentialities-without-actualization. Once you have your list, reflect on how it felt to write those items down and to share them publicly. What are you reclaiming through this act as an individual? What might you be restoring to a collective through this act? What would change in the university setting if such unactualized potentialities were an explicit and rewarded component of learning?
 
 ## Affective Atlas Entry 10: Making to Survive
 
