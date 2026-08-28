@@ -59,7 +59,7 @@ If you’re anxious about whether you're substantively participating enough, rea
 You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class. 
 
 {: .note }
-> All [assignment guidelines](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} are provided in advance so you can pace yourself as needed.
+> All [✍️Writing Assignments](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} are provided in advance so you can pace yourself as needed.
 
 ## Low-Stakes Discord Posts #️⃣
 
@@ -68,7 +68,7 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 
 Low-stakes writing assignments, i.e. Affective Atlas entries and #team activities, will ask you to briefly organize your thoughts about assigned texts and reflect on their practical applications in imagining more socially just futures. **Affective Atlas entries are intended to be repurposed in your high-stakes project but in a substantively expanded and revised form.**
 
-Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop activities, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to write a rough Affective Atlas entry for that week. All Affective Atlas entry prompts are listed under [Writing Assignments](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} and linked with deadlines on the [Calendar](https://visforvali.github.io/ws297y/){:target="_blank"}.
+Low-stakes writing that we do in class, i.e. discussion contributions, writing exercises, workshop activities, etc. should be posted by the end of class unless stated otherwise. When you have low-stakes homework, you'll be asked to write a rough Affective Atlas entry for that week. All Affective Atlas entry prompts are listed under [✍️Writing Assignments](https://visforvali.github.io/ws297y/prompts/){:target="_blank"} and linked with deadlines on the [📅Calendar](https://visforvali.github.io/ws297y/){:target="_blank"}.
 
 ## High-Stakes (Graded) Writing 🚀
 
