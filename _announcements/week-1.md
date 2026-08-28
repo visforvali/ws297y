@@ -35,7 +35,7 @@ Like physical buildings you aren't familiar with, Discord might initially seem c
 
 ## Our Typical Weekly Schedule
 
-This is a MIXAS section that meets twice a week, on Tue/Thu from 12:15-1:40. We'll usually have one sync voice chat on Tue and one sync or async text chat on Thu each week. 
+This is a MIXAS section that meets twice a week, on Tue/Thu from 12:15-1:40. We'll usually have one sync voice chat and one sync or async text chat each week. 
 
 Starting in Week 2, I'll be available for coffee chats &mdash; a friendlier name for office hours! &mdash; on Tue 2-5 and Wed 1-3. Coffee chats are by-appointment only. You can reserve coffee chats with me on [Zcal](https://zcal.co/drmani){:target="_blank"}. If those hours don't work for your schedule, you can DM me **at least 1 week in advance** to arrange an alternate time.
 
@@ -61,4 +61,5 @@ Can't wait to virtually meet y'all soon!
 
 In solidarity 🛌🏾💜✊🏾,
 
-Dr. Mani *alias* [🔥Flame Thief](https://www.youtube.com/watch?v=sjgO3DdY_hU){:target="_blank"} (links to gameplay video of the Prometheus fight in *Hades 2*)
+Dr. Mani *alias* [🔥
+Flame Thief](https://www.youtube.com/watch?v=sjgO3DdY_hU){:target="_blank"} (links to gameplay video of the Prometheus fight in *Hades 2*)
