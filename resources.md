@@ -20,9 +20,9 @@ nav_order: 7
 
 There are many articles, blogs, books and podcasts that would have been interesting to include in this class but ultimately didn't make the cut. If you have suggestions about materials to share, let me know and I'll add them to the list!
 
-## Essays and Stories 📚
+## Creative Writing 📚
 
-Here are some essays, stories, and books that are relevant to this class:
+Here are some short stories, lyric essays, and books whose craft techniques are relevant to creative writing for social justice:
 
 - Clive Barker, ["In the Hills, the Cities"](https://dn720004.ca.archive.org/0/items/short_story_roulette/Barker%2C%20Clive%20-%20In%20the%20Hills%2C%20the%20Cities.pdf){:target="_blank"} (Fun fact: In Nine Inch Nails' ["Sin"](https://www.youtube.com/watch?v=lIvzTlAdcUE){:target="_blank"}, the lyric "Stale incense, old sweat, and lies" is a quote from this short story.)
 - Jorge Luis Borges, ["The House of Asterion"](https://www.freewriterscentre.org/uploads/1/2/5/6/125643600/house_of_asterion.pdf){:target="_blank"}
@@ -55,7 +55,7 @@ Here are some podcasts that are relevant to topics we cover in this class:
 
 # Games We Played 🕹️
 
-Here are links to buy the solo journaling RPGs I modded for this class, and the console games I streamed: 
+Here are links to solo journaling RPGs and console games that are relevant to creative reclamation: 
 
 - [Auspex](https://goodluckpress.co/products/auspex?_pos=1&_psq=auspex&_ss=e&_v=1.0){:target="_blank"}
 - [Belluae](https://goodluckpress.co/products/belluae){:target="_blank"}
@@ -67,11 +67,6 @@ Here are links to buy the solo journaling RPGs I modded for this class, and the 
 - [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/){:target="_blank"}
 - [Venatores](https://goodluckpress.co/products/venatores?pr_prod_strat=jac&pr_rec_id=3373e4029&pr_rec_pid=8022533406914&pr_ref_pid=8022521151682&pr_seq=uniform){:target="_blank"}
 - [Westport Independent](https://store.steampowered.com/app/352240/The_Westport_Independent/){:target="_blank"}
-
-# Other Games 🎮
-
-Games that, due to time constraints, didn't make the cut:
-
 - [The Beginner's Guide](https://store.steampowered.com/app/303210/The_Beginners_Guide/){:target="_blank"}
 - [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme?download){:target="_blank"}
 - [Heaven's Vault](https://www.inklestudios.com/heavensvault/){:target="_blank"}
