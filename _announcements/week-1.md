@@ -37,9 +37,9 @@ Like physical buildings you aren't familiar with, Discord might initially seem c
 
 This is a MIXAS section that meets twice a week, on Tue/Thu from 12:15-1:40. We'll usually have one sync voice chat on Tue and one sync or async text chat on Thu each week. 
 
-Starting in Week 2 (9/7-9/11), I'll be available for coffee chats &mdash; a friendlier name for office hours! &mdash; on Tue 2-5 and Wed 1-3. You can reserve coffee chats with me on [Zcal](https://zcal.co/drmani){:target="_blank"}
+Starting in Week 2, I'll be available for coffee chats &mdash; a friendlier name for office hours! &mdash; on Tue 2-5 and Wed 1-3. Coffee chats are by-appointment only. You can reserve coffee chats with me on [Zcal](https://zcal.co/drmani){:target="_blank"}. If those hours don't work for your schedule, you can DM me **at least 1 week in advance** to arrange an alternate time.
 
-You can view this general pattern on the [Weekly Schedule](ws297y/weekly){:target="_blank"} page.
+If it helps to visualize it, you can view our typical weekly workflow on the [Weekly Schedule](ws297y/weekly){:target="_blank"} page.
 
 **While this pattern is typically true, it may vary from week to week. Check the Calendar every week for the exact schedule of meetings, readings, and assignments.**
 
@@ -61,4 +61,4 @@ Can't wait to virtually meet y'all soon!
 
 In solidarity 🛌🏾💜✊🏾,
 
-Dr. Mani *alias* [Flame Thief](https://www.youtube.com/watch?v=sjgO3DdY_hU){:target="_blank"} (links to gameplay video of the Prometheus fight in *Hades 2*)
+Dr. Mani *alias* [🔥Flame Thief](https://www.youtube.com/watch?v=sjgO3DdY_hU){:target="_blank"} (links to gameplay video of the Prometheus fight in *Hades 2*)
