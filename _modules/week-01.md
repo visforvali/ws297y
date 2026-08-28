@@ -16,7 +16,8 @@ Sep 1
   : &nbsp;
 
 Sep 3
-: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}
   : **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 1](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-1-the-infra-ordinary){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Noticing the infra-ordinary
   : **By Sat**{: .label .label-red-custom} Customize Discord pfp, bio, #🆔get-roles, #🪪roll-call, post your questions to #🗳️its-help

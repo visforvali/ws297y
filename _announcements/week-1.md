@@ -1,12 +1,13 @@
 ---
 title: 👋🏾 Week 1 - Welcome & Course Setup
 week: 1
-date: 2026-08-20
+date: 2026-08-28
+heading_anchors: true
 ---
 
 Dear Students,
 
-Welcome to Fall 2026 and WS 297Y! While the official title for this course is "Creative Writing and Social Justice," this semester, I'm running an unofficial, underground, extra-special-topics section, titled "Rest, Resistance, and Creation."
+Welcome to Fall 2026 and WS 297Y! While the official title for this course is "Creative Writing and Social Justice," this semester, I'm running an unofficial, underground, extra-special-topics section, titled "Creative Reclamation."
 
 To set yourself up for a successful semester, you should complete all the tasks listed under [Week 1](https://visforvali.github.io/ws297y/#week-1---complicity-or-resistance){:target="_blank"} in the Calendar on the home page. 
 

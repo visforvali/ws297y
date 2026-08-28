@@ -25,7 +25,7 @@ seo:
 > I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a <a href="https://zcal.co/drmani/coffee-chat" target="_blank">🕐10</a>, <a href="https://zcal.co/drmani/coffee-chat?duration=15" target="_blank">🕐15</a>, or <a href="https://zcal.co/drmani/coffee-chat?duration=20" target="_blank">🕧20</a> min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) chat to talk about any aspect of your classwork, college, life, etc. I have limited availability outside of these hours, but if these times don't work for your schedule, you can DM me **at least 1 week in advance** to arrange an alternate time. I'm unable to accommodate last-minute requests.
 
 {: .important }
-> I respond to async messages in Discord's text channels and DMs, and Pace emails &mdash; within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
+> I respond to async messages in Discord's text channels and DMs and Pace emails &mdash; within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
 >
 > For a quicker response to questions or project help, ask in #classroom or #team on Discord. Please note that I deprioritize questions about course material/logistics that are explained in the course syllabus and/or this website, or have already been asked and answered on Discord and added to the [FAQs](faqs){:target="_blank"} on this site.
 
