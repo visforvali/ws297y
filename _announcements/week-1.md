@@ -2,6 +2,7 @@
 title: 👋🏾 Week 1 - Welcome & Course Setup
 week: 1
 layout: post
+status: draft
 date: 2026-08-28
 ---
 
