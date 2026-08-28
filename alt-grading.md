@@ -20,7 +20,7 @@ nav_order: 4
 
 Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what were learning. This assessment method is designed to support learning as an ongoing, dynamic, trial-and-error process of emulation, experimentation, revision, reflection, and social collaboration.
 
-Nothing in this class needs to be perfect or polished, but this doesn't mean anything goes. I can't measure how hard you feel you tried or give "effort points" for work that ignores the course material. I need measurable evidence of how you're engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
+Nothing in this class needs to be perfect or polished, but I can't measure how hard you feel you tried or give "effort points" for work that ignores the course material. I need measurable evidence of how you're engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
 
 # Basic Checklist ✅
 
@@ -32,12 +32,12 @@ For you to earn at least a B+ in this class, you must:
 - Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments
 - Regularly participate in voice and text chat every week
 - Proactively try to figure things out on your own before chatting with me, scheduling coffee chats, and by bringing relevant notes, annotated readings, and writing materials to these meetings so we can work on them together
-- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!)
+- Talk/post about what you've learned when you participate each week: from the readings, from discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!)
 - Be open to critique and accountable for the work you did (or didn't do)
 
 You can always check in with me if you’re unsure of how you're doing!
 
-If you do better on an ungraded draft than you do on a final submission, I'll score that one instead. This lowers the stakes of drafting even further, allows you to take risks and "fail up" without penalty, and more closely resembles what out-of-classroom drafting is really like: often "one step forward, two steps back," recursive, nonlinear, never quite finished.
+If you do better on an ungraded draft than you do on a final submission, I'll score that one instead. This lowers the stakes of drafting even further, allows you to take risks and "fail up" without penalty, and more closely resembles what out-of-classroom drafting is really like: often "one step forward, two steps back," recursive, nonlinear, and never quite finished.
 
 # Participation 🙋
 
