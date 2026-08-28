@@ -2,6 +2,7 @@
 title: ✉️ Week 2 - Discord & Enrollment Verification
 week: 2
 date: 2026-09-07
+nav_exclude: true
 ---
 
 Hello students,
