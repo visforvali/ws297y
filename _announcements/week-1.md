@@ -1,8 +1,6 @@
 ---
 title: 👋🏾 Week 1 - Welcome & Course Setup
 week: 1
-layout: post
-status: draft
 date: 2026-08-28
 ---
 
@@ -19,7 +17,7 @@ I'll expect you to reference the Calendar every week, but since we're just getti
 - [ ] Review the [📋Syllabus](/ws297y/syllabus){:target="_blank"} and jot down 1 question you have about it
 - [ ] Review the [💯Alt-Grading System](/ws297y/alt-grading){:target="_blank"} policy and jot down 1 question you have about it
 - [ ] Skim the whole [🗓️Calendar](https://visforvali.github.io/ws297y/){:target="_blank"} and write down class times & modalities and reading & writing deadlines in your personal comprehensive digital or analog planner
-- [ ] Review low- and high-stakes writing [✍️Writing Assignments](/ws297y/prompts){:target="_blank"}
+- [ ] Review low- and high-stakes [✍️Writing Assignments](/ws297y/prompts){:target="_blank"}
 - [ ] Check out the [🙋FAQs](/ws297y/faqs){:target="_blank"} page and jot down 1 question you'd like added to it
 - [ ] Post your full list of questions to #🗳️its-help on Discord
 
@@ -33,7 +31,7 @@ Like physical buildings you aren't familiar with, Discord might initially seem c
 - [ ] [Customize your server profile](https://visforvali.github.io/ws297y/discord/#customizing-your-profile){:target="_blank"}
 - [ ] Select your roles in #🆔get-roles
 - [ ] Introduce yourself in #🪪roll-call
-- [ ] Read XXX before our first voice chat on Tue 9/1
+- [ ] Read Georges Perec's "Approaches to What?" before our second voice chat on Thu 9/3
 
 ## Our Typical Weekly Schedule
 
