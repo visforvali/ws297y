@@ -11,7 +11,7 @@ title: Week 1 - Reclaim the World
 
 Sep 1
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}
+  : Read and complete tasks in [📢Announcements\✉️Week 1](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}  
 : **Praxis**{: .label .label-green-custom } Get comfy with course setup and edutech
   : &nbsp;
 

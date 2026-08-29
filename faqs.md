@@ -43,3 +43,19 @@ With the caveat that universal access is impossible &mdash; it's inevitable that
 - In a full class setting, I'm unable to send frequent, tailored reminders for work already outlined in the materials. I can automate weekly reminders to check the Calendar for work due that week through Discord. Any other reminders will be posted to both #classroom and Classes\Announcements (so make sure you've set up Classes to forward announcements to your email if email is your communication preference). 
 - Content notes will be provided if/when relevant.
 - Disciplinary language is unavoidable in a class like this, but in weekly modules, I use both plain language and attempt to introduce and explain necessary conceptual terms in plain language. 
+
+# Do I need to finish reading the assigned text for the week before our voice chat session?
+
+Ideally, you should at least skim the assigned text for the week before weekly voice chat sessions, to help you keep up with and contribute to discussion. You should make sure to close-read the text before and during weekly sync/async text chats, and before submitting any low-stakes writing assignments relevant to that text.
+
+
+
+# Can you explain what it means to be accountable for my own learning and grades?
+
+You are responsible for making sure you're succeeding in the class. There are two major ways to do this; every week, you should assess your understanding against the answers posted in #🙋classroom, and after every after draft, you should check if you received a “R” (“Reviewed”) or “N” (“No Credit”) score. While drafts are technically ungraded, “N” scores will impact your final course grade and make it difficult for you to succeed in writing the qualitative research project.
+
+You are responsible for checking your draft scores on Classes after drafts have been submitted and scored and making sure that you’re following and fulfilling the assignment guidelines. For instance, the qualitative research project is a different genre from a report, a historical overview of general facts, or a comparative literary/art/film analysis. It involves a kind of case study analysis of a contemporary problem that surfaces in the current, ongoing discourse of a specific discourse community — your field/discipline. If your project deviates from this, it’s likely to receive an “N” (no credit) score.
+
+Perfection is by no means necessary — or even what we’re doing in this course — but to pass the course, you do have to satisfactorily demonstrate the learning objectives week-to-week and make a good-faith effort to address the assignment guidelines — and be ready to offer up your record of unsubmitted practice writing for the class, and be able to explain your writerly decisions in your qualitative research project draft and in the context of the qualitative research project guidelines.
+
+Remember, this course is holistically graded, meaning that consistent, regular participation and a project that meets all requirements by the end of the course is likely to result in full or partial remittance of “N” scores.
