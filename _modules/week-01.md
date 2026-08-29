@@ -11,7 +11,7 @@ title: Week 1 - Reclaim the World
 
 Sep 1
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : Read and complete tasks in [✉️Week 1](){:target="_blank"} letter on the 📢Announcements page  
+  : Read and complete tasks in the [✉️Week 1](https://visforvali.github.io/ws297y/announcements/#week-1-welcome--course-setup){:target="_blank"} announcement  
 : **Praxis**{: .label .label-green-custom } Get comfy with course setup and edutech
   : &nbsp;
 
