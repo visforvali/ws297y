@@ -5,7 +5,7 @@ title: Week 7 - Reclaim Wellness
 
 ## Week 7 - Differential Unwellness
 
-📖 Read Mimi Khuc, [*dear elia* excerpts](){:target="_blank"}   
+📖 Read Mimi Khuc, ["Cura Personalis" (*dear elia* excerpt)](/ws297y/assets/pdfs/khuc_dear_elia_2024.pdf){:target="_blank"}   
 
 Oct 13
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
