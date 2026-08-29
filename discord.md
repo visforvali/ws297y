@@ -152,22 +152,19 @@ The left panel contains category headings and channels. Clicking a channel in th
 
 - **#welcome**: Welcome to the WS 297Y Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
 - **#get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
-- **#its-help**: To automate questions unrelated to course content, this channel is for all your tech support issues regarding Discord, this website, and/or Classes. 💛 Fill out the ticket form to automatically open a private ticket that will flag me to help you out!
+- **#its-help**: Post all questions about tech support issues regarding Discord, this website, and/or Classes in this channel 💛
 
 ## Community Making
 
 - **#roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
 - **#lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
-- **🔊 Cafe**: Voice channel for for coffee chats with me, voice/video work with classmates, and/or socializing.
+- **🔊Cafe**: Voice channel for for coffee chats with me, voice/video work with classmates, and/or socializing.
 
 ## Class Is in Session
 
-- **#starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here.
-- **#classroom**: A channel for class activities and low-stakes writing 💛
-- **🔊 Sync Sessions**: Voice channel for sync class sessions.
-- **#team1🔒**: Team 1's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **#team2🔒**: Team 2's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **#team3🔒**: Team 3's private stomping ground for group activities in and out of class and for helping each other out during the semester!
+- **#classroom**: Our primary text channel for text chats, class activities during voice chats, and low-stakes writing posts 💛
+- **🔊Sync Sessions**: Our primary voice channel for voice chat class sessions.
+- **#team🔒**: Semi-private channel (visible to your team and me) for group activities in and out of class and for helping each other out during the semester! Teams will be assigned by Week 3 at the latest.
 
 # Using Discord
 

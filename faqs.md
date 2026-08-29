@@ -48,14 +48,22 @@ With the caveat that universal access is impossible &mdash; it's inevitable that
 
 Ideally, you should at least skim the assigned text for the week before weekly voice chat sessions, to help you keep up with and contribute to discussion. You should make sure to close-read the text before and during weekly sync/async text chats, and before submitting any low-stakes writing assignments relevant to that text.
 
-
-
 # Can you explain what it means to be accountable for my own learning and grades?
 
-You are responsible for making sure you're succeeding in the class. There are two major ways to do this; every week, you should assess your understanding against the answers posted in #🙋classroom, and after every after draft, you should check if you received a “R” (“Reviewed”) or “N” (“No Credit”) score. While drafts are technically ungraded, “N” scores will impact your final course grade and make it difficult for you to succeed in writing the qualitative research project.
+You are responsible for making sure you're succeeding in the class. Here are some ways to do this:
 
-You are responsible for checking your draft scores on Classes after drafts have been submitted and scored and making sure that you’re following and fulfilling the assignment guidelines. For instance, the qualitative research project is a different genre from a report, a historical overview of general facts, or a comparative literary/art/film analysis. It involves a kind of case study analysis of a contemporary problem that surfaces in the current, ongoing discourse of a specific discourse community — your field/discipline. If your project deviates from this, it’s likely to receive an “N” (no credit) score.
+- At the end of each week, assess your understanding of course content against your notes from our voice chats and posts from our text chats in #🙋classroom
+- Make sure that I've emoji reacted (i.e., tallied) to your low-stakes writing assignments each week
+- Ask questions in class whenever you're confused, even if you're revisiting something from earlier in the discussion &dash; i.e., don't feel like you "missed the moment" to ask your question
+- Book coffee chats with me if you're struggling with an assigned reading or a writing prompt and would benefit from one-on-one guidance
+- After any high-stakes project drafts,check if you received a "R" ("Reviewed") or "N" ("No Credit") score, as "N" scores will impact your final course grade; if you receive an "N" score, book a 20-min sync coffee chat (voice or text) to understand why
+- Submit work on time (or *occasionally* within the 1-week grace period)
+- Ensure that you're following and fulfilling assignment guidelines, e.g, if your Unabridged Affective Atlas doesn't emulate 3 craft techniques from the assigned texts, it's likely to receive an "N" score.
 
-Perfection is by no means necessary — or even what we’re doing in this course — but to pass the course, you do have to satisfactorily demonstrate the learning objectives week-to-week and make a good-faith effort to address the assignment guidelines — and be ready to offer up your record of unsubmitted practice writing for the class, and be able to explain your writerly decisions in your qualitative research project draft and in the context of the qualitative research project guidelines.
+Perfection is by no means necessary &mdash; or even what we're doing in this course &mdash; but to pass the course, you do have to satisfactorily demonstrate the learning objectives week-to-week, make a good-faith effort to address all assignment guidelines, be ready to offer up your record of notes, annotations, and drafts during coffee chats where helpful, and be able to explain your writerly decisions in your rough affective atlas entries in the context of the entry prompts and the Unabridged Affective Atlas guidelines.
 
-Remember, this course is holistically graded, meaning that consistent, regular participation and a project that meets all requirements by the end of the course is likely to result in full or partial remittance of “N” scores.
+# How is this course graded?
+
+The grading policy is explained on the [💯Alt-Grading System](/ws297y/alt-grading){:target="_blank"} page. 
+
+The course is holistically graded and doesn't use traditional letter grades until the final course grade is entered at the end of the semester. You are guaranteed *at least* a B+ if you participate robustly each week by "just talking" and do everything you're asked to do in the spirit you're asked to do it. Because the course is holistically graded, consistent, regular participation, timely submission of low-stakes writing, and a high-stakes project that meets all requirements by the end of the course is likely to result in "forgiveness" of an occasional lack of participation full or partial remittance of any "N" scores or missed work.
