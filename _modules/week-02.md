@@ -9,7 +9,7 @@ title: Week 2 - Reclaim Thinking Pt. 1
 
 Sep 8
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_2.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_2){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Strategizing metacognition
   : &nbsp;
   

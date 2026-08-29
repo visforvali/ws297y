@@ -39,7 +39,7 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 # Required Materials 💰
 
 {: .note }
-> All required readings are provided for free. They're linked on the [Calendar](/ws297y/){:target="_blank"} on this website and uploaded to [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
+> All required readings are provided for free. They're linked on the [Calendar](https://visforvali.github.io/ws297y/){:target="_blank"} on this website and uploaded to [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
 
 On your own, you'll need to obtain:
 
@@ -54,7 +54,7 @@ If you require assistive technology to write and draw, please contact me so we c
 This is an **online MIXAS course scheduled to meet on Tue and Thu that uses Discord for sync voice chats and sync and async text chats**. Typically, we'll spend one class session in sync voice chat in 🔊🪑Sync Sessions and spend the other session in a sync or async text chat in #🙋classroom. 
 
 {: .note }
-> Make sure to check the [Calendar](/ws297y/){:target="_blank"} for specific meeting modalities each week!
+> Make sure to check the [Calendar](https://visforvali.github.io/ws297y/){:target="_blank"} for specific meeting modalities each week!
 
 Outside of class, you'll read, think, dream, journal, and cultivate a stream-of-consciousness disposition for our "just talk" voice and text chats.
 
@@ -144,7 +144,7 @@ Writing support is available for all students at Pace University. We offer confi
 - **Academic Skills Services**: Small group peer mentoring, academic skills workshops, and individual academic development
 - **Writing Support Services**: Writing tutoring and writing preparation/support workshops
 
-Check out our [writing services and current hours of operation](https://www.pace.edu/learning-commons/services-current-students){:target="_blank"} and use [TracCloud](https://www.pace.edu/sites/default/files/2022-11/learning-commons-making-appointments-using-trac-cloud.pdf){:target="_blank"} to schedule an appointment. 
+Check out our [writing services and current hours of operation](https://www.pace.edu/learning-commons/writing-center){:target="_blank"} and use [TracCloud](https://www.pace.edu/sites/default/files/2022-11/learning-commons-making-appointments-using-trac-cloud.pdf){:target="_blank"} to schedule an appointment. 
 
 If you have other questions, please email [LC_PLV@pace.edu](mailto:LC_PLV@pace.edu) or [LC_NYC@pace.edu](mailto:LC_NYC@pace.edu), or visit Mortola Library, 3rd Fl (PLV) or 15 Beekman 7th Fl (NYC).
 

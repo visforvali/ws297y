@@ -9,7 +9,7 @@ title: Week 11 - Reclaim Failure
 
 Nov 10
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_11.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_11){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } The importance of failure
   : &nbsp;
 

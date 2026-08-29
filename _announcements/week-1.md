@@ -41,7 +41,7 @@ This is a MIXAS section that meets twice a week, on Tue/Thu from 12:15-1:40. We'
 
 Starting in Week 2, I'll be available for coffee chats &mdash; a friendlier name for office hours! &mdash; on Tue 2-5 and Wed 1-3. Coffee chats are by-appointment only. You can reserve coffee chats with me on [Zcal](https://zcal.co/drmani){:target="_blank"}. If those hours don't work for your schedule, you can DM me **at least 1 week in advance** to arrange an alternate time.
 
-If it helps to visualize it, you can view our typical weekly workflow on the [Weekly Schedule](ws297y/weekly){:target="_blank"} page.
+If it helps to visualize it, you can view our typical weekly workflow on the [Weekly Schedule](/ws297y/schedule){:target="_blank"} page.
 
 **While this pattern is typically true, it may vary from week to week. Check the Calendar every week for the exact schedule of meetings, readings, and assignments.**
 

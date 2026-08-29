@@ -19,7 +19,7 @@ This website was also designed to streamline our technological platforms to Disc
 This site contains:
 
 - a [course syllabus](syllabus.md),
-- a [course calendar](calendar.md),
+- a [course calendar](https://visforvali.github.io/ws297y/),
 - [announcements](announcements.md),
 - course materials, and
 - a weekly [schedule](schedule.md).

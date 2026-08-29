@@ -11,7 +11,7 @@ nav_order: 6
 {: .warning }
 > You must contact me at least 1 week in advance to schedule a chat outside of my standard coffee chat times. 
 
-The schedule below approximates the "shape" of each week of this class (check the [📅Calendar](/calendar.md){:target="_blank"} for exceptions to this workflow and detailed descriptions of what we'll do).
+The schedule below approximates the "shape" of each week of this class (check the [📅Calendar](https://visforvali.github.io/ws297y/){:target="_blank"} for exceptions to this workflow and detailed descriptions of what we'll do).
 
 {% for schedule in site.schedules %}
 {{ schedule }}

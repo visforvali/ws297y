@@ -5,11 +5,11 @@ title: Week 13 - Reclaim Survival
 
 ## Week 13 - Surviving and Thriving
 
-📖 Read Sara Ahmed, ["Feminist Killjoy Survival Kit"](/assets/pdfs/ahmed_killjoy_survival_kit_2017.pdf){:target="_blank"}   
+📖 Read Sara Ahmed, ["Feminist Killjoy Survival Kit"](/ws297y/assets/pdfs/ahmed_killjoy_survival_kit_2017.pdf){:target="_blank"}   
 
 Nov 24
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_13.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_13){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Building survival kits
   : &nbsp;
 

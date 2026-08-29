@@ -15,6 +15,6 @@ Sep 15
   
 Sep 17
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_3.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_3){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Unflattening
   : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 2](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-2-un-thinking-thought){:target="_blank"}

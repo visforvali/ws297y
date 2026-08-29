@@ -10,7 +10,7 @@ title: Week 9 - Reclaim Writing
 
 Oct 27
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_9.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_9){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Writing in ordinary(?) space
   : &nbsp;
 

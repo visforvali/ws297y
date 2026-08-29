@@ -9,7 +9,7 @@ title: Week 6 - Reclaim Your Time
 
 Oct 6
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_6.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_6){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Don't let the bastards grind you down
   : &nbsp;
 

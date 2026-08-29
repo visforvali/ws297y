@@ -9,7 +9,7 @@ title: Week 12 - Reclaim What's Wasted
 
 Nov 17q
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_12.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_12){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Archives of failure
   : &nbsp;
 

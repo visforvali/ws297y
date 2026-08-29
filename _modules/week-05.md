@@ -10,7 +10,7 @@ title: Week 5 - Reclaim Attention
 
 Sep 29
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_5.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_5){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } "I Would Prefer Not To"
   : &nbsp;
   

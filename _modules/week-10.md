@@ -9,7 +9,7 @@ title: Week 10 - Reclaim Refusal
 
 Nov 3
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_10.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_10){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Refusal as resistance
   : &nbsp;
 

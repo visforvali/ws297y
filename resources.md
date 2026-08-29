@@ -30,7 +30,7 @@ Here are some short stories, lyric essays, and books whose craft techniques are 
 - Italo Calvino, [*Castle of Crossed Destinies*](https://openlibrary.org/books/OL4734329M/The_Castle_of_Crossed_Destinies){:target="_blank"}
 - Julio Cortazar, ["House Taken Over"](https://berwickea.org/wp-content/uploads/2020/09/House-Taken-Over.pdf){:target="_blank"}
 - Octavia Butler, ["Bloodchild"](https://archive.org/details/1540992824-octavia-butler-bloodchild/page/n5/mode/2up){:target="_blank"}
-- Philip K. Dick, ["I Hope I Shall Arrive Soon"](https://dn720004.ca.archive.org/0/items/english-collections-1/I%20Hope%20I%20Shall%20Arrive%20Soon%20-%20Philip%20K.%20Dick.pdf){:target="_blank"}
+- Philip K. Dick, ["I Hope I Shall Arrive Soon"](https://ia601405.us.archive.org/10/items/HeliganSecretsOfTheLostGardens/DickPhillipKindred-IHopeYouWillArriveSoonAndOtherStories.pdf){:target="_blank"}
 - Cameron Dodd, ["College Writing Class Assignments with Real World Applications"](https://www.mcsweeneys.net/articles/college-writing-class-assignments-with-real-world-applications){:target="_blank"}
 - Meg Elison, ["Dresses Like White Elephants"](https://blog.pmpress.org/2020/06/06/dresses-like-white-elephants-on-uncanny-magazine/){:target="_blank"}
 - Franz Fanon, [*Pedagogy of the Oppressed*](https://fsi-ebcao.princeton.edu/sites/g/files/toruqf1411/files/media/freire.pdf){:target="_blank"}
@@ -38,7 +38,8 @@ Here are some short stories, lyric essays, and books whose craft techniques are 
 - Yuval Noah Harari, [*Nexus*](https://s1.papyruspub.com/files/demos/products/ebooks/novels/technology/Preview-Nexus-by-Yuval-Noah-Harari.pdf){:target="_blank"}
 - Ken Liu, ["Thoughts and Prayers"](https://slate.com/technology/2019/01/thoughts-and-prayers-ken-liu-short-story.html){:target="_blank"}
 - Audre Lorde, [*The Cancer Journals*](https://monoskop.org/images/1/16/Lorde_Audre_The_Cancer_Journals_2nd_ed_1980.pdf){:target="_blank"}
-- Carmen Maria Machado, ["The Husband Stitch"](https://granta.com/The-Husband-Stitch/){:target="_blank"}
+- Carmen Maria Machado, ["The Husband Stitch"](https://archive.is/4Vh0a
+){:target="_blank"}
 - Vyshali Manivannan, ["Chaos Itself Is an Order"](https://vyshalimanivannan.com/wp-content/uploads/2025/04/VM-2021-ChaosItselfIsAnOrder.pdf){:target="_blank"}
 - Herman Melville, ["Bartleby the Scrivener"](https://www.gutenberg.org/files/11231/11231-h/11231-h.htm){:target="_blank"}
 - *The Onion,* ["'No Way to Prevent This,' Says Only Nation Where This Regularly Happens"](https://theonion.com/no-way-to-prevent-this-says-only-nation-where-this-r-1819576527/){:target="_blank"}
@@ -50,7 +51,7 @@ Here are some short stories, lyric essays, and books whose craft techniques are 
 Here are some podcasts that are relevant to topics we cover in this class:
 
 - [Creating Coalitional Gestures](https://sparkactivism.com/ccgpodcast/){:target="_blank"}: A healing justice podcast seeking to transform the impact of BIWOC on the field of Writing Studies and to create resilient strategies for surviving, changing, and thriving in academia. 
-- [Masters of Text](https://www.mastersoftext.com/){:target="_blank"}: An old podcast series exploring alt-alphabetic texts and creative-critical scholarship from a feminist angle.
+- [Masters of Text](https://archive.org/details/masters-of-text-podcast){:target="_blank"}: An old podcast series exploring alt-alphabetic texts and creative-critical scholarship from a feminist angle.
 - [This Rhetorical Life](https://podcasts.apple.com/ie/podcast/this-rhetorical-life/id606979709){:target="_blank"}: An old podcast series created by grad students in Syracuse University's Composition and Cultural Rhetoric program. 
 
 # Games 🕹️

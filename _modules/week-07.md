@@ -9,7 +9,7 @@ title: Week 7 - Reclaim Wellness
 
 Oct 13
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : [notes](/ws297y/notes/f26/creative_thinking_lecture_7.md){:target="_blank"}
+  : [notes](/ws297y/notes/f26/creative_thinking_lecture_7){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Academic unwellness
   : &nbsp;
   
