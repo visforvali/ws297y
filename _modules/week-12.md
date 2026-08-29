@@ -15,6 +15,6 @@ Nov 17q
 
 Nov 19
 : **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
-  : **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 9](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-9-failing-up){:target="_blank"}
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 9](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-9-failing-up){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Cringe
   : &nbsp;
