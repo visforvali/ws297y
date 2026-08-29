@@ -11,13 +11,15 @@ title: Week 1 - Reclaim the World
 
 Sep 1
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
-  : Read and complete tasks in [📢Announcements\✉️Week 1](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}  
+  : Read and complete tasks in [✉️Week 1](){:target="_blank"} letter on the 📢Announcements page  
 : **Praxis**{: .label .label-green-custom } Get comfy with course setup and edutech
   : &nbsp;
 
 Sep 3
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_1.md){:target="_blank"}
-  : **By 2pm**{: .label .label-red-custom} [Affective Atlas Entry 1](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-1-the-infra-ordinary){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Noticing the infra-ordinary
-  : **By Sat**{: .label .label-red-custom} Customize Discord pfp, bio, #🆔get-roles, #🪪roll-call, post your questions to #🗳️its-help
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 1](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-1-the-infra-ordinary){:target="_blank"}
+: &nbsp;
+
+  : **By Sat 5pm**{: .label .label-red-custom} Customize Discord pfp, bio, #🆔get-roles, #🪪roll-call, post your questions to #🗳️its-help
