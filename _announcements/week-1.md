@@ -4,7 +4,7 @@ week: 1
 date: 2026-08-28
 ---
 
-# Week 1: Welcome & Course Setup
+## Week 1: Welcome & Course Setup
 
 Dear Students,
 
