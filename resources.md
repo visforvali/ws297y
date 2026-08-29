@@ -18,7 +18,7 @@ nav_order: 7
 {: .important }
 > Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/ws297y/) page and in chronological order on [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
 
-There are many articles, blogs, books and podcasts that would have been interesting to include in this class but ultimately didn't make the cut. If you have suggestions about materials to share, let me know and I'll add them to the list!
+There are many creative pieces, articles, blogs, books and podcasts that I've taught in past iterations of this class and/or would have been interesting to include in this section that ultimately didn't make the cut. If you have suggestions about materials to share, let me know and I'll add them to the list!
 
 ## Creative Writing 📚
 
@@ -53,7 +53,7 @@ Here are some podcasts that are relevant to topics we cover in this class:
 - [Masters of Text](https://www.mastersoftext.com/){:target="_blank"}: An old podcast series exploring alt-alphabetic texts and creative-critical scholarship from a feminist angle.
 - [This Rhetorical Life](https://podcasts.apple.com/ie/podcast/this-rhetorical-life/id606979709){:target="_blank"}: An old podcast series created by grad students in Syracuse University's Composition and Cultural Rhetoric program. 
 
-# Games We Played 🕹️
+# Games 🕹️
 
 Here are links to solo journaling RPGs and console games that are relevant to creative reclamation: 
 
