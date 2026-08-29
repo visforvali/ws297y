@@ -5,7 +5,7 @@ title: Week 5 - Reclaim Attention
 
 ## Week 5 - 24/7/365 Grinding
 
-📖 Read Jonathan Crary, [*24/7* excerpts](/ws297y/assets/pdfs/crary_24-7_2013.pdf){:target="_blank"}   
+📖 Read Jonathan Crary, [*24/7* excerpt](/ws297y/assets/pdfs/crary_24-7_2013.pdf){:target="_blank"}   
 📖 Read Ivor Southwood, [*Non-Stop Inertia* excerpts](/ws297y/assets/pdfs/southwood_non-stop_inertia_2011.pdf){:target="_blank"}   
 
 Sep 29

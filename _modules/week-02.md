@@ -5,7 +5,7 @@ title: Week 2 - Reclaim Thinking Pt. 1
 
 ## Week 2 - The Image of Thought
 \
-📖 Read Gilles Deleuze, [*Difference and Repetition* (Ch. 3) excerpts](/ws297y/assets/pdfs/deleuze_difference_and_repetition_1994.pdf){:target="_blank"}     
+📖 Read Gilles Deleuze, ["The Image of Thought" (*Difference and Repetition* excerpt](/ws297y/assets/pdfs/deleuze_difference_and_repetition_1994.pdf){:target="_blank"}     
 
 Sep 8
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions

@@ -5,7 +5,7 @@ title: Week 3 - Reclaim Thinking Pt. 2
 
 ## Week 3 - Thought without Image 
 
-📖 Reread Gilles Deleuze, [*Difference and Repetition* (Ch. 3) excerpts](/ws297y/assets/pdfs/deleuze_difference_and_repetition_1994.pdf){:target="_blank"}     
+📖 Reread Gilles Deleuze, ["The Image of Thought" (*Difference and Repetition* excerpt](/ws297y/assets/pdfs/deleuze_difference_and_repetition_1994.pdf){:target="_blank"}     
 
 Sep 15
 : **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)

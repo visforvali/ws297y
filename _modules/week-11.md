@@ -5,7 +5,7 @@ title: Week 11 - Reclaim Failure
 
 ## Week 11 - Failure as Success 
 
-📖 Read Jack Halberstam, [*The Queer Art of Failure* excerpts](/ws297y/assets/pdfs/halberstam_queer_art_of_failure_2011.pdf){:target="_blank"}   
+📖 Read Jack Halberstam, [*The Queer Art of Failure* excerpt](/ws297y/assets/pdfs/halberstam_queer_art_of_failure_2011.pdf){:target="_blank"}   
 
 Nov 10
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions

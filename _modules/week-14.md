@@ -10,10 +10,10 @@ title: Week 14 - Reclaim School Pt. 1
 
 Dec 1
 : **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
-  : &nbsp;
+  : **By 12pm**{: .label .label-red-custom} [Unabridged Affective Atlas Draft](https://visforvali.github.io/ws297y/prompts/#high-stakes-project-the-unabridged-affective-atlas){:target="_blank"}  
 : **Praxis**{: .label .label-green-custom } Peer workshops in #team
 
 Dec 3
 : **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
-  : **By 5pm**{: .label .label-red-custom} [Unabridged Affective Atlas Draft](https://visforvali.github.io/ws297y/prompts/#high-stakes-project-the-unabridged-affective-atlas){:target="_blank"}  
+  : &nbsp;
 : **Praxis**{: .label .label-green-custom } Peer workshops in #team
