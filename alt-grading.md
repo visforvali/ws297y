@@ -95,4 +95,4 @@ The assessment criteria for the high-stakes project are:
 I accept *all* writing assignments with no penalty or questions asked **within 1 week of the original deadline** (as long as they meet the rest of the assignment criteria). Please note that I can't promptly review late work, and I don't accept work more than 1 week late unless we made alternate arrangements in advance.
 
 {: .important}
-> **Save yourself from panicked exaggeration!**. Don't forget: an actually failing grade is an F; this isn't the same as a grade that isn't an A or B aren't the same!
+> **Save yourself from panicked exaggeration!**. Don't forget: an actually failing grade is an F; this isn't the same as a grade that isn't an A or B!
