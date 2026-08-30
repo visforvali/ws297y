@@ -31,7 +31,7 @@ If there are no available timeslots on a given day, it means I'm fully booked an
 With the caveat that universal access is impossible &mdash; it's inevitable that people's access needs aren't always compatible &mdash; but still worth striving for, here's what I'll be doing to address your self-selected access needs in this course (without sacrificing my own):
 
 - I use color-coding, typeface, and/or emoji to offset important information on the website or Discord, like reminders, info that deserves extra emphasis in the modules, tl;dr summaries, and practice exercises
-- To addresss the need for advance notice, the Calendar lists all work you'll do for yourself and work you'll submit to me for the whole semester. All assignments are already described on the website, and you have access to the spaces where you need to post them on Discord (for low-stakes work) and Classes (for high-stakes work)
+- To address the need for advance notice, the Calendar lists all work you'll do for yourself and work you'll submit to me for the whole semester. All assignments are already described on the website, and you have access to the spaces where you need to post them on Discord (for low-stakes work) and Classes (for high-stakes work)
  - *Note*: All modules will be live this week; after that, you'll have advance notice for everything we do this semester and can pace yourself accordingly
 - I have already identified and separated weekly tasks on the Calendar, but I'll do my best to breakdown these tasks further where relevant in a checklist of work at the beginning of each weekly module
  - *Note*: Always cross-check the work you have to do with the work listed on the calendar!
