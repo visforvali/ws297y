@@ -15,4 +15,4 @@ Nov 24
 
 Nov 26
 : **Fall Break!**{: .label .label-yellow-custom } No Class or Coffee Chats
-  : **By Mon**{: .label .label-red-custom} [Affective Atlas Entry 10](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-10-making-to-survive){:target="_blank"}
+  : **By Mon**{: .label .label-red-custom} [Affective Atlas Entry 10](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-10-making-to-survive){:target="_blank"} in #🙋classroom

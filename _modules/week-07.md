@@ -15,6 +15,6 @@ Oct 13
   
 Oct 15
 : **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
-  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"}
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"} in #🙋classroom
 : **Praxis**{: .label .label-green-custom } Archives of bad feelings
   : &nbsp;

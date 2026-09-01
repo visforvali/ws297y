@@ -15,6 +15,6 @@ Oct 6
 
 Oct 8
 : **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
-  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 4](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-4-grind-culture){:target="_blank"}
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 4](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-4-grind-culture){:target="_blank"} in #🙋classroom
 : **Praxis**{: .label .label-green-custom } Labors of passion
   : &nbsp;
