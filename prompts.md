@@ -53,7 +53,7 @@ Ann Cvetkovich creates what she calls "bibliographic altars" &mdash; assemblages
 
 ## Affective Atlas Entry 4: Grind Culture
 
-Do you, or did you ever, dream of work? From our readings and discussion this week, what do you find most problematic about the idea that work should be the focus of our dreams? What's one thing you can realistically do, right now, to stabilize yourself a little more in the precariat class, restore passion to your work ethic, and otherwise find "a way out"?
+Do you, or did you ever, dream of work? From our readings and discussion this week, what do you find most problematic about the idea that work should be the focus of our dreams? About the idea of 24/7? About the idea that job-seeking is itself a job? What's one thing you can realistically do, right now, to stabilize yourself a little more in the precariat class and try to find "a way out"?
 
 ## Affective Atlas Entry 5: Differential Unwellness
 

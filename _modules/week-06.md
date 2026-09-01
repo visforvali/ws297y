@@ -5,7 +5,7 @@ title: Week 6 - Reclaim Your Time
 
 ## Week 6 - Work vs. Labor
 
-📖 Read Pekka Himanen, [*The Hacker Work Ethic* excerpt](/ws297y/assets/pdfs/himanen_hacker_work_ethic_ch1_2001.pdf){:target="_blank"}   
+📖 Read Ivor Southwood, [*Non-Stop Inertia* excerpts](/ws297y/assets/pdfs/southwood_non-stop_inertia_2011.pdf){:target="_blank"}   
 
 Oct 6
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions

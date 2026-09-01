@@ -7,7 +7,7 @@ title: Week 12 - Reclaim What's Wasted
 
 📖 Read Édouard Levé, [*Works* excerpt](https://www.thewhitereview.org/poetry/oeuvres/){:target="_blank"} ([PDF version](/ws297y/assets/pdfs/leve_works_2014.pdf){:target="_blank"})   
 
-Nov 17q
+Nov 17
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_12){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Archives of failure
