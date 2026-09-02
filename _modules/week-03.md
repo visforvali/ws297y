@@ -12,7 +12,7 @@ Sep 15
   : &nbsp;
 : **Praxis**{: .label .label-green-custom } Collaborative close-reading
   : &nbsp;
-  
+
 Sep 17
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_3){:target="_blank"}
