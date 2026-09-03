@@ -51,3 +51,7 @@ I pass the mic for questions, comments, or concerns!
 - Tell me about an infra-ordinary practice or habit that attending Pace has cultivated in you, that is meant to go unnoticed and certainly not astonish, that has been imposed on you at the expense of an infra-ordinary habit or practice that might regularly astonish or revitalize?
 - What's significant about holding space for the mundane and tiny occurrences of the every day? We might begin to notice where impositions and substitutions have cost us our own infra-ordinary habits
 - **Looking Ahead**: Over the next two weeks we will try to reclaim the process of thinking itself with Deleuze, "Image of Thought" excerpts, not an easy read even in small excerpts so we'll spend 2 weeks on it but treat it like a launchpad for ideas, *not* something you're meant to understand on your own, and actually I want what you don't understand but inspires a thought in you anyway
+
+*Interesting Resources!*
+
+[Exploring the Endotic | The Institute for Endotic Research](http://theinstituteforendoticresearch.org/wp/projects/exploring-the-endotic/){:target="_blank"}
