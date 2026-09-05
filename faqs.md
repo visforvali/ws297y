@@ -15,7 +15,7 @@ nav_order: 9
 {:toc}
 
 {: .important }
-> This page will contain frequently asked questions as they're asked and answered in class, text channels, coffee chats, and elsewhere. I'll note updates to the FAQs periodically on Discord, but keep checking back, too!
+> This page will contain frequently asked questions as they're asked and answered in class, text channels, coffee chats, and elsewhere. If I update this FAQs page, I'll announce it on Discord and Classes.
 
 # What's the best way to contact you?
 
@@ -43,6 +43,18 @@ After clicking [🍵Let's Chat!](https://zcal.co/drmani){:target="_blank"} at th
 
 If there are no available timeslots on a given day, it means I'm fully booked and you'll have to reserve another date/time. I tend to be fully booked around the middle and end of the semester, so make sure to book early and often!
 
+# How will voice chat and sync and async text chat sessions work?
+
+We'll usually meet once in voice chat and once in text chat every week. Voice chats are inherently synchronous, and while you can supplement with text chat contributions, you're expected to speak during voice chat. You can just speak up as though it's a group chat with your friends; we'll sort it out organically if multiple people speak at the same. 
+
+During synchronous text chats, we'll all be on Discord during our scheduled timeslot but will only communicate in the #🙋classroom text channel. I'll kick off our sync text chats by asking you to share lines or passages from the weekly reading that really resonated with you or that you found interesting (even if you can't articulate why) or confusing. Then, I'll ask questions intended to guide you through close-reading these lines, so you can better understand the text as a whole.
+
+Our asynchronous text chats will function similarly. The main difference is that we will not be communicating just during our scheduled timeslot (although you can of course use this timeslot to participate if it's more convenient for you!). You have until midnight to post all your text chats. 
+
+Prior to the async text chat session, I'll post any instructions, guiding questions, passages to close-read, etc. in the class notes for the week (you can find these notes on the [📅Calendar](https://visforvali.github.io/ws297y/){:target="_blank"} each week, and I'll share the link to Discord for your convenience as well). If an async text chat is scheduled for a Tuesday &mdash; i.e. serving as the introduction to a new week and text &mdash; I'll provide a brief write-up about the reading in the class notes as well. 
+
+For the sake of transparency, I typically convert text chats to an asynchronous modality for three reasons: (1) if we're doing a class activity that works better in an asynchronous format, like a workshop or makerspace activity; (2) if there's a point in the semester when the majority of the class agrees that an async text chat would provide some necessary slowness; and (3) if my medical needs conflict with the course schedule in ways I can't change.
+
 # How are access needs addressed in the course?
 
 With the caveat that universal access is impossible &mdash; it's inevitable that people's access needs aren't always compatible &mdash; but still worth striving for, here's what I'll be doing to address your self-selected access needs in this course (without sacrificing my own):
@@ -57,6 +69,10 @@ With the caveat that universal access is impossible &mdash; it's inevitable that
 - In a full class setting, I'm unable to send frequent, tailored reminders for work already outlined in the materials. Any reminders I am able to send will be posted to both #🙋classroom and [Classes\Announcements](https://classes.pace.edu/){:target="_blank"}, so make sure you've set up Classes to forward announcements to your email if email is your communication preference.
 - Content notes will be provided if/when relevant.
 - Disciplinary language is unavoidable in a class like this, but in weekly modules, I use both plain language and attempt to introduce and explain necessary conceptual terms in plain language. 
+
+# How will my Discord alias be verified and linked with my real identity?
+
+I've already identified all of you based on either your Discord account names and/or by contacting you individually. I record this information in a document outside of my class roster. My class roster consists of your aliases only. Your contributions to class discussion in voice and text chat and writing assignments in #🙋classroom are already associated with your Discord alias; I associate them similarly in my class roster. At the end of the semester, I cross-check your alias with your real identity and associate your scores and final course grades with your real identity.
 
 # Do I need to finish reading the assigned text for the week before our voice chat session?
 
@@ -86,14 +102,6 @@ I have been using alt-grading systems for over a decade. Holistic, lenient gradi
 
 I can't abandon grading completely since this is a university course. But if it helps to know, usually the only complaints I get are from students who don't pay attention to the alt-grading policy, don't participate, don't submit work that attends to the assignment criteria, or don't submit work at all &mdash; then demand a B+ for "effort" (which the policy explicitly states I can't measure). By contrast, students who read and respect the alt-grading policy, consistently submit work that strives to satisfy assignment guidelines, and participate robustly in voice and text chat usually leave my classes with B+, A-, or A grades.
 
-# How will sync and async text chat sessions work?
-
-
-
 # How does this course correlate creative writing and social justice?
 
-Creative writing is a vehicle for social justice, and this will be enacted through all of your low- and high-stakes writing assignments. 
-
-# How will my Discord alias be verified and linked with my real identity?
-
-I've already identified all of you based on either your Discord account names and/or by contacting you individually. I record this information in a document outside of my class roster. My class roster consists of your aliases only. Your contributions to class discussion in voice and text chat and writing assignments in #🙋classroom are already associated with your Discord alias; I associate them similarly in my class roster. At the end of the semester, I cross-check your alias with your real identity and associate your scores and final course grades with your real identity.
+Creative writing is, intrinsically, a vehicle for social justice. We'll talk about this periodically when we engage with the craft techniques of certain readings, and the low- and high-stakes writing assignments are designed such that you will regularly practice the use of creative writing for social justice aims. What we're calling reclamation in this class will be staged as individual acts of resistance that together build up to collective resistance. In other words, you'll learn how to use creative writing as praxis (theory + practice), which is pivotal for conveying social justice aims and for facilitating not just awareness of an issue but practical action.
