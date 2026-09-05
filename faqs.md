@@ -105,3 +105,7 @@ I can't abandon grading completely since this is a university course. But if it 
 # How does this course correlate creative writing and social justice?
 
 Creative writing is, intrinsically, a vehicle for social justice. We'll talk about this periodically when we engage with the craft techniques of certain readings, and the low- and high-stakes writing assignments are designed such that you will regularly practice the use of creative writing for social justice aims. What we're calling reclamation in this class will be staged as individual acts of resistance that together build up to collective resistance. In other words, you'll learn how to use creative writing as praxis (theory + practice), which is pivotal for conveying social justice aims and for facilitating not just awareness of an issue but practical action.
+
+# Do you have a preferred file format for attachments on Discord or draft submissions on Classes?
+
+Please submit any attached files over Discord, email, or Classes as a PDF or Word document (.doc/.docx).
