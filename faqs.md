@@ -17,10 +17,27 @@ nav_order: 9
 {: .important }
 > This page will contain frequently asked questions as they're asked and answered in class, text channels, coffee chats, and elsewhere. I'll note updates to the FAQs periodically on Discord, but keep checking back, too!
 
+# What's the best way to contact you?
+
+You can contact me via my Pace email or [Discord DM](https://visforvali.github.io/ws297y/discord/#whats-where){:target="_blank"}. 
+
+Be advised: Discord makes for a quicker, less formal, more dialogic medium of communication. My turnaround time on Discord is usually within 24 hours; my turnaround time on email is usually 48 hours. I may reply to Discord DMs at odd hours or over the weekend (don't count on this, though!). I tend not to respond to emails after 5pm, and I never respond to emails or over the weekend.
+
+Also, remember that email is an exclusively asynchronous medium, while Discord is designed for both synchronous and asynchronous communication. This means that we may intersect for synchronous chats on Discord, but even if we happen to be emailing each other at the same time, you shouldn't expect a synchronous conversation over email. In other words, I'm unlikely to engage in a back-and-forth discussion over email, and more likely to reply to you once every 24-48 hours.
+
+For my own record-keeping purposes, I only use Discord DM to contact you if you selected the "Check in Weekly" role and to let you know if assignments received partial credit over Discord DM. If you selected the email role as your communication preference, I'll exclusively use email to contact you for any other reason, but don't expect the informal, conversational flow of Discord.
+
+# Where do I submit assignments?
+
+The [📅Calendar](https://visforvali.github.io/ws297y/){:target="_blank"} (website home/landing page) lists the work you're responsible for each week as well as deadlines and where to post it. **You are responsible for reviewing *all* the course materials, including the Calendar, and noting important information about deadlines, course policies, using Discord, etc. as requested in the welcome announcement for the course.**
+
+<img src="http://visforvali.github.io/ws297y/assets/images/calendar_screenshot.png" alt="Screenshot of Week 3 on the Calendar">
+
+In the screenshot above, you can see that in Week 3, Affective Atlas Entry 2 is due by 5pm on Thursday 9/17 and should be posted #🙋classroom.
 
 # How do I schedule a coffee chat with you?
 
-After clicking [🍵 Let's Chat!](https://zcal.co/drmani){:target="_blank"} at the top right, follow the directions on Zcal to reserve an appointment. First, select the time interval you want (🕛10, 🕐15, or 🕑20 min) at the bottom left, then choose a date/time that works for you.
+After clicking [🍵Let's Chat!](https://zcal.co/drmani){:target="_blank"} at the top right, follow the directions on Zcal to reserve an appointment. First, select the time interval you want (🕛10, 🕐15, or 🕑20 min) at the bottom left, then choose a date/time that works for you.
 
 <img src="http://visforvali.github.io/ws297y/assets/images/zcal.png" alt="Preview of Zcal invite">
 
@@ -61,6 +78,22 @@ Perfection is by no means necessary &mdash; or even what we're doing in this cou
 
 # How is this course graded?
 
-The grading policy is explained on the [💯Alt-Grading System](/ws297y/alt-grading){:target="_blank"} page. 
+The grading policy &mdash; and my rationale for using an alt-grading system &mdash; is explained on the [💯Alt-Grading System](/ws297y/alt-grading){:target="_blank"} page. 
 
 The course is holistically graded and doesn't use traditional letter grades until the final course grade is entered at the end of the semester. You are guaranteed *at least* a B+ if you participate robustly each week by "just talking" and do everything you're asked to do in the spirit you're asked to do it. Because the course is holistically graded, consistent, regular participation, timely submission of low-stakes writing, and a high-stakes project that meets all requirements by the end of the course is likely to result in "forgiveness" of an occasional lack of participation full or partial remittance of any "N" scores or missed work.
+
+I have been using alt-grading systems for over a decade. Holistic, lenient grading rewards error and experimentation whereas traditional letter or numeric grading systems punish. In this way, alt-grading is a fairer metric of learning for students. By the end of the semester, I tally the number of days you substantively contributed to discussion, the number of writing assignments you satisfactorily completed, etc. and use those numbers to calculate the final weighted course grade (the percentage breakdown is in the [📋Syllabus](/ws297y/syllabus){:target="_blank"}).
+
+I can't abandon grading completely since this is a university course. But if it helps to know, usually the only complaints I get are from students who don't pay attention to the alt-grading policy, don't participate, don't submit work that attends to the assignment criteria, or don't submit work at all &mdash; then demand a B+ for "effort" (which the policy explicitly states I can't measure). By contrast, students who read and respect the alt-grading policy, consistently submit work that strives to satisfy assignment guidelines, and participate robustly in voice and text chat usually leave my classes with B+, A-, or A grades.
+
+# How will sync and async text chat sessions work?
+
+
+
+# How does this course correlate creative writing and social justice?
+
+Creative writing is a vehicle for social justice, and this will be enacted through all of your low- and high-stakes writing assignments. 
+
+# How will my Discord alias be verified and linked with my real identity?
+
+I've already identified all of you based on either your Discord account names and/or by contacting you individually. I record this information in a document outside of my class roster. My class roster consists of your aliases only. Your contributions to class discussion in voice and text chat and writing assignments in #🙋classroom are already associated with your Discord alias; I associate them similarly in my class roster. At the end of the semester, I cross-check your alias with your real identity and associate your scores and final course grades with your real identity.

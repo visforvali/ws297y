@@ -43,6 +43,8 @@ If you do better on an ungraded draft than you do on a final submission, I'll sc
 
 You're expected to regularly, substantively participate in voice and text chat each week, through thoughtful, informal contributions that reflect what we're learning organically; reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats. 
 
+A substantive contribution means a contribution related to course content: e.g., targeted questions about the weekly reading, oral responses to idea-generation questions I ask during voice chat sessions, sharing free-writing exercises, attempting to close-read lines or passages we're examining in text chat sessions, etc. By contrast, non-substantive participation includes contributions like simple "yes/no" responses or questions about the logistics of the course.
+
 Participation takes a lot of forms! While these are all measurable, valid forms of participation, you're expected to participate in different ways throughout the semester:
 
 - Talking out loud in voice chats in 🔊🪑Sync Sessions each week
