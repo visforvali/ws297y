@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Reclaim the World: Question Your Teaspoons
 
-## 1.1
+## 1.1 Sync Voice Chat
 
 Greetings, comrades. I'm Dr. Mani, alias Flame Thief on our Discord server; 20 years of teaching writing and rhetorical studies and disability studies; Siberian cat named Athena; into body modification from piercings to tattoos to scarifications covering up old self-injury scars and used to have a magnetic implant in my finger; I'm openly disabled with chronic pain and fatigue and a few ongoing critical situations that Pace resists accommodating; and I'm fucking tired.
 
@@ -33,7 +33,7 @@ With all this talk of reclamation, take 5 minutes and make a list of ways of bei
 
 I pass the mic for questions, comments, or concerns!
 
-# 1.2
+# 1.2 Sync Voice Chat
 
 - Welcome back, comrades!
 - **Housekeeping**: Check the Calendar for modalities each session, typically one VC and one TC, mostly sync with some async days as well. I gestured at this last class but I'm dealing with a major health crisis while trying to keep my work and life afloat, so if I make changes to the Calendar for medical reasons I'll announce it on Discord and Classes
