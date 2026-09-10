@@ -43,3 +43,27 @@ Now answer and discuss the following questions in classroom, using Deleuze's fra
 - What's a line or paragraph that resonated with you (even if you can't articulate why) or that confused you that you'd like to close-read together in voice chat?
 
 Try to organically respond to each other's posts as well!
+
+## 2.2 Voice Chat
+
+Welcome back, comrades!
+
+**Rollover Ideas from TC**: To recap the async text chat: By "dogmatic image of thought," Deleuze is criticizing a conformist mode of thinking that's considered "common sense" and "normal," a kind of "everyone knows" what it means to think, what form thinking should take, what it looks and feels like, and that because thinkers are moral, the form that thought takes is also considered to be moral under the image of thought. 
+
+The image of thought is a representation of thought wherein the idea of thought is reduced to a representation of what thought is traditionally "supposed" to be. Deleuze critiques the image of thought as suffocating; because the image of thought is habitual and considered innate and "natural," it prevents us from thinking in creative, conceptual, actually natural ways.
+
+As stated last class, deviating from the dogmatic image of thought opens up new possibilities for what thinking can be.
+
+There's an idea here that thought can only grasp what's already "thinkable" &mdash; what's already recognized as recognizable
+
+When we think differently about thinking, when we start to notice and feel it not as something natural or innate but something that must be created, that must be itself thought about, that can only come about after the image of thought has been destroyed &mdash; only then do we become authentic thinkers
+
+This authentic thinking is a truly creative act, no longer constrained by the dogmatism of "conventional sense," liberated from the image of thought that imprisoned it
+
+Destroying the image of thought also encourages thinkers and writers to take risks in their work. The work of experimentation in thinking and writing is an open-ended process meant to bring something new into being &mdash; and breaking with the dogmatic image of thought allows "created" thought to flow in unrestricted ways that don't submit to preexisting forms
+
+The phrase "subjective presuppositions" is another way to think of this &mdash; the "image of thought" presupposition is that there is a "representation," a "form" that is the form in which everyone naturally thinks
+
+By extension if you don't think in this expected form there's something wrong with you &mdash; this perpetuates ableism, racism, classism, and linguistic injustice
+
+How would you describe the subjective presuppositions that have governed the your thought process historically and yoked it to the image of thought?
