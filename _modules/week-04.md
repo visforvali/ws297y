@@ -12,7 +12,7 @@ Sep 22
   : &nbsp;
 
 Sep 24
-: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_4){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Building a bibliographic altar
   : **By Sat 5pm**{: .label .label-red-custom} [Affective Atlas Entry 3](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-3-bibliographic-altars){:target="_blank"} in #🙋classroom
