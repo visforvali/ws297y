@@ -1,20 +1,20 @@
 ---
-title: Week 11 - Reclaim Failure
+title: Week 11 - Reclaim Refusal
 {: .text-epsilon}
 ---
 
-## Week 11 - Failure as Success 
+## Week 11 - The Art of Saying No
 
-📖 Read Jack Halberstam, [*The Queer Art of Failure* excerpt](/ws297y/assets/pdfs/halberstam_queer_art_of_failure_2011.pdf){:target="_blank"}   
+📖 Read Sara Ahmed, [*No!* excerpts](/ws297y/assets/pdfs/ahmed_no_2026.pdf){:target="_blank"}   
 
 Nov 10
 : **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_11){:target="_blank"}
-: **Praxis**{: .label .label-green-custom } The importance of failure
+: **Praxis**{: .label .label-green-custom } Refusal as resistance
   : &nbsp;
 
 Nov 12
 : **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
-  : &nbsp;
-: **Praxis**{: .label .label-green-custom } Failing up
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 8](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-8-just-say-no){:target="_blank"} in #🙋classroom
+: **Praxis**{: .label .label-green-custom } Guided peer workshops in #team
   : &nbsp;
