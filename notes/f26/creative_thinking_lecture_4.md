@@ -28,7 +28,21 @@ Consider the following questions:
 
 - What does "archive of feelings" mean for you?
 - Where is the "archive of feelings" associated with, say, the last writing project you did for a class, physically stored? Or where might you locate it *outside* of you?
-- What would go into your bibliographic altar for this semester so far? 
+- What would go into your bibliographic altar for this semester so far?
+
+**Dr. Mani's Example**
+
+As an example, I assembled a quick bibliographic altar for a manifesto-style position statement on inequitable labor conditions at Pace that I'm currently working on:
+
+<img src="http://visforvali.github.io/ws297y/assets/images/bibliographic_altar_example.jpg" alt="Example of a bibliographic altar">
+
+I included books &mdash; Mimi Khuc's *dear elia*, Lorca Garcia Pena's *Community as Rebellion*, Haytham El Wardany's *Book of Sleep*, and Sara Ahmed's *No* &mdash; along with other, non-bibliographic artifacts: my Traveler's Company planner notebook and my Roterfaden "Everything Work-Related" notebook, which basically contain and organize my personal and work life; my yellow pain journal; a paperweight made by a dear late friend, featuring a linocut of a hand holding a molotov cocktail reading "Make it accessible or burn it down - Gabrielle Peters"; a green spiky massage ball; a leather cervical spine collar; 2 photographs &mdash; one of my cat Athena, a red-and-white Siberian tabby, and one from the 2016 *Sacred Spaces* exhibit at the Rubin Museum; and 3 tarot cards &mdash; the Ten of Swords featuring a woman impaled on 10 swords and text reading "Everything Is Fine," The Chariot featuring Ares from *Hades*, and The Abyss card from Khuc's [Asian American Tarot](https://www.mimikhuc.com/projects/asian-american-tarot){:target="_blank"}.
+
+As a 2D artifact, I've also included the following screenshot of my initial Zotero project folder, containing PDFs of articles and books:
+
+<img src="http://visforvali.github.io/ws297y/assets/images/bibliographic_altar_example.jpg" alt="Screenshot of a Zotero folder">
+
+I included the books to identify the textual inspirations and resources for my project; the therapeutic artifacts and notebooks to illustrate the embodied and analog nature of my writing process; the paperweight and photographs to gesture at the sensory and relational experiences that also underpin my writing process; and the tarot cards to showcase some of the cards from my favorite tarot decks I pulled while working on this project.
 
 **Makerspace Activity!**
 
