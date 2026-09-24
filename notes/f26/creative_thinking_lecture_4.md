@@ -71,4 +71,4 @@ Then, answer the following questions with as much detail as possible (you can wr
 - How did you decide what books to include? What tangible non-book objects would go into your bibliographic altar? What does the most central (not necessarily significant or spectacular) object in it represent?
 - What changes when we make our intangible practices &mdash; like thinking or research writing &mdash; tangible and material? When we assemble these intangible practices in a sacred form, like an "altar"?
 
-To close out our discussion of Cvetkovich for now, take a photograph of your altar and post it plus your answers to the above questions to #🙋classroom! (If you wrote by hand, you can type your responses or post photographs of your journal pages if your handwriting is legible.)
+To close out our discussion of Cvetkovich for now, take a photograph of your altar and post it plus your answers to the above questions to #🙋classroom by Sat 5pm as your Affective Atlas Entry for the week! (If you wrote by hand, you can type your responses or post photographs of your journal pages if your handwriting is legible.)

@@ -51,13 +51,13 @@ Deleuze suggests that thought begins with a "dogmatic image of thought" &mdash; 
 
 Ann Cvetkovich creates what she calls "bibliographic altars" &mdash; assemblages of books and material objects that are both secular and ritual for her and that "saved (her) life and helped (her) keep writing" (Cvetkovich & Wilkerson, 2016). What would you include in a bibliographic altar for this semester? Continuing our workshop activity this week, assemble this altar and write or record a brief explanation of what you included and why.
 
-## Affective Atlas Entry 4: Grind Culture
-
-Do you, or did you ever, dream of work? From our readings and discussion this week, what do you find most problematic about the idea that work should be the focus of our dreams? About the idea of 24/7? About the idea that job-seeking is itself a job? What's one thing you can realistically do, right now, to stabilize yourself a little more in the precariat class and try to find "a way out"?
-
-## Affective Atlas Entry 5: Differential Unwellness
+## Affective Atlas Entry 4: Differential Unwellness
 
 Mimi Khuc argues that we are all differentially unwell and that academia in particular is a site of compulsory unwellness. Expanding on your answers from our class activities this week, what has Pace promised you while making you unwell? How can we better collectively and practically recognize and resist the imposition and internalization of academic unwellness as it transpires at Pace? Or in her words, "How might you ask the university to be accountable to the kind of mental health you want? What structures would foster this kind of mental health, and what would it take to build them?" (p. 46)
+
+## Affective Atlas Entry 5: Grind Culture
+
+Do you, or did you ever, dream of work? From our readings and discussion this week, what do you find most problematic about the idea that work should be the focus of our dreams? About the idea of 24/7? About the idea that job-seeking is itself a job? What's one thing you can realistically do, right now, to stabilize yourself a little more in the precariat class and try to find "a way out"?
 
 ## Affective Atlas Entry 6: Sleepers and Dreamers
 

@@ -1,20 +1,24 @@
 ---
-title: Week 6 - Reclaim Your Time
+title: Week 6 - Reclaim Failure
 {: .text-epsilon}
 ---
 
-## Week 6 - Work vs. Labor
+## Week 6 - Failure as Success
 
-📖 Read Ivor Southwood, [*Non-Stop Inertia* excerpts](/ws297y/assets/pdfs/southwood_non-stop_inertia_2011.pdf){:target="_blank"}   
+📖 Revisit past readings to create an archive of bad feelings (see class notes for instructions)
 
 Oct 6
-: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_6){:target="_blank"}
-: **Praxis**{: .label .label-green-custom } Don't let the bastards grind you down
+: **Praxis**{: .label .label-green-custom } Archives of bad feelings
   : &nbsp;
 
 Oct 8
-: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
-  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 4](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-4-grind-culture){:target="_blank"} in #🙋classroom
-: **Praxis**{: .label .label-green-custom } Labors of passion
+: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
+: **Praxis**{: .label .label-green-custom } Archives of bad feelings
   : &nbsp;
+
+
+
+
+

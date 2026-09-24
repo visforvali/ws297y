@@ -1,20 +1,20 @@
 ---
-title: Week 8 - Reclaim Wellness
+title: Week 8 - Reclaim Your Time
 {: .text-epsilon}
 ---
 
-## Week 8 - Differential Unwellness
+## Week 8 - Work vs. Labor
 
-📖 Read Mimi Khuc, ["Cura Personalis" (*dear elia* excerpt)](/ws297y/assets/pdfs/khuc_dear_elia_2024.pdf){:target="_blank"}   
+📖 Read Ivor Southwood, [*Non-Stop Inertia* excerpts](/ws297y/assets/pdfs/southwood_non-stop_inertia_2011.pdf){:target="_blank"}   
 
 Oct 20
-: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_8){:target="_blank"}
-: **Praxis**{: .label .label-green-custom } Academic unwellness
+: **Praxis**{: .label .label-green-custom } Don't let the bastards grind you down
   : &nbsp;
 
 Oct 22
-: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
-  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"} in #🙋classroom
-: **Praxis**{: .label .label-green-custom } Archives of bad feelings
+: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-4-grind-culture){:target="_blank"} in #🙋classroom
+: **Praxis**{: .label .label-green-custom } Labors of passion
   : &nbsp;
