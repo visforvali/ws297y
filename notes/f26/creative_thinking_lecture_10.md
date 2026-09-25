@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 10. Reclaim Refusal
+title: 10. Reclaim Writing
 nav_exclude: true
 ---
 
-# Reclaim Refusal: The Art of Saying No
+# Reclaim Writing: Empty Spaces
 
 *Talking points and discussion notes to be posted after class.*

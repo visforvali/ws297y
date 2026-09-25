@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 8. Reclaim Rest
+title: 8. Reclaim Your Time
 nav_exclude: true
 ---
 
-# Reclaim Rest: The Art of Dreaming
+# Reclaim Your Time: Work Vs. Labor
 
 *Talking points and discussion notes to be posted after class.*

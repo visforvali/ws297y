@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 11. Reclaim Failure
+title: 11. Reclaim Refusal
 nav_exclude: true
 ---
 
-# Reclaim Failure: Failure as Success
+# Reclaim Refusal: The Art of Saying No
 
 *Talking points and discussion notes to be posted after class.*
 

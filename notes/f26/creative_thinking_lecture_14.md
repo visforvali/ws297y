@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 9. Reclaim Rest
+title: 14. Reclaim School
 nav_exclude: true
 ---
 
-# Reclaim Rest: The Art of Dreaming
+# Reclaim School: Getting Your Sh!t Together
 
 *Talking points and discussion notes to be posted after class.*
