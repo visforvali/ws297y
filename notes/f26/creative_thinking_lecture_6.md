@@ -29,3 +29,5 @@ After listing words and drafting definitions, make a list of 1-3 tangible object
 While this isn't a required reading, <a href="../../assets/pdfs/khanmalek_restrepo_rhodes_decolonial_feminist_epistemology_of_the_bed_2020.pdf" target="_blank">Khanmalek & rhodes' "A Decolonial Feminist Epistemology of the Bed"</a> it might help you think about what a "hacked" dictionary could look like (this one isn't about bad feelings, but it does model the process of choosing and redefining words through definitions and experience).
 
 In the end, your alphabetic archive of bad feelings will be a collection of vernacular, resistive definitions related through storying &mdash; a critical political intervention that you'll include with your final Affective Atlas at the end of the semester!
+
+While it's best if you complete even a very rough draft of an entire dictionary this week, you aren't required to share all of it here this week. Instead, post the entry you're proudest of, that resonates most with you, that you feel most needs to be made visible, and/or that you just want to share most in #🙋classroom by Sunday at midnight!
