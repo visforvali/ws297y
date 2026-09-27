@@ -15,6 +15,6 @@ Oct 13
 
 Oct 15
 : **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
-  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 4](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"} in #🙋classroom
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-5-differential-unwellness){:target="_blank"} in #🙋classroom
 : **Praxis**{: .label .label-green-custom } [The Asian American Tarot](https://www.mimikhuc.com/projects/asian-american-tarot){:target="_blank"}
   : &nbsp;
