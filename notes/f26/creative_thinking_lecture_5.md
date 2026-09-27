@@ -47,18 +47,11 @@ First, some opening questions:
 
 Let's try close-reading the following lines! From close-reading the words being used in the lines below, what do you think each excerpt means?
 
-"24/7 announces a time without time, a time extracted from any material or identifiable demarcations, a time without sequence or recurrence."
-	
-"Deleuze and Guattari describe the "mot d'ordre" as a command, as an instrumentalization of language that aims either to preserve or to create social reality, and whose effect, finally, is to create fear... Deleuze and Guattari went to the point of comparing the order-word to "a death sentence."
-
-"The implacability of 24/7 is its impossible temporality. It is always a reprimand and a deprecation of the weakness and inadequacy of human time."
-
-"The weekend is the modern residue of those long-standing systems, bll!t even this marking of temporal differentiation is eroded by the imposition of 24n homogeneity."
-
-"If 24/7 can be provisionally conceptualized as an order-word, its force is not as a demand for actual compliance or conformity to its apodictic format. Rather, the effectiveness of 24fi lies in the incompatibility it lays bare, in the discrepancy between a human life-world and the evocation of a switched on universe for which no off-switch exists."
-
-"The promotion and adoption of wireless technologies, and their annihilation of the singularity of place and event, is simply an after-effect of new institutional requirements."
-
-"As an announcement of its absolute unliveability, 24/7 is comprehensible in terms of this two-sidedness."
-
-"The externalization of the individual into a site of non-stop scrutiny and regulation is effectively continuous with the organization of state terror and the military-police paradigm of full-spectrum dominance."
+- "24/7 announces a time without time, a time extracted from any material or identifiable demarcations, a time without sequence or recurrence."
+- "Deleuze and Guattari describe the "mot d'ordre" as a command, as an instrumentalization of language that aims either to preserve or to create social reality, and whose effect, finally, is to create fear... Deleuze and Guattari went to the point of comparing the order-word to "a death sentence."
+- "The implacability of 24/7 is its impossible temporality. It is always a reprimand and a deprecation of the weakness and inadequacy of human time."
+- "The weekend is the modern residue of those long-standing systems, bll!t even this marking of temporal differentiation is eroded by the imposition of 24n homogeneity."
+- "If 24/7 can be provisionally conceptualized as an order-word, its force is not as a demand for actual compliance or conformity to its apodictic format. Rather, the effectiveness of 24fi lies in the incompatibility it lays bare, in the discrepancy between a human life-world and the evocation of a switched on universe for which no off-switch exists."
+- "The promotion and adoption of wireless technologies, and their annihilation of the singularity of place and event, is simply an after-effect of new institutional requirements."
+- "As an announcement of its absolute unliveability, 24/7 is comprehensible in terms of this two-sidedness."
+- "The externalization of the individual into a site of non-stop scrutiny and regulation is effectively continuous with the organization of state terror and the military-police paradigm of full-spectrum dominance."
