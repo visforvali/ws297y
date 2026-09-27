@@ -18,4 +18,4 @@ Oct 1
   : &nbsp;
 : **Praxis**{: .label .label-green-custom } Precariat, unite!
   : &nbsp;
-  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 5](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-4-grind-culture){:target="_blank"} in #🙋classroom
+  : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 4](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-4-grind-culture){:target="_blank"} in #🙋classroom
