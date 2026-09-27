@@ -9,11 +9,8 @@ title: Week 14 - Reclaim School Pt. 1
 📖 Watch Rua Williams, ["Hacking Executive Function &mdash; Being Kind to Ourselves and the Magic of Friendship"](https://www.youtube.com/watch?v=gdtDByKtAY4){:target="_blank"} (*optional*)   
 
 Dec 1
-: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
+: **Peer Workshops**{: .label .label-yellow-custom } Week-long peer workshops in #team
   : **By 12pm**{: .label .label-red-custom} [Unabridged Affective Atlas Draft](https://visforvali.github.io/ws297y/prompts/#high-stakes-project-the-unabridged-affective-atlas){:target="_blank"} in #🙋classroom
-: **Praxis**{: .label .label-green-custom } Peer workshops in #team
 
 Dec 3
-: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom (due by 11:59PM)
-  : &nbsp;
-: **Praxis**{: .label .label-green-custom } Peer workshops in #team
+: **Peer Workshops**{: .label .label-yellow-custom } Week-long peer workshops in #team (all responses due by 11:59PM)
