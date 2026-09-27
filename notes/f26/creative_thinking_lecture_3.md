@@ -32,7 +32,7 @@ We'll go over these in more detail in Thursday's text chat, but other scholars h
 - Value your creativity and engage in forms of thinking, research, and writing that encourage and strengthen your creativity
 - When thinking, researching, and writing, view "stuck places" as unique opportunities to produce something new instead of something to be solved through existing practices or techniques
 
-# Day 3.2 (Sync TC)
+# Day 3.2 Text Chat
 
 Welcome back, comrades! 
 
