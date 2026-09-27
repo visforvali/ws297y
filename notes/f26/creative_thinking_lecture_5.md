@@ -10,9 +10,9 @@ nav_exclude: true
 
 Welcome back, comrades!
 
-**Housekeeping**: Check the calendar for changes to modality and some affective atlas entries. Also, as a reminder, make sure to use your hard-copy journal for analog writing; drafting, revising, and expanding affective atlas entries; preserving tangible objects; etc. I pass the mic for any questions, comments, or concerns!
+**Housekeeping**: Check the calendar for changes to modality for medical reasons and some affective atlas entries. Also, as a reminder, make sure to use your hard-copy journal for analog writing; drafting, revising, and expanding affective atlas entries; preserving tangible objects; etc. I pass the mic for any questions, comments, or concerns!
 
-This week, we begin to reclaim time!
+This week, we begin to reclaim attention, especially as it relates to demands on our time!
 
 Crary describes the ways that the nonstop processes of 21st century capitalist society have damaged our abilities and relationship to perception, attentiveness, collectivity, politics, and sleep and time particularly. Our sense of biological time cycles has been destroyed. We are constantly barraged by information; demands for work and emotional labor; demands for less sleep; demands to sacrifice more and more of our own time.
 
@@ -20,7 +20,7 @@ Sleep is reframed by capitalism as theft of time and labor that belong to capita
 
 Before we jump into Crary's analysis: Colloquially, what does 24/7 mean to you? Why? Where do you think this conception came from?
 
-How has this concept of 24/7 changed your relationship to work time? To personal time? To the idea of leisure?
+How has this concept of 24/7 changed your relationship to attention? To work time? To personal time? To the idea of leisure? 
 
 When did you last notice the imposition of the rhythms of 24/7 society in your life? At Pace? What is a concrete example of this?
 
@@ -41,7 +41,7 @@ Today's class is a sync text chat, in which we'll share lines and passages durin
 First, some opening questions:
 
 - At this point, based on what you understand from Crary &mdash; prior to the close-reading we're about to do &mdash; what do you think about the concept of 24/7 in relation to your academic life at Pace, especially regarding what you've had to sacrifice of time for rest and sleep, relationality, cognitive rejuvenation time, and leisure time?
-- How, practically, might we begin to break free from the 24/7 mindset?
+- How, practically, might we begin to break free from the 24/7 mindset and build an attention economy that serves us instead of institutions and Power?
 
 **Close-Reading Crary**:
 
