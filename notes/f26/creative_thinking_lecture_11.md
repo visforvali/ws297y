@@ -42,6 +42,8 @@ What are some killjoy truths &mdash; i.e., what we learn from our efforts to cha
 
 What killjoy commitments &mdash; i.e., what you're willing to do to bring about change &mdash; have you gained through complaining or listening with a feminist ear at Pace?
 
+**Close-Reading Ahmed**:
+
 Let's try close-reading the following lines! From close-reading the words being used in the lines below, what do you think each excerpt means?
 
 - "You might recognize yourself in someone else's complaint or you might recognize an institution."

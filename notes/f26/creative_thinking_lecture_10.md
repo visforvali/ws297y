@@ -74,11 +74,9 @@ You need a certain amount of nerve to approach the page authentically as a write
 
 Welcome back, comrades!
 
-Today's class is a sync text chat, in which we'll share lines and passages during our scheduled class time that resonated with you, confused you, or that you'd otherwise like to engage with more deeply. 
+Today's class is a sync text chat, in which we'll share lines and passages during our scheduled class time that resonated with you, confused you, or that you'd otherwise like to engage with more deeply. Let's try close-reading the following lines! From close-reading the words being used in the lines below, what do you think each excerpt means?
 
-Let's try close-reading the following lines! From close-reading the words being used in the lines below, what do you think each excerpt means?
-
-**From Perec**:
+**Close-Reading Perec**:
 
 - "We live in space, in these spaces, these towns, this countryside, these corridors, these parks. That seems obvious to us. Perhaps indeed it should be obvious. But it isn't obvious, not just a matter of course."
 - "In short, spaces have multiplied, been broken up and have diversified. There are spaces today of every kind and every size, for every use and every function. To live is to pass from one space to another, while doing your very best not to bump yourself."
@@ -95,7 +93,7 @@ Let's try close-reading the following lines! From close-reading the words being 
 - "We spend more than a third of our lives in a bed. The bed is one of the rare places where we adopt roughly speaking a horizontal posture."
 - "And what about hammocks? And paliasses? And bedsteads? And box-beds? And divans deep as the grave? And straw pallets? And railway couchettes? And camp beds? And sleeping-bags resting on air-beds themselves resting on a carpet of earth?"
 
-**From Atwood**:
+**Close-Reading Atwood**:
 
 - "The page waits, pretending to be blank. Is that its appeal, its blankness?"
 - "The page itself has no dimensions and no directions. There's no up or down except what you yourself mark, there's no thickness and weight but those you put there"

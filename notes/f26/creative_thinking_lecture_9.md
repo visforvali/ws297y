@@ -8,30 +8,43 @@ nav_exclude: true
 
 ## 9.1 Voice Chat
 
-*El Wardany*
+Welcome back, comrades!
 
-- Welcome back, comrades!
-- **Housekeeping**:
-- I pass the mic for any questions, comments, or concerns!
-- ***The Book of Sleep***: Today we continue to reclaim sleep, with a specific angle towards social justice!
-- Before we dive in, what ideas about sleeping, dreaming, and society do you have now?
-- What is it like to be asleep for you? How have we been conditioned to think of sleep?
-- El Wardany philosophizes about sleep, activism, resistance, and occupation under capitalism, written lyrically and poetically, at times even with the lulling quality that good sleep is known for
-- "Sleep is hard to talk about. It's what you don't know you're doing while you do it," as Ursula Le Guin once wrote
-- Written during the Arab Spring in Egypt, when widespread protests were unraveling the Egyptian government, uses experimental fiction, philosophy, phenomenology, advocacy writing, journalism, and poetry to unpack the 2011 coup d'etat in Egypt and chronicle and reflect on the conditions that led to the uprisings. Instead of resorting to fact-checked narratives to bear witness, El Wardany communicates his memoir by considering sleep--an often overlooked, incomprehensible, misunderstood, denigrated, yet pivotal part of existence. Under tyrannical fascism, sleep becomes an expression of personal freedom and liberation, a surplus activity at odds with productivity and order, a space where dreamers might and do dangerously envision rebellion--and wake rejuvenated enough to try. These pieces describe sleep like a transient state of waking from what is allegedly unchangeable, locating truth not in the world we see when capitalism calls us awake but in the liminal space created internally and externally when we close our our eyes and nod off. Against the backdrop of the Arab Spring, possibility and hope are reimagined through poetry and metaphor, through the importance of sleeping and dreaming, through riddle-like ideas that are as intentionally confusing as everything that happens on the threshold between sleep and waking. In some ways this is rest as resistance reconfigured through an endotic lens.
-- What is sleep? What do we become in sleep? What becomes of the world and the social body when we sleep?
-- What is the relationship between sleep and resistance or revolution? Between sleep and collective organizing?
-- Which of these pieces resonated with you most and why? Put differently, which piece seemed to speak to an experience of sleep---or a thought you've had about an experience of sleep---in a way that resonated? What experience?
-- What do you make of the 3 pieces that are titled the same ("Who is the sleeper?")
-- Who *is* the sleeper? As he asks: "A limb severed from the whole? A single self? A small group at rest?"
-- As El Wardany asks: "What if sleep and wakefulness were not a pair of states which pass in succession through us, one springing from the other, but two intertwined bodily experiences?"
-- What happens when we reframe sleep not as a sort of temporary death but as action and agency?
+Today we continue to reclaim sleep, with a specific angle towards social justice. "Sleep is hard to talk about. It's what you don't know you're doing while you do it," as Ursula Le Guin once wrote.
+
+Before we dive in, what ideas about sleeping, dreaming, and society do you have now?
+
+What is it like to be asleep for you? How have we been conditioned to think of sleep?
+
+These excerpts are taken from *The Book of Sleep*, which was written during the Arab Spring in Egypt, when widespread protests were unraveling the Egyptian government. In it, El Wardany philosophizes about sleep, activism, resistance, and occupation under capitalism, using experimental fiction, philosophy, phenomenology, advocacy writing, journalism, and poetry to unpack the 2011 coup d'etat in Egypt and chronicle and reflect on the conditions that led to the uprisings. 
+
+Instead of resorting to fact-checked narratives to bear witness, El Wardany communicates his memoir by considering sleep &mdash; an often overlooked, incomprehensible, misunderstood, denigrated, yet pivotal part of existence. Under tyrannical fascism, sleep becomes an expression of personal freedom and liberation, a surplus activity at odds with productivity and order, a space where dreamers might and do dangerously envision rebellion &mdash; and wake rejuvenated enough to try. 
+
+These pieces describe sleep like a transient state of waking from what is allegedly unchangeable, locating truth not in the world we see when capitalism calls us awake but in the liminal space created internally and externally when we close our our eyes and nod off. Against the backdrop of the Arab Spring, possibility and hope are reimagined through poetry and metaphor, through the importance of sleeping and dreaming, through riddle-like ideas that are as intentionally confusing as everything that happens on the threshold between sleep and waking. These pieces are written lyrically and poetically, at times even with the lulling quality that good sleep is known for. In some ways this is rest as resistance reconfigured through an endotic lens.
+
+What is sleep? What do we become in sleep? What becomes of the world and the social body when we sleep?
+
+What is the relationship between sleep and resistance or revolution? Between sleep and collective organizing?
+
+Which of these pieces resonated with you most and why? Put differently, which piece seemed to speak to an experience of sleep &mdash; or a thought you've had about an experience of sleep &mdash; in a way that resonated? What experience?
+
+What do you make of the 3 pieces that have the same title ("Who is the sleeper?")? Who *is* the sleeper? What does El Wardany mean when he asks if the sleeper is: "A limb severed from the whole? A single self? A small group at rest?"
+
+Close your eyes for two minutes and rest your bodymind. In that two-minute period, do you think you were a severed limb, a single self, or a small group at rest? Why?
+
+To take another one of El Wardany's questions: "What if sleep and wakefulness were not a pair of states which pass in succession through us, one springing from the other, but two intertwined bodily experiences?"
+
+What happens when we reframe sleep not as a sort of temporary death but as action and agency?
 
 ## 9.2 Sync Text Chat
 
 Welcome back, comrades!
 
-Today's class is a sync text chat, in which we'll continue to reclaim sleep, rest, and resistance through close-reading and anchoring our interpretations in specific lines. From close-reading the words being used in the lines below, what do you think each excerpt means?
+Today's class is a sync text chat, in which we'll continue to reclaim sleep, rest, and resistance through close-reading and anchoring our interpretations in specific lines. 
+
+**Close-Reading El Wardany**:
+
+From close-reading the words being used in the lines below, what do you think each excerpt means?
 
 - "Sleep and work need one another. The first wants something which it can approach without waking it, the second wants something which can forget it, and make it possible once again."
 - "In the fraternity of sleep, we do not encounter things along the lines of power but rather in the primordial matter, in the heart of its becoming."

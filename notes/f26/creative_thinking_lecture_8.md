@@ -52,6 +52,8 @@ Welcome back, comrades!
 
 Today's class is a sync text chat in which we'll share lines and passages that resonated with you, confused you, or that you'd otherwise like to engage with more deeply. 
 
+**Close-Reading Southwood**:
+
 From close-reading the words being used in these passages, what do you think the lines mean?
 
 - "Daily life becomes precarious. Planning ahead becomes difficult, routines are impossible to establish. Work, of whatever sort, might begin or end anywhere at a moment's notice, and the burden is always on the worker to create the next opportunity and to surf between roles."
