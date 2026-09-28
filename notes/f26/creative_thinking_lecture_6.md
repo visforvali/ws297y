@@ -26,7 +26,7 @@ Next, choose one word per letter and define each word briefly, considering your 
 
 After listing words and drafting definitions, make a list of 1-3 tangible objects that, for you, further illustrate the word, definition, experience you've just recorded &mdash; even if the connection between the objects and your writing doesn't seem like it would make sense to an outside audience. Identify and briefly describe the object at the end of each dictionary entry.
 
-While this isn't a required reading, <a href="../../assets/pdfs/khanmalek_restrepo_rhodes_decolonial_feminist_epistemology_of_the_bed_2020.pdf" target="_blank">Khanmalek & rhodes' "A Decolonial Feminist Epistemology of the Bed"</a> it might help you think about what a "hacked" dictionary could look like (this one isn't about bad feelings, but it does model the process of choosing and redefining words through definitions and experience).
+While this isn't a required reading, [Khanmalek & rhodes' "A Decolonial Feminist Epistemology of the Bed"](../../assets/pdfs/khanmalek_restrepo_rhodes_decolonial_feminist_epistemology_of_the_bed_2020.pdf){:target="_blank"} it might help you think about what a "hacked" dictionary could look like (this one isn't about bad feelings, but it does model the process of choosing and redefining words through definitions and experience).
 
 In the end, your alphabetic archive of bad feelings will be a collection of vernacular, resistive definitions related through storying &mdash; a critical political intervention that you'll include with your final Affective Atlas at the end of the semester!
 

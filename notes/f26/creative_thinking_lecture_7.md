@@ -14,7 +14,7 @@ Welcome back, comrades!
 
 I pass the mic for any questions, comments, or concerns!
 
-Today, we reclaim the right to be unwell. The excerpt for this week is from Mimi Khuc's book *dear elia*, which follows a creative-critical project called <a href="https://www.mimikhuc.com/projects/open-in-emergency" target="_blank">*Open in Emergency*</a> about Asian American unwellness, including artifacts like a poster, a tarot deck designed for Asian American and student expenses, a hacked DSM, etc. As a side note, if you're ever on the Pleasantville campus, you can swing by Choate House and ask our administrative assistant Maureen on the 2nd floor to look at a reserve copy I left with her some time ago (you can't take it out of the office, but you can flip through it in our waiting area for as long as you like!).
+Today, we reclaim the right to be unwell. The excerpt for this week is from Mimi Khuc's book *dear elia*, which follows a creative-critical project called [*Open in Emergency*](https://www.mimikhuc.com/projects/open-in-emergency){:target="_blank"} about Asian American unwellness, including artifacts like a poster, a tarot deck designed for Asian American and student expenses, a hacked DSM, etc. As a side note, if you're ever on the Pleasantville campus, you can swing by Choate House and ask our administrative assistant Maureen on the 2nd floor to look at a reserve copy I left with her some time ago (you can't take it out of the office, but you can flip through it in our waiting area for as long as you like!).
 
 *dear elia* is aimed at students and professors, particularly Asian Americans and disabled folks, but also other nonwhite, non-Western, multiply marginalized members of the academic community. 
 
@@ -52,7 +52,7 @@ Keep this in the back of your mind as you do the following activity!
 
 ### Instructions for Asian American Tarot Card Activity
 
-This website has all the cards in the <a href="https://www.mimikhuc.com/projects/asian-american-tarot" target="_blank">Asian American tarot card deck</a> from Khuc's earlier project, *Open in Emergency*.
+This website has all the cards in the [Asian American tarot card deck](https://www.mimikhuc.com/projects/asian-american-tarot){:target="_blank"} from Khuc's earlier project, *Open in Emergency*.
 
 But first, some opening questions to reflect on in #🙋classroom:
 
@@ -60,7 +60,7 @@ But first, some opening questions to reflect on in #🙋classroom:
 - Put differently, what do you need to be able to believe that excellence does not define your personhood and failing to meet it doesn't make you a failure?
 - What have you learned about your own unwellness and what do you want to say about it? How will you care for what hurts?
 
-Think of these cards as numbered 1-32 (with 1 being The Abyss at the top left, then moving left to right all the way down with 32 being The Ghost). Using a number generator that randomly generates a number between 1-32 (like <a href="https://numbergenerator.org/randomnumbergenerator/1-32" target="_blank">this one</a>), you'll "draw" 3 cards for a few 3-card tarot spreads.
+Think of these cards as numbered 1-32 (with 1 being The Abyss at the top left, then moving left to right all the way down with 32 being The Ghost). Using a number generator that randomly generates a number between 1-32 (like [this one](https://numbergenerator.org/randomnumbergenerator/1-32){:target="_blank"}), you'll "draw" 3 cards for a few 3-card tarot spreads.
 
 The 3-card spreads I'm asking you to do below are oriented around self-discovery:
 

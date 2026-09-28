@@ -10,7 +10,7 @@ nav_exclude: true
 
 Welcome back, comrades!
 
-Some background context before we dive in: There's a collective called <a href="https://manuallabours.co.uk/manuals/" target="_blank">The Manual Labours</a> that produces research documents in the form of zines and publications as a practice-based research project with the aim of reconsidering temporalities of work and reasserting the physical &mdash; that is, manual &mdash; aspects of immaterial, affective, emotional labor. 
+Some background context before we dive in: There's a collective called [The Manual Labours](https://manuallabours.co.uk/manuals/){:target="_blank"} that produces research documents in the form of zines and publications as a practice-based research project with the aim of reconsidering temporalities of work and reasserting the physical &mdash; that is, manual &mdash; aspects of immaterial, affective, emotional labor. 
 
 Southwood's *Non-Stop Inertia* is on their reading list. These excerpts focus on contemporary precarity, jobseeking, and how to get out of these time structures of work. In many ways, they piggyback on Crary's *24/7* from a few weeks back. 
 
