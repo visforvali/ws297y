@@ -18,11 +18,9 @@ So today we extend our discussion of attention and time &mdash; today we begin t
 
 Some questions to get us started:
 
-When does work start? When does work end?
-
-What has your experience of jobseeking been?
-
-How would you describe your process of CV-grooming?
+- When does work start? When does work end?
+- What has your experience of jobseeking been?
+- How would you describe your process of CV-grooming?
 
 Before we continue with our discussion, let me give you some context for each piece:
 
@@ -34,23 +32,19 @@ CV-grooming becomes a consequence of this, and a manicured autobiography becomes
 
 *Ways Out*: Bartleby's "I would prefer not to" can't work in a temp work economy because the ability for workers to directly confront employers has been bypassed.
 
-"How do we articulate negation in a culture from which negativity itself has been banished?"
-
-What's the effect of having to exist in a state of constant readiness?
-
-What's the effect of precarity, the constant fear, anguish, and feelings of sudden existential vulnerability?
-
-When and where do you notice these impositions and their impacts most, particularly at Pace?
-
-What's the effect of being expected to hide those feelings? What's the effect of taken-for-granted stress and concrete dangers like losing a job as well as the feeling of precarity &mdash; and the burdens required of you to avoid it &mdash; and what are the burdens you have had to take on to try to stave off precarity?
+- "How do we articulate negation in a culture from which negativity itself has been banished?"
+- What's the effect of having to exist in a state of constant readiness?
+- What's the effect of precarity, the constant fear, anguish, and feelings of sudden existential vulnerability?
+- When and where do you notice these impositions and their impacts most, particularly at Pace?
+- What's the effect of being expected to hide those feelings? What's the effect of taken-for-granted stress and concrete dangers like losing a job as well as the feeling of precarity &mdash; and the burdens required of you to avoid it &mdash; and what are the burdens you have had to take on to try to stave off precarity?
 
 Southwood asks: "What are we not thinking about during all those hours of jobseeking, networking, and CV-building? What interests, worries, and fantasies might we otherwise have? What kind of dangerous spaces might open up, in what kind of jeopardy might we put ourselves and this dynamic system if we resigned from our jobs as jobseekers?"
 
-## 8.2 Sync Text Chat
+## 8.2 Async Text Chat
 
-Welcome back, comrades!
+Welcome back, comrades! As noted in class, my second procedure is scheduled for today, so today we'll have an async text chat where you'll share lines and passages that resonated with you, confused you, or that you'd otherwise like to engage with more deeply. 
 
-Today's class is a sync text chat in which we'll share lines and passages that resonated with you, confused you, or that you'd otherwise like to engage with more deeply. 
+Then, in #🙋classroom, you'll close-read *two* of the the lines and passages I've listed below, then use *one* of those close-readings to anchor an idea or reflection you shared or had in or after our voice chat on Tuesday. 
 
 **Close-Reading Southwood**:
 
