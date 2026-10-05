@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Reclaim Failure: Failure as Success
 
-## 6.1 Async Text Chat
+## 6.1 & 6.2 Async Text Chat
 
 Welcome back, comrades!
 
