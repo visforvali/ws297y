@@ -8,13 +8,14 @@ title: Week 9 - Reclaim Rest
 📖 Read Haytham El Wardany, [*The Book of Sleep* excerpts](/ws297y/assets/pdfs/el_wardany_book_of_sleep_2020.pdf){:target="_blank"}    
 
 Oct 27
-: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom
+
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_9){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Rest as resistance
   : &nbsp;
 
 Oct 29
-: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
   : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 6](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-6-sleepers-and-dreamers){:target="_blank"} in #🙋classroom
 : **Praxis**{: .label .label-green-custom } What dreams may come
   : &nbsp;
