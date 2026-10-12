@@ -57,7 +57,7 @@ Do you, or did you ever, dream of work and non-stop productivity? From our readi
 
 ## Affective Atlas Entry 5: Differential Unwellness
 
-Mimi Khuc argues that we are all differentially unwell and that academia in particular is a site of compulsory unwellness. Expanding on your answers from our class activities this week, what has Pace promised you while making you unwell? How can we better collectively and practically recognize and resist the imposition and internalization of academic unwellness as it transpires at Pace? Or in her words, "How might you ask the university to be accountable to the kind of mental health you want? What structures would foster this kind of mental health, and what would it take to build them?" (p. 46)
+Mimi Khuc argues that we are all differentially unwell and that academia in particular is a site of compulsory unwellness. Expanding on your answers from our class activities this week, what has Pace promised you while making you unwell? How can we better collectively and practically recognize and resist the imposition and internalization of academic unwellness as it transpires at Pace? Or in her words, "How might you ask the university to be accountable to the kind of mental health you want? What structures would foster this kind of mental health, and what would it take to build them?" (p. 46) How did your experience of working with the Asian American tarot deck this week influence your approaches or answers to these questions?
 
 ## Affective Atlas Entry 6: Sleepers and Dreamers
 

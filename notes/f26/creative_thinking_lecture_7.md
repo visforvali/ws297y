@@ -84,4 +84,4 @@ I'd first reflect on what The Ancestor card might be telling me about my mind, w
 
 Record all your interpretations in your journal and save them for your final Affective Atlas project!
 
-Post *one* of your tarot readings &mdash; the one that felt most illuminating to you or that resonated with you most &mdash; and your responses to today's discussion questions to #🙋classroom by midnight on Sunday at the latest (though for time management purposes, I do recommend that you try to get it done by midnight on Thursday).
+Post *one* of your tarot readings &mdash; the one that felt most illuminating to you or that resonated with you most &mdash; and your responses to today's discussion questions to #🙋classroom by midnight on Sunday at the latest, along with your Affective Atlas entry for the week.
