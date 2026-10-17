@@ -14,6 +14,6 @@ Oct 20
   : &nbsp;
 
 Oct 22
-: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom  
+: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom  
 : **Praxis**{: .label .label-green-custom } Labors of passion
   : &nbsp;

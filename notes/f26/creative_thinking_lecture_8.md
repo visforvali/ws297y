@@ -40,11 +40,9 @@ CV-grooming becomes a consequence of this, and a manicured autobiography becomes
 
 Southwood asks: "What are we not thinking about during all those hours of jobseeking, networking, and CV-building? What interests, worries, and fantasies might we otherwise have? What kind of dangerous spaces might open up, in what kind of jeopardy might we put ourselves and this dynamic system if we resigned from our jobs as jobseekers?"
 
-## 8.2 Async Text Chat
+## 8.2 Sync Text Chat
 
-Welcome back, comrades! As noted in class, my second procedure is scheduled for today, so today we'll have an async text chat where you'll share lines and passages that resonated with you, confused you, or that you'd otherwise like to engage with more deeply. 
-
-Then, in #🙋classroom, you'll close-read *two* of the the lines and passages I've listed below, then use *one* of those close-readings to anchor an idea or reflection you shared or had in or after our voice chat on Tuesday. 
+Welcome back, comrades! Today we'll have a sync text chat where you'll share lines and passages that resonated with you, confused you, or that you'd otherwise like to engage with more deeply. In #🙋classroom, we'll close-read some of the lines and passages I've listed below, after which you'll use one of those close-readings to anchor an idea or reflection you shared or had in or after our voice chat on Tuesday. 
 
 **Close-Reading Southwood**:
 
