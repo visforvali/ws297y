@@ -8,13 +8,13 @@ title: Week 11 - Reclaim Refusal
 📖 Read Sara Ahmed, [*No!* excerpts](/ws297y/assets/pdfs/ahmed_no_2026.pdf){:target="_blank"}   
 
 Nov 10
-: **Voice Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+: **Sync Text Chat**{: .label .label-purple-custom} #🙋classroom
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_11){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Refusal as resistance
   : &nbsp;
 
 Nov 12
-: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+: **Voice Chat**{: .label .label-blue-custom} 🔊🪑Sync Sessions
   : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 8](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-8-just-say-no){:target="_blank"} in #🙋classroom
 : **Praxis**{: .label .label-green-custom } Guided peer workshops in #team
   : &nbsp;
