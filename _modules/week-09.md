@@ -15,7 +15,7 @@ Oct 27
   : &nbsp;
 
 Oct 29
-: **Async Text Chat**{: .label .label-purple-custom}  #🙋classroom
+: **Sync Text Chat**{: .label .label-purple-custom}  #🙋classroom
   : **By 5pm**{: .label .label-red-custom} [Affective Atlas Entry 6](https://visforvali.github.io/ws297y/prompts/#affective-atlas-entry-6-sleepers-and-dreamers){:target="_blank"} in #🙋classroom
 : **Praxis**{: .label .label-green-custom } What dreams may come
   : &nbsp;

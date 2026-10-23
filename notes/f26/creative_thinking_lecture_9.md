@@ -36,13 +36,13 @@ To take another one of El Wardany's questions: "What if sleep and wakefulness we
 
 What happens when we reframe sleep not as a sort of temporary death but as action and agency?
 
-## 9.2 Aync Text Chat
+## 9.2 Sync Text Chat
 
 Welcome back, comrades!
 
-Because of my procedure last week, today's class is a async text chat, in which we'll continue to reclaim sleep, rest, and resistance through close-reading and anchoring our interpretations in specific lines.
+Today's class is a sync text chat, in which we'll continue to reclaim sleep, rest, and resistance through close-reading and anchoring our interpretations in specific lines.
 
-Similar to last week, in #🙋classroom, you'll close-read *three* of the the lines and passages I've listed below, then use *one* of those close-readings to anchor an idea or reflection you had while reading El Wardany's piece on your own. We'll engage with these close-readings in our voice chat on Thursday.
+We'll close-read *three* of the the lines and passages I've listed below, then use *one* of those close-readings to anchor an idea or reflection you had while reading El Wardany's piece on your own. We'll engage with these close-readings in our voice chat on Thursday.
 
 **Close-Reading El Wardany**:
 
