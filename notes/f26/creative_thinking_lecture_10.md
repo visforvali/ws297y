@@ -26,7 +26,7 @@ There are lots of ways to create a taxonomy, so it's maybe notable that Perec's 
 
 The textual wandering Perec does here is like an intentional enactment of thinking about space, itself made spatial through writing about space. These are not isolated but relational definitions constructed through experience, provenance, memories. Thus, these are Perec's particular spaces based on the particulars of his life. Spaces and how we inhabit and move through them, and what we move into and around them, is what it is to live.
 
-What does it mean, to inhabit it the space of the page? To lie in a bed?
+What does it mean, to inhabit the space of the page? To lie in a bed?
 
 When you write on the page, can you say you're changing space? Or what?
 
