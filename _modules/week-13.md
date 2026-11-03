@@ -8,7 +8,7 @@ title: Week 13 - Reclaim Survival
 📖 Read Sara Ahmed, ["Feminist Killjoy Survival Kit"](/ws297y/assets/pdfs/ahmed_killjoy_survival_kit_2017.pdf){:target="_blank"}   
 
 Nov 24
-: **Async Text Chat**{: .label .label-purple-custom} 🔊🪑Sync Sessions
+: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_13){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Building survival kits
   : &nbsp;
