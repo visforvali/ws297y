@@ -8,7 +8,7 @@ title: Week 11 - Reclaim Refusal
 📖 Read Sara Ahmed, [*No!* excerpts](/ws297y/assets/pdfs/ahmed_no_2026.pdf){:target="_blank"}   
 
 Nov 10
-: **Sync Text Chat**{: .label .label-blue-custom} #🙋classroom
+: **Async Text Chat**{: .label .label-blue-custom} #🙋classroom
   : [notes](/ws297y/notes/f26/creative_thinking_lecture_11){:target="_blank"}
 : **Praxis**{: .label .label-green-custom } Complaint biographies
   : &nbsp;
