@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Reclaim Survival: Surviving and Thriving
 
-## 13.1 Voice Chat
+## 13.1 Async Text Chat
 
 Welcome back, comrades!
 
